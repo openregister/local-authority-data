@@ -1,0 +1,442 @@
+Local_Authority_Name	OpenDataCommunitiesURI	ONS_Code	DCLGbillingAuthorityCode	LA_Type_Label	Authority_Type
+Adur	http://opendatacommunities.org/id/district-council/adur	E07000223	E3831	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Allerdale	http://opendatacommunities.org/id/district-council/allerdale	E07000026	E0931	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Amber Valley	http://opendatacommunities.org/id/district-council/amber-valley	E07000032	E1031	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Arun	http://opendatacommunities.org/id/district-council/arun	E07000224	E3832	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Ashfield	http://opendatacommunities.org/id/district-council/ashfield	E07000170	E3031	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Ashford	http://opendatacommunities.org/id/district-council/ashford	E07000105	E2231	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Avon & Somerset Police Authority	http://opendatacommunities.org/id/police-authority/avon-somerset			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Avon Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/avon			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Aylesbury Vale	http://opendatacommunities.org/id/district-council/aylesbury-vale	E07000004	E0431	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Babergh	http://opendatacommunities.org/id/district-council/babergh	E07000200	E3531	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Barking and Dagenham	http://opendatacommunities.org/id/london-borough-council/barking-and-dagenham	E09000002	E5030	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Barnet	http://opendatacommunities.org/id/london-borough-council/barnet	E09000003	E5031	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Barnsley	http://opendatacommunities.org/id/metropolitan-district-council/barnsley	E08000016	E4401	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Barrow-in-Furness	http://opendatacommunities.org/id/district-council/barrow-in-furness	E07000027	E0932	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Basildon	http://opendatacommunities.org/id/district-council/basildon	E07000066	E1531	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Basingstoke and Deane	http://opendatacommunities.org/id/district-council/basingstoke	E07000084	E1731	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Bassetlaw	http://opendatacommunities.org/id/district-council/bassetlaw	E07000171	E3032	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Bath and North East Somerset	http://opendatacommunities.org/id/unitary-authority/bath-and-north-east-somerset	E06000022	E0101	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Bedford	http://opendatacommunities.org/id/unitary-authority/bedford	E06000055	E0202	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Bedfordshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/bedfordshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Bedfordshire Police Authority	http://opendatacommunities.org/id/police-authority/bedfordshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Berkshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/berkshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Bexley	http://opendatacommunities.org/id/london-borough-council/bexley	E09000004	E5032	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Birmingham	http://opendatacommunities.org/id/metropolitan-district-council/birmingham	E08000025	E4601	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Blaby	http://opendatacommunities.org/id/district-council/blaby	E07000129	E2431	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Blackburn with Darwen	http://opendatacommunities.org/id/unitary-authority/blackburn	E06000008	E2301	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Blackpool	http://opendatacommunities.org/id/unitary-authority/blackpool	E06000009	E2302	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Bolsover	http://opendatacommunities.org/id/district-council/bolsover	E07000033	E1032	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Bolton	http://opendatacommunities.org/id/metropolitan-district-council/bolton	E08000001	E4201	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Boston	http://opendatacommunities.org/id/district-council/boston	E07000136	E2531	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Bournemouth	http://opendatacommunities.org/id/unitary-authority/bournemouth	E06000028	E1202	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Bracknell Forest	http://opendatacommunities.org/id/unitary-authority/bracknell-forest	E06000036	E0301	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Bradford	http://opendatacommunities.org/id/metropolitan-district-council/bradford	E08000032	E4701	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Braintree	http://opendatacommunities.org/id/district-council/braintree	E07000067	E1532	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Breckland	http://opendatacommunities.org/id/district-council/breckland	E07000143	E2631	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Brent	http://opendatacommunities.org/id/london-borough-council/brent	E09000005	E5033	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Brentwood	http://opendatacommunities.org/id/district-council/brentwood	E07000068	E1533	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Brighton and Hove	http://opendatacommunities.org/id/unitary-authority/brighton-and-hove	E06000043	E1401	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Bristol, City of	http://opendatacommunities.org/id/unitary-authority/bristol	E06000023	E0102	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Broadland	http://opendatacommunities.org/id/district-council/broadland	E07000144	E2632	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Bromley	http://opendatacommunities.org/id/london-borough-council/bromley	E09000006	E5034	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Bromsgrove	http://opendatacommunities.org/id/district-council/bromsgrove	E07000234	E1831	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Broxbourne	http://opendatacommunities.org/id/district-council/broxbourne	E07000095	E1931	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Broxtowe	http://opendatacommunities.org/id/district-council/broxtowe	E07000172	E3033	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Buckinghamshire	http://opendatacommunities.org/id/county-council/buckinghamshire	E10000002	E0421	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Buckinghamshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/buckinghamshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Burnley	http://opendatacommunities.org/id/district-council/burnley	E07000117	E2333	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Bury	http://opendatacommunities.org/id/metropolitan-district-council/bury	E08000002	E4202	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Calderdale	http://opendatacommunities.org/id/metropolitan-district-council/calderdale	E08000033	E4702	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Cambridge	http://opendatacommunities.org/id/district-council/cambridge	E07000008	E0531	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Cambridgeshire	http://opendatacommunities.org/id/county-council/cambridgeshire	E10000003	E0521	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Cambridgeshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/cambridgeshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Cambridgeshire Police Authority	http://opendatacommunities.org/id/police-authority/cambridgeshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Camden	http://opendatacommunities.org/id/london-borough-council/camden	E09000007	E5011	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Cannock Chase	http://opendatacommunities.org/id/district-council/cannock-chase	E07000192	E3431	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Canterbury	http://opendatacommunities.org/id/district-council/canterbury	E07000106	E2232	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Carlisle	http://opendatacommunities.org/id/district-council/carlisle	E07000028	E0933	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Castle Point	http://opendatacommunities.org/id/district-council/castle-point	E07000069	E1534	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Central Bedfordshire	http://opendatacommunities.org/id/unitary-authority/central-bedfordshire	E06000056	E0203	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Charnwood	http://opendatacommunities.org/id/district-council/charnwood	E07000130	E2432	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Chelmsford	http://opendatacommunities.org/id/district-council/chelmsford	E07000070	E1535	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Cheltenham	http://opendatacommunities.org/id/district-council/cheltenham	E07000078	E1631	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Cherwell	http://opendatacommunities.org/id/district-council/cherwell	E07000177	E3131	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Cheshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/cheshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Cheshire East	http://opendatacommunities.org/id/unitary-authority/cheshire-east	E06000049	E0603	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Cheshire Police Authority	http://opendatacommunities.org/id/police-authority/cheshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Cheshire West and Chester	http://opendatacommunities.org/id/unitary-authority/cheshire-west-and-chester	E06000050	E0604	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Chesterfield	http://opendatacommunities.org/id/district-council/chesterfield	E07000034	E1033	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Chichester	http://opendatacommunities.org/id/district-council/chichester	E07000225	E3833	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Chiltern	http://opendatacommunities.org/id/district-council/chiltern	E07000005	E0432	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Chorley	http://opendatacommunities.org/id/district-council/chorley	E07000118	E2334	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Christchurch	http://opendatacommunities.org/id/district-council/christchurch	E07000048	E1232	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+City of London	http://opendatacommunities.org/id/london-borough-council/city-of-london	E09000001	E5010	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Cleveland Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/cleveland			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Cleveland Police Authority	http://opendatacommunities.org/id/police-authority/cleveland			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Colchester	http://opendatacommunities.org/id/district-council/colchester	E07000071	E1536	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Copeland	http://opendatacommunities.org/id/district-council/copeland	E07000029	E0934	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Corby	http://opendatacommunities.org/id/district-council/corby	E07000150	E2831	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Cornwall	http://opendatacommunities.org/id/unitary-authority/cornwall	E06000052	E0801	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Cotswold	http://opendatacommunities.org/id/district-council/cotswold	E07000079	E1632	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+County Durham	http://opendatacommunities.org/id/unitary-authority/county-durham	E06000047	E1302	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Coventry	http://opendatacommunities.org/id/metropolitan-district-council/coventry	E08000026	E4602	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Craven	http://opendatacommunities.org/id/district-council/craven	E07000163	E2731	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Crawley	http://opendatacommunities.org/id/district-council/crawley	E07000226	E3834	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Croydon	http://opendatacommunities.org/id/london-borough-council/croydon	E09000008	E5035	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Cumbria	http://opendatacommunities.org/id/county-council/cumbria	E10000006	E0920	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Cumbria Police Authority	http://opendatacommunities.org/id/police-authority/cumbria			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Dacorum	http://opendatacommunities.org/id/district-council/dacorum	E07000096	E1932	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Darlington	http://opendatacommunities.org/id/unitary-authority/darlington	E06000005	E1301	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Dartford	http://opendatacommunities.org/id/district-council/dartford	E07000107	E2233	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Dartmoor National Park Authority	http://opendatacommunities.org/id/national-park-authority/dartmoor			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Daventry	http://opendatacommunities.org/id/district-council/daventry	E07000151	E2832	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Derby	http://opendatacommunities.org/id/unitary-authority/derby	E06000015	E1001	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Derbyshire	http://opendatacommunities.org/id/county-council/derbyshire	E10000007	E1021	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Derbyshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/derbyshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Derbyshire Dales	http://opendatacommunities.org/id/district-council/derbyshire-dales	E07000035	E1035	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Derbyshire Police Authority	http://opendatacommunities.org/id/police-authority/derbyshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Devon	http://opendatacommunities.org/id/county-council/devon	E10000008	E1121	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Devon & Cornwall Police Authority	http://opendatacommunities.org/id/police-authority/devon-cornwall			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Devon and Somerset Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/devon-and-somerset			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Doncaster	http://opendatacommunities.org/id/metropolitan-district-council/doncaster	E08000017	E4402	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Dorset	http://opendatacommunities.org/id/county-council/dorset	E10000009	E1221	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Dorset Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/dorset			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Dorset Police Authority	http://opendatacommunities.org/id/police-authority/dorset			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Dover	http://opendatacommunities.org/id/district-council/dover	E07000108	E2234	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Dudley	http://opendatacommunities.org/id/metropolitan-district-council/dudley	E08000027	E4603	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Durham Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/durham			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Durham Police Authority	http://opendatacommunities.org/id/police-authority/durham			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Ealing	http://opendatacommunities.org/id/london-borough-council/ealing	E09000009	E5036	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+East Cambridgeshire	http://opendatacommunities.org/id/district-council/east-cambridgeshire	E07000009	E0532	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Devon	http://opendatacommunities.org/id/district-council/east-devon	E07000040	E1131	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Dorset	http://opendatacommunities.org/id/district-council/east-dorset	E07000049	E1233	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Hampshire	http://opendatacommunities.org/id/district-council/east-hampshire	E07000085	E1732	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Hertfordshire	http://opendatacommunities.org/id/district-council/east-hertfordshire	E07000242	E1933	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Lindsey	http://opendatacommunities.org/id/district-council/east-lindsey	E07000137	E2532	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East London Waste Authority	http://opendatacommunities.org/id/waste-authority/east-london			Waste Authority	http://opendatacommunities.org/def/local-government/WasteAuthority
+East Northamptonshire	http://opendatacommunities.org/id/district-council/east-northamptonshire	E07000152	E2833	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Riding of Yorkshire	http://opendatacommunities.org/id/unitary-authority/east-riding	E06000011	E2001	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+East Staffordshire	http://opendatacommunities.org/id/district-council/east-staffordshire	E07000193	E3432	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+East Sussex	http://opendatacommunities.org/id/county-council/east-sussex	E10000011	E1421	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+East Sussex Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/east-sussex			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Eastbourne	http://opendatacommunities.org/id/district-council/eastbourne	E07000061	E1432	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Eastleigh	http://opendatacommunities.org/id/district-council/eastleigh	E07000086	E1733	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Eden	http://opendatacommunities.org/id/district-council/eden	E07000030	E0935	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Elmbridge	http://opendatacommunities.org/id/district-council/elmbridge	E07000207	E3631	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Enfield	http://opendatacommunities.org/id/london-borough-council/enfield	E09000010	E5037	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Epping Forest	http://opendatacommunities.org/id/district-council/epping-forest	E07000072	E1537	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Epsom and Ewell	http://opendatacommunities.org/id/district-council/epsom-and-ewell	E07000208	E3632	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Erewash	http://opendatacommunities.org/id/district-council/erewash	E07000036	E1036	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Essex	http://opendatacommunities.org/id/county-council/essex	E10000012	E1521	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Essex Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/essex			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Essex Police Authority (new)	http://opendatacommunities.org/id/police-authority/essex			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Exeter	http://opendatacommunities.org/id/district-council/exeter	E07000041	E1132	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Exmoor National Park Authority	http://opendatacommunities.org/id/national-park-authority/exmoor			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Fareham	http://opendatacommunities.org/id/district-council/fareham	E07000087	E1734	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Fenland	http://opendatacommunities.org/id/district-council/fenland	E07000010	E0533	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Forest Heath	http://opendatacommunities.org/id/district-council/forest-heath	E07000201	E3532	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Forest of Dean	http://opendatacommunities.org/id/district-council/forest-of-dean	E07000080	E1633	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Fylde	http://opendatacommunities.org/id/district-council/fylde	E07000119	E2335	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Gateshead	http://opendatacommunities.org/id/metropolitan-district-council/gateshead	E08000037	E4501	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Gedling	http://opendatacommunities.org/id/district-council/gedling	E07000173	E3034	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Gloucester	http://opendatacommunities.org/id/district-council/gloucester	E07000081	E1634	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Gloucestershire	http://opendatacommunities.org/id/county-council/gloucestershire	E10000013	E1620	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Gloucestershire Police Authority	http://opendatacommunities.org/id/police-authority/gloucestershire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Gosport	http://opendatacommunities.org/id/district-council/gosport	E07000088	E1735	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Gravesham	http://opendatacommunities.org/id/district-council/gravesham	E07000109	E2236	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Great Yarmouth	http://opendatacommunities.org/id/district-council/great-yarmouth	E07000145	E2633	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Greater Manchester Fire & CD Authority	http://opendatacommunities.org/id/fire-authority/greater-manchester			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Greater Manchester Police Authority	http://opendatacommunities.org/id/police-authority/greater-manchester			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Greater Manchester Waste Disposal Authority	http://opendatacommunities.org/id/waste-authority/greater-manchester			Waste Authority	http://opendatacommunities.org/def/local-government/WasteAuthority
+Greenwich	http://opendatacommunities.org/id/london-borough-council/greenwich	E09000011	E5012	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Guildford	http://opendatacommunities.org/id/district-council/guildford	E07000209	E3633	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Hackney	http://opendatacommunities.org/id/london-borough-council/hackney	E09000012	E5013	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Halton	http://opendatacommunities.org/id/unitary-authority/halton	E06000006	E0601	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Hambleton	http://opendatacommunities.org/id/district-council/hambleton	E07000164	E2732	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Hammersmith and Fulham	http://opendatacommunities.org/id/london-borough-council/hammersmith-and-fulham	E09000013	E5014	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Hampshire	http://opendatacommunities.org/id/county-council/hampshire	E10000014	E1721	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Hampshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/hampshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Hampshire Police Authority	http://opendatacommunities.org/id/police-authority/hampshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Harborough	http://opendatacommunities.org/id/district-council/harborough	E07000131	E2433	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Haringey	http://opendatacommunities.org/id/london-borough-council/haringey	E09000014	E5038	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Harlow	http://opendatacommunities.org/id/district-council/harlow	E07000073	E1538	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Harrogate	http://opendatacommunities.org/id/district-council/harrogate	E07000165	E2753	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Harrow	http://opendatacommunities.org/id/london-borough-council/harrow	E09000015	E5039	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Hart	http://opendatacommunities.org/id/district-council/hart	E07000089	E1736	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Hartlepool	http://opendatacommunities.org/id/unitary-authority/hartlepool	E06000001	E0701	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Hastings	http://opendatacommunities.org/id/district-council/hastings	E07000062	E1433	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Havant	http://opendatacommunities.org/id/district-council/havant	E07000090	E1737	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Havering	http://opendatacommunities.org/id/london-borough-council/havering	E09000016	E5040	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Hereford & Worcester Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/hereford-worcester			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Herefordshire, County of	http://opendatacommunities.org/id/unitary-authority/herefordshire	E06000019	E1801	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Hertfordshire	http://opendatacommunities.org/id/county-council/hertfordshire	E10000015	E1920	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Hertfordshire Police Authority (new)	http://opendatacommunities.org/id/police-authority/hertfordshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Hertsmere	http://opendatacommunities.org/id/district-council/hertsmere	E07000098	E1934	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+High Peak	http://opendatacommunities.org/id/district-council/high-peak	E07000037	E1037	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Hillingdon	http://opendatacommunities.org/id/london-borough-council/hillingdon	E09000017	E5041	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Hinckley and Bosworth	http://opendatacommunities.org/id/district-council/hinckley-and-bosworth	E07000132	E2434	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Horsham	http://opendatacommunities.org/id/district-council/horsham	E07000227	E3835	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Hounslow	http://opendatacommunities.org/id/london-borough-council/hounslow	E09000018	E5042	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Humberside Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/humberside			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Humberside Police Authority	http://opendatacommunities.org/id/police-authority/humberside			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Huntingdonshire	http://opendatacommunities.org/id/district-council/huntingdonshire	E07000011	E0551	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Hyndburn	http://opendatacommunities.org/id/district-council/hyndburn	E07000120	E2336	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Ipswich	http://opendatacommunities.org/id/district-council/ipswich	E07000202	E3533	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Isle of Wight	http://opendatacommunities.org/id/unitary-authority/isle-of-wight	E06000046	E2101	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Isles of Scilly	http://opendatacommunities.org/id/unitary-authority/scilly	E06000053	E4001	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Islington	http://opendatacommunities.org/id/london-borough-council/islington	E09000019	E5015	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Kensington and Chelsea	http://opendatacommunities.org/id/london-borough-council/kensington-and-chelsea	E09000020	E5016	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Kent	http://opendatacommunities.org/id/county-council/kent	E10000016	E2221	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Kent Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/kent			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Kent Police Authority	http://opendatacommunities.org/id/police-authority/kent			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Kettering	http://opendatacommunities.org/id/district-council/kettering	E07000153	E2834	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+King's Lynn and West Norfolk	http://opendatacommunities.org/id/district-council/west-norfolk	E07000146	E2634	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Kingston upon Hull, City of	http://opendatacommunities.org/id/unitary-authority/hull	E06000010	E2002	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Kingston upon Thames	http://opendatacommunities.org/id/london-borough-council/kingston	E09000021	E5043	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Kirklees	http://opendatacommunities.org/id/metropolitan-district-council/kirklees	E08000034	E4703	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Knowsley	http://opendatacommunities.org/id/metropolitan-district-council/knowsley	E08000011	E4301	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Lake District National Park Authority	http://opendatacommunities.org/id/national-park-authority/lake-district			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Lambeth	http://opendatacommunities.org/id/london-borough-council/lambeth	E09000022	E5017	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Lancashire	http://opendatacommunities.org/id/county-council/lancashire	E10000017	E2321	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Lancashire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/lancashire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Lancashire Police Authority	http://opendatacommunities.org/id/police-authority/lancashire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Lancaster	http://opendatacommunities.org/id/district-council/lancaster	E07000121	E2337	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Leeds	http://opendatacommunities.org/id/metropolitan-district-council/leeds	E08000035	E4704	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Leicester	http://opendatacommunities.org/id/unitary-authority/leicester	E06000016	E2401	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Leicestershire	http://opendatacommunities.org/id/county-council/leicestershire	E10000018	E2421	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Leicestershire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/leicestershire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Leicestershire Police Authority	http://opendatacommunities.org/id/police-authority/leicestershire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Lewes	http://opendatacommunities.org/id/district-council/lewes	E07000063	E1435	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Lewisham	http://opendatacommunities.org/id/london-borough-council/lewisham	E09000023	E5018	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Lichfield	http://opendatacommunities.org/id/district-council/lichfield	E07000194	E3433	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Lincoln	http://opendatacommunities.org/id/district-council/lincoln	E07000138	E2533	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Lincolnshire	http://opendatacommunities.org/id/county-council/lincolnshire	E10000019	E2520	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Lincolnshire Police Authority	http://opendatacommunities.org/id/police-authority/lincolnshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Liverpool	http://opendatacommunities.org/id/metropolitan-district-council/liverpool	E08000012	E4302	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Luton	http://opendatacommunities.org/id/unitary-authority/luton	E06000032	E0201	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Maidstone	http://opendatacommunities.org/id/district-council/maidstone	E07000110	E2237	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Maldon	http://opendatacommunities.org/id/district-council/maldon	E07000074	E1539	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Malvern Hills	http://opendatacommunities.org/id/district-council/malvern-hills	E07000235	E1851	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Manchester	http://opendatacommunities.org/id/metropolitan-district-council/manchester	E08000003	E4203	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Mansfield	http://opendatacommunities.org/id/district-council/mansfield	E07000174	E3035	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Medway	http://opendatacommunities.org/id/unitary-authority/medway	E06000035	E2201	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Melton	http://opendatacommunities.org/id/district-council/melton	E07000133	E2436	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Mendip	http://opendatacommunities.org/id/district-council/mendip	E07000187	E3331	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Merseyside Fire & CD Authority	http://opendatacommunities.org/id/fire-authority/merseyside			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Merseyside Integrated Transport Authority	http://opendatacommunities.org/id/transport-authority/merseyside			Transport Authority	http://opendatacommunities.org/def/local-government/TransportAuthority
+Merseyside Police Authority	http://opendatacommunities.org/id/police-authority/merseyside			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Merseyside Waste Disposal Authority	http://opendatacommunities.org/id/waste-authority/merseyside			Waste Authority	http://opendatacommunities.org/def/local-government/WasteAuthority
+Merton	http://opendatacommunities.org/id/london-borough-council/merton	E09000024	E5044	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Mid Devon	http://opendatacommunities.org/id/district-council/mid-devon	E07000042	E1133	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Mid Suffolk	http://opendatacommunities.org/id/district-council/mid-suffolk	E07000203	E3534	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Mid Sussex	http://opendatacommunities.org/id/district-council/mid-sussex	E07000228	E3836	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Middlesbrough	http://opendatacommunities.org/id/unitary-authority/middlesbrough	E06000002	E0702	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Milton Keynes	http://opendatacommunities.org/id/unitary-authority/milton-keynes	E06000042	E0401	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Mole Valley	http://opendatacommunities.org/id/district-council/mole-valley	E07000210	E3634	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+New Forest	http://opendatacommunities.org/id/district-council/new-forest	E07000091	E1738	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+New Forest National Park Authority	http://opendatacommunities.org/id/national-park-authority/new-forest			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Newark and Sherwood	http://opendatacommunities.org/id/district-council/newark-and-sherwood	E07000175	E3036	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Newcastle upon Tyne	http://opendatacommunities.org/id/metropolitan-district-council/newcastle	E08000021	E4502	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Newcastle-under-Lyme	http://opendatacommunities.org/id/district-council/newcastle-staffs	E07000195	E3434	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Newham	http://opendatacommunities.org/id/london-borough-council/newham	E09000025	E5045	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Norfolk	http://opendatacommunities.org/id/county-council/norfolk	E10000020	E2620	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Norfolk Police Authority	http://opendatacommunities.org/id/police-authority/norfolk			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+North Devon	http://opendatacommunities.org/id/district-council/north-devon	E07000043	E1134	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North Dorset	http://opendatacommunities.org/id/district-council/north-dorset	E07000050	E1234	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North East Derbyshire	http://opendatacommunities.org/id/district-council/north-east-derbyshire	E07000038	E1038	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North East Lincolnshire	http://opendatacommunities.org/id/unitary-authority/north-east-lincolnshire	E06000012	E2003	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+North Hertfordshire	http://opendatacommunities.org/id/district-council/north-hertfordshire	E07000099	E1935	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North Kesteven	http://opendatacommunities.org/id/district-council/north-kesteven	E07000139	E2534	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North Lincolnshire	http://opendatacommunities.org/id/unitary-authority/north-lincolnshire	E06000013	E2004	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+North London Waste Authority	http://opendatacommunities.org/id/waste-authority/north-london			Waste Authority	http://opendatacommunities.org/def/local-government/WasteAuthority
+North Norfolk	http://opendatacommunities.org/id/district-council/north-norfolk	E07000147	E2635	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North Somerset	http://opendatacommunities.org/id/unitary-authority/north-somerset	E06000024	E0104	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+North Tyneside	http://opendatacommunities.org/id/metropolitan-district-council/north-tyneside	E08000022	E4503	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+North Warwickshire	http://opendatacommunities.org/id/district-council/north-warwickshire	E07000218	E3731	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North West Leicestershire	http://opendatacommunities.org/id/district-council/north-west-leicestershire	E07000134	E2437	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+North York Moors National Park Authority	http://opendatacommunities.org/id/national-park-authority/north-york-moors			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+North Yorkshire	http://opendatacommunities.org/id/county-council/north-yorkshire	E10000023	E2721	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+North Yorkshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/north-yorkshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+North Yorkshire Police Authority	http://opendatacommunities.org/id/police-authority/north-yorkshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Northampton	http://opendatacommunities.org/id/district-council/northampton	E07000154	E2835	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Northamptonshire	http://opendatacommunities.org/id/county-council/northamptonshire	E10000021	E2820	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Northamptonshire Police Authority	http://opendatacommunities.org/id/police-authority/northamptonshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Northumberland	http://opendatacommunities.org/id/unitary-authority/northumberland	E06000057	E2901	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Northumberland National Park Authority	http://opendatacommunities.org/id/national-park-authority/northumberland			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Northumbria Police Authority	http://opendatacommunities.org/id/police-authority/northumbria			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Norwich	http://opendatacommunities.org/id/district-council/norwich	E07000148	E2636	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Nottingham	http://opendatacommunities.org/id/unitary-authority/nottingham	E06000018	E3001	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Nottinghamshire	http://opendatacommunities.org/id/county-council/nottinghamshire	E10000024	E3021	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Nottinghamshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/nottinghamshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Nottinghamshire Police Authority	http://opendatacommunities.org/id/police-authority/nottinghamshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Nuneaton and Bedworth	http://opendatacommunities.org/id/district-council/nuneaton-and-bedworth	E07000219	E3732	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Oadby and Wigston	http://opendatacommunities.org/id/district-council/oadby-and-wigston	E07000135	E2438	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Oldham	http://opendatacommunities.org/id/metropolitan-district-council/oldham	E08000004	E4204	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Oxford	http://opendatacommunities.org/id/district-council/oxford	E07000178	E3132	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Oxfordshire	http://opendatacommunities.org/id/county-council/oxfordshire	E10000025	E3120	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Peak District National Park Authority	http://opendatacommunities.org/id/national-park-authority/peak-district			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Pendle	http://opendatacommunities.org/id/district-council/pendle	E07000122	E2338	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Peterborough	http://opendatacommunities.org/id/unitary-authority/peterborough	E06000031	E0501	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Plymouth	http://opendatacommunities.org/id/unitary-authority/plymouth	E06000026	E1101	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Poole	http://opendatacommunities.org/id/unitary-authority/poole	E06000029	E1201	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Portsmouth	http://opendatacommunities.org/id/unitary-authority/portsmouth	E06000044	E1701	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Preston	http://opendatacommunities.org/id/district-council/preston	E07000123	E2339	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Purbeck	http://opendatacommunities.org/id/district-council/purbeck	E07000051	E1236	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Reading	http://opendatacommunities.org/id/unitary-authority/reading	E06000038	E0303	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Redbridge	http://opendatacommunities.org/id/london-borough-council/redbridge	E09000026	E5046	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Redcar and Cleveland	http://opendatacommunities.org/id/unitary-authority/redcar-and-cleveland	E06000003	E0703	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Redditch	http://opendatacommunities.org/id/district-council/redditch	E07000236	E1835	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Reigate and Banstead	http://opendatacommunities.org/id/district-council/reigate-banstead	E07000211	E3635	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Ribble Valley	http://opendatacommunities.org/id/district-council/ribble-valley	E07000124	E2340	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Richmond upon Thames	http://opendatacommunities.org/id/london-borough-council/richmond	E09000027	E5047	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Richmondshire	http://opendatacommunities.org/id/district-council/richmondshire	E07000166	E2734	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rochdale	http://opendatacommunities.org/id/metropolitan-district-council/rochdale	E08000005	E4205	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Rochford	http://opendatacommunities.org/id/district-council/rochford	E07000075	E1540	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rossendale	http://opendatacommunities.org/id/district-council/rossendale	E07000125	E2341	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rother	http://opendatacommunities.org/id/district-council/rother	E07000064	E1436	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rotherham	http://opendatacommunities.org/id/metropolitan-district-council/rotherham	E08000018	E4403	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Rugby	http://opendatacommunities.org/id/district-council/rugby	E07000220	E3733	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Runnymede	http://opendatacommunities.org/id/district-council/runnymede	E07000212	E3636	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rushcliffe	http://opendatacommunities.org/id/district-council/rushcliffe	E07000176	E3038	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rushmoor	http://opendatacommunities.org/id/district-council/rushmoor	E07000092	E1740	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Rutland	http://opendatacommunities.org/id/unitary-authority/rutland	E06000017	E2402	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Ryedale	http://opendatacommunities.org/id/district-council/ryedale	E07000167	E2755	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Salford	http://opendatacommunities.org/id/metropolitan-district-council/salford	E08000006	E4206	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Sandwell	http://opendatacommunities.org/id/metropolitan-district-council/sandwell	E08000028	E4604	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Scarborough	http://opendatacommunities.org/id/district-council/scarborough	E07000168	E2736	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Sedgemoor	http://opendatacommunities.org/id/district-council/sedgemoor	E07000188	E3332	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Sefton	http://opendatacommunities.org/id/metropolitan-district-council/sefton	E08000014	E4304	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Selby	http://opendatacommunities.org/id/district-council/selby	E07000169	E2757	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Sevenoaks	http://opendatacommunities.org/id/district-council/sevenoaks	E07000111	E2239	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Sheffield	http://opendatacommunities.org/id/metropolitan-district-council/sheffield	E08000019	E4404	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Shepway	http://opendatacommunities.org/id/district-council/shepway	E07000112	E2240	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Shropshire	http://opendatacommunities.org/id/unitary-authority/shropshire	E06000051	E3202	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Shropshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/shropshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Slough	http://opendatacommunities.org/id/unitary-authority/slough	E06000039	E0304	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Solihull	http://opendatacommunities.org/id/metropolitan-district-council/solihull	E08000029	E4605	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Somerset	http://opendatacommunities.org/id/county-council/somerset	E10000027	E3320	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+South Bucks	http://opendatacommunities.org/id/district-council/south-bucks	E07000006	E0434	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Cambridgeshire	http://opendatacommunities.org/id/district-council/south-cambridgeshire	E07000012	E0536	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Derbyshire	http://opendatacommunities.org/id/district-council/south-derbyshire	E07000039	E1039	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Downs National Park	http://opendatacommunities.org/id/national-park-authority/south-downs			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+South Gloucestershire	http://opendatacommunities.org/id/unitary-authority/south-gloucestershire	E06000025	E0103	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+South Hams	http://opendatacommunities.org/id/district-council/south-hams	E07000044	E1136	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Holland	http://opendatacommunities.org/id/district-council/south-holland	E07000140	E2535	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Kesteven	http://opendatacommunities.org/id/district-council/south-kesteven	E07000141	E2536	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Lakeland	http://opendatacommunities.org/id/district-council/south-lakeland	E07000031	E0936	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Norfolk	http://opendatacommunities.org/id/district-council/south-norfolk	E07000149	E2637	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Northamptonshire	http://opendatacommunities.org/id/district-council/south-northamptonshire	E07000155	E2836	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Oxfordshire	http://opendatacommunities.org/id/district-council/south-oxfordshire	E07000179	E3133	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Ribble	http://opendatacommunities.org/id/district-council/south-ribble	E07000126	E2342	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Somerset	http://opendatacommunities.org/id/district-council/south-somerset	E07000189	E3334	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Staffordshire	http://opendatacommunities.org/id/district-council/south-staffordshire	E07000196	E3435	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+South Tyneside	http://opendatacommunities.org/id/metropolitan-district-council/south-tyneside	E08000023	E4504	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+South Yorkshire Fire & CD Authority	http://opendatacommunities.org/id/fire-authority/south-yorkshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+South Yorkshire Integrated Transport Authority	http://opendatacommunities.org/id/transport-authority/south-yorkshire			Transport Authority	http://opendatacommunities.org/def/local-government/TransportAuthority
+South Yorkshire Police Authority	http://opendatacommunities.org/id/police-authority/south-yorkshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Southampton	http://opendatacommunities.org/id/unitary-authority/southampton	E06000045	E1702	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Southend-on-Sea	http://opendatacommunities.org/id/unitary-authority/southend	E06000033	E1501	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Southwark	http://opendatacommunities.org/id/london-borough-council/southwark	E09000028	E5019	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Spelthorne	http://opendatacommunities.org/id/district-council/spelthorne	E07000213	E3637	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+St Albans	http://opendatacommunities.org/id/district-council/st-albans	E07000240	E1936	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+St Edmundsbury	http://opendatacommunities.org/id/district-council/st-edmundsbury	E07000204	E3535	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+St. Helens	http://opendatacommunities.org/id/metropolitan-district-council/st-helens	E08000013	E4303	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Stafford	http://opendatacommunities.org/id/district-council/stafford	E07000197	E3436	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Staffordshire	http://opendatacommunities.org/id/county-council/staffordshire	E10000028	E3421	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Staffordshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/staffordshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Staffordshire Moorlands	http://opendatacommunities.org/id/district-council/staffordshire-moorlands	E07000198	E3437	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Staffordshire Police Authority	http://opendatacommunities.org/id/police-authority/staffordshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Stevenage	http://opendatacommunities.org/id/district-council/stevenage	E07000243	E1937	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Stockport	http://opendatacommunities.org/id/metropolitan-district-council/stockport	E08000007	E4207	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Stockton-on-Tees	http://opendatacommunities.org/id/unitary-authority/stockton-on-tees	E06000004	E0704	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Stoke-on-Trent	http://opendatacommunities.org/id/unitary-authority/stoke-on-trent	E06000021	E3401	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Stratford-on-Avon	http://opendatacommunities.org/id/district-council/stratford	E07000221	E3734	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Stroud	http://opendatacommunities.org/id/district-council/stroud	E07000082	E1635	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Suffolk	http://opendatacommunities.org/id/county-council/suffolk	E10000029	E3520	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Suffolk Coastal	http://opendatacommunities.org/id/district-council/suffolk-coastal	E07000205	E3536	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Suffolk Police Authority	http://opendatacommunities.org/id/police-authority/suffolk			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Sunderland	http://opendatacommunities.org/id/metropolitan-district-council/sunderland	E08000024	E4505	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Surrey	http://opendatacommunities.org/id/county-council/surrey	E10000030	E3620	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Surrey Heath	http://opendatacommunities.org/id/district-council/surrey-heath	E07000214	E3638	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Surrey Police Authority (new)	http://opendatacommunities.org/id/police-authority/surrey			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Sussex Police Authority	http://opendatacommunities.org/id/police-authority/sussex			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Sutton	http://opendatacommunities.org/id/london-borough-council/sutton	E09000029	E5048	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Swale	http://opendatacommunities.org/id/district-council/swale	E07000113	E2241	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Swindon	http://opendatacommunities.org/id/unitary-authority/swindon	E06000030	E3901	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Tameside	http://opendatacommunities.org/id/metropolitan-district-council/tameside	E08000008	E4208	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Tamworth	http://opendatacommunities.org/id/district-council/tamworth	E07000199	E3439	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Tandridge	http://opendatacommunities.org/id/district-council/tandridge	E07000215	E3639	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Taunton Deane	http://opendatacommunities.org/id/district-council/taunton-deane	E07000190	E3333	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Teignbridge	http://opendatacommunities.org/id/district-council/teignbridge	E07000045	E1137	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Telford and Wrekin	http://opendatacommunities.org/id/unitary-authority/telford-and-wrekin	E06000020	E3201	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Tendring	http://opendatacommunities.org/id/district-council/tendring	E07000076	E1542	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Test Valley	http://opendatacommunities.org/id/district-council/test-valley	E07000093	E1742	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Tewkesbury	http://opendatacommunities.org/id/district-council/tewkesbury	E07000083	E1636	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Thames Valley Police Authority	http://opendatacommunities.org/id/police-authority/thames-valley			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Thanet	http://opendatacommunities.org/id/district-council/thanet	E07000114	E2242	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+The Broads Authority	http://opendatacommunities.org/id/national-park-authority/the-broads			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority
+Three Rivers	http://opendatacommunities.org/id/district-council/three-rivers	E07000102	E1938	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Thurrock	http://opendatacommunities.org/id/unitary-authority/thurrock	E06000034	E1502	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Tonbridge and Malling	http://opendatacommunities.org/id/district-council/tonbridge-and-malling	E07000115	E2243	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Torbay	http://opendatacommunities.org/id/unitary-authority/torbay	E06000027	E1102	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Torridge	http://opendatacommunities.org/id/district-council/torridge	E07000046	E1139	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Tower Hamlets	http://opendatacommunities.org/id/london-borough-council/tower-hamlets	E09000030	E5020	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Trafford	http://opendatacommunities.org/id/metropolitan-district-council/trafford	E08000009	E4209	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Tunbridge Wells	http://opendatacommunities.org/id/district-council/tunbridge-wells	E07000116	E2244	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Tyne and Wear Fire & CD Authority	http://opendatacommunities.org/id/fire-authority/tyne-and-wear			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Tyne and Wear Integrated Transport Authority	http://opendatacommunities.org/id/transport-authority/tyne-and-wear			Transport Authority	http://opendatacommunities.org/def/local-government/TransportAuthority
+Uttlesford	http://opendatacommunities.org/id/district-council/uttlesford	E07000077	E1544	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Vale of White Horse	http://opendatacommunities.org/id/district-council/vale-of-white-horse	E07000180	E3134	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wakefield	http://opendatacommunities.org/id/metropolitan-district-council/wakefield	E08000036	E4705	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Walsall	http://opendatacommunities.org/id/metropolitan-district-council/walsall	E08000030	E4606	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Waltham Forest	http://opendatacommunities.org/id/london-borough-council/waltham-forest	E09000031	E5049	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Wandsworth	http://opendatacommunities.org/id/london-borough-council/wandsworth	E09000032	E5021	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Warrington	http://opendatacommunities.org/id/unitary-authority/warrington	E06000007	E0602	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Warwick	http://opendatacommunities.org/id/district-council/warwick	E07000222	E3735	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Warwickshire	http://opendatacommunities.org/id/county-council/warwickshire	E10000031	E3720	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Warwickshire Police Authority	http://opendatacommunities.org/id/police-authority/warwickshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Watford	http://opendatacommunities.org/id/district-council/watford	E07000103	E1939	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Waveney	http://opendatacommunities.org/id/district-council/waveney	E07000206	E3537	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Waverley	http://opendatacommunities.org/id/district-council/waverley	E07000216	E3640	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wealden	http://opendatacommunities.org/id/district-council/wealden	E07000065	E1437	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wellingborough	http://opendatacommunities.org/id/district-council/wellingborough	E07000156	E2837	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Welwyn Hatfield	http://opendatacommunities.org/id/district-council/welwyn-hatfield	E07000241	E1940	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West Berkshire	http://opendatacommunities.org/id/unitary-authority/west-berkshire	E06000037	E0302	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+West Devon	http://opendatacommunities.org/id/district-council/west-devon	E07000047	E1140	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West Dorset	http://opendatacommunities.org/id/district-council/west-dorset	E07000052	E1237	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West Lancashire	http://opendatacommunities.org/id/district-council/west-lancashire	E07000127	E2343	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West Lindsey	http://opendatacommunities.org/id/district-council/west-lindsey	E07000142	E2537	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West London Waste Authority	http://opendatacommunities.org/id/waste-authority/west-london			Waste Authority	http://opendatacommunities.org/def/local-government/WasteAuthority
+West Mercia Police Authority	http://opendatacommunities.org/id/police-authority/west-mercia			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+West Midlands Fire & CD Authority	http://opendatacommunities.org/id/fire-authority/west-midlands			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+West Midlands Integrated Transport Authority	http://opendatacommunities.org/id/transport-authority/west-midlands			Transport Authority	http://opendatacommunities.org/def/local-government/TransportAuthority
+West Midlands Police Authority	http://opendatacommunities.org/id/police-authority/west-midlands			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+West Oxfordshire	http://opendatacommunities.org/id/district-council/west-oxfordshire	E07000181	E3135	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West Somerset	http://opendatacommunities.org/id/district-council/west-somerset	E07000191	E3335	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+West Sussex	http://opendatacommunities.org/id/county-council/west-sussex	E10000032	E3820	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+West Yorkshire Fire & CD Authority	http://opendatacommunities.org/id/fire-authority/west-yorkshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+West Yorkshire Integrated Transport Authority	http://opendatacommunities.org/id/transport-authority/west-yorkshire			Transport Authority	http://opendatacommunities.org/def/local-government/TransportAuthority
+West Yorkshire Police Authority	http://opendatacommunities.org/id/police-authority/west-yorkshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Western Riverside Waste Authority	http://opendatacommunities.org/id/waste-authority/western-riverside			Waste Authority	http://opendatacommunities.org/def/local-government/WasteAuthority
+Westminster	http://opendatacommunities.org/id/london-borough-council/westminster	E09000033	E5022	London Borough Council	http://opendatacommunities.org/def/local-government/LondonBoroughCouncil
+Weymouth and Portland	http://opendatacommunities.org/id/district-council/weymouth-and-portland	E07000053	E1238	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wigan	http://opendatacommunities.org/id/metropolitan-district-council/wigan	E08000010	E4210	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Wiltshire	http://opendatacommunities.org/id/unitary-authority/wiltshire	E06000054	E3902	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Wiltshire Combined Fire Authority	http://opendatacommunities.org/id/fire-authority/wiltshire			Fire Authority	http://opendatacommunities.org/def/local-government/FireAuthority
+Wiltshire Police Authority	http://opendatacommunities.org/id/police-authority/wiltshire			Police Authority	http://opendatacommunities.org/def/local-government/PoliceAuthority
+Winchester	http://opendatacommunities.org/id/district-council/winchester	E07000094	E1743	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Windsor and Maidenhead	http://opendatacommunities.org/id/unitary-authority/windsor-and-maidenhead	E06000040	E0305	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Wirral	http://opendatacommunities.org/id/metropolitan-district-council/wirral	E08000015	E4305	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Woking	http://opendatacommunities.org/id/district-council/woking	E07000217	E3641	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wokingham	http://opendatacommunities.org/id/unitary-authority/wokingham	E06000041	E0306	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Wolverhampton	http://opendatacommunities.org/id/metropolitan-district-council/wolverhampton	E08000031	E4607	Metropolitan District Council	http://opendatacommunities.org/def/local-government/MetropolitanDistrictCouncil
+Worcester	http://opendatacommunities.org/id/district-council/worcester	E07000237	E1837	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Worcestershire	http://opendatacommunities.org/id/county-council/worcestershire	E10000034	E1821	County Council	http://opendatacommunities.org/def/local-government/CountyCouncil
+Worthing	http://opendatacommunities.org/id/district-council/worthing	E07000229	E3837	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wychavon	http://opendatacommunities.org/id/district-council/wychavon	E07000238	E1838	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wycombe	http://opendatacommunities.org/id/district-council/wycombe	E07000007	E0435	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wyre	http://opendatacommunities.org/id/district-council/wyre	E07000128	E2344	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+Wyre Forest	http://opendatacommunities.org/id/district-council/wyre-forest	E07000239	E1839	District Council	http://opendatacommunities.org/def/local-government/DistrictCouncil
+York	http://opendatacommunities.org/id/unitary-authority/york	E06000014	E2701	Unitary Authority	http://opendatacommunities.org/def/local-government/UnitaryAuthority
+Yorkshire Dales National Park Authority	http://opendatacommunities.org/id/national-park-authority/yorkshire-dales			National Park Authority	http://opendatacommunities.org/def/local-government/NationalParkAuthority

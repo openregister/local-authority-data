@@ -1,0 +1,218 @@
+local-authority	name	name-cy	local-authority-category	uk
+BKM	Buckinghamshire		two-tier county	ENG
+CAM	Cambridgeshire		two-tier county	ENG
+CMA	Cumbria		two-tier county	ENG
+DBY	Derbyshire		two-tier county	ENG
+DEV	Devon		two-tier county	ENG
+DOR	Dorset		two-tier county	ENG
+ESX	East Sussex		two-tier county	ENG
+ESS	Essex		two-tier county	ENG
+GLS	Gloucestershire		two-tier county	ENG
+HAM	Hampshire		two-tier county	ENG
+HRT	Hertfordshire		two-tier county	ENG
+KEN	Kent		two-tier county	ENG
+LAN	Lancashire		two-tier county	ENG
+LEC	Leicestershire		two-tier county	ENG
+LIN	Lincolnshire		two-tier county	ENG
+NFK	Norfolk		two-tier county	ENG
+NYK	North Yorkshire		two-tier county	ENG
+NTH	Northamptonshire		two-tier county	ENG
+NTT	Nottinghamshire		two-tier county	ENG
+OXF	Oxfordshire		two-tier county	ENG
+SOM	Somerset		two-tier county	ENG
+STS	Staffordshire		two-tier county	ENG
+SFK	Suffolk		two-tier county	ENG
+SRY	Surrey		two-tier county	ENG
+WAR	Warwickshire		two-tier county	ENG
+WSX	West Sussex		two-tier county	ENG
+WOR	Worcestershire		two-tier county	ENG
+LND	City of London		city corporation	ENG
+BDG	Barking and Dagenham		London borough	ENG
+BNE	Barnet		London borough	ENG
+BEX	Bexley		London borough	ENG
+BEN	Brent		London borough	ENG
+BRY	Bromley		London borough	ENG
+CMD	Camden		London borough	ENG
+CRY	Croydon		London borough	ENG
+EAL	Ealing		London borough	ENG
+ENF	Enfield		London borough	ENG
+GRE	Greenwich		London borough	ENG
+HCK	Hackney		London borough	ENG
+HMF	Hammersmith and Fulham		London borough	ENG
+HRY	Haringey		London borough	ENG
+HRW	Harrow		London borough	ENG
+HAV	Havering		London borough	ENG
+HIL	Hillingdon		London borough	ENG
+HNS	Hounslow		London borough	ENG
+ISL	Islington		London borough	ENG
+KEC	Kensington and Chelsea		London borough	ENG
+KTT	Kingston upon Thames		London borough	ENG
+LBH	Lambeth		London borough	ENG
+LEW	Lewisham		London borough	ENG
+MRT	Merton		London borough	ENG
+NWM	Newham		London borough	ENG
+RDB	Redbridge		London borough	ENG
+RIC	Richmond upon Thames		London borough	ENG
+SWK	Southwark		London borough	ENG
+STN	Sutton		London borough	ENG
+TWH	Tower Hamlets		London borough	ENG
+WFT	Waltham Forest		London borough	ENG
+WND	Wandsworth		London borough	ENG
+WSM	Westminster		London borough	ENG
+BNS	Barnsley		metropolitan district	ENG
+BIR	Birmingham		metropolitan district	ENG
+BOL	Bolton		metropolitan district	ENG
+BRD	Bradford		metropolitan district	ENG
+BUR	Bury		metropolitan district	ENG
+CLD	Calderdale		metropolitan district	ENG
+COV	Coventry		metropolitan district	ENG
+DNC	Doncaster		metropolitan district	ENG
+DUD	Dudley		metropolitan district	ENG
+GAT	Gateshead		metropolitan district	ENG
+KIR	Kirklees		metropolitan district	ENG
+KWL	Knowsley		metropolitan district	ENG
+LDS	Leeds		metropolitan district	ENG
+LIV	Liverpool		metropolitan district	ENG
+MAN	Manchester		metropolitan district	ENG
+NET	Newcastle upon Tyne		metropolitan district	ENG
+NTY	North Tyneside		metropolitan district	ENG
+OLD	Oldham		metropolitan district	ENG
+RCH	Rochdale		metropolitan district	ENG
+ROT	Rotherham		metropolitan district	ENG
+SHN	St. Helens		metropolitan district	ENG
+SLF	Salford		metropolitan district	ENG
+SAW	Sandwell		metropolitan district	ENG
+SFT	Sefton		metropolitan district	ENG
+SHF	Sheffield		metropolitan district	ENG
+SOL	Solihull		metropolitan district	ENG
+STY	South Tyneside		metropolitan district	ENG
+SKP	Stockport		metropolitan district	ENG
+SND	Sunderland		metropolitan district	ENG
+TAM	Tameside		metropolitan district	ENG
+TRF	Trafford		metropolitan district	ENG
+WKF	Wakefield		metropolitan district	ENG
+WLL	Walsall		metropolitan district	ENG
+WGN	Wigan		metropolitan district	ENG
+WRL	Wirral		metropolitan district	ENG
+WLV	Wolverhampton		metropolitan district	ENG
+BAS	Bath and North East Somerset		unitary authority	ENG
+BDF	Bedford		unitary authority	ENG
+BBD	Blackburn with Darwen		unitary authority	ENG
+BPL	Blackpool		unitary authority	ENG
+BMH	Bournemouth		unitary authority	ENG
+BRC	Bracknell Forest		unitary authority	ENG
+BNH	Brighton and Hove		unitary authority	ENG
+BST	City of Bristol		unitary authority	ENG
+CBF	Central Bedfordshire		unitary authority	ENG
+CHE	Cheshire East		unitary authority	ENG
+CHW	Cheshire West and Chester		unitary authority	ENG
+CON	Cornwall		unitary authority	ENG
+DAL	Darlington		unitary authority	ENG
+DER	Derby		unitary authority	ENG
+DUR	County Durham		unitary authority	ENG
+ERY	East Riding of Yorkshire		unitary authority	ENG
+HAL	Halton		unitary authority	ENG
+HPL	Hartlepool		unitary authority	ENG
+HEF	Herefordshire		unitary authority	ENG
+IOW	Isle of Wight		unitary authority	ENG
+IOS	Isles of Scilly		unitary authority	ENG
+KHL	Kingston upon Hull		unitary authority	ENG
+LCE	Leicester		unitary authority	ENG
+LUT	Luton		unitary authority	ENG
+MDW	Medway		unitary authority	ENG
+MDB	Middlesbrough		unitary authority	ENG
+MIK	Milton Keynes		unitary authority	ENG
+NEL	North East Lincolnshire		unitary authority	ENG
+NLN	North Lincolnshire		unitary authority	ENG
+NSM	North Somerset		unitary authority	ENG
+NBL	Northumberland		unitary authority	ENG
+NGM	Nottingham		unitary authority	ENG
+PTE	Peterborough		unitary authority	ENG
+PLY	Plymouth		unitary authority	ENG
+POL	Poole		unitary authority	ENG
+POR	Portsmouth		unitary authority	ENG
+RDG	Reading		unitary authority	ENG
+RCC	Redcar and Cleveland		unitary authority	ENG
+RUT	Rutland		unitary authority	ENG
+SHR	Shropshire		unitary authority	ENG
+SLG	Slough		unitary authority	ENG
+SGC	South Gloucestershire		unitary authority	ENG
+STH	Southampton		unitary authority	ENG
+SOS	Southend-on-Sea		unitary authority	ENG
+STT	Stockton-on-Tees		unitary authority	ENG
+STE	Stoke-on-Trent		unitary authority	ENG
+SWD	Swindon		unitary authority	ENG
+TFW	Telford and Wrekin		unitary authority	ENG
+THR	Thurrock		unitary authority	ENG
+TOB	Torbay		unitary authority	ENG
+WRT	Warrington		unitary authority	ENG
+WBK	West Berkshire		unitary authority	ENG
+WIL	Wiltshire		unitary authority	ENG
+WNM	Windsor and Maidenhead		unitary authority	ENG
+WOK	Wokingham		unitary authority	ENG
+YOR	York		unitary authority	ENG
+ANN	Antrim and Newtownabbey		district	NIR
+AND	Ards and North Down		district	NIR
+ABC	Armagh, Banbridge and Craigavon		district	NIR
+BFS	Belfast		district	NIR
+CCG	Causeway Coast and Glens		district	NIR
+DRS	Derry and Strabane		district	NIR
+FMO	Fermanagh and Omagh		district	NIR
+LBC	Lisburn and Castlereagh		district	NIR
+MEA	Mid and East Antrim		district	NIR
+MUL	Mid Ulster		district	NIR
+NMD	Newry, Mourne and Down		district	NIR
+ABE	Aberdeen City		council area	SCT
+ABD	Aberdeenshire		council area	SCT
+ANS	Angus		council area	SCT
+AGB	Argyll and Bute		council area	SCT
+CLK	Clackmannanshire		council area	SCT
+DGY	Dumfries and Galloway		council area	SCT
+DND	Dundee City		council area	SCT
+EAY	East Ayrshire		council area	SCT
+EDU	East Dunbartonshire		council area	SCT
+ELN	East Lothian		council area	SCT
+ERW	East Renfrewshire		council area	SCT
+EDH	City of Edinburgh		council area	SCT
+ELS	Eilean Siar		council area	SCT
+FAL	Falkirk		council area	SCT
+FIF	Fife		council area	SCT
+GLG	Glasgow City		council area	SCT
+HLD	Highland		council area	SCT
+IVC	Inverclyde		council area	SCT
+MLN	Midlothian		council area	SCT
+MRY	Moray		council area	SCT
+NAY	North Ayrshire		council area	SCT
+NLK	North Lanarkshire		council area	SCT
+ORK	Orkney Islands		council area	SCT
+PKN	Perth and Kinross		council area	SCT
+RFW	Renfrewshire		council area	SCT
+SCB	The Scottish Borders		council area	SCT
+ZET	Shetland Islands		council area	SCT
+SAY	South Ayrshire		council area	SCT
+SLK	South Lanarkshire		council area	SCT
+STG	Stirling		council area	SCT
+WDU	West Dunbartonshire		council area	SCT
+WLN	West Lothian		council area	SCT
+BGW	Blaenau Gwent		unitary authority	WLS
+BGE	Bridgend	Pen-y-bont ar Ogwr	unitary authority	WLS
+CAY	Caerphilly	Caerffili	unitary authority	WLS
+CRF	Cardiff	Caerdydd	unitary authority	WLS
+CMN	Carmarthenshire	Sir Gaerfyrddin	unitary authority	WLS
+CGN	Ceredigion	Sir Ceredigion	unitary authority	WLS
+CWY	Conwy		unitary authority	WLS
+DEN	Denbighshire	Sir Ddinbych	unitary authority	WLS
+FLN	Flintshire	Sir y Fflint	unitary authority	WLS
+GWN	Gwynedd		unitary authority	WLS
+AGY	Isle of Anglesey	Sir Ynys Môn	unitary authority	WLS
+MTY	Merthyr Tydfil	Merthyr Tudful	unitary authority	WLS
+MON	Monmouthshire	Sir Fynwy	unitary authority	WLS
+NTL	Neath Port Talbot	Castell-nedd Port Talbot	unitary authority	WLS
+NWP	Newport	Casnewydd	unitary authority	WLS
+PEM	Pembrokeshire	Sir Benfro	unitary authority	WLS
+POW	Powys		unitary authority	WLS
+RCT	Rhondda Cynon Taff		unitary authority	WLS
+SWA	Swansea	Abertawe	unitary authority	WLS
+TOF	Torfaen	Tor-faen	unitary authority	WLS
+VGL	The Vale of Glamorgan	Bro Morgannwg	unitary authority	WLS
+WRX	Wrexham	Wrecsam	unitary authority	WLS
