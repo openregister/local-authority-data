@@ -13,12 +13,12 @@ This repository also includes a [map](map/map.tsv) for migrating references to l
 
 The map is built from a number of different sources:
 
-* [address-custodian.tsv](map/address-custodian.tsv) — a mapping of the Local Land and Property custodian codes found in the National Address Gazetteer and OS AddressBase™, was constructed using data found in the [AddressBase local custodian codes documentation](https://www.ordnancesurvey.co.uk/docs/product-schemas/addressbase-products-local-custodian-codes.zip).
-* [street-local-custodian-administrative-area.tsv](map/street-local-custodian-administrative-area.tsv) — Local Land and Property custodian codes and their administrative area names found in the National Address Gazetteer and OS AddressBase™.
 * [opendatacommunities.tsv](map/opendatacommunities.tsv) – constructed from the http://opendatacommunities.org/ portal.
+* [local-custodian.tsv](map/local-custodian.tsv) — a mapping of the Local Land and Property custodian codes found in the National Address Gazetteer and OS AddressBase™, was constructed using data found in the [AddressBase local custodian codes documentation](https://www.ordnancesurvey.co.uk/docs/product-schemas/addressbase-products-local-custodian-codes.zip).
+* [street-local-custodian-administrative-area.tsv](map/street-local-custodian-administrative-area.tsv) — Local Land and Property custodian codes and their administrative area names found in the National Address Gazetteer and OS AddressBase™.
 * [food-authorities.tsv](map/food-authorities.tsv) — extracted from the Food Standards Agency ratings data — see [food-data](https://github.com/openregister/food-data).
 * [local_authority_contact_details.csv](map/local_authority_contact_details.csv) – downloaded from [local.direct.gov.uk/Data/](http://local.direct.gov.uk/Data/)
-* [ons.tsv](map/ons.tsv) — extracted from OS Open Names
+* [ons.tsv](map/ons.tsv) — ONS to OS Names codes extracted from OS Open Names, reused under the terms of the OGL licence.
 
 
 # Licence
