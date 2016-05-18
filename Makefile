@@ -1,19 +1,12 @@
 
 SOURCES=\
 	data/local-authority/local-authorities.tsv \
-	map/local-custodian.tsv \
-	map/opendatacommunities.tsv \
-	map/local_authority_contact_details.csv \
-	map/food-authorities.tsv
+	legacy/geoplace/local-custodian.tsv \
+	legacy/opendatacommunities/opendatacommunities.tsv \
+	legacy/food-standards/local-authorities.tsv
 
-map/map.tsv:	bin/map.py $(SOURCES)
+maps/map.tsv:	bin/map.py $(SOURCES)
 	bin/map.py > $@
-
-map/food-authorities.tsv:
-	curl -qs 'https://raw.githubusercontent.com/openregister/food-data/master/ratings/data/local-authority.tsv' > $@
-
-map/local_authority_contact_details.csv:
-	curl -qs 'http://local.direct.gov.uk/Data/local_authority_contact_details.csv' > $@
 
 clobber:
 	rm -f map/map.tsv

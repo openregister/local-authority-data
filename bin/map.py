@@ -3,6 +3,9 @@
 """
 merge a number of different existing codes
 for local authorities into a single map
+
+TBD: there's a lot more lists,
+so split dataset specific wranging into each legacy Makefile
 """
 
 import csv
@@ -90,6 +93,6 @@ class CodeMap(object):
 if __name__ == '__main__':
     codes = CodeMap()
     codes.load_register('data/local-authority/local-authorities.tsv')
-    codes.load_custodians('map/local-custodian.tsv')
-    codes.load_communities('map/opendatacommunities.tsv')
+    codes.load_custodians('legacy/geoplace/local-custodian.tsv')
+    codes.load_communities('legacy/opendatacommunities/opendatacommunities.tsv')
     codes.dump()

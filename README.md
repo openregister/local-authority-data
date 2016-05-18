@@ -7,18 +7,16 @@ legislation and [opendatacommunities.org](http://opendatacommunities.org/).
 This is currently a single data file, but the process of establishing a custodian for the register may result in the data being split
 to populate four separate registers for England, Scotland, Wales and Northern Ireland, each with their own custodian.
 
+# Identifier
+
+The local-authority is indexed by the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifier, where available, or a short ONS code where not.
+
+It is envisaged a separate local-authority-register will contain the boundary for each local-authority, indexed by the [ONS GSS](https://en.wikipedia.org/wiki/ONS_coding_system) code.
+
 # Maps
 
-This repository also includes a [map](map/map.tsv) for migrating references to local authorities found in other data sets to the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifiers used by the register.
+This repository also includes a number of [maps](maps) to help migrate references to local authorities found in existing data and documents to the identifiers used by the register.
 
-The map is built from a number of different sources:
-
-* [opendatacommunities.tsv](map/opendatacommunities.tsv) – constructed from the http://opendatacommunities.org/ portal.
-* [local-custodian.tsv](map/local-custodian.tsv) — a mapping of the Local Land and Property custodian codes found in the National Address Gazetteer and OS AddressBase™, constructed using data found in the [AddressBase local custodian codes documentation](https://www.ordnancesurvey.co.uk/docs/product-schemas/addressbase-products-local-custodian-codes.zip).
-* [street-local-custodian-administrative-area.tsv](map/street-local-custodian-administrative-area.tsv) — Local Land and Property custodian codes and their administrative area names found in the National Address Gazetteer and OS AddressBase™.
-* [food-authorities.tsv](map/food-authorities.tsv) — extracted from the Food Standards Agency ratings data — see [food-data](https://github.com/openregister/food-data).
-* [local_authority_contact_details.csv](map/local_authority_contact_details.csv) – downloaded from [local.direct.gov.uk/Data/](http://local.direct.gov.uk/Data/)
-* [ons.tsv](map/ons.tsv) — ONS to OS Names codes extracted from OS Open Names, reused under the terms of the OGL licence.
 
 
 # Licence
