@@ -1,3 +1,4 @@
+require 'builder'
 require 'map_by_method'
 require 'morph'
 require 'yaml'
@@ -124,63 +125,60 @@ end
 
 def write_to_html authorities, legacy, by_name
   class_keys = class_keys authorities, legacy
-  File.open('maps/out.html', 'w') do |f|
+
+  b = Builder::XmlMarkup.new(
+   :indent => 2
+  )
+  html = b.html {
+    b.head {
+      b.meta('http-equiv': "content-type", content: "text/html; charset=utf-8")
+      b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js", type: "text/javascript")
+      b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.0/jquery.floatThead.min.js", type: "text/javascript")
+      b.link(href: "https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css", rel: "stylesheet", type: "text/css")
+    }
+    b.body {
+      b.table {
+        b.thead {
+          b.tr {
+            b.th style: "background: lightgrey;"
+            class_keys.each do |key|
+              b.th({style: "background: lightgrey;"}, key.name.downcase.sub('morph::','') )
+            end
+          }
+        }
+        b.tbody {
+          by_name.each do |n, list|
+            b.tr {
+              b.td { b.b(n) }
+              class_keys.each do |key|
+                items = list.select {|i| i.class == key}
+                b.td {
+                  b.ul {
+                    items.sort_by(&:_id).map do |item|
+                      value = item._id
+                      value += ' | ' + item._name unless item._id == item._name
+                      b.li value
+                    end
+                  }
+                }
+              end
+            }
+          end
+        }
+      }
+      b.script({ type: "text/javascript"}, '$("table").floatThead({position: "fixed"});')
+    }
+  }
+  html = html.to_s
+  html.gsub!('type="text/javascript"/>','type="text/javascript"></script>')
+  file = 'legacy/report.html'
+  File.open(file, 'w') do |f|
     f.write('<!DOCTYPE html>')
     f.write("\n")
-    f.write('<html><head>')
+    f.write(html)
     f.write("\n")
-    f.write('<meta http-equiv="content-type" content="text/html; charset=utf-8">')
-    f.write("\n")
-    f.write('<link href="https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css" rel="stylesheet" type="text/css">')
-    f.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js" type="text/javascript"></script>')
-    f.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.0/jquery.floatThead.min.js" type="text/javascript"></script>')
-    f.write("\n")
-    f.write('</head>')
-    f.write("\n")
-    f.write('<body>')
-    f.write('<table>')
-    f.write("\n")
-    f.write('<thead>')
-    f.write("\n")
-    f.write('<tr><th style="background: lightgrey;"></th>')
-    class_keys.each do |key|
-      f.write('<th style="background: lightgrey;">' + key.name.downcase.sub('morph::','') + '</th>')
-    end
-    f.write('</tr>')
-    f.write("\n")
-    f.write('</thead>')
-    f.write('<tbody>')
-
-    by_name.each do |n, list|
-      f.write("\n")
-      f.write('<tr><td><b>'+n+'</b></td>')
-      class_keys.each do |key|
-        items = list.select {|i| i.class == key}
-        f.write('<td>')
-        value = items.sort_by(&:_id).map do |item|
-          if item._id == item._name
-            item._id
-          else
-            item._id + ' | ' + item._name
-          end
-        end.join('<br />')
-        f.write(value)
-        f.write('</td>')
-      end
-      f.write('</tr>')
-    end
-    f.write("\n")
-    f.write('</tbody>')
-    f.write('</table>')
-    f.write("\n")
-    f.write('<script type="text/javascript">$("table").floatThead({position: "fixed"});</script>')
-    f.write("\n")
-    f.write('</body></html>')
   end
-
-  puts ""
-  puts "File written to map/out.html"
-  puts ""
+  puts "\nFile written to #{file}\n"
 end
 
 authorities, legacy = load_data_and_legacy
