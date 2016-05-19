@@ -2,93 +2,65 @@ require 'map_by_method'
 require 'morph'
 require 'yaml'
 
-def load file
-  puts ""
-  puts file
+def load_meta file
+  dir = File.split(file).first
+  meta = File.join(dir, 'meta.yml')
+  YAML.load_file(meta).each_with_object({}) do |x, h|
+    h[x.first.to_sym] = x.last.sub('-','_').downcase.to_sym
+  end
+end
+
+def name_from file
   extension = File.extname(file)
-  name = File.split(file).first.split('/').last
-  # name = File.split(file).last.sub(extension,'')
-  name.gsub!('-','_')
-  puts name
+  name = File.split(file).first.split('/').last.gsub('-','_')
+  [name, extension]
+end
+
+def load_data name, extension, file
   data = IO.read(file).encode('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
-  list = Morph.send(:"from_#{extension.tr('.','')}", data, name)
+  Morph.send(:"from_#{extension.tr('.','')}", data, name)
+end
+
+def load file
+  name, extension = name_from(file)
+  puts "\n#{file}\n#{name}"
+  list = load_data(name, extension, file)
+  meta = load_meta(file)
+  klass = list.first.class
+  klass.class_eval("def _name; send(:#{meta[:name]}); end")
+  klass.class_eval("def _id; send(:#{meta[:id]}); end")
   [name, list]
 end
 
-_, authorities = load Dir.glob('data/*/**').first ; nil
+def load_data_and_legacy
+  _, data = load Dir.glob('data/*/*{tsv}').first ; nil
 
-others = Dir.glob('legacy/*/*{tsv}').each_with_object({}) do |file, hash|
-  name, list = load(file)
-  hash[name.to_sym] = list
-end ; nil
+  legacy = Dir.glob('legacy/*/*{tsv}').each_with_object({}) do |file, hash|
+    name, list = load(file)
+    hash[name.to_sym] = list
+  end ; nil
 
-others[:local_directgov].delete_if do |item|
-  item.snac.blank?
-end ; nil
-
-others[:opendatacommunities].delete_if do |item|
-  item.ons_code.blank?
-end ; nil
-
-others.map do |name, list|
-  puts ""
-  puts name
-  puts list.first.morph_attributes.to_yaml
-  puts ""
-  puts ""
+  [data, legacy]
 end
 
-names = authorities.map_by_name.sort ; nil
-authorities.each {|item| item._id_attribute = :local_authority} ; nil
-
-to_id = {
-  food_standards: :food_authority,
-  geoplace: :local_custodian,
-  local_directgov: :snac,
-  opendatacommunities: :ons_code,
-  addressbase: :local_custodian
-}
-
-to_name = {
-  food_standards: :name,
-  geoplace: :name,
-  local_directgov: :name,
-  opendatacommunities: :local_authority_name,
-  addressbase: :administrative_area
-}
-
-dataset_keys = others.keys.select{ |x| x != :os_open_names }
-
-dataset_keys.each do |dataset|
-  others[dataset].each do |item|
-    item._name_attribute = to_name[dataset]
-    item._id_attribute = to_id[dataset]
-  end
-end ; nil
-
-def name_it item
-  (item.try(:name) || item.send(item._name_attribute)).dup
+def remove_unrelated! legacy
+  legacy[:local_directgov].delete_if { |item| item.snac.blank? }; nil
+  legacy[:opendatacommunities].delete_if { |item| item.ons_code.blank? }; nil
 end
 
-def id_it item
-  unless item._id_attribute == :name
-    item.send(item._id_attribute).to_s.dup
+def log_legacy legacy
+  legacy.map do |name, list|
+    puts ""
+    puts name
+    puts [list.first._id, list.first._name].join(" | ")
+    puts list.first.morph_attributes.to_yaml
+    puts ""
+    puts ""
   end
 end
 
-def normalize_name item
-  name = name_it(item).dup
-  name.strip!
-  name.tr!(',', ' ')
-  name.tr!('.', ' ')
-  name.tr!('-', ' ')
-  name.gsub!(/\s+/, ' ')
+def fix_mispelling! name
   name.sub!(' coucil', ' council')
-
-  name.downcase!
-
-  name.sub!(' & ', ' and ')
-
   [
     ['aberdeen c ity', 'aberdeen city'],
     ['aberdeen cuty', 'aberdeen city'],
@@ -99,7 +71,9 @@ def normalize_name item
   ].each do |replace, with|
     name.sub!(replace, with)
   end
+end
 
+def remove_suffix! name
   [
     'county borough council',
     'metropolitan district council',
@@ -115,50 +89,105 @@ def normalize_name item
   ].each do |suffix|
     name.sub!(/\s#{suffix}$/, '')
   end
+end
+
+def normalize_name item
+  name = item._name.dup
+  name.strip!
+  name.tr!(',', ' ')
+  name.tr!('.', ' ')
+  name.tr!('-', ' ')
+  name.gsub!(/\s+/, ' ')
+  name.downcase!
+  name.sub!(' & ', ' and ')
+
+  fix_mispelling! name
+  remove_suffix! name
+
   name.sub!(/\sand$/, '')
   name.strip!
-
   name
 end
 
-by_name = [authorities, others.except(:os_open_names).except(:map).values].flatten.
-  select{|item| !normalize_name(item)[/\s(fire|police)\s/] }.
-  sort_by{|item| normalize_name(item) }.
-  group_by{|item| normalize_name(item) } ; nil
+def group_by_normalize_name authorities, legacy
+  legacy_values = legacy.except(:os_open_names).except(:map).values
+  by_name = [authorities, legacy_values].flatten.
+    select{|item| !normalize_name(item)[/\s(fire|police)\s/] }.
+    sort_by{|item| normalize_name(item) }.
+    group_by{|item| normalize_name(item) }
+end
 
-puts by_name.keys
+def class_keys authorities, legacy
+  dataset_keys = legacy.keys.select{ |x| x != :os_open_names }
+  [authorities.first.class] + dataset_keys.map{|k| legacy[k].first.class}
+end
 
-class_keys = [authorities.first.class] + dataset_keys.map{|k| others[k].first.class}
-
-File.open('maps/out.html', 'w') do |f|
-  f.write('<head>')
-  f.write('<link href="https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css" rel="stylesheet" type="text/css">')
-  f.write('</head>')
-  f.write('<body>')
-  f.write('<table>')
-  f.write('<tr><th></th>')
-  class_keys.each do |key|
-    f.write('<th>' + key.name.downcase.sub('morph::','') + '</th>')
-  end
-  f.write('</tr>')
-
-  by_name.each do |n, list|
-    f.write('<tr><td><b>'+n+'</b></td>')
+def write_to_html authorities, legacy, by_name
+  class_keys = class_keys authorities, legacy
+  File.open('maps/out.html', 'w') do |f|
+    f.write('<!DOCTYPE html>')
+    f.write("\n")
+    f.write('<html><head>')
+    f.write("\n")
+    f.write('<meta http-equiv="content-type" content="text/html; charset=utf-8">')
+    f.write("\n")
+    f.write('<link href="https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css" rel="stylesheet" type="text/css">')
+    f.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js" type="text/javascript"></script>')
+    f.write('<script src="https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.0/jquery.floatThead.min.js" type="text/javascript"></script>')
+    f.write("\n")
+    f.write('</head>')
+    f.write("\n")
+    f.write('<body>')
+    f.write('<table>')
+    f.write("\n")
+    f.write('<thead>')
+    f.write("\n")
+    f.write('<tr><th style="background: lightgrey;"></th>')
     class_keys.each do |key|
-      item = list.detect {|i| i.class == key}
-      if item
-        f.write('<td>' + id_it(item) + ' | ' + name_it(item) + '</td>')
-      else
-        f.write('<td></td>')
-      end
+      f.write('<th style="background: lightgrey;">' + key.name.downcase.sub('morph::','') + '</th>')
     end
     f.write('</tr>')
-  end
-  f.write('</table>')
-  f.write('</body>')
-end
-puts by_name.keys.size
+    f.write("\n")
+    f.write('</thead>')
+    f.write('<tbody>')
 
-puts ""
-puts "File written to map/out.html"
-puts ""
+    by_name.each do |n, list|
+      f.write("\n")
+      f.write('<tr><td><b>'+n+'</b></td>')
+      class_keys.each do |key|
+        items = list.select {|i| i.class == key}
+        f.write('<td>')
+        value = items.sort_by(&:_id).map do |item|
+          if item._id == item._name
+            item._id
+          else
+            item._id + ' | ' + item._name
+          end
+        end.join('<br />')
+        f.write(value)
+        f.write('</td>')
+      end
+      f.write('</tr>')
+    end
+    f.write("\n")
+    f.write('</tbody>')
+    f.write('</table>')
+    f.write("\n")
+    f.write('<script type="text/javascript">$("table").floatThead({position: "fixed"});</script>')
+    f.write("\n")
+    f.write('</body></html>')
+  end
+
+  puts ""
+  puts "File written to map/out.html"
+  puts ""
+end
+
+authorities, legacy = load_data_and_legacy
+remove_unrelated! legacy
+
+log_legacy legacy
+
+by_name = group_by_normalize_name(authorities, legacy) ; nil
+
+write_to_html authorities, legacy, by_name
