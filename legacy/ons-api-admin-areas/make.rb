@@ -1,5 +1,13 @@
+##
+# To install dependencies:
+#     bundle
+#
+# The ONS OpenAPI requires you register for an API key:
+#     https://web.ons.gov.uk/ons/apiservice/web/apiservice/home
+#
 # To run please provide your ONS_APIKEY as an env var, like this:
-# ONS_APIKEY=<your-key> ruby make.rb
+#     ONS_APIKEY=<your-key> bundle exec ruby make.rb
+#
 require 'ons_openapi'
 
 census = OnsOpenApi.context('Census')
@@ -45,4 +53,4 @@ File.open("ward-hierarchy.tsv",'w') do |f|
   f.write headers
   f.write "\n"
   f.write tsv.join("\n")
-end 
+end
