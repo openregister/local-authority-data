@@ -91,7 +91,6 @@ def remove_suffix! name
     'metropolitan district council',
     'metropolitan borough council',
     'borough council',
-    'city council',
     'county council',
     'district council',
     'county borough',
@@ -150,9 +149,11 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
       b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.0/jquery.floatThead.min.js", type: "text/javascript")
       b.link(href: "https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css", rel: "stylesheet", type: "text/css")
       b.style({type: "text/css"}, '
+        a { color: inherit; }
         table th, table td { font-size: 17px; }
         .city-corporation      { color: #d53880; }
         .council-area          { color: #f47738; }
+        .district              { color: #006435; }
         .london-borough        { color: #912b88; }
         .metropolitan-district { color: #85994b; }
         .two-tier-county       { color: #B10E1E; }
@@ -201,12 +202,22 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
                     value += ' | ' + item._type
                     type = css_class(dataset_to_type[item._dataset][item._type])
                   end
-                  [value, type]
+                  url = nil
+                  if item._dataset == 'legislation'
+                    url = item.legislation_gov_uk_reference
+                  end
+                  [value, type, url]
                 end.uniq
                 b.td {
                   b.ul {
-                    values.sort.map do |value, type|
-                      b.li({class: type}, value)
+                    values.sort.map do |value, type, url|
+                      if url
+                        b.li({class: type}) {
+                          b.a({href: url, rel: 'external'}, value)
+                        }
+                      else
+                        b.li({class: type}, value)
+                      end
                     end
                   }
                 }
@@ -240,6 +251,7 @@ by_name = group_by_normalize_name(authorities, legacy) ; nil
 type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthority']}
 
 dataset_to_type = type_to_aliases.to_a.each_with_object({}) {|to_alias, h| mapping = to_alias.last ; type = to_alias.first ; mapping.each {|submap| submap.keys.each {|dataset| h[dataset] ||= {}; h[dataset][submap[dataset]] = type} } }
-dataset_to_type['localauthority']['district'] = 'other'
+dataset_to_type['localauthority']['district'] = 'district'
+dataset_to_type['legislation']['Local Government District'] = 'district'
 
 write_to_html authorities, legacy, by_name, dataset_to_type
