@@ -1,3 +1,10 @@
+##
+# To install dependencies:
+#     bundle
+#
+# To run:
+#     bundle exec ruby bin/map.rb
+#
 require 'builder'
 require 'map_by_method'
 require 'morph'
@@ -7,7 +14,7 @@ def load_meta file
   dir = File.split(file).first
   meta = File.join(dir, 'meta.yml')
   YAML.load_file(meta).each_with_object({}) do |x, h|
-    h[x.first.to_sym] = x.last.sub('-','_').downcase.to_sym
+    h[x.first.to_sym] = x.last.gsub('-','_').downcase.to_sym
   end
 end
 
@@ -24,12 +31,16 @@ end
 
 def load file
   name, extension = name_from(file)
-  puts "\n#{file}\n#{name}"
   list = load_data(name, extension, file)
   meta = load_meta(file)
+  puts "\n#{file}\n#{name}\n#{meta.inspect}"
   klass = list.first.class
   klass.class_eval("def _name; send(:#{meta[:name]}); end")
   klass.class_eval("def _id; send(:#{meta[:id]}); end")
+  type = meta[:type] ? "send(:#{meta[:type]}).strip" : 'nil'
+  klass.class_eval("def _type; #{type}; end")
+  dataset = klass.name.sub('Morph::','').downcase
+  klass.class_eval("def _dataset; '#{dataset}'; end")
   [name, list]
 end
 
@@ -123,7 +134,12 @@ def class_keys authorities, legacy
   [authorities.first.class] + dataset_keys.map{|k| legacy[k].first.class}
 end
 
-def write_to_html authorities, legacy, by_name
+def css_class value
+  type = value.to_s.downcase.sub(' ','-')
+  type.blank? ? 'other' : type
+end
+
+def write_to_html authorities, legacy, by_name, dataset_to_type
   class_keys = class_keys authorities, legacy
 
   b = Builder::XmlMarkup.new(indent: 2)
@@ -133,7 +149,16 @@ def write_to_html authorities, legacy, by_name
       b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js", type: "text/javascript")
       b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.0/jquery.floatThead.min.js", type: "text/javascript")
       b.link(href: "https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css", rel: "stylesheet", type: "text/css")
-      b.style({type: "text/css"}, 'table th, table td { font-size: 17px; }')
+      b.style({type: "text/css"}, '
+        table th, table td { font-size: 17px; }
+        .city-corporation      { color: #d53880; }
+        .council-area          { color: #f47738; }
+        .london-borough        { color: #912b88; }
+        .metropolitan-district { color: #85994b; }
+        .two-tier-county       { color: #B10E1E; }
+        .unitary-authority     { color: #2b8cc4; }
+        .other                 { color: #6F777B; }
+      ')
     }
     b.body {
       b.table {
@@ -146,19 +171,42 @@ def write_to_html authorities, legacy, by_name
           }
         }
         b.tbody {
-          by_name.each do |n, list|
+          b.tr {
+            b.td ''
+            class_keys.each do |key|
+              b.td {
+                dataset = key.name.downcase.sub('morph::','')
+                if types = dataset_to_type[dataset]
+                  b.ul {
+                    types.to_a.sort_by{|x| x.first.downcase}.each do |label, value|
+                      b.li({class: css_class(value)}, label)
+                    end
+                  }
+                end
+              }
+            end
+          }
+          all = by_name.to_a
+          first = all.delete_at(0)
+          all.insert(-1, first)
+          all.each do |n, list|
             b.tr {
               b.td { b.b(n) }
               class_keys.each do |key|
                 values = list.select {|i| i.class == key}.map do |item|
                   value = item._id
                   value += ' | ' + item._name unless item._id == item._name
-                  value
+                  type = 'unknown'
+                  if item._type
+                    value += ' | ' + item._type
+                    type = css_class(dataset_to_type[item._dataset][item._type])
+                  end
+                  [value, type]
                 end.uniq
                 b.td {
                   b.ul {
-                    values.sort.map do |value|
-                      b.li value
+                    values.sort.map do |value, type|
+                      b.li({class: type}, value)
                     end
                   }
                 }
@@ -182,11 +230,16 @@ def write_to_html authorities, legacy, by_name
   puts "\nFile written to #{file}\n"
 end
 
-authorities, legacy = load_data_and_legacy
+authorities, legacy = load_data_and_legacy ; nil
 remove_unrelated! legacy ; nil
 
 log_legacy legacy
 
 by_name = group_by_normalize_name(authorities, legacy) ; nil
 
-write_to_html authorities, legacy, by_name
+type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthority']}
+
+dataset_to_type = type_to_aliases.to_a.each_with_object({}) {|to_alias, h| mapping = to_alias.last ; type = to_alias.first ; mapping.each {|submap| submap.keys.each {|dataset| h[dataset] ||= {}; h[dataset][submap[dataset]] = type} } }
+dataset_to_type['localauthority']['district'] = 'other'
+
+write_to_html authorities, legacy, by_name, dataset_to_type
