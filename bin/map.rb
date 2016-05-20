@@ -126,15 +126,14 @@ end
 def write_to_html authorities, legacy, by_name
   class_keys = class_keys authorities, legacy
 
-  b = Builder::XmlMarkup.new(
-   :indent => 2
-  )
+  b = Builder::XmlMarkup.new(indent: 2)
   html = b.html {
     b.head {
       b.meta('http-equiv': "content-type", content: "text/html; charset=utf-8")
       b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js", type: "text/javascript")
       b.script(src: "https://cdnjs.cloudflare.com/ajax/libs/floatthead/1.4.0/jquery.floatThead.min.js", type: "text/javascript")
       b.link(href: "https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css", rel: "stylesheet", type: "text/css")
+      b.style({type: "text/css"}, 'table th, table td { font-size: 17px; }')
     }
     b.body {
       b.table {
@@ -151,12 +150,14 @@ def write_to_html authorities, legacy, by_name
             b.tr {
               b.td { b.b(n) }
               class_keys.each do |key|
-                items = list.select {|i| i.class == key}
+                values = list.select {|i| i.class == key}.map do |item|
+                  value = item._id
+                  value += ' | ' + item._name unless item._id == item._name
+                  value
+                end.uniq
                 b.td {
                   b.ul {
-                    items.sort_by(&:_id).map do |item|
-                      value = item._id
-                      value += ' | ' + item._name unless item._id == item._name
+                    values.sort.map do |value|
                       b.li value
                     end
                   }
@@ -182,7 +183,7 @@ def write_to_html authorities, legacy, by_name
 end
 
 authorities, legacy = load_data_and_legacy
-remove_unrelated! legacy
+remove_unrelated! legacy ; nil
 
 log_legacy legacy
 
