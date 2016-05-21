@@ -255,3 +255,36 @@ dataset_to_type['localauthority']['district'] = 'district'
 dataset_to_type['legislation']['Local Government District'] = 'district'
 
 write_to_html authorities, legacy, by_name, dataset_to_type
+
+puts 'Write file to: maps/map2.tsv'
+File.open('maps/map2.tsv', 'w') do |f|
+  class_keys = class_keys authorities, legacy
+  class_keys.each do |key|
+    f.write(key.name.sub('Morph::','').underscore.gsub('_','-'))
+    f.write("\t")
+    f.write(key.name.sub('Morph::','').underscore.gsub('_','-') + '-name')
+    f.write("\t")
+  end
+  f.write("\n")
+  all = by_name.to_a
+  first = all.delete_at(0)
+  all.each do |n, list|
+    class_keys.each do |key|
+      values = list.select {|i| i.class == key}.map do |item|
+        value = item._id
+      end.join(';')
+      f.write(values)
+      f.write("\t")
+      names = list.select {|i| i.class == key}.map do |item|
+        if item._id != item._name
+          value = item._name
+        else
+          ''
+        end
+      end.join(';')
+      f.write(names)
+      f.write("\t")
+    end
+    f.write("\n")
+  end
+end

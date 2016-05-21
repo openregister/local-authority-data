@@ -1,0 +1,603 @@
+local-authority	local-authority-name	addressbase	addressbase-name	boundary-commission	boundary-commission-name	food-standards	food-standards-name	geoplace	geoplace-name	legislation	legislation-name	local-directgov	local-directgov-name	ons-api-admin-areas	ons-api-admin-areas-name	opendatacommunities	opendatacommunities-name	
+ABE	Aberdeen City	9051;9051;9051	ABERDEEN CITY;ABERDEEN C ITY;ABERDEEN CUTY			760	Aberdeen City					00QA	Aberdeen City Council	S12000033	Aberdeen City			
+ABD	Aberdeenshire	9052	ABERDEENSHIRE			761	Aberdeenshire	9052	ABERDEENSHIRE			00QB	Aberdeenshire Council	S12000034	Aberdeenshire			
+						568	Abertawe											
+				Adur		323	Adur	3805	ADUR			45UB	Adur District Council	E07000223	Adur	E07000223	Adur	
+				Allerdale		055	Allerdale	905	ALLERDALE			16UB	Allerdale Borough Council	E07000026	Allerdale	E07000026	Allerdale	
+				Amber Valley		062	Amber Valley	1005	AMBER VALLEY			17UB	Amber Valley Borough Council	E07000032	Amber Valley	E07000032	Amber Valley	
+						551	Anglesey											
+ANS	Angus	9053	ANGUS			762	Angus	9053	ANGUS			00QC	Angus Council	S12000041	Angus			
+												95T	Antrim Borough Council					
+ANN	Antrim and Newtownabbey					801	Antrim and Newtownabbey			Antrim and Newtownabbey								
+												95X	Ards Borough Council					
+AND	Ards and North Down					802	Ards and North Down											
+AGB	Argyll and Bute	9054	ARGYLL AND BUTE			763	Argyll and Bute	9054	ARGYLL AND BUTE			00QD	Argyll and Bute Council	S12000035	Argyll and Bute			
+ABC	Armagh, Banbridge and Craigavon									Armagh, Banbridge and Craigavon								
+												95O	Armagh City and District Council					
+						803	Armagh City, Banbridge and Craigavon											
+				Arun		324	Arun	3810	ARUN			45UC	Arun District Council	E07000224	Arun	E07000224	Arun	
+				Ashfield		259	Ashfield	3005	ASHFIELD			37UB	Ashfield District Council	E07000170	Ashfield	E07000170	Ashfield	
+				Ashford		179	Ashford	2205	ASHFORD			29UB	Ashford Borough Council	E07000105	Ashford	E07000105	Ashford	
+				Aylesbury Vale		021	Aylesbury Vale	405	AYLESBURY VALE			11UB	Aylesbury Vale District Council	E07000004	Aylesbury Vale	E07000004	Aylesbury Vale	
+		9076	AYR															
+		9072	AYRSHIRE															
+				Babergh		297	Babergh	3505	BABERGH			42UB	Babergh District Council	E07000200	Babergh	E07000200	Babergh	
+												95G	Ballymena Borough Council					
+												95D	Ballymoney Borough Council					
+												95Q	Banbridge District Council					
+BDG	Barking and Dagenham	5060	BARKING AND DAGENHAM	Barking & Dagenham		501	Barking and Dagenham	5060	BARKING AND DAGENHAM					E09000002	Barking and Dagenham	E09000002	Barking and Dagenham	
+BNE	Barnet	5090	BARNET	Barnet		502	Barnet	5090	BARNET					E09000003	Barnet	E09000003	Barnet	
+BNS	Barnsley	4405	BARNSLEY	Barnsley		401	Barnsley	4405	BARNSLEY			00CC	Barnsley Metropolitan Borough Council	E08000016	Barnsley	E08000016	Barnsley	
+				Barrow-in-Furness		056	Barrow-in-Furness	910	BARROW-IN-FURNESS					E07000027	Barrow-in-Furness	E07000027	Barrow-in-Furness	
+				Basildon		109	Basildon	1505	BASILDON			22UB	Basildon Borough Council	E07000066	Basildon	E07000066	Basildon	
+				Basingstoke & Deane		131	Basingstoke and Deane	1705	BASINGSTOKE AND DEANE			24UB	Basingstoke and Deane Borough Council	E07000084	Basingstoke and Deane	E07000084	Basingstoke and Deane	
+				Bassetlaw		260	Bassetlaw	3010	BASSETLAW			37UC	Bassetlaw District Council	E07000171	Bassetlaw	E07000171	Bassetlaw	
+BAS	Bath and North East Somerset	114	BATH AND NORTH EAST SOMERSET	Bath & North East Somerset		857	Bath and North East Somerset	114	BATH AND NORTH EAST SOMERSET	Bath and North East Somerset		00HA	Bath and North East Somerset Council	E06000022	Bath and North East Somerset	E06000022	Bath and North East Somerset	
+BDF	Bedford	235	BEDFORD	Bedford		701	Bedford	235	BEDFORD			00KB	Bedford Borough Council	E06000055	Bedford	E06000055	Bedford	
+BFS	Belfast									Belfast								
+						807	Belfast City					95Z	Belfast City Council					
+BEX	Bexley	5120	BEXLEY	Bexley		503	Bexley	5120	BEXLEY					E09000004	Bexley	E09000004	Bexley	
+BIR	Birmingham	4605	BIRMINGHAM	Birmingham		402	Birmingham	4605	BIRMINGHAM					E08000025	Birmingham	E08000025	Birmingham	
+												00CN	Birmingham City Council					
+				Blaby		209	Blaby	2405	BLABY			31UB	Blaby District Council	E07000129	Blaby	E07000129	Blaby	
+						897	Blackburn											
+BBD	Blackburn with Darwen	2372	BLACKBURN WITH DARWEN	Blackburn with Darwen				2372	BLACKBURN WITH DARWEN			00EX	Blackburn with Darwen Borough Council	E06000008	Blackburn with Darwen	E06000008	Blackburn with Darwen	
+BPL	Blackpool	2373	BLACKPOOL	Blackpool		898	Blackpool	2373	BLACKPOOL			00EY	Blackpool Borough Council	E06000009	Blackpool	E06000009	Blackpool	
+BGW	Blaenau Gwent	6910	BLAENAU GWENT			552	Blaenau Gwent	6910	BLAENAU GWENT			00PL	Blaenau Gwent County Borough Council	W06000019	Blaenau Gwent			
+				Bolsover		063	Bolsover	1010	BOLSOVER			17UC	Bolsover District Council	E07000033	Bolsover	E07000033	Bolsover	
+BOL	Bolton	4205	BOLTON	Bolton		403	Bolton	4205	BOLTON			00BL	Bolton Metropolitan Borough Council	E08000001	Bolton	E08000001	Bolton	
+												33UE	Borough Council of Kings Lynn and West Norfolk					
+												16UC	Borough of Barrow-in-Furness					
+												26UB	Borough of Broxbourne					
+												00HP	Borough of Poole					
+				Boston		219	Boston	2505	BOSTON			32UB	Boston Borough Council	E07000136	Boston	E07000136	Boston	
+BMH	Bournemouth	1250	BOURNEMOUTH	Bournemouth		872	Bournemouth	1250	BOURNEMOUTH			00HN	Bournemouth Borough Council	E06000028	Bournemouth	E06000028	Bournemouth	
+BRC	Bracknell Forest	335	BRACKNELL FOREST	Bracknell Forest		882	Bracknell Forest	335	BRACKNELL FOREST			00MA	Bracknell Forest Council	E06000036	Bracknell Forest	E06000036	Bracknell Forest	
+BRD	Bradford			Bradford		404	Bradford					00CX	Bradford Metropolitan District Council	E08000032	Bradford	E08000032	Bradford	
+		4705	BRADFORD MDC					4705	BRADFORD MDC									
+				Braintree		110	Braintree	1510	BRAINTREE			22UC	Braintree District Council	E07000067	Braintree	E07000067	Braintree	
+				Breckland		227	Breckland	2605	BRECKLAND			33UB	Breckland Council	E07000143	Breckland	E07000143	Breckland	
+BEN	Brent	5150	BRENT	Brent		504	Brent	5150	BRENT					E09000005	Brent	E09000005	Brent	
+				Brentwood		111	Brentwood	1515	BRENTWOOD			22UD	Brentwood Borough Council	E07000068	Brentwood	E07000068	Brentwood	
+BGE	Bridgend	6915	BRIDGEND COUNTY BOROUGH			553	Bridgend	6915	BRIDGEND COUNTY BOROUGH			00PB	Bridgend County Borough Council	W06000013	Bridgend			
+BNH	Brighton and Hove	1445	BRIGHTON & HOVE	Brighton & Hove		875	Brighton and Hove	1445	BRIGHTON & HOVE					E06000043	Brighton and Hove	E06000043	Brighton and Hove	
+												00ML	Brighton and Hove City Council					
+		116	BRISTOL	Bristol		855	Bristol	116	BRISTOL					E06000023	Bristol, City of	E06000023	Bristol, City of	
+												00HB	Bristol City Council					
+						570	Bro Morgannwg											
+				Broadland		228	Broadland	2610	BROADLAND			33UC	Broadland District Council	E07000144	Broadland	E07000144	Broadland	
+BRY	Bromley			Bromley		505	Bromley							E09000006	Bromley	E09000006	Bromley	
+				Bromsgrove		145	Bromsgrove	1805	BROMSGROVE			47UB	Bromsgrove District Council	E07000234	Bromsgrove	E07000234	Bromsgrove	
+				Broxbourne		155	Broxbourne	1905	BROXBOURNE					E07000095	Broxbourne	E07000095	Broxbourne	
+				Broxtowe		261	Broxtowe	3015	BROXTOWE			37UD	Broxtowe Borough Council	E07000172	Broxtowe	E07000172	Broxtowe	
+BKM	Buckinghamshire	410;425;415;405	BUCKINGHAMSHIRE;BUCKINGHAMSHIRE;BUCKINGHAMSHIRE;BUCKINGHAMSHIRE	Buckinghamshire								11	Buckinghamshire County Council	E10000002	Buckinghamshire	E10000002	Buckinghamshire	
+				Burnley		196	Burnley	2315	BURNLEY			30UD	Burnley Borough Council	E07000117	Burnley	E07000117	Burnley	
+BUR	Bury	4210	BURY	Bury		405	Bury	4210	BURY			00BM	Bury Metropolitan Borough Council	E08000002	Bury	E08000002	Bury	
+						556	Caerdydd											
+						555	Caerffili											
+CAY	Caerphilly	6920	CAERPHILLY COUNTY BOROUGH			555	Caerphilly	6920	CAERPHILLY COUNTY BOROUGH			00PK	Caerphilly County Borough Council	W06000018	Caerphilly			
+CLD	Calderdale	4710	CALDERDALE	Calderdale		406	Calderdale	4710	CALDERDALE			00CY	Calderdale Metropolitan Borough Council	E08000033	Calderdale	E08000033	Calderdale	
+				Cambridge				505	CAMBRIDGE					E07000008	Cambridge	E07000008	Cambridge	
+						027	Cambridge City					12UB	Cambridge City Council					
+CAM	Cambridgeshire	530;520;515;510;505	CAMBRIDGESHIRE;CAMBRIDGESHIRE;CAMBRIDGESHIRE;CAMBRIDGESHIRE;CAMBRIDGESHIRE	Cambridgeshire								12	Cambridgeshire County Council	E10000003	Cambridgeshire	E10000003	Cambridgeshire	
+CMD	Camden	5210	CAMDEN	Camden		506	Camden	5210	CAMDEN					E09000007	Camden	E09000007	Camden	
+				Cannock Chase		287	Cannock Chase	3405	CANNOCK CHASE			41UB	Cannock Chase District Council	E07000192	Cannock Chase	E07000192	Cannock Chase	
+				Canterbury				2210	CANTERBURY					E07000106	Canterbury	E07000106	Canterbury	
+						180	Canterbury City					29UC	Canterbury City Council					
+CRF	Cardiff	6815	CARDIFF			556	Cardiff	6815	CARDIFF					W06000015	Cardiff			
+				Carlisle				915	CARLISLE					E07000028	Carlisle	E07000028	Carlisle	
+						057	Carlisle City					16UD	Carlisle City Council					
+CMN	Carmarthenshire	6825	CARMARTHENSHIRE			558	Carmarthenshire	6825	CARMARTHENSHIRE			00NU	Carmarthenshire County Council	W06000010	Carmarthenshire			
+												95V	Carrickfergus Borough Council					
+						564	Casnewydd											
+						563	Castell-nedd Port Talbot											
+				Castle Point		112	Castle Point	1520	CASTLE POINT			22UE	Castle Point Borough Council	E07000069	Castle Point	E07000069	Castle Point	
+												95Y	Castlereagh Borough Council					
+CCG	Causeway Coast and Glens					805	Causeway Coast and Glens			Causeway Coast and Glens								
+CBF	Central Bedfordshire	240	CENTRAL BEDFORDSHIRE	Central Bedfordshire		702	Central Bedfordshire	240	CENTRAL BEDFORDSHIRE			00KC	Central Bedfordshire Council	E06000056	Central Bedfordshire	E06000056	Central Bedfordshire	
+CGN	Ceredigion	6820	CEREDIGION			557	Ceredigion	6820	CEREDIGION			00NQ	Ceredigion County Council	W06000008	Ceredigion			
+				Charnwood		210	Charnwood	2410	CHARNWOOD			31UC	Charnwood Borough Council	E07000130	Charnwood	E07000130	Charnwood	
+				Chelmsford		113	Chelmsford	1525	CHELMSFORD					E07000070	Chelmsford	E07000070	Chelmsford	
+												22UF	Chelmsford City Council					
+				Cheltenham		124	Cheltenham	1605	CHELTENHAM			23UB	Cheltenham Borough Council	E07000078	Cheltenham	E07000078	Cheltenham	
+				Cherwell		268	Cherwell	3105	CHERWELL			38UB	Cherwell District Council	E07000177	Cherwell	E07000177	Cherwell	
+CHE	Cheshire East	660	CHESHIRE EAST	Cheshire East		703	Cheshire East	660	CHESHIRE EAST			00EQ	Cheshire East Council	E06000049	Cheshire East	E06000049	Cheshire East	
+CHW	Cheshire West and Chester	665	CHESHIRE WEST AND CHESTER	Cheshire West & Chester		704	Cheshire West and Chester	665	CHESHIRE WEST AND CHESTER			00EW	Cheshire West and Chester Council	E06000050	Cheshire West and Chester	E06000050	Cheshire West and Chester	
+				Chesterfield		064	Chesterfield	1015	CHESTERFIELD			17UD	Chesterfield Borough Council	E07000034	Chesterfield	E07000034	Chesterfield	
+				Chichester		325	Chichester	3815	CHICHESTER			45UD	Chichester District Council	E07000225	Chichester	E07000225	Chichester	
+				Chiltern		022	Chiltern	415	CHILTERN			11UC	Chiltern District Council	E07000005	Chiltern	E07000005	Chiltern	
+				Chorley		197	Chorley	2320	CHORLEY			30UE	Chorley Council	E07000118	Chorley	E07000118	Chorley	
+				Christchurch		084	Christchurch	1210	CHRISTCHURCH			19UC	Christchurch Borough Council	E07000048	Christchurch	E07000048	Christchurch	
+												00NX	City and County of Swansea Council					
+								9051	CITY OF ABERDEEN									
+BST	City of Bristol																	
+												00PT	City of Cardiff Council					
+								9059	CITY OF DUNDEE									
+EDH	City of Edinburgh	9064	CITY OF EDINBURGH					9064	CITY OF EDINBURGH			00QP	City of Edinburgh Council	S12000036	City of Edinburgh			
+								9067	CITY OF GLASGOW									
+												32UD	City of Lincoln Council					
+LND	City of London	5030	CITY OF LONDON					5030	CITY OF LONDON			00AA	City of London	E09000001	City of London	E09000001	City of London	
+						508	City of London Corporation											
+		3455	CITY OF STOKE-ON-TRENT					3455	CITY OF STOKE-ON-TRENT									
+		5990	CITY OF WESTMINSTER					5990	CITY OF WESTMINSTER			00BK	City of Westminster					
+												00FF	City of York Council					
+								9056	CLACKMANNAN									
+CLK	Clackmannanshire	9056	CLACKMANNANSHIRE			768	Clackmannanshire					00QF	Clackmannanshire Council	S12000005	Clackmannanshire			
+				Colchester		114	Colchester	1530	COLCHESTER			22UG	Colchester Borough Council	E07000071	Colchester	E07000071	Colchester	
+												95C	Coleraine Borough Council					
+						791	Comhairle nan Eilean Siar (Western Isles)					00RJ	Comhairle nan Eilean Siar					
+CWY	Conwy	6905	CONWY			550	Conwy	6905	CONWY			00NE	Conwy County Borough Council	W06000003	Conwy			
+												95I	Cookstown District Council					
+				Copeland		058	Copeland	920	COPELAND			16UE	Copeland Borough Council	E07000029	Copeland	E07000029	Copeland	
+				Corby		235	Corby	2805	CORBY			34UB	Corby Borough Council	E07000150	Corby	E07000150	Corby	
+CON	Cornwall	840	CORNWALL	Cornwall		705	Cornwall	840	CORNWALL			00HE	Cornwall Council	E06000052	Cornwall	E06000052	Cornwall	
+				Cotswold		125	Cotswold	1610	COTSWOLD			23UC	Cotswold District Council	E07000079	Cotswold	E07000079	Cotswold	
+												00HF	Council of the Isles of Scilly					
+DUR	County Durham			County Durham										E06000047	County Durham	E06000047	County Durham	
+COV	Coventry	4610	COVENTRY	Coventry		407	Coventry	4610	COVENTRY					E08000026	Coventry	E08000026	Coventry	
+												00CQ	Coventry City Council					
+												95N	Craigavon Borough Council					
+				Craven		250	Craven	2705	CRAVEN			36UB	Craven District Council	E07000163	Craven	E07000163	Craven	
+				Crawley		326	Crawley	3820	CRAWLEY			45UE	Crawley Borough Council	E07000226	Crawley	E07000226	Crawley	
+CRY	Croydon	5240	CROYDON	Croydon		507	Croydon	5240	CROYDON					E09000008	Croydon	E09000008	Croydon	
+CMA	Cumbria	915;910;925;905;930;920	CUMBRIA;CUMBRIA;CUMBRIA;CUMBRIA;CUMBRIA;CUMBRIA	Cumbria								16	Cumbria County Council	E10000006	Cumbria	E10000006	Cumbria	
+				Dacorum		156	Dacorum	1910	DACORUM			26UC	Dacorum Borough Council	E07000096	Dacorum	E07000096	Dacorum	
+DAL	Darlington	1350	DARLINGTON	Darlington		874	Darlington	1350	DARLINGTON			00EH	Darlington Borough Council	E06000005	Darlington	E06000005	Darlington	
+				Dartford		181	Dartford	2215	DARTFORD			29UD	Dartford Borough Council	E07000107	Dartford	E07000107	Dartford	
+				Daventry		236	Daventry	2810	DAVENTRY			34UC	Daventry District Council	E07000151	Daventry	E07000151	Daventry	
+DEN	Denbighshire	6830	DENBIGHSHIRE			559	Denbighshire	6830	DENBIGHSHIRE			00NG	Denbighshire County Council	W06000004	Denbighshire			
+DER	Derby	1055	DERBY	Derby				1055	DERBY					E06000015	Derby	E06000015	Derby	
+						871	Derby City					00FK	Derby City Council					
+DBY	Derbyshire	1045;1010;1040;1030;1035;1015;1025;1005	DERBYSHIRE;DERBYSHIRE;DERBYSHIRE;DERBYSHIRE;DERBYSHIRE;DERBYSHIRE;DERBYSHIRE;DERBYSHIRE	Derbyshire								17	Derbyshire County Council	E10000007	Derbyshire	E10000007	Derbyshire	
+				Derbyshire Dales		070	Derbyshire Dales	1045	DERBYSHIRE DALES			17UF	Derbyshire Dales District Council	E07000035	Derbyshire Dales	E07000035	Derbyshire Dales	
+DRS	Derry and Strabane									Derry and Strabane								
+												95A	Derry City Council					
+						813	Derry City and Strabane											
+DEV	Devon	1150;1145;1125;1105;1115;1135;1110;1130	DEVON;DEVON;DEVON;DEVON;DEVON;DEVON;DEVON;DEVON	Devon								18	Devon County Council	E10000008	Devon	E10000008	Devon	
+DNC	Doncaster	4410	DONCASTER	Doncaster		408	Doncaster	4410	DONCASTER			00CE	Doncaster Metropolitan Borough Council	E08000017	Doncaster	E08000017	Doncaster	
+DOR	Dorset	1230;1225;1215;1235;1240;1210	DORSET;DORSET;DORSET;DORSET;DORSET;DORSET	Dorset								19	Dorset County Council	E10000009	Dorset	E10000009	Dorset	
+				Dover		182	Dover	2220	DOVER			29UE	Dover District Council	E07000108	Dover	E07000108	Dover	
+												95R	Down District Council					
+DUD	Dudley	4615	DUDLEY	Dudley		409	Dudley	4615	DUDLEY			00CR	Dudley Metropolitan Borough Council	E08000027	Dudley	E08000027	Dudley	
+DGY	Dumfries and Galloway	9058	DUMFRIES AND GALLOWAY			770	Dumfries and Galloway	9058	DUMFRIES AND GALLOWAY			00QH	Dumfries and Galloway Council	S12000006	Dumfries and Galloway			
+DND	Dundee City	9059	DUNDEE CITY			772	Dundee City					00QJ	Dundee City Council	S12000042	Dundee City			
+												95M	Dungannon and South Tyrone Borough Council					
+		1355	DURHAM			706	Durham	1355	DURHAM			00EJ	Durham County Council					
+EAL	Ealing	5270	EALING	Ealing		509	Ealing	5270	EALING					E09000009	Ealing	E09000009	Ealing	
+		9061	EASE DUNBARTONSHIRE															
+EAY	East Ayrshire	9060	EAST AYRSHIRE			764	East Ayrshire	9060	EAST AYRSHIRE			00QK	East Ayrshire Council	S12000008	East Ayrshire			
+				East Cambridgeshire		028	East Cambridgeshire	510	EAST CAMBRIDGESHIRE			12UC	East Cambridgeshire District Council	E07000009	East Cambridgeshire	E07000009	East Cambridgeshire	
+				East Devon		072	East Devon	1105	EAST DEVON			18UB	East Devon District Council	E07000040	East Devon	E07000040	East Devon	
+				East Dorset		085	East Dorset	1240	EAST DORSET			19UD	East Dorset District Council	E07000049	East Dorset	E07000049	East Dorset	
+		9061	EAST DUNBARONSHIRE															
+		9061	EAST DUNBARTON															
+EDU	East Dunbartonshire	9061	EAST DUNBARTONSHIRE			771	East Dunbartonshire	9061	EAST DUNBARTONSHIRE			00QL	East Dunbartonshire Council	S12000045	East Dunbartonshire			
+		9061	EAST DUNNBARTONSHIRE															
+				East Hampshire		132	East Hampshire	1710	EAST HAMPSHIRE			24UC	East Hampshire District Council	E07000085	East Hampshire	E07000085	East Hampshire	
+				East Hertfordshire		157	East Hertfordshire	1915	EAST HERTFORDSHIRE			26UD	East Hertfordshire District Council	E07000097;E07000242	East Hertfordshire;East Hertfordshire	E07000242	East Hertfordshire	
+				East Lindsey		220	East Lindsey	2510	EAST LINDSEY			32UC	East Lindsey District Council	E07000137	East Lindsey	E07000137	East Lindsey	
+ELN	East Lothian	9062	EAST LOTHIAN			781	East Lothian	9062	EAST LOTHIAN			00QM	East Lothian Council	S12000010	East Lothian			
+														E12000004	East Midlands			
+				East Northamptonshire		237	East Northamptonshire	2815	EAST NORTHAMPTONSHIRE			34UD	East Northamptonshire Council	E07000152	East Northamptonshire	E07000152	East Northamptonshire	
+														E12000006	East of England			
+ERW	East Renfrewshire	9063	EAST RENFREWSHIRE			787	East Renfrewshire	9063	EAST RENFREWSHIRE			00QN	East Renfrewshire Council	S12000011	East Renfrewshire			
+ERY	East Riding of Yorkshire	2001	EAST RIDING OF YORKSHIRE	East Riding of Yorkshire		863	East Riding of Yorkshire	2001	EAST RIDING OF YORKSHIRE	East Riding of Yorkshire		00FB	East Riding of Yorkshire Council	E06000011	East Riding of Yorkshire	E06000011	East Riding of Yorkshire	
+				East Staffordshire		288	East Staffordshire	3410	EAST STAFFORDSHIRE			41UC	East Staffordshire Borough Council	E07000193	East Staffordshire	E07000193	East Staffordshire	
+ESX	East Sussex	1430;1415;1425;1435;1410	EAST SUSSEX;EAST SUSSEX;EAST SUSSEX;EAST SUSSEX;EAST SUSSEX	East Sussex								21	East Sussex County Council	E10000011	East Sussex	E10000011	East Sussex	
+				Eastbourne		102	Eastbourne	1410	EASTBOURNE			21UC	Eastbourne Borough Council	E07000061	Eastbourne	E07000061	Eastbourne	
+				Eastleigh		133	Eastleigh	1715	EASTLEIGH			24UD	Eastleigh Borough Council	E07000086	Eastleigh	E07000086	Eastleigh	
+				Eden		059	Eden	925	EDEN			16UF	Eden District Council	E07000030	Eden	E07000030	Eden	
+														S12000036	Edinburgh, City of			
+						773	Edinburgh (City of)											
+		9020	EILEAN															
+ELS	Eilean Siar													S12000013	Eilean Siar			
+				Elmbridge		305	Elmbridge	3605	ELMBRIDGE			43UB	Elmbridge Borough Council	E07000207	Elmbridge	E07000207	Elmbridge	
+ENF	Enfield	5300	ENFIELD	Enfield		510	Enfield	5300	ENFIELD					E09000010	Enfield	E09000010	Enfield	
+														E92000001	England			
+														K04000001	England and Wales			
+				Epping Forest		115	Epping Forest	1535	EPPING FOREST			22UH	Epping Forest District Council	E07000072	Epping Forest	E07000072	Epping Forest	
+				Epsom & Ewell		306	Epsom and Ewell	3610	EPSOM AND EWELL			43UC	Epsom and Ewell Borough Council	E07000208	Epsom and Ewell	E07000208	Epsom and Ewell	
+				Erewash		066	Erewash	1025	EREWASH			17UG	Erewash Borough Council	E07000036	Erewash	E07000036	Erewash	
+ESS	Essex	1560;1550;1525;1510;1540;1570;1535;1520;1505;1545;1515;1530	ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX;ESSEX	Essex								22	Essex County Council	E10000012	Essex	E10000012	Essex	
+				Exeter				1110	EXETER					E07000041	Exeter	E07000041	Exeter	
+						073	Exeter City					18UC	Exeter City Council					
+FAL	Falkirk	9065	FALKIRK			774	Falkirk	9065	FALKIRK			00QQ	Falkirk Council	S12000014	Falkirk			
+				Fareham		134	Fareham	1720	FAREHAM			24UE	Fareham Borough Council	E07000087	Fareham	E07000087	Fareham	
+				Fenland		029	Fenland	515	FENLAND			12UD	Fenland District Council	E07000010	Fenland	E07000010	Fenland	
+												95L	Fermanagh District Council					
+FMO	Fermanagh and Omagh					816	Fermanagh and Omagh			Fermanagh and Omagh								
+FIF	Fife	9066	FIFE			775	Fife	9066	FIFE			00QR	Fife Council	S12000015	Fife			
+FLN	Flintshire	6835	FLINTSHIRE			560	Flintshire	6835	FLINTSHIRE			00NJ	Flintshire County Council	W06000005	Flintshire			
+				Forest Heath		298	Forest Heath	3510	FOREST HEATH			42UC	Forest Heath District Council	E07000201	Forest Heath	E07000201	Forest Heath	
+				Forest of Dean		126	Forest of Dean	1615	FOREST OF DEAN			23UD	Forest of Dean District Council	E07000080	Forest of Dean	E07000080	Forest of Dean	
+				Fylde		198	Fylde	2325	FYLDE			30UF	Fylde Borough Council	E07000119	Fylde	E07000119	Fylde	
+GAT	Gateshead	4505	GATESHEAD	Gateshead		410	Gateshead	4505	GATESHEAD			00CH	Gateshead Metropolitan Borough Council	E08000037;E08000020	Gateshead;Gateshead	E08000037	Gateshead	
+				Gedling		262	Gedling	3020	GEDLING			37UE	Gedling Borough Council	E07000173	Gedling	E07000173	Gedling	
+		9067;9078	GLASGOW;GLASGOW															
+GLG	Glasgow City	9067;9067	GLASGOW CITY;GLASGOW CITY COUCIL			776	Glasgow City					00QS	Glasgow City Council	S12000046	Glasgow City			
+				Gloucester				1620	GLOUCESTER					E07000081	Gloucester	E07000081	Gloucester	
+						127	Gloucester City					23UE	Gloucester City Council					
+GLS	Gloucestershire	1630;1605;1620;1610;1615;1625	GLOUCESTERSHIRE;GLOUCESTERSHIRE;GLOUCESTERSHIRE;GLOUCESTERSHIRE;GLOUCESTERSHIRE;GLOUCESTERSHIRE	Gloucestershire								23	Gloucestershire County Council	E10000013	Gloucestershire	E10000013	Gloucestershire	
+				Gosport		135	Gosport	1725	GOSPORT			24UF	Gosport Borough Council	E07000088	Gosport	E07000088	Gosport	
+				Gravesham		184	Gravesham	2230	GRAVESHAM			29UG	Gravesham Borough Council	E07000109	Gravesham	E07000109	Gravesham	
+														K03000001	Great Britain			
+				Great Yarmouth		229	Great Yarmouth	2615	GREAT YARMOUTH			33UD	Great Yarmouth Borough Council	E07000145	Great Yarmouth	E07000145	Great Yarmouth	
+														E11000001	Greater Manchester			
+GRE	Greenwich	5330	GREENWICH	Greenwich		511	Greenwich	5330	GREENWICH					E09000011	Greenwich	E09000011	Greenwich	
+				Guildford		307	Guildford	3615	GUILDFORD			43UD	Guildford Borough Council	E07000209	Guildford	E07000209	Guildford	
+GWN	Gwynedd	6810	GWYNEDD			554	Gwynedd	6810	GWYNEDD			00NC	Gwynedd Council	W06000002	Gwynedd			
+HCK	Hackney	5360	HACKNEY	Hackney		512	Hackney	5360	HACKNEY					E09000012	Hackney	E09000012	Hackney	
+HAL	Halton	650	HALTON	Halton		889	Halton	650	HALTON			00ET	Halton Borough Council	E06000006	Halton	E06000006	Halton	
+				Hambleton		251	Hambleton	2710	HAMBLETON			36UC	Hambleton District Council	E07000164	Hambleton	E07000164	Hambleton	
+HMF	Hammersmith and Fulham	5390	HAMMERSMITH AND FULHAM	Hammersmith & Fulham		513	Hammersmith and Fulham	5390	HAMMERSMITH AND FULHAM					E09000013	Hammersmith and Fulham	E09000013	Hammersmith and Fulham	
+HAM	Hampshire	1740;1770;1715;1750;1720;1710;1725;1730;1765;1705;1760;1735	HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE;HAMPSHIRE	Hampshire								24	Hampshire County Council	E10000014	Hampshire	E10000014	Hampshire	
+				Harborough		211	Harborough	2415	HARBOROUGH			31UD	Harborough District Council	E07000131	Harborough	E07000131	Harborough	
+HRY	Haringey			Haringey		514	Haringey							E09000014	Haringey	E09000014	Haringey	
+				Harlow		116	Harlow	1540	HARLOW			22UJ	Harlow Council	E07000073	Harlow	E07000073	Harlow	
+				Harrogate		252	Harrogate	2715	HARROGATE			36UD	Harrogate Borough Council	E07000165	Harrogate	E07000165	Harrogate	
+HRW	Harrow	5450	HARROW	Harrow		515	Harrow	5450	HARROW					E09000015	Harrow	E09000015	Harrow	
+				Hart		136	Hart	1730	HART			24UG	Hart District Council	E07000089	Hart	E07000089	Hart	
+HPL	Hartlepool	724	HARTLEPOOL	Hartlepool		859	Hartlepool	724	HARTLEPOOL			00EB	Hartlepool Borough Council	E06000001	Hartlepool	E06000001	Hartlepool	
+				Hastings		103	Hastings	1415	HASTINGS			21UD	Hastings Borough Council	E07000062	Hastings	E07000062	Hastings	
+				Havant		137	Havant	1735	HAVANT			24UH	Havant Borough Council	E07000090	Havant	E07000090	Havant	
+HAV	Havering	5480	HAVERING	Havering		516	Havering	5480	HAVERING					E09000016	Havering	E09000016	Havering	
+HEF	Herefordshire	1850	HEREFORDSHIRE	Herefordshire		895	Herefordshire	1850	HEREFORDSHIRE			00GA	Herefordshire Council	E06000019	Herefordshire, County of	E06000019	Herefordshire, County of	
+HRT	Hertfordshire	1940;1905;1915;1950;1935;1900;1920;1930;1945;1910;1925	HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE;HERTFORDSHIRE	Hertfordshire								26	Hertfordshire County Council	E10000015	Hertfordshire	E10000015	Hertfordshire	
+				Hertsmere		158	Hertsmere	1920	HERTSMERE			26UE	Hertsmere Borough Council	E07000098	Hertsmere	E07000098	Hertsmere	
+				High Peak		067	High Peak	1030	HIGH PEAK			17UH	High Peak Borough Council	E07000037	High Peak	E07000037	High Peak	
+		9068	HIGHANDS															
+HLD	Highland	9068	HIGHLAND			777	Highland	9068	HIGHLAND					S12000017	Highland			
+		9068	HIGHLANDS															
+HIL	Hillingdon	5510	HILLINGDON	Hillingdon		517	Hillingdon	5510	HILLINGDON					E09000017	Hillingdon	E09000017	Hillingdon	
+				Hinckley & Bosworth		212	Hinckley and Bosworth	2420	HINCKLEY AND BOSWORTH			31UE	Hinckley and Bosworth Borough Council	E07000132	Hinckley and Bosworth	E07000132	Hinckley and Bosworth	
+				Horsham		327	Horsham	3825	HORSHAM			45UF	Horsham District Council	E07000227	Horsham	E07000227	Horsham	
+HNS	Hounslow			Hounslow		518	Hounslow							E09000018	Hounslow	E09000018	Hounslow	
+						866	Hull City					00FA	Hull City Council					
+				Huntingdonshire		030	Huntingdonshire	520	HUNTINGDONSHIRE			12UE	Huntingdonshire District Council	E07000011	Huntingdonshire	E07000011	Huntingdonshire	
+				Hyndburn		199	Hyndburn	2330	HYNDBURN			30UG	Hyndburn Borough Council	E07000120	Hyndburn	E07000120	Hyndburn	
+														E13000001	Inner London			
+IVC	Inverclyde	9069	INVERCLYDE			778	Inverclyde	9069	INVERCLYDE			00QU	Inverclyde Council	S12000018	Inverclyde			
+				Ipswich		299	Ipswich	3515	IPSWICH			42UD	Ipswich Borough Council	E07000202	Ipswich	E07000202	Ipswich	
+AGY	Isle of Anglesey	6805	ISLE OF ANGLESEY					6805	ISLE OF ANGLESEY			00NA	Isle of Anglesey County Council	W06000001	Isle of Anglesey			
+		9072	ISLE OF ARRAN															
+		9072	ISLE OF CUMBRAE															
+IOW	Isle of Wight	2114	ISLE OF WIGHT	Isle of Wight		867	Isle of Wight	2114	ISLE OF WIGHT			00MW	Isle of Wight Council	E06000046	Isle of Wight	E06000046	Isle of Wight	
+IOS	Isles of Scilly	835	ISLES OF SCILLY			336	Isles of Scilly	835	ISLES OF SCILLY					E06000053	Isles of Scilly	E06000053	Isles of Scilly	
+ISL	Islington	5570	ISLINGTON	Islington		519	Islington	5570	ISLINGTON					E09000019	Islington	E09000019	Islington	
+KEC	Kensington and Chelsea	5600	KENSINGTON AND CHELSEA	Kensington & Chelsea		520	Kensington and Chelsea	5600	KENSINGTON AND CHELSEA					E09000020	Kensington and Chelsea	E09000020	Kensington and Chelsea	
+KEN	Kent	2220;2210;2245;2270;2215;2260;2230;2205;2250;2235;2265;2255	KENT;KENT;KENT;KENT;KENT;KENT;KENT;KENT;KENT;KENT;KENT;KENT	Kent								29	Kent County Council	E10000016	Kent	E10000016	Kent	
+				Kettering		238	Kettering	2820	KETTERING			34UE	Kettering Borough Council	E07000153	Kettering	E07000153	Kettering	
+				King's Lynn & West Norfolk		230	King's Lynn and West Norfolk							E07000146	King's Lynn and West Norfolk	E07000146	King's Lynn and West Norfolk	
+								2635	KINGS LYNN AND WEST NORFOLK									
+KHL	Kingston upon Hull	2004	KINGSTON UPON HULL	Kingston upon Hull				2004	KINGSTON UPON HULL					E06000010	Kingston upon Hull, City of	E06000010	Kingston upon Hull, City of	
+KTT	Kingston upon Thames	5630	KINGSTON UPON THAMES	Kingston Upon Thames		521	Kingston-Upon-Thames	5630	KINGSTON UPON THAMES					E09000021	Kingston upon Thames	E09000021	Kingston upon Thames	
+KIR	Kirklees	4715	KIRKLEES	Kirklees		411	Kirklees	4715	KIRKLEES			00CZ	Kirklees Council	E08000034	Kirklees	E08000034	Kirklees	
+KWL	Knowsley	4305	KNOWSLEY	Knowsley		412	Knowsley	4305	KNOWSLEY			00BX	Knowsley Council	E08000011	Knowsley	E08000011	Knowsley	
+LBH	Lambeth	5660	LAMBETH	Lambeth		522	Lambeth	5660	LAMBETH					E09000022	Lambeth	E09000022	Lambeth	
+LAN	Lancashire	2335;2325;2355;2365;2345;2315;2360;2320;2330;2370;2340;2350	LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE;LANCASHIRE	Lancashire								30	Lancashire County Council	E10000017	Lancashire	E10000017	Lancashire	
+				Lancaster										E07000121	Lancaster	E07000121	Lancaster	
+						200	Lancaster City	2335	LANCASTER CITY			30UH	Lancaster City Council					
+												95F	Larne Borough Council					
+LDS	Leeds	4720	LEEDS	Leeds		413	Leeds	4720	LEEDS					E08000035	Leeds	E08000035	Leeds	
+												00DA	Leeds City Council					
+LCE	Leicester			Leicester										E06000016	Leicester	E06000016	Leicester	
+		2465	LEICESTER CITY			878	Leicester City	2465	LEICESTER CITY			00FN	Leicester City Council					
+LEC	Leicestershire	2430;2415;2410;2405;2420;2435;2440	LEICESTERSHIRE;LEICESTERSHIRE;LEICESTERSHIRE;LEICESTERSHIRE;LEICESTERSHIRE;LEICESTERSHIRE;LEICESTERSHIRE	Leicestershire								31	Leicestershire County Council	E10000018	Leicestershire	E10000018	Leicestershire	
+				Lewes		105	Lewes	1425	LEWES			21UF	Lewes District Council	E07000063	Lewes	E07000063	Lewes	
+LEW	Lewisham	5690	LEWISHAM	Lewisham		523	Lewisham	5690	LEWISHAM					E09000023	Lewisham	E09000023	Lewisham	
+				Lichfield		289	Lichfield	3415	LICHFIELD			41UD	Lichfield District Council	E07000194	Lichfield	E07000194	Lichfield	
+												95B	Limavady Borough Council					
+				Lincoln				2515	LINCOLN					E07000138	Lincoln	E07000138	Lincoln	
+						221	Lincoln City											
+LIN	Lincolnshire	2515;2520;2525;2510;2535;2530;2505	LINCOLNSHIRE;LINCOLNSHIRE;LINCOLNSHIRE;LINCOLNSHIRE;LINCOLNSHIRE;LINCOLNSHIRE;LINCOLNSHIRE	Lincolnshire								32	Lincolnshire County Council	E10000019	Lincolnshire	E10000019	Lincolnshire	
+LBC	Lisburn and Castlereagh									Lisburn and Castlereagh								
+						809	Lisburn and Castlereagh City											
+												95S	Lisburn City Council					
+LIV	Liverpool	4310	LIVERPOOL	Liverpool		414	Liverpool	4310	LIVERPOOL					E08000012	Liverpool	E08000012	Liverpool	
+												00BY	Liverpool City Council					
+														E12000007	London			
+												00AB	London Borough of Barking and Dagenham					
+												00AC	London Borough of Barnet					
+												00AD	London Borough of Bexley					
+												00AE	London Borough of Brent					
+		5180	LONDON BOROUGH OF BROMLEY					5180	LONDON BOROUGH OF BROMLEY			00AF	London Borough of Bromley					
+												00AG	London Borough of Camden					
+												00AH	London Borough of Croydon					
+												00AJ	London Borough of Ealing					
+												00AK	London Borough of Enfield					
+												00AM	London Borough of Hackney					
+												00AN	London Borough of Hammersmith & Fulham					
+		5420	LONDON BOROUGH OF HARINGEY					5420	LONDON BOROUGH OF HARINGEY			00AP	London Borough of Haringey					
+												00AQ	London Borough of Harrow					
+		5480	LONDON BOROUGH OF HAVERING									00AR	London Borough of Havering					
+												00AS	London Borough of Hillingdon					
+		5540	LONDON BOROUGH OF HOUNSLOW					5540	LONDON BOROUGH OF HOUNSLOW			00AT	London Borough of Hounslow					
+												00AU	London Borough of Islington					
+												00AY	London Borough of Lambeth					
+												00AZ	London Borough of Lewisham					
+												00BA	London Borough of Merton					
+												00BB	London Borough of Newham					
+												00BC	London Borough of Redbridge					
+												00BD	London Borough of Richmond upon Thames					
+												00BE	London Borough of Southwark					
+												00BF	London Borough of Sutton					
+												00BG	London Borough of Tower Hamlets					
+												00BH	London Borough of Waltham Forest					
+												00BJ	London Borough of Wandsworth					
+LUT	Luton	230	LUTON	Luton		869	Luton	230	LUTON			00KA	Luton Borough Council	E06000032	Luton	E06000032	Luton	
+												95H	Magherafelt District Council					
+				Maidstone		185	Maidstone	2235	MAIDSTONE			29UH	Maidstone Borough Council	E07000110	Maidstone	E07000110	Maidstone	
+				Maldon		117	Maldon	1545	MALDON			22UK	Maldon District Council	E07000074	Maldon	E07000074	Maldon	
+				Malvern Hills		148	Malvern Hills	1820	MALVERN HILLS			47UC	Malvern Hills District Council	E07000235	Malvern Hills	E07000235	Malvern Hills	
+MAN	Manchester	4215	MANCHESTER	Manchester		415	Manchester	4215	MANCHESTER					E08000003	Manchester	E08000003	Manchester	
+												00BN	Manchester City Council					
+				Mansfield		263	Mansfield	3025	MANSFIELD			37UF	Mansfield District Council	E07000174	Mansfield	E07000174	Mansfield	
+MDW	Medway	2280	MEDWAY	Medway		896	Medway	2280	MEDWAY			00LC	Medway Council	E06000035	Medway	E06000035	Medway	
+				Melton		214	Melton	2430	MELTON			31UG	Melton Borough Council	E07000133	Melton	E07000133	Melton	
+				Mendip		281	Mendip	3305	MENDIP			40UB	Mendip District Council	E07000187	Mendip	E07000187	Mendip	
+														E11000002	Merseyside			
+MTY	Merthyr Tydfil	6925	MERTHYR TYDFIL UA			561;561	Merthyr Tydfil;Merthyr Tudful	6925	MERTHYR TYDFIL UA			00PH	Merthyr Tydfil County Borough Council	W06000024	Merthyr Tydfil			
+MRT	Merton	5720	MERTON	Merton		524	Merton	5720	MERTON					E09000024	Merton	E09000024	Merton	
+MEA	Mid and East Antrim					804	Mid and East Antrim			Mid and East Antrim								
+				Mid Devon		074	Mid Devon	1135	MID DEVON			18UD	Mid Devon District Council	E07000042	Mid Devon	E07000042	Mid Devon	
+				Mid Suffolk		300	Mid Suffolk	3520	MID SUFFOLK			42UE	Mid Suffolk District Council	E07000203	Mid Suffolk	E07000203	Mid Suffolk	
+				Mid Sussex		328	Mid Sussex	3830	MID SUSSEX			45UG	Mid Sussex District Council	E07000228	Mid Sussex	E07000228	Mid Sussex	
+MUL	Mid Ulster					811	Mid Ulster			Mid Ulster								
+MDB	Middlesbrough	734	MIDDLESBROUGH	Middlesbrough		861	Middlesbrough	734	MIDDLESBROUGH			00EC	Middlesbrough Borough Council	E06000002	Middlesbrough	E06000002	Middlesbrough	
+MLN	Midlothian	9070	MIDLOTHIAN			783	Midlothian	9070	MIDLOTHIAN			00QW	Midlothian Council	S12000019	Midlothian			
+MIK	Milton Keynes	435	MILTON KEYNES	Milton Keynes		870	Milton Keynes	435	MILTON KEYNES			00MG	Milton Keynes Council	E06000042	Milton Keynes	E06000042	Milton Keynes	
+				Mole Valley		308	Mole Valley	3620	MOLE VALLEY			43UE	Mole Valley District Council	E07000210	Mole Valley	E07000210	Mole Valley	
+MON	Monmouthshire	6840	MONMOUTHSHIRE			562	Monmouthshire	6840	MONMOUTHSHIRE			00PP	Monmouthshire County Council	W06000021	Monmouthshire			
+MRY	Moray	9071	MORAY			784	Moray	9071	MORAY			00QX	Moray Council	S12000020	Moray			
+												95E	Moyle District Council					
+		9020	NA H-EILEANAN AN IAR															
+NTL	Neath Port Talbot	6930	NEATH PORT TALBOT			563	Neath Port Talbot	6930	NEATH PORT TALBOT			00NZ	Neath Port Talbot County Borough Council	W06000012	Neath Port Talbot			
+				New Forest		138	New Forest	1740	NEW FOREST			24UJ	New Forest District Council	E07000091	New Forest	E07000091	New Forest	
+				Newark & Sherwood		264	Newark and Sherwood	3030	NEWARK AND SHERWOOD			37UG	Newark and Sherwood District Council	E07000175	Newark and Sherwood	E07000175	Newark and Sherwood	
+												00CJ	Newcastle City Council					
+				Newcastle-under-Lyme		290	Newcastle-Under-Lyme	3420	NEWCASTLE-UNDER-LYME			41UE	Newcastle-under-Lyme District Council	E07000195	Newcastle-under-Lyme	E07000195	Newcastle-under-Lyme	
+NET	Newcastle upon Tyne	4510	NEWCASTLE UPON TYNE	Newcastle Upon Tyne		416	Newcastle Upon Tyne	4510	NEWCASTLE UPON TYNE					E08000021	Newcastle upon Tyne	E08000021	Newcastle upon Tyne	
+NWM	Newham	5750	NEWHAM	Newham		525	Newham	5750	NEWHAM					E09000025	Newham	E09000025	Newham	
+NWP	Newport	6935	NEWPORT			564	Newport	6935	NEWPORT					W06000022	Newport			
+												00PR	Newport City Council					
+												95P	Newry and Mourne District Council					
+NMD	Newry, Mourne and Down					814	Newry, Mourne and Down			Newry, Mourne and Down								
+												95U	Newtownabbey Borough Council					
+NFK	Norfolk	2630;2610;2615;2625;2605;2620;2635	NORFOLK;NORFOLK;NORFOLK;NORFOLK;NORFOLK;NORFOLK;NORFOLK	Norfolk								33	Norfolk County Council	E10000020	Norfolk	E10000020	Norfolk	
+NAY	North Ayrshire	9072	NORTH AYRSHIRE			765	North Ayrshire	9072	NORTH AYRSHIRE			00QY	North Ayrshire Council	S12000021	North Ayrshire			
+				North Devon		075	North Devon	1115	NORTH DEVON			18UE	North Devon Council	E07000043	North Devon	E07000043	North Devon	
+				North Dorset		086	North Dorset	1215	NORTH DORSET			19UE	North Dorset District Council	E07000050	North Dorset	E07000050	North Dorset	
+												95W	North Down Borough Council					
+										North Down and Ards								
+														E12000001	North East			
+				North East Derbyshire		068	North East Derbyshire	1035	NORTH EAST DERBYSHIRE			17UJ	North East Derbyshire District Council	E07000038	North East Derbyshire	E07000038	North East Derbyshire	
+NEL	North East Lincolnshire	2002	NORTH EAST LINCOLNSHIRE	North East Lincolnshire		865	North East Lincolnshire	2002	NORTH EAST LINCOLNSHIRE	North East Lincolnshire		00FC	North East Lincolnshire Council	E06000012	North East Lincolnshire	E06000012	North East Lincolnshire	
+				North Hertfordshire		159	North Hertfordshire	1925	NORTH HERTFORDSHIRE			26UF	North Hertfordshire District Council	E07000099	North Hertfordshire	E07000099	North Hertfordshire	
+				North Kesteven		222	North Kesteven	2520	NORTH KESTEVEN			32UE	North Kesteven District Council	E07000139	North Kesteven	E07000139	North Kesteven	
+NLK	North Lanarkshire	9073	NORTH LANARKSHIRE			779	North Lanarkshire	9073	NORTH LANARKSHIRE			00QZ	North Lanarkshire Council	S12000044	North Lanarkshire			
+NLN	North Lincolnshire	2003	NORTH LINCOLNSHIRE	North Lincolnshire		864	North Lincolnshire	2003	NORTH LINCOLNSHIRE	North Lincolnshire		00FD	North Lincolnshire Council	E06000013	North Lincolnshire	E06000013	North Lincolnshire	
+				North Norfolk		231	North Norfolk	2620	NORTH NORFOLK			33UF	North Norfolk District Council	E07000147	North Norfolk	E07000147	North Norfolk	
+NSM	North Somerset	121	NORTH SOMERSET	North Somerset		858	North Somerset	121	NORTH SOMERSET			00HC	North Somerset  Council	E06000024	North Somerset	E06000024	North Somerset	
+NTY	North Tyneside	4515	NORTH TYNESIDE	North Tyneside		417	North Tyneside	4515	NORTH TYNESIDE			00CK	North Tyneside Council	E08000022	North Tyneside	E08000022	North Tyneside	
+				North Warwickshire		317	North Warwickshire	3705	NORTH WARWICKSHIRE			44UB	North Warwickshire Borough Council	E07000218	North Warwickshire	E07000218	North Warwickshire	
+														E12000002	North West			
+				North West Leicestershire		215	North West Leicestershire	2435	NORTH WEST LEICESTERSHIRE			31UH	North West Leicestershire District Council	E07000134	North West Leicestershire	E07000134	North West Leicestershire	
+										North West Somerset								
+NYK	North Yorkshire	2715;2730;2720;2710;2735;2705;2725;2741	NORTH YORKSHIRE;NORTH YORKSHIRE;NORTH YORKSHIRE;NORTH YORKSHIRE;NORTH YORKSHIRE;NORTH YORKSHIRE;NORTH YORKSHIRE;NORTH YORKSHIRE	North Yorkshire								36	North Yorkshire County Council	E10000023	North Yorkshire	E10000023	North Yorkshire	
+				Northampton		239	Northampton	2825	NORTHAMPTON			34UF	Northampton Borough Council	E07000154	Northampton	E07000154	Northampton	
+NTH	Northamptonshire	2825;2830;2835;2805;2810;2820;2815	NORTHAMPTONSHIRE;NORTHAMPTONSHIRE;NORTHAMPTONSHIRE;NORTHAMPTONSHIRE;NORTHAMPTONSHIRE;NORTHAMPTONSHIRE;NORTHAMPTONSHIRE	Northamptonshire								34	Northamptonshire County Council	E10000021	Northamptonshire	E10000021	Northamptonshire	
+														N92000002	Northern Ireland			
+NBL	Northumberland	2935	NORTHUMBERLAND	Northumberland		707	Northumberland	2935	NORTHUMBERLAND			00EM	Northumberland Council	E06000048;E06000057	Northumberland;Northumberland	E06000057	Northumberland	
+				Norwich				2625	NORWICH					E07000148	Norwich	E07000148	Norwich	
+						232	Norwich City					33UG	Norwich City Council					
+NGM	Nottingham			Nottingham										E06000018	Nottingham	E06000018	Nottingham	
+		3060	NOTTINGHAM CITY			899	Nottingham City	3060	NOTTINGHAM CITY			00FY	Nottingham City Council					
+NTT	Nottinghamshire	3005;3015;3020;3025;3040;3030;3010	NOTTINGHAMSHIRE;NOTTINGHAMSHIRE;NOTTINGHAMSHIRE;NOTTINGHAMSHIRE;NOTTINGHAMSHIRE;NOTTINGHAMSHIRE;NOTTINGHAMSHIRE	Nottinghamshire								37	Nottinghamshire County Council	E10000024	Nottinghamshire	E10000024	Nottinghamshire	
+				Nuneaton & Bedworth		318	Nuneaton and Bedworth	3710	NUNEATON AND BEDWORTH			44UC	Nuneaton and Bedworth Borough Council	E07000219	Nuneaton and Bedworth	E07000219	Nuneaton and Bedworth	
+				Oadby & Wigston		216	Oadby and Wigston	2440	OADBY AND WIGSTON			31UJ	Oadby and Wigston District Council	E07000135	Oadby and Wigston	E07000135	Oadby and Wigston	
+OLD	Oldham	4220	OLDHAM	Oldham		418	Oldham	4220	OLDHAM			00BP	Oldham Metropolitan Borough Council	E08000004	Oldham	E08000004	Oldham	
+												95K	Omagh District Council					
+		9000	ORKNEY															
+ORK	Orkney Islands	9000	ORKNEY ISLANDS			785	Orkney Islands	9000	ORKNEY ISLANDS			00RA	Orkney Islands Council	S12000023	Orkney Islands			
+														E13000002	Outer London			
+				Oxford				3110	OXFORD					E07000178	Oxford	E07000178	Oxford	
+						269	Oxford City					38UC	Oxford City Council					
+OXF	Oxfordshire	3105;3115;3110;3120;3125	OXFORDSHIRE;OXFORDSHIRE;OXFORDSHIRE;OXFORDSHIRE;OXFORDSHIRE	Oxfordshire								38	Oxfordshire County Council	E10000025	Oxfordshire	E10000025	Oxfordshire	
+PEM	Pembrokeshire	6845	PEMBROKESHIRE			565	Pembrokeshire	6845	PEMBROKESHIRE			00NS	Pembrokeshire County Council	W06000009	Pembrokeshire			
+						553	Pen-y-bont ar Ogwr											
+				Pendle		201	Pendle	2340	PENDLE			30UJ	Pendle Borough Council	E07000122	Pendle	E07000122	Pendle	
+PKN	Perth and Kinross	9074	PERTH AND KINROSS			786	Perth and Kinross	9074	PERTH AND KINROSS			00RB	Perth and Kinross Council	S12000024	Perth and Kinross			
+PTE	Peterborough	540	PETERBOROUGH	Peterborough				540	PETERBOROUGH					E06000031	Peterborough	E06000031	Peterborough	
+						888	Peterborough City					00JA	Peterborough City Council					
+PLY	Plymouth	1160	PLYMOUTH	Plymouth				1160	PLYMOUTH					E06000026	Plymouth	E06000026	Plymouth	
+						891	Plymouth City					00HG	Plymouth City Council					
+POL	Poole	1255	POOLE	Poole		873	Poole	1255	POOLE					E06000029	Poole	E06000029	Poole	
+POR	Portsmouth			Portsmouth		876	Portsmouth							E06000044	Portsmouth	E06000044	Portsmouth	
+		1775	PORTSMOUTH CITY COUNCIL					1775	PORTSMOUTH CITY COUNCIL			00MR	Portsmouth City Council					
+POW	Powys	6850	POWYS			566	Powys	6850	POWYS			00NN	Powys County Council	W06000023	Powys			
+				Preston		202	Preston	2345	PRESTON					E07000123	Preston	E07000123	Preston	
+												30UK	Preston City Council					
+				Purbeck		088	Purbeck	1225	PURBECK			19UG	Purbeck District Council	E07000051	Purbeck	E07000051	Purbeck	
+RDG	Reading	345	READING	Reading		884	Reading	345	READING			00MC	Reading Borough Council	E06000038	Reading	E06000038	Reading	
+RDB	Redbridge	5780	REDBRIDGE	Redbridge		526	Redbridge	5780	REDBRIDGE					E09000026	Redbridge	E09000026	Redbridge	
+RCC	Redcar and Cleveland	728	REDCAR AND CLEVELAND	Redcar & Cleveland		860	Redcar and Cleveland	728	REDCAR AND CLEVELAND			00EE	Redcar and Cleveland Borough Council	E06000003	Redcar and Cleveland	E06000003	Redcar and Cleveland	
+				Redditch		149	Redditch	1825	REDDITCH			47UD	Redditch Borough Council	E07000236	Redditch	E07000236	Redditch	
+				Reigate & Banstead		309	Reigate and Banstead	3625	REIGATE AND BANSTEAD			43UF	Reigate and Banstead Borough Council	E07000211	Reigate and Banstead	E07000211	Reigate and Banstead	
+RFW	Renfrewshire	9075	RENFREWSHIRE			788	Renfrewshire	9075	RENFREWSHIRE			00RC	Renfrewshire Council	S12000038	Renfrewshire			
+RCT	Rhondda Cynon Taff	6940	RHONDDA CYNON TAFF			567	Rhondda Cynon Taf	6940	RHONDDA CYNON TAFF			00PF	Rhondda Cynon Taf County Borough Council	W06000016	Rhondda Cynon Taf			
+				Ribble Valley		203	Ribble Valley	2350	RIBBLE VALLEY			30UL	Ribble Valley Borough Council	E07000124	Ribble Valley	E07000124	Ribble Valley	
+RIC	Richmond upon Thames	5810	RICHMOND UPON THAMES	Richmond Upon Thames		527	Richmond-Upon-Thames	5810	RICHMOND UPON THAMES					E09000027	Richmond upon Thames	E09000027	Richmond upon Thames	
+				Richmondshire		253	Richmondshire	2720	RICHMONDSHIRE			36UE	Richmondshire District Council	E07000166	Richmondshire	E07000166	Richmondshire	
+						648	River Tees											
+RCH	Rochdale	4225	ROCHDALE	Rochdale		419	Rochdale	4225	ROCHDALE			00BQ	Rochdale Metropolitan Borough Council	E08000005	Rochdale	E08000005	Rochdale	
+				Rochford		118	Rochford	1550	ROCHFORD			22UL	Rochford District Council	E07000075	Rochford	E07000075	Rochford	
+				Rossendale		204	Rossendale	2355	ROSSENDALE			30UM	Rossendale Borough Council	E07000125	Rossendale	E07000125	Rossendale	
+				Rother		106	Rother	1430	ROTHER			21UG	Rother District Council	E07000064	Rother	E07000064	Rother	
+ROT	Rotherham	4415	ROTHERHAM	Rotherham		420	Rotherham	4415	ROTHERHAM			00CF	Rotherham Metropolitan Borough Council	E08000018	Rotherham	E08000018	Rotherham	
+												00AL	Royal Borough of Greenwich					
+												00AW	Royal Borough of Kensington and Chelsea					
+												00AX	Royal Borough of Kingston upon Thames					
+												00ME	Royal Borough of Windsor and Maidenhead					
+				Rugby		319	Rugby	3715	RUGBY			44UD	Rugby Borough Council	E07000220	Rugby	E07000220	Rugby	
+				Runnymede		310	Runnymede	3630	RUNNYMEDE			43UG	Runnymede Borough Council	E07000212	Runnymede	E07000212	Runnymede	
+				Rushcliffe		266	Rushcliffe	3040	RUSHCLIFFE			37UJ	Rushcliffe Borough Council	E07000176	Rushcliffe	E07000176	Rushcliffe	
+				Rushmoor		140	Rushmoor	1750	RUSHMOOR			24UL	Rushmoor Borough Council	E07000092	Rushmoor	E07000092	Rushmoor	
+RUT	Rutland	2470	RUTLAND	Rutland				2470	RUTLAND			00FP	Rutland County Council	E06000017	Rutland	E06000017	Rutland	
+				Ryedale		254	Ryedale	2725	RYEDALE			36UF	Ryedale District Council	E07000167	Ryedale	E07000167	Ryedale	
+SLF	Salford	4230	SALFORD	Salford		422	Salford	4230	SALFORD					E08000006	Salford	E08000006	Salford	
+												00BR	Salford City Council					
+SAW	Sandwell	4620	SANDWELL	Sandwell		423	Sandwell	4620	SANDWELL			00CS	Sandwell Metropolitan Borough Council	E08000028	Sandwell	E08000028	Sandwell	
+				Scarborough		255	Scarborough	2730	SCARBOROUGH			36UG	Scarborough Borough Council	E07000168	Scarborough	E07000168	Scarborough	
+														S92000003	Scotland			
+		9055	SCOTTISH BORDERS			767	Scottish Borders	9055	SCOTTISH BORDERS			00QE	Scottish Borders Council	S12000026	Scottish Borders			
+				Sedgemoor		282	Sedgemoor	3310	SEDGEMOOR			40UC	Sedgemoor District Council	E07000188	Sedgemoor	E07000188	Sedgemoor	
+SFT	Sefton	4320	SEFTON COUNCIL	Sefton		424	Sefton	4320	SEFTON COUNCIL			00CA	Sefton Metropolitan Borough Council	E08000014	Sefton	E08000014	Sefton	
+				Selby		256	Selby	2735	SELBY			36UH	Selby District Council	E07000169	Selby	E07000169	Selby	
+				Sevenoaks		187	Sevenoaks	2245	SEVENOAKS			29UK	Sevenoaks District Council	E07000111	Sevenoaks	E07000111	Sevenoaks	
+SHF	Sheffield	4420	SHEFFIELD	Sheffield		425	Sheffield	4420	SHEFFIELD					E08000019	Sheffield	E08000019	Sheffield	
+												00CG	Sheffield City Council					
+				Shepway		188	Shepway	2250	SHEPWAY			29UL	Shepway District Council	E07000112	Shepway	E07000112	Shepway	
+		9010	SHETLAND															
+ZET	Shetland Islands					789	Shetland Islands	9010	SHETLAND ISLANDS			00RD	Shetland Islands Council	S12000027	Shetland Islands			
+SHR	Shropshire	3245	SHROPSHIRE	Shropshire		708	Shropshire	3245	SHROPSHIRE			00GG	Shropshire Council	E06000051	Shropshire	E06000051	Shropshire	
+						565	Sir Benfro											
+						559	Sir Ddinbych											
+						562	Sir Fynwy											
+						558	Sir Gaerfyrddin											
+						560	Sir y Fflint											
+SLG	Slough	350	SLOUGH	Slough		885	Slough	350	SLOUGH			00MD	Slough Borough Council	E06000039	Slough	E06000039	Slough	
+SOL	Solihull	4625	SOLIHULL	Solihull		426	Solihull	4625	SOLIHULL			00CT	Solihull Metropolitan Borough Council	E08000029	Solihull	E08000029	Solihull	
+SOM	Somerset	3315;3310;3305;3320;3325	SOMERSET;SOMERSET;SOMERSET;SOMERSET;SOMERSET	Somerset								40	Somerset County Council	E10000027	Somerset	E10000027	Somerset	
+SAY	South Ayrshire	9076	SOUTH AYRSHIRE			766	South Ayrshire	9076	SOUTH AYRSHIRE			00RE	South Ayrshire Council	S12000028	South Ayrshire			
+		9076	SOUTH AYSHIRE															
+						024	South Buckinghamshire											
+				South Bucks				410	SOUTH BUCKS			11UE	South Bucks District Council	E07000006	South Bucks	E07000006	South Bucks	
+				South Cambridgeshire		032	South Cambridgeshire	530	SOUTH CAMBRIDGESHIRE			12UG	South Cambridgeshire District Council	E07000012	South Cambridgeshire	E07000012	South Cambridgeshire	
+				South Derbyshire		069	South Derbyshire	1040	SOUTH DERBYSHIRE			17UK	South Derbyshire District Council	E07000039	South Derbyshire	E07000039	South Derbyshire	
+														E12000008	South East			
+SGC	South Gloucestershire	119	SOUTH GLOUCESTERSHIRE	South Gloucestershire		856	South Gloucestershire	119	SOUTH GLOUCESTERSHIRE	South Gloucestershire		00HD	South Gloucestershire Council	E06000025	South Gloucestershire	E06000025	South Gloucestershire	
+				South Hams		077	South Hams	1125	SOUTH HAMS			18UG	South Hams District Council	E07000044	South Hams	E07000044	South Hams	
+				South Holland		223	South Holland	2525	SOUTH HOLLAND			32UF	South Holland District Council	E07000140	South Holland	E07000140	South Holland	
+				South Kesteven		224	South Kesteven	2530	SOUTH KESTEVEN			32UG	South Kesteven District Council	E07000141	South Kesteven	E07000141	South Kesteven	
+				South Lakeland		060	South Lakeland	930	SOUTH LAKELAND			16UG	South Lakeland District Council	E07000031	South Lakeland	E07000031	South Lakeland	
+SLK	South Lanarkshire	9077	SOUTH LANARKSHIRE			780	South Lanarkshire	9077	SOUTH LANARKSHIRE			00RF	South Lanarkshire Council	S12000029	South Lanarkshire			
+				South Norfolk		233	South Norfolk	2630	SOUTH NORFOLK			33UH	South Norfolk District Council	E07000149	South Norfolk	E07000149	South Norfolk	
+				South Northamptonshire		240	South Northamptonshire	2830	SOUTH NORTHAMPTONSHIRE			34UG	South Northamptonshire Council	E07000155	South Northamptonshire	E07000155	South Northamptonshire	
+				South Oxfordshire		270	South Oxfordshire	3115	SOUTH OXFORDSHIRE			38UD	South Oxfordshire District Council	E07000179	South Oxfordshire	E07000179	South Oxfordshire	
+				South Ribble		205	South Ribble	2360	SOUTH RIBBLE			30UN	South Ribble Borough Council	E07000126	South Ribble	E07000126	South Ribble	
+				South Somerset		283	South Somerset	3325	SOUTH SOMERSET			40UD	South Somerset District Council	E07000189	South Somerset	E07000189	South Somerset	
+				South Staffordshire		291	South Staffordshire	3430	SOUTH STAFFORDSHIRE			41UF	South Staffordshire Council	E07000196	South Staffordshire	E07000196	South Staffordshire	
+STY	South Tyneside	4520	SOUTH TYNESIDE	South Tyneside		427	South Tyneside	4520	SOUTH TYNESIDE			00CL	South Tyneside Council	E08000023	South Tyneside	E08000023	South Tyneside	
+														E12000009	South West			
+														E11000003	South Yorkshire			
+STH	Southampton	1780	SOUTHAMPTON	Southampton		877	Southampton	1780	SOUTHAMPTON					E06000045	Southampton	E06000045	Southampton	
+												00MS	Southampton City Council					
+SOS	Southend-on-Sea	1590	SOUTHEND-ON-SEA	Southend-on-Sea		893	Southend-On-Sea	1590	SOUTHEND-ON-SEA			00KF	Southend-on-Sea Borough Council	E06000033	Southend-on-Sea	E06000033	Southend-on-Sea	
+SWK	Southwark	5840	SOUTHWARK	Southwark		528	Southwark	5840	SOUTHWARK					E09000028	Southwark	E09000028	Southwark	
+				Spelthorne		311	Spelthorne	3635	SPELTHORNE			43UH	Spelthorne Borough Council	E07000213	Spelthorne	E07000213	Spelthorne	
+				St. Albans				1930	ST ALBANS					E07000240;E07000100	St Albans;St Albans	E07000240	St Albans	
+						160	St Albans City					26UG	St Albans City and District Council					
+				St. Edmundsbury		301	St Edmundsbury	3525	ST EDMUNDSBURY			42UF	St Edmundsbury Borough Council	E07000204	St Edmundsbury	E07000204	St Edmundsbury	
+SHN	St. Helens	4315	ST HELENS COUNCIL	St. Helens		421	St Helens	4315	ST HELENS COUNCIL			00BZ	St Helens Council	E08000013	St. Helens	E08000013	St. Helens	
+				Stafford		292	Stafford	3425	STAFFORD			41UG	Stafford Borough Council	E07000197	Stafford	E07000197	Stafford	
+STS	Staffordshire	3435;3425;3415;3420;3445;3430;3405;3410	STAFFORDSHIRE;STAFFORDSHIRE;STAFFORDSHIRE;STAFFORDSHIRE;STAFFORDSHIRE;STAFFORDSHIRE;STAFFORDSHIRE;STAFFORDSHIRE	Staffordshire								41	Staffordshire County Council	E10000028	Staffordshire	E10000028	Staffordshire	
+				Staffordshire Moorlands		293	Staffordshire Moorlands	3435	STAFFORDSHIRE MOORLANDS			41UH	Staffordshire Moorlands District Council	E07000198	Staffordshire Moorlands	E07000198	Staffordshire Moorlands	
+				Stevenage		161	Stevenage	1935	STEVENAGE			26UH	Stevenage Borough Council	E07000101;E07000243	Stevenage;Stevenage	E07000243	Stevenage	
+STG	Stirling	9078	STIRLING			790	Stirling	9078	STIRLING			00RG	Stirling Council	S12000030	Stirling			
+SKP	Stockport	4235	STOCKPORT	Stockport		428	Stockport	4235	STOCKPORT			00BS	Stockport Metropolitan Borough Council	E08000007	Stockport	E08000007	Stockport	
+STT	Stockton-on-Tees	738	STOCKTON-ON-TEES	Stockton-on-Tees		862	Stockton On Tees	738	STOCKTON-ON-TEES			00EF	Stockton-on-Tees Borough Council	E06000004	Stockton-on-Tees	E06000004	Stockton-on-Tees	
+STE	Stoke-on-Trent			Stoke-on-Trent		880	Stoke-On-Trent							E06000021	Stoke-on-Trent	E06000021	Stoke-on-Trent	
+												00GL	Stoke-on-Trent City Council					
+												95J	Strabane District Council					
+				Stratford-on-Avon		320	Stratford-on-Avon	3720	STRATFORD-ON-AVON			44UE	Stratford-on-Avon District Council	E07000221	Stratford-on-Avon	E07000221	Stratford-on-Avon	
+				Stroud		128	Stroud	1625	STROUD			23UF	Stroud District Council	E07000082	Stroud	E07000082	Stroud	
+SFK	Suffolk	3510;3530;3515;3535;3520;3525;3505	SUFFOLK;SUFFOLK;SUFFOLK;SUFFOLK;SUFFOLK;SUFFOLK;SUFFOLK	Suffolk								42	Suffolk County Council	E10000029	Suffolk	E10000029	Suffolk	
+				Suffolk Coastal		302	Suffolk Coastal	3530	SUFFOLK COASTAL			42UG	Suffolk Coastal District Council	E07000205	Suffolk Coastal	E07000205	Suffolk Coastal	
+SND	Sunderland	4525	SUNDERLAND	Sunderland		429	Sunderland	4525	SUNDERLAND					E08000024	Sunderland	E08000024	Sunderland	
+												00CM	Sunderland City Council					
+SRY	Surrey	3635;3625;3610;3605;3645;3640;3615;3650;3655;3600;3630;3620	SURREY;SURREY;SURREY;SURREY;SURREY;SURREY;SURREY;SURREY;SURREY;SURREY;SURREY;SURREY	Surrey								43	Surrey County Council	E10000030	Surrey	E10000030	Surrey	
+				Surrey Heath		312	Surrey Heath	3640	SURREY HEATH			43UJ	Surrey Heath Borough Council	E07000214	Surrey Heath	E07000214	Surrey Heath	
+STN	Sutton	5870	SUTTON	Sutton		529	Sutton	5870	SUTTON					E09000029	Sutton	E09000029	Sutton	
+				Swale		189	Swale	2255	SWALE			29UM	Swale Borough Council	E07000113	Swale	E07000113	Swale	
+SWA	Swansea	6855	SWANSEA			568	Swansea	6855	SWANSEA					W06000011	Swansea			
+SWD	Swindon	3935	SWINDON	Swindon		881	Swindon	3935	SWINDON			00HX	Swindon Borough Council	E06000030	Swindon	E06000030	Swindon	
+TAM	Tameside	4240	TAMESIDE	Tameside		430	Tameside	4240	TAMESIDE			00BT	Tameside Metropolitan Borough Council	E08000008	Tameside	E08000008	Tameside	
+				Tamworth		295	Tamworth	3445	TAMWORTH			41UK	Tamworth Borough Council	E07000199	Tamworth	E07000199	Tamworth	
+				Tandridge		313	Tandridge	3645	TANDRIDGE			43UK	Tandridge District Council	E07000215	Tandridge	E07000215	Tandridge	
+				Taunton Deane		284	Taunton Deane	3315	TAUNTON DEANE			40UE	Taunton Deane Borough Council	E07000190	Taunton Deane	E07000190	Taunton Deane	
+				Teignbridge		078	Teignbridge	1130	TEIGNBRIDGE			18UH	Teignbridge District Council	E07000045	Teignbridge	E07000045	Teignbridge	
+TFW	Telford and Wrekin	3240	TELFORD AND WREKIN	Telford & Wrekin		900	Telford and Wrekin Council	3240	TELFORD AND WREKIN			00GF	Telford & Wrekin Council	E06000020	Telford and Wrekin	E06000020	Telford and Wrekin	
+				Tendring		120	Tendring	1560	TENDRING			22UN	Tendring District Council	E07000076	Tendring	E07000076	Tendring	
+				Test Valley		142	Test Valley	1760	TEST VALLEY			24UN	Test Valley Borough Council	E07000093	Test Valley	E07000093	Test Valley	
+				Tewkesbury		129	Tewkesbury	1630	TEWKESBURY			23UG	Tewkesbury Borough Council	E07000083	Tewkesbury	E07000083	Tewkesbury	
+				Thanet		190	Thanet					29UN	Thanet District Council	E07000114	Thanet	E07000114	Thanet	
+								2260	THANET DISTRICT									
+												00QT	The Highland Council					
+SCB	The Scottish Borders																	
+VGL	The Vale of Glamorgan													W06000014	The Vale of Glamorgan			
+				Three Rivers		162	Three Rivers	1940	THREE RIVERS			26UJ	Three Rivers District Council	E07000102	Three Rivers	E07000102	Three Rivers	
+THR	Thurrock	1595	THURROCK	Thurrock		894	Thurrock	1595	THURROCK			00KG	Thurrock Council	E06000034	Thurrock	E06000034	Thurrock	
+				Tonbridge & Malling		191	Tonbridge and Malling	2265	TONBRIDGE AND MALLING			29UP	Tonbridge and Malling Borough Council	E07000115	Tonbridge and Malling	E07000115	Tonbridge and Malling	
+TOB	Torbay	1165	TORBAY	Torbay		892	Torbay	1165	TORBAY			00HH	Torbay Council	E06000027	Torbay	E06000027	Torbay	
+TOF	Torfaen	6945	TORFAEN			569	Torfaen	6945	TORFAEN			00PM	Torfaen County Borough Council	W06000020	Torfaen			
+				Torridge		080	Torridge	1145	TORRIDGE			18UK	Torridge District Council	E07000046	Torridge	E07000046	Torridge	
+TWH	Tower Hamlets	5900	TOWER HAMLETS	Tower Hamlets		530	Tower Hamlets	5900	TOWER HAMLETS					E09000030	Tower Hamlets	E09000030	Tower Hamlets	
+TRF	Trafford	4245	TRAFFORD	Trafford		431	Trafford	4245	TRAFFORD			00BU	Trafford Council	E08000009	Trafford	E08000009	Trafford	
+				Tunbridge Wells		192	Tunbridge Wells	2270	TUNBRIDGE WELLS			29UQ	Tunbridge Wells Borough Council	E07000116	Tunbridge Wells	E07000116	Tunbridge Wells	
+														E11000007;E11000004	Tyne and Wear;Tyne and Wear			
+														K02000001	United Kingdom			
+				Uttlesford		122	Uttlesford	1570	UTTLESFORD			22UQ	Uttlesford District Council	E07000077	Uttlesford	E07000077	Uttlesford	
+		6950	VALE OF GLAMORGAN			570	Vale of Glamorgan	6950	VALE OF GLAMORGAN			00PD	Vale of Glamorgan Council					
+				Vale of White Horse		271	Vale of White Horse	3120	VALE OF WHITE HORSE			38UE	Vale of White Horse District Council	E07000180	Vale of White Horse	E07000180	Vale of White Horse	
+WKF	Wakefield	4725	WAKEFIELD	Wakefield		432	Wakefield	4725	WAKEFIELD			00DB	Wakefield Metropolitan District Council	E08000036	Wakefield	E08000036	Wakefield	
+														W92000004	Wales			
+WLL	Walsall	4630	WALSALL	Walsall		433	Walsall	4630	WALSALL			00CU	Walsall Council	E08000030	Walsall	E08000030	Walsall	
+WFT	Waltham Forest	5930	WALTHAM FOREST	Waltham Forest		531	Waltham Forest	5930	WALTHAM FOREST					E09000031	Waltham Forest	E09000031	Waltham Forest	
+WND	Wandsworth	5960	WANDSWORTH	Wandsworth		532	Wandsworth	5960	WANDSWORTH					E09000032	Wandsworth	E09000032	Wandsworth	
+WRT	Warrington	655	WARRINGTON	Warrington		890	Warrington	655	WARRINGTON			00EU	Warrington Borough Council	E06000007	Warrington	E06000007	Warrington	
+				Warwick		321	Warwick	3725	WARWICK			44UF	Warwick District Council	E07000222	Warwick	E07000222	Warwick	
+WAR	Warwickshire	3705;3725;3720;3710;3715	WARWICKSHIRE;WARWICKSHIRE;WARWICKSHIRE;WARWICKSHIRE;WARWICKSHIRE	Warwickshire								44	Warwickshire County Council	E10000031	Warwickshire	E10000031	Warwickshire	
+				Watford		163	Watford	1945	WATFORD			26UK	Watford Borough Council	E07000103	Watford	E07000103	Watford	
+				Waveney		303	Waveney	3535	WAVENEY			42UH	Waveney District Council	E07000206	Waveney	E07000206	Waveney	
+				Waverley		314	Waverley	3650	WAVERLEY			43UL	Waverley Borough Council	E07000216	Waverley	E07000216	Waverley	
+				Wealden		107	Wealden	1435	WEALDEN			21UH	Wealden District Council	E07000065	Wealden	E07000065	Wealden	
+				Wellingborough		241	Wellingborough	2835	WELLINGBOROUGH			34UH	Wellingborough Borough Council	E07000156	Wellingborough	E07000156	Wellingborough	
+				Welwyn Hatfield		164	Welwyn Hatfield	1950	WELWYN HATFIELD			26UL	Welwyn Hatfield Council	E07000241;E07000104	Welwyn Hatfield;Welwyn Hatfield	E07000241	Welwyn Hatfield	
+WBK	West Berkshire	340	WEST BERKSHIRE	West Berkshire		883	West Berkshire	340	WEST BERKSHIRE			00MB	West Berkshire Council	E06000037	West Berkshire	E06000037	West Berkshire	
+				West Devon		081	West Devon	1150	WEST DEVON			18UL	West Devon Borough Council	E07000047	West Devon	E07000047	West Devon	
+				West Dorset		089	West Dorset	1230	WEST DORSET			19UH	West Dorset District Council	E07000052	West Dorset	E07000052	West Dorset	
+WDU	West Dunbartonshire	9057	WEST DUNBARTONSHIRE			769	West Dunbartonshire	9057	WEST DUNBARTONSHIRE			00QG	West Dunbartonshire Council	S12000039	West Dunbartonshire			
+				West Lancashire		206	West Lancashire	2365	WEST LANCASHIRE			30UP	West Lancashire Borough Council	E07000127	West Lancashire	E07000127	West Lancashire	
+				West Lindsey		225	West Lindsey	2535	WEST LINDSEY			32UH	West Lindsey District Council	E07000142	West Lindsey	E07000142	West Lindsey	
+WLN	West Lothian	9079	WEST LOTHIAN			782	West Lothian	9079	WEST LOTHIAN			00RH	West Lothian Council	S12000040	West Lothian			
+														E11000005;E12000005	West Midlands;West Midlands			
+				West Oxfordshire		272	West Oxfordshire	3125	WEST OXFORDSHIRE			38UF	West Oxfordshire District Council	E07000181	West Oxfordshire	E07000181	West Oxfordshire	
+				West Somerset		285	West Somerset	3320	WEST SOMERSET			40UF	West Somerset Council	E07000191	West Somerset	E07000191	West Somerset	
+WSX	West Sussex	3810;3815;3820;3835;3825;3830;3805	WEST SUSSEX;WEST SUSSEX;WEST SUSSEX;WEST SUSSEX;WEST SUSSEX;WEST SUSSEX;WEST SUSSEX	West Sussex								45	West Sussex County Council	E10000032	West Sussex	E10000032	West Sussex	
+		4710	WEST YORKSHIRE											E11000006	West Yorkshire			
+								9020	WESTERN ISLES									
+WSM	Westminster			Westminster		533	Westminster							E09000033	Westminster	E09000033	Westminster	
+				Weymouth & Portland		090	Weymouth and Portland	1235	WEYMOUTH AND PORTLAND			19UJ	Weymouth and Portland Borough Council	E07000053	Weymouth and Portland	E07000053	Weymouth and Portland	
+WGN	Wigan	4250	WIGAN	Wigan		434	Wigan	4250	WIGAN			00BW	Wigan Council	E08000010	Wigan	E08000010	Wigan	
+WIL	Wiltshire	3940	WILTSHIRE	Wiltshire		709	Wiltshire	3940	WILTSHIRE			00HY	Wiltshire Council	E06000054	Wiltshire	E06000054	Wiltshire	
+				Winchester				1765	WINCHESTER					E07000094	Winchester	E07000094	Winchester	
+						143	Winchester City					24UP	Winchester City Council					
+WNM	Windsor and Maidenhead	355	WINDSOR AND MAIDENHEAD	Windsor & Maidenhead		886	Windsor and Maidenhead	355	WINDSOR AND MAIDENHEAD					E06000040	Windsor and Maidenhead	E06000040	Windsor and Maidenhead	
+WRL	Wirral	4325	WIRRAL	Wirral		435	Wirral	4325	WIRRAL			00CB	Wirral Council	E08000015	Wirral	E08000015	Wirral	
+				Woking		315	Woking	3655	WOKING			43UM	Woking Borough Council	E07000217	Woking	E07000217	Woking	
+WOK	Wokingham	360	WOKINGHAM	Wokingham		887	Wokingham	360	WOKINGHAM			00MF	Wokingham Borough Council	E06000041	Wokingham	E06000041	Wokingham	
+WLV	Wolverhampton	4635	WOLVERHAMPTON	Wolverhampton		436	Wolverhampton	4635	WOLVERHAMPTON					E08000031	Wolverhampton	E08000031	Wolverhampton	
+												00CW	Wolverhampton City Council					
+				Worcester				1835	WORCESTER					E07000237	Worcester	E07000237	Worcester	
+						151	Worcester City					47UE	Worcester City Council					
+WOR	Worcestershire	1805;1825;1820;1835;1845;1840	WORCESTERSHIRE;WORCESTERSHIRE;WORCESTERSHIRE;WORCESTERSHIRE;WORCESTERSHIRE;WORCESTERSHIRE	Worcestershire								47	Worcestershire County Council	E10000034	Worcestershire	E10000034	Worcestershire	
+				Worthing		329	Worthing	3835	WORTHING			45UH	Worthing Borough Council	E07000229	Worthing	E07000229	Worthing	
+						571	Wrecsam											
+WRX	Wrexham	6955	WREXHAM			571	Wrexham	6955	WREXHAM			00NL	Wrexham County Borough Council	W06000006	Wrexham			
+				Wychavon		152	Wychavon	1840	WYCHAVON			47UF	Wychavon District Council	E07000238	Wychavon	E07000238	Wychavon	
+				Wycombe		025	Wycombe	425	WYCOMBE			11UF	Wycombe District Council	E07000007	Wycombe	E07000007	Wycombe	
+				Wyre		207	Wyre	2370	WYRE			30UQ	Wyre Council	E07000128	Wyre	E07000128	Wyre	
+				Wyre Forest		153	Wyre Forest	1845	WYRE FOREST			47UG	Wyre Forest District Council	E07000239	Wyre Forest	E07000239	Wyre Forest	
+						551	Ynys Mn											
+YOR	York	2741	YORK	York		868	York	2741	YORK	York				E06000014	York	E06000014	York	
+														E12000003	Yorkshire and The Humber			
