@@ -1,0 +1,409 @@
+code	type	name
+999999999	GLA	Greater London Authority
+E06000001	UTA	Hartlepool (B)
+E06000002	UTA	Middlesbrough (B)
+E06000003	UTA	Redcar and Cleveland (B)
+E06000004	UTA	Stockton-on-Tees (B)
+E06000005	UTA	Darlington (B)
+E06000006	UTA	Halton (B)
+E06000007	UTA	Warrington (B)
+E06000008	UTA	Blackburn with Darwen (B)
+E06000009	UTA	Blackpool (B)
+E06000010	UTA	City of Kingston upon Hull (B)
+E06000011	UTA	East Riding of Yorkshire
+E06000012	UTA	North East Lincolnshire (B)
+E06000013	UTA	North Lincolnshire (B)
+E06000014	UTA	York (B)
+E06000015	UTA	City of Derby (B)
+E06000016	UTA	City of Leicester (B)
+E06000017	UTA	Rutland
+E06000018	UTA	City of Nottingham (B)
+E06000019	UTA	County of Herefordshire
+E06000020	UTA	Telford and Wrekin (B)
+E06000021	UTA	City of Stoke-on-Trent (B)
+E06000022	UTA	Bath and North East Somerset
+E06000023	UTA	City of Bristol (B)
+E06000024	UTA	North Somerset
+E06000025	UTA	South Gloucestershire
+E06000026	UTA	City of Plymouth (B)
+E06000027	UTA	Torbay (B)
+E06000028	UTA	Bournemouth (B)
+E06000029	UTA	Poole (B)
+E06000030	UTA	Swindon (B)
+E06000031	UTA	City of Peterborough (B)
+E06000032	UTA	Luton (B)
+E06000033	UTA	Southend-on-Sea (B)
+E06000034	UTA	Thurrock (B)
+E06000035	UTA	Medway (B)
+E06000036	UTA	Bracknell Forest (B)
+E06000037	UTA	West Berkshire
+E06000038	UTA	Reading (B)
+E06000039	UTA	Slough (B)
+E06000040	UTA	Windsor and Maidenhead (B)
+E06000041	UTA	Wokingham (B)
+E06000042	UTA	Milton Keynes (B)
+E06000043	UTA	The City of Brighton and Hove (B)
+E06000044	UTA	City of Portsmouth (B)
+E06000045	UTA	City of Southampton (B)
+E06000046	UTA	Isle of Wight
+E06000047	UTA	County Durham
+E06000049	UTA	Cheshire East (B)
+E06000050	UTA	Cheshire West and Chester (B)
+E06000051	UTA	Shropshire
+E06000052	UTA	Cornwall
+E06000053	UTA	Isles of Scilly
+E06000054	UTA	Wiltshire
+E06000055	UTA	Bedford (B)
+E06000056	UTA	Central Bedfordshire
+E06000057	UTA	Northumberland
+E07000004	DIS	Aylesbury Vale District
+E07000005	DIS	Chiltern District
+E07000006	DIS	South Bucks District
+E07000007	DIS	Wycombe District
+E07000008	DIS	Cambridge District (B)
+E07000009	DIS	East Cambridgeshire District
+E07000010	DIS	Fenland District
+E07000011	DIS	Huntingdonshire District
+E07000012	DIS	South Cambridgeshire District
+E07000026	DIS	Allerdale District (B)
+E07000027	DIS	Barrow-in-Furness District (B)
+E07000028	DIS	Carlisle District (B)
+E07000029	DIS	Copeland District (B)
+E07000030	DIS	Eden District
+E07000031	DIS	South Lakeland District
+E07000032	DIS	Amber Valley District (B)
+E07000033	DIS	Bolsover District
+E07000034	DIS	Chesterfield District (B)
+E07000035	DIS	Derbyshire Dales District
+E07000036	DIS	Erewash District (B)
+E07000037	DIS	High Peak District (B)
+E07000038	DIS	North East Derbyshire District
+E07000039	DIS	South Derbyshire District
+E07000040	DIS	East Devon District
+E07000041	DIS	Exeter District (B)
+E07000042	DIS	Mid Devon District
+E07000043	DIS	North Devon District
+E07000044	DIS	South Hams District
+E07000045	DIS	Teignbridge District
+E07000046	DIS	Torridge District
+E07000047	DIS	West Devon District (B)
+E07000048	DIS	Christchurch District (B)
+E07000049	DIS	East Dorset District
+E07000050	DIS	North Dorset District
+E07000051	DIS	Purbeck District
+E07000052	DIS	West Dorset District
+E07000053	DIS	Weymouth and Portland District (B)
+E07000061	DIS	Eastbourne District (B)
+E07000062	DIS	Hastings District (B)
+E07000063	DIS	Lewes District
+E07000064	DIS	Rother District
+E07000065	DIS	Wealden District
+E07000066	DIS	Basildon District (B)
+E07000067	DIS	Braintree District
+E07000068	DIS	Brentwood District (B)
+E07000069	DIS	Castle Point District (B)
+E07000070	DIS	Chelmsford District (B)
+E07000071	DIS	Colchester District (B)
+E07000072	DIS	Epping Forest District
+E07000073	DIS	Harlow District
+E07000074	DIS	Maldon District (B)
+E07000075	DIS	Rochford District
+E07000076	DIS	Tendring District
+E07000077	DIS	Uttlesford District
+E07000078	DIS	Cheltenham District (B)
+E07000079	DIS	Cotswold District
+E07000080	DIS	Forest of Dean District
+E07000081	DIS	Gloucester District (B)
+E07000082	DIS	Stroud District
+E07000083	DIS	Tewkesbury District (B)
+E07000084	DIS	Basingstoke and Deane District (B)
+E07000085	DIS	East Hampshire District
+E07000086	DIS	Eastleigh District (B)
+E07000087	DIS	Fareham District (B)
+E07000088	DIS	Gosport District (B)
+E07000089	DIS	Hart District
+E07000090	DIS	Havant District (B)
+E07000091	DIS	New Forest District
+E07000092	DIS	Rushmoor District (B)
+E07000093	DIS	Test Valley District
+E07000094	DIS	Winchester District (B)
+E07000095	DIS	Broxbourne District (B)
+E07000096	DIS	Dacorum District (B)
+E07000098	DIS	Hertsmere District (B)
+E07000099	DIS	North Hertfordshire District
+E07000102	DIS	Three Rivers District
+E07000103	DIS	Watford District (B)
+E07000105	DIS	Ashford District (B)
+E07000106	DIS	Canterbury District (B)
+E07000107	DIS	Dartford District (B)
+E07000108	DIS	Dover District
+E07000109	DIS	Gravesham District (B)
+E07000110	DIS	Maidstone District (B)
+E07000111	DIS	Sevenoaks District
+E07000112	DIS	Shepway District
+E07000113	DIS	Swale District (B)
+E07000114	DIS	Thanet District
+E07000115	DIS	Tonbridge and Malling District (B)
+E07000116	DIS	Tunbridge Wells District (B)
+E07000117	DIS	Burnley District (B)
+E07000118	DIS	Chorley District (B)
+E07000119	DIS	Fylde District (B)
+E07000120	DIS	Hyndburn District (B)
+E07000121	DIS	Lancaster District (B)
+E07000122	DIS	Pendle District (B)
+E07000123	DIS	Preston District (B)
+E07000124	DIS	Ribble Valley District (B)
+E07000125	DIS	Rossendale District (B)
+E07000126	DIS	South Ribble District (B)
+E07000127	DIS	West Lancashire District (B)
+E07000128	DIS	Wyre District (B)
+E07000129	DIS	Blaby District
+E07000130	DIS	Charnwood District (B)
+E07000131	DIS	Harborough District
+E07000132	DIS	Hinckley and Bosworth District (B)
+E07000133	DIS	Melton District (B)
+E07000134	DIS	North West Leicestershire District
+E07000135	DIS	Oadby and Wigston District (B)
+E07000136	DIS	Boston District (B)
+E07000137	DIS	East Lindsey District
+E07000138	DIS	Lincoln District (B)
+E07000139	DIS	North Kesteven District
+E07000140	DIS	South Holland District
+E07000141	DIS	South Kesteven District
+E07000142	DIS	West Lindsey District
+E07000143	DIS	Breckland District
+E07000144	DIS	Broadland District
+E07000145	DIS	Great Yarmouth District (B)
+E07000146	DIS	King's Lynn and West Norfolk District (B)
+E07000147	DIS	North Norfolk District
+E07000148	DIS	Norwich District (B)
+E07000149	DIS	South Norfolk District
+E07000150	DIS	Corby District (B)
+E07000151	DIS	Daventry District
+E07000152	DIS	East Northamptonshire District
+E07000153	DIS	Kettering District (B)
+E07000154	DIS	Northampton District (B)
+E07000155	DIS	South Northamptonshire District
+E07000156	DIS	Wellingborough District (B)
+E07000163	DIS	Craven District
+E07000164	DIS	Hambleton District
+E07000165	DIS	Harrogate District (B)
+E07000166	DIS	Richmondshire District
+E07000167	DIS	Ryedale District
+E07000168	DIS	Scarborough District (B)
+E07000169	DIS	Selby District
+E07000170	DIS	Ashfield District
+E07000171	DIS	Bassetlaw District
+E07000172	DIS	Broxtowe District (B)
+E07000173	DIS	Gedling District (B)
+E07000174	DIS	Mansfield District
+E07000175	DIS	Newark and Sherwood District
+E07000176	DIS	Rushcliffe District (B)
+E07000177	DIS	Cherwell District
+E07000178	DIS	Oxford District (B)
+E07000179	DIS	South Oxfordshire District
+E07000180	DIS	Vale of White Horse District
+E07000181	DIS	West Oxfordshire District
+E07000187	DIS	Mendip District
+E07000188	DIS	Sedgemoor District
+E07000189	DIS	South Somerset District
+E07000190	DIS	Taunton Deane District (B)
+E07000191	DIS	West Somerset District
+E07000192	DIS	Cannock Chase District
+E07000193	DIS	East Staffordshire District (B)
+E07000194	DIS	Lichfield District
+E07000195	DIS	Newcastle-under-Lyme District (B)
+E07000196	DIS	South Staffordshire District
+E07000197	DIS	Stafford District (B)
+E07000198	DIS	Staffordshire Moorlands District
+E07000199	DIS	Tamworth District (B)
+E07000200	DIS	Babergh District
+E07000201	DIS	Forest Heath District
+E07000202	DIS	Ipswich District (B)
+E07000203	DIS	Mid Suffolk District
+E07000204	DIS	St. Edmundsbury District (B)
+E07000205	DIS	Suffolk Coastal District
+E07000206	DIS	Waveney District
+E07000207	DIS	Elmbridge District (B)
+E07000208	DIS	Epsom and Ewell District (B)
+E07000209	DIS	Guildford District (B)
+E07000210	DIS	Mole Valley District
+E07000211	DIS	Reigate and Banstead District (B)
+E07000212	DIS	Runnymede District (B)
+E07000213	DIS	Spelthorne District (B)
+E07000214	DIS	Surrey Heath District (B)
+E07000215	DIS	Tandridge District
+E07000216	DIS	Waverley District (B)
+E07000217	DIS	Woking District (B)
+E07000218	DIS	North Warwickshire District (B)
+E07000219	DIS	Nuneaton and Bedworth District (B)
+E07000220	DIS	Rugby District (B)
+E07000221	DIS	Stratford-on-Avon District
+E07000222	DIS	Warwick District
+E07000223	DIS	Adur District
+E07000224	DIS	Arun District
+E07000225	DIS	Chichester District
+E07000226	DIS	Crawley District (B)
+E07000227	DIS	Horsham District
+E07000228	DIS	Mid Sussex District
+E07000229	DIS	Worthing District (B)
+E07000234	DIS	Bromsgrove District
+E07000235	DIS	Malvern Hills District
+E07000236	DIS	Redditch District (B)
+E07000237	DIS	Worcester District (B)
+E07000238	DIS	Wychavon District
+E07000239	DIS	Wyre Forest District
+E07000240	DIS	St. Albans District (B)
+E07000241	DIS	Welwyn Hatfield District (B)
+E07000242	DIS	East Hertfordshire District
+E07000243	DIS	Stevenage District (B)
+E08000001	MTD	Bolton District (B)
+E08000002	MTD	Bury District (B)
+E08000003	MTD	Manchester District (B)
+E08000004	MTD	Oldham District (B)
+E08000005	MTD	Rochdale District (B)
+E08000006	MTD	Salford District (B)
+E08000007	MTD	Stockport District (B)
+E08000008	MTD	Tameside District (B)
+E08000009	MTD	Trafford District (B)
+E08000010	MTD	Wigan District (B)
+E08000011	MTD	Knowsley District (B)
+E08000012	MTD	Liverpool District (B)
+E08000013	MTD	St. Helens District (B)
+E08000014	MTD	Sefton District (B)
+E08000015	MTD	Wirral District (B)
+E08000016	MTD	Barnsley District (B)
+E08000017	MTD	Doncaster District (B)
+E08000018	MTD	Rotherham District (B)
+E08000019	MTD	Sheffield District (B)
+E08000021	MTD	Newcastle upon Tyne District (B)
+E08000022	MTD	North Tyneside District (B)
+E08000023	MTD	South Tyneside District (B)
+E08000024	MTD	Sunderland District (B)
+E08000025	MTD	Birmingham District (B)
+E08000026	MTD	Coventry District (B)
+E08000027	MTD	Dudley District (B)
+E08000028	MTD	Sandwell District (B)
+E08000029	MTD	Solihull District (B)
+E08000030	MTD	Walsall District (B)
+E08000031	MTD	City of Wolverhampton District (B)
+E08000032	MTD	Bradford District (B)
+E08000033	MTD	Calderdale District (B)
+E08000034	MTD	Kirklees District (B)
+E08000035	MTD	Leeds District (B)
+E08000036	MTD	Wakefield District (B)
+E08000037	MTD	Gateshead District (B)
+E09000001	LBO	City and County of the City of London
+E09000002	LBO	Barking and Dagenham London Boro
+E09000003	LBO	Barnet London Boro
+E09000004	LBO	Bexley London Boro
+E09000005	LBO	Brent London Boro
+E09000006	LBO	Bromley London Boro
+E09000007	LBO	Camden London Boro
+E09000008	LBO	Croydon London Boro
+E09000009	LBO	Ealing London Boro
+E09000010	LBO	Enfield London Boro
+E09000011	LBO	Greenwich London Boro
+E09000012	LBO	Hackney London Boro
+E09000013	LBO	Hammersmith and Fulham London Boro
+E09000014	LBO	Haringey London Boro
+E09000015	LBO	Harrow London Boro
+E09000016	LBO	Havering London Boro
+E09000017	LBO	Hillingdon London Boro
+E09000018	LBO	Hounslow London Boro
+E09000019	LBO	Islington London Boro
+E09000020	LBO	Kensington and Chelsea London Boro
+E09000021	LBO	Kingston upon Thames London Boro
+E09000022	LBO	Lambeth London Boro
+E09000023	LBO	Lewisham London Boro
+E09000024	LBO	Merton London Boro
+E09000025	LBO	Newham London Boro
+E09000026	LBO	Redbridge London Boro
+E09000027	LBO	Richmond upon Thames London Boro
+E09000028	LBO	Southwark London Boro
+E09000029	LBO	Sutton London Boro
+E09000030	LBO	Tower Hamlets London Boro
+E09000031	LBO	Waltham Forest London Boro
+E09000032	LBO	Wandsworth London Boro
+E09000033	LBO	City of Westminster London Boro
+E10000002	CTY	Buckinghamshire County
+E10000003	CTY	Cambridgeshire County
+E10000006	CTY	Cumbria County
+E10000007	CTY	Derbyshire County
+E10000008	CTY	Devon County
+E10000009	CTY	Dorset County
+E10000011	CTY	East Sussex County
+E10000012	CTY	Essex County
+E10000013	CTY	Gloucestershire County
+E10000014	CTY	Hampshire County
+E10000015	CTY	Hertfordshire County
+E10000016	CTY	Kent County
+E10000017	CTY	Lancashire County
+E10000018	CTY	Leicestershire County
+E10000019	CTY	Lincolnshire County
+E10000020	CTY	Norfolk County
+E10000021	CTY	Northamptonshire County
+E10000023	CTY	North Yorkshire County
+E10000024	CTY	Nottinghamshire County
+E10000025	CTY	Oxfordshire County
+E10000027	CTY	Somerset County
+E10000028	CTY	Staffordshire County
+E10000029	CTY	Suffolk County
+E10000030	CTY	Surrey County
+E10000031	CTY	Warwickshire County
+E10000032	CTY	West Sussex County
+E10000034	CTY	Worcestershire County
+S12000005	UTA	Clackmannanshire
+S12000006	UTA	Dumfries and Galloway
+S12000008	UTA	East Ayrshire
+S12000010	UTA	East Lothian
+S12000011	UTA	East Renfrewshire
+S12000013	UTA	Na h-Eileanan an Iar
+S12000014	UTA	Falkirk
+S12000015	UTA	Fife
+S12000017	UTA	Highland
+S12000018	UTA	Inverclyde
+S12000019	UTA	Midlothian
+S12000020	UTA	Moray
+S12000021	UTA	North Ayrshire
+S12000023	UTA	Orkney Islands
+S12000024	UTA	Perth and Kinross
+S12000026	UTA	Scottish Borders
+S12000027	UTA	Shetland Islands
+S12000028	UTA	South Ayrshire
+S12000029	UTA	South Lanarkshire
+S12000030	UTA	Stirling
+S12000033	UTA	Aberdeen City
+S12000034	UTA	Aberdeenshire
+S12000035	UTA	Argyll and Bute
+S12000036	UTA	City of Edinburgh
+S12000038	UTA	Renfrewshire
+S12000039	UTA	West Dunbartonshire
+S12000040	UTA	West Lothian
+S12000041	UTA	Angus
+S12000042	UTA	Dundee City
+S12000044	UTA	North Lanarkshire
+S12000045	UTA	East Dunbartonshire
+S12000046	UTA	Glasgow City
+W06000001	UTA	Sir Ynys Mon - Isle of Anglesey
+W06000002	UTA	Gwynedd - Gwynedd
+W06000003	UTA	Conwy - Conwy
+W06000004	UTA	Sir Ddinbych - Denbighshire
+W06000005	UTA	Sir y Fflint - Flintshire
+W06000006	UTA	Wrecsam - Wrexham
+W06000008	UTA	Sir Ceredigion - Ceredigion
+W06000009	UTA	Sir Benfro - Pembrokeshire
+W06000010	UTA	Sir Gaerfyrddin - Carmarthenshire
+W06000011	UTA	Abertawe - Swansea
+W06000012	UTA	Castell-nedd Port Talbot - Neath Port Talbot
+W06000013	UTA	Pen-y-bont ar Ogwr - Bridgend
+W06000014	UTA	Bro Morgannwg - the Vale of Glamorgan
+W06000015	UTA	Caerdydd - Cardiff
+W06000016	UTA	Rhondda Cynon Taf - Rhondda Cynon Taf
+W06000018	UTA	Caerffili - Caerphilly
+W06000019	UTA	Blaenau Gwent - Blaenau Gwent
+W06000020	UTA	Tor-faen - Torfaen
+W06000021	UTA	Sir Fynwy - Monmouthshire
+W06000022	UTA	Casnewydd - Newport
+W06000023	UTA	Powys - Powys
+W06000024	UTA	Merthyr Tudful - Merthyr Tydfil
