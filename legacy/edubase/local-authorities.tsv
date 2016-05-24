@@ -1,0 +1,208 @@
+code	name
+201	City of London
+202	Camden
+203	Greenwich
+204	Hackney
+205	Hammersmith and Fulham
+206	Islington
+207	Kensington and Chelsea
+208	Lambeth
+209	Lewisham
+210	Southwark
+211	Tower Hamlets
+212	Wandsworth
+213	Westminster
+301	Barking and Dagenham
+302	Barnet
+303	Bexley
+304	Brent
+305	Bromley
+306	Croydon
+307	Ealing
+308	Enfield
+309	Haringey
+310	Harrow
+311	Havering
+312	Hillingdon
+313	Hounslow
+314	Kingston upon Thames
+315	Merton
+316	Newham
+317	Redbridge
+318	Richmond upon Thames
+319	Sutton
+320	Waltham Forest
+330	Birmingham
+331	Coventry
+332	Dudley
+333	Sandwell
+334	Solihull
+335	Walsall
+336	Wolverhampton
+340	Knowsley
+341	Liverpool
+342	St. Helens
+343	Sefton
+344	Wirral
+350	Bolton
+351	Bury
+352	Manchester
+353	Oldham
+354	Rochdale
+355	Salford
+356	Stockport
+357	Tameside
+358	Trafford
+359	Wigan
+370	Barnsley
+371	Doncaster
+372	Rotherham
+373	Sheffield
+380	Bradford
+381	Calderdale
+382	Kirklees
+383	Leeds
+384	Wakefield
+390	Gateshead
+391	Newcastle upon Tyne
+392	North Tyneside
+393	South Tyneside
+394	Sunderland
+420	Isles Of Scilly
+660	Isle of Anglesey
+661	Gwynedd
+662	Conwy
+663	Denbighshire
+664	Flintshire
+665	Wrexham
+666	Powys
+667	Ceredigion
+668	Pembrokeshire
+669	Carmarthenshire
+670	Swansea
+671	Neath Port Talbot
+672	Bridgend
+673	The Vale of Glamorgan
+674	Rhondda, Cynon, Taff
+675	Merthyr Tydfil
+676	Caerphilly
+677	Blaenau Gwent
+678	Torfaen
+679	Monmouthshire
+680	Newport
+681	Cardiff
+701	Scotland Offshore Establishments
+702	BFPO Overseas Establishments
+704	Fieldwork Overseas Establishments
+705	Isle of Man Offshore Establishments
+706	Guernsey Offshore Establishments
+707	Jersey Offshore Establishments
+708	Gibraltar Overseas Establishments
+800	Bath and North East Somerset
+801	Bristol City of
+802	North Somerset
+803	South Gloucestershire
+805	Hartlepool
+806	Middlesbrough
+807	Redcar and Cleveland
+808	Stockton-on-Tees
+810	Kingston upon Hull City of
+811	East Riding of Yorkshire
+812	North East Lincolnshire
+813	North Lincolnshire
+815	North Yorkshire
+816	York
+820	Pre LGR (2009) Bedfordshire
+821	Luton
+822	Bedford
+823	Central Bedfordshire
+825	Buckinghamshire
+826	Milton Keynes
+830	Derbyshire
+831	Derby
+835	Dorset
+836	Poole
+837	Bournemouth
+840	Durham
+841	Darlington
+845	East Sussex
+846	Brighton and Hove
+850	Hampshire
+851	Portsmouth
+852	Southampton
+855	Leicestershire
+856	Leicester
+857	Rutland
+860	Staffordshire
+861	Stoke-on-Trent
+865	Wiltshire
+866	Swindon
+867	Bracknell Forest
+868	Windsor and Maidenhead
+869	West Berkshire
+870	Reading
+871	Slough
+872	Wokingham
+873	Cambridgeshire
+874	Peterborough
+875	Pre LGR (2009) Cheshire
+876	Halton
+877	Warrington
+878	Devon
+879	Plymouth
+880	Torbay
+881	Essex
+882	Southend-on-Sea
+883	Thurrock
+884	Herefordshire
+885	Worcestershire
+886	Kent
+887	Medway
+888	Lancashire
+889	Blackburn with Darwen
+890	Blackpool
+891	Nottinghamshire
+892	Nottingham
+893	Shropshire
+894	Telford and Wrekin
+895	Cheshire East
+896	Cheshire West and Chester
+901	Pre LGR (1996) Avon
+902	Pre LGR (1997) Bedfordshire
+903	Pre LGR (1998) Berkshire
+904	Pre LGR (1997) Buckinghamshire
+905	Pre LGR (1998) Cambridgeshire
+906	Pre LGR (1998) Cheshire
+907	Pre LGR (1996) Cleveland
+908	Cornwall
+909	Cumbria
+910	Pre LGR (1997) Derbyshire
+911	Pre LGR (1998) Devon
+912	Pre LGR (1997) Dorset
+913	Pre LGR (1997) Durham
+914	Pre LGR (1997) East Sussex
+915	Pre LGR (1998) Essex
+916	Gloucestershire
+917	Pre LGR (1997) Hampshire
+918	Pre LGR (1998) Hereford & Worcester
+919	Hertfordshire
+920	Pre LGR (1996) Humberside
+921	Isle of Wight
+922	Pre LGR (1998) Kent
+923	Pre LGR (1998) Lancashire
+924	Pre LGR (1997) Leicestershire
+925	Lincolnshire
+926	Norfolk
+927	Pre LGR (1996) North Yorkshire
+928	Northamptonshire
+929	Northumberland
+930	Pre LGR (1998) Nottinghamshire
+931	Oxfordshire
+932	Pre LGR (1998) Shropshire
+933	Somerset
+934	Pre LGR (1997) Staffordshire
+935	Suffolk
+936	Surrey
+937	Warwickshire
+938	West Sussex
+939	Pre LGR (1997) Wiltshire
