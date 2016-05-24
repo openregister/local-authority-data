@@ -25,6 +25,3 @@ DEPENDENCIES
   builder
   map_by_method
   morph (>= 0.4.1)
-
-BUNDLED WITH
-   1.12.3
