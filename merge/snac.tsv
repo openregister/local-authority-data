@@ -52,7 +52,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 23UB		Cheltenham Borough Council	http://www.cheltenham.gov.uk		
 38UB		Cherwell District Council	http://www.cherwell-dc.gov.uk		
 00EQ		Cheshire East Council	http://www.cheshireeast.gov.uk		
-17UD		Chesterfield Borough Council	http://www.chesterfield.gov.uk/site/default.asp		
+17UD		Chesterfield Borough Council	http://www.chesterfield.gov.uk		
 45UD		Chichester District Council	http://www.chichester.gov.uk		
 11UC		Chiltern District Council	http://www.chiltern.gov.uk		
 30UE		Chorley Council	http://www.chorley.gov.uk		
@@ -97,7 +97,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 22UH		Epping Forest District Council	http://www.eppingforestdc.gov.uk		
 43UC		Epsom and Ewell Borough Council	http://www.epsom-ewell.gov.uk		
 17UG		Erewash Borough Council	http://www.erewash.gov.uk		
-22		Essex County Council	http://www.essex.gov.uk/Pages/Default.aspx		
+22		Essex County Council	http://www.essex.gov.uk		
 18UC		Exeter City Council	http://exeter.gov.uk		
 24UE		Fareham Borough Council	http://www.fareham.gov.uk		
 12UD		Fenland District Council	http://www.fenland.gov.uk		
@@ -125,7 +125,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 00EB		Hartlepool Borough Council	http://www.hartlepool.gov.uk		
 21UD		Hastings Borough Council	http://www.hastings.gov.uk		
 24UH		Havant Borough Council	http://www.havant.gov.uk		
-00AR		London Borough of Havering	http://www.havering.gov.uk/Pages/index.aspx		
+00AR		London Borough of Havering	http://www.havering.gov.uk		
 00GA		Herefordshire Council	https://www.herefordshire.gov.uk		
 26		Hertfordshire County Council	http://www.hertsdirect.org		
 26UE		Hertsmere Borough Council	http://www.hertsmere.gov.uk		
@@ -139,7 +139,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 42UD		Ipswich Borough Council	https://www.ipswich.gov.uk		
 00MW		Isle of Wight Council	http://www.iwight.com		
 00HF		Council of the Isles of Scilly	http://www.scilly.gov.uk		
-00AU		London Borough of Islington	http://www.islington.gov.uk/Pages/default.aspx		
+00AU		London Borough of Islington	http://www.islington.gov.uk		
 00AW		Royal Borough of Kensington and Chelsea	http://www.rbkc.gov.uk		
 29		Kent County Council	http://www.kent.gov.uk		
 34UE		Kettering Borough Council	http://www.kettering.gov.uk		
@@ -199,7 +199,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 00FY		Nottingham City Council	http://www.nottinghamcity.gov.uk		
 37		Nottinghamshire County Council	http://www.nottinghamshire.gov.uk		
 44UC		Nuneaton and Bedworth Borough Council	http://www.nuneatonandbedworth.gov.uk		
-31UJ		Oadby and Wigston District Council	http://oadby-wigston.gov.uk/Home/Home.aspx		
+31UJ		Oadby and Wigston District Council	http://oadby-wigston.gov.uk		
 00BP		Oldham Metropolitan Borough Council	http://www.oldham.gov.uk		
 38UC		Oxford City Council	https://www.oxford.gov.uk		
 38		Oxfordshire County Council	http://www.oxfordshire.gov.uk		
@@ -253,7 +253,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 34UG		South Northamptonshire Council	http://www.southnorthants.gov.uk		
 38UD		South Oxfordshire District Council	http://www.southoxon.gov.uk		
 30UN		South Ribble Borough Council	http://www.southribble.gov.uk		
-40UD		South Somerset District Council	www.southsomerset.gov.uk		
+40UD		South Somerset District Council	http://www.southsomerset.gov.uk		
 41UF		South Staffordshire Council	http://www.sstaffs.gov.uk		
 00CL		South Tyneside Council	http://www.southtyneside.gov.uk		
 00MS		Southampton City Council	http://www.southampton.gov.uk		
@@ -301,7 +301,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 38UE		Vale of White Horse District Council	http://www.whitehorsedc.gov.uk		
 00DB		Wakefield Metropolitan District Council	http://www.wakefield.gov.uk		
 00CU		Walsall Council	http://www.walsall.gov.uk		
-00BH		London Borough of Waltham Forest	http://www.walthamforest.gov.uk/pages/index.aspx		
+00BH		London Borough of Waltham Forest	http://www.walthamforest.gov.uk		
 00BJ		London Borough of Wandsworth	http://www.wandsworth.gov.uk		
 00EU		Warrington Borough Council	http://www.warrington.gov.uk		
 44UF		Warwick District Council	http://www.warwickdc.gov.uk		
@@ -336,7 +336,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 47UF		Wychavon District Council	http://www.wychavon.gov.uk		
 11UF		Wycombe District Council	http://www.wycombe.gov.uk		
 30UQ		Wyre Council	http://www.wyre.gov.uk		
-47UG		Wyre Forest District Council	http://www.wyreforestdc.gov.uk/cms/default.aspx		
+47UG		Wyre Forest District Council	http://www.wyreforestdc.gov.uk		
 00FF		City of York Council	http://www.york.gov.uk		
 16UC		Borough of Barrow-in-Furness	http://www.barrowbc.gov.uk		
 00BM		Bury Metropolitan Borough Council	http://www.bury.gov.uk		
@@ -398,7 +398,7 @@ snac	local-authority-type	official-name	website	start-date	end-date
 00QU		Inverclyde Council	http://www.inverclyde.gov.uk		
 95F		Larne Borough Council	http://www.larne.gov.uk		2015-03-31
 95B		Limavady Borough Council	http://www.limavady.gov.uk		
-95S		Lisburn City Council	http://www.lisburncity.gov.uk		
+95S		Lisburn City Council	http://www.lisburncity.gov.uk		2015-03-31
 95H		Magherafelt District Council	http://www.magherafelt.gov.uk		
 00PH		Merthyr Tydfil County Borough Council	http://www.merthyr.gov.uk		
 00QW		Midlothian Council	http://www.midlothian.gov.uk		

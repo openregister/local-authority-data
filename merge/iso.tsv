@@ -152,16 +152,16 @@ snac	local-authority	uk	local-authority-type	parent-local-authority	name	name-cy
 00ME	WNM	ENG	UTA		Windsor and Maidenhead							
 	WOK	ENG	UTA		Wokingham							
 00FF	YOR	ENG	UTA		York							
-	ANN	NIR	DIS		Antrim and Newtownabbey				2015-04-01				
-	AND	NIR	DIS		Ards and North Down			http://www.ardsandnorthdown.gov.uk/	2015-04-01	
-	ABC	NIR	DIS		Armagh, Banbridge and Craigavon			www.armaghbanbridgecraigavon.org	2015-04-01			
+	ANN	NIR	DIS		Antrim and Newtownabbey		Antrim and Newtownabbey Borough Council	http://www.antrimandnewtownabbey.gov.uk	2015-04-01				
+	AND	NIR	DIS		Ards and North Down		Ards and North Down Borough Council	http://www.ardsandnorthdown.gov.uk	2015-04-01	
+	ABC	NIR	DIS		Armagh, Banbridge and Craigavon		Armagh, Banbridge and Craigavon District Council	http://www.armaghbanbridgecraigavon.org	2015-04-01			
 95Z	BFS	NIR	DIS		Belfast							
-	CCG	NIR	DIS		Causeway Coast and Glens				2015-04-01	
-	DRS	NIR	DIS		Derry and Strabane							
+	CCG	NIR	DIS		Causeway Coast and Glens		Causeway Coast and Glens District Council	http://www.causewaycoastandglens.gov.uk	2015-04-01	
+	DRS	NIR	DIS		Derry and Strabane		Derry and Strabane District Council	http://www.derrycityandstrabanedistrict.com	2015-04-01			
 	FMO	NIR	DIS		Fermanagh and Omagh		Fermanagh and Omagh District Council	http://www.fermanaghomagh.com	2015-04-01	
-95S	LBC	NIR	DIS		Lisburn and Castlereagh							
-	MEA	NIR	DIS		Mid and East Antrim		Mid and East Antrim Borough Council	http://www.midandeastantrim.gov.uk/	2015-04-01	
-	MUL	NIR	DIS		Mid Ulster				Mid-Ulster District Council	http://www.midulstercouncil.org/		
+	LBC	NIR	DIS		Lisburn and Castlereagh							
+	MEA	NIR	DIS		Mid and East Antrim		Mid and East Antrim Borough Council	http://www.midandeastantrim.gov.uk	2015-04-01	
+	MUL	NIR	DIS		Mid Ulster		Mid-Ulster District Council	http://www.midulstercouncil.org		
 	NMD	NIR	DIS		Newry, Mourne and Down		Newry, Mourne and Down District Council	http://www.newrymournedown.org	2015-04-01			
 	ABE	SCT	COA		Aberdeen City							
 	ABD	SCT	COA		Aberdeenshire							
