@@ -3,7 +3,22 @@
 import csv
 import sys
 
-cols = [ 'local-authority', 'uk', 'local-authority-type', 'parent-local-authority', 'name', 'name-cy', 'official-name', 'website', 'start-date', 'end-date', 'snac' ]
+cols = [ 'snac', 'local-authority', 'uk', 'local-authority-type', 'parent-local-authority', 'name', 'name-cy', 'official-name', 'website', 'start-date', 'end-date' ]
+
+prefixes = [
+    'Borough of ',
+    'Borough Council of '
+]
+
+suffixes = [
+    ' Metropolitan Borough Council',
+    ' and District Council',
+    ' District Council',
+    ' Borough Council',
+    ' City Council',
+    ' Borough',
+    ' Council',
+]
 
 def merge(d, s):
     if not d:
@@ -65,7 +80,8 @@ for la in las:
 
             if p == "95":
                 las[la]['uk'] = 'NIR'
-                las[la]['local-authority'] = "NIR" + "-" + las[la]['snac'][2:]
+                if not las[la]['local-authority']:
+                    las[la]['local-authority'] = "NIR" + "-" + las[la]['snac'][2:]
 
             if p in snacs:
                 if not las[la]['local-authority']:
@@ -86,9 +102,28 @@ for la in las:
         if las[la]['parent-local-authority']:
             las[la]['uk'] = las[las[la]['parent-local-authority']].get('uk', '')
 
+    if not las[la]['name']:
+        name = las[la]['official-name']
+        for s in prefixes:
+          if name.startswith(s):
+              las[la]['name'] = name[len(s):]
+              break
+
+    if not las[la]['name']:
+        name = las[la]['official-name']
+        for s in suffixes:
+          if name.endswith(s):
+              las[la]['name'] = name[:-len(s)]
+              break
+
+    if not las[la]['local-authority-type']:
+        if las[la]['parent-local-authority']:
+            las[la]['local-authority-type'] = 'NMD'
+        elif las[la]['uk'] == 'NIR':
+            las[la]['local-authority-type'] = 'DIS'
 
 
 # print out las
 print("\t".join(cols))
-for la in sorted(las, key=lambda k: (las[k].get('uk', ''), las[k].get('parent-local-authority', ''), las[k].get('parent-local-authority', ''))):
+for la in sorted(las, key=lambda k: (las[k].get('uk', ''), las[k].get('parent-local-authority', ''), las[k].get('local-authority', ''))):
     print("\t".join([las[la].get(col, "") for col in cols]))

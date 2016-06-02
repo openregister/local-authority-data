@@ -1,4 +1,4 @@
-# merge and deduce local-authority.tsv
+# merge and deduce local-authority.tsv as a one-off activity to seed the register data
 
 # iso.tsv - hand made mappings from ISO-3166-2;GB list
 # snac.tsv - legacy SNAC data from localdirectgov
@@ -6,3 +6,6 @@
 
 local-authorities.tsv:	merge.py iso.tsv snac.tsv
 	merge.py > $@
+
+install:	local-authorities.tsv
+	cp local-authorities.tsv ../data/local-authority
