@@ -1,97 +1,97 @@
 snac	local-authority	uk	local-authority-type	parent-local-authority	name	name-cy	official-name	website	start-date	end-date
-00HA	BAS	ENG	UTA		Bath and North East Somerset		Bath and North East Somerset Council	http://www.bathnes.gov.uk		
-00EX	BBD	ENG	UTA		Blackburn with Darwen		Blackburn with Darwen Borough Council	http://www.blackburn.gov.uk		
-00KB	BDF	ENG	UTA		Bedford		Bedford Borough Council	http://www.bedford.gov.uk		
-00CN	BIR	ENG	MTD		Birmingham		Birmingham City Council	http://www.birmingham.gov.uk		
-00HN	BMH	ENG	UTA		Bournemouth		Bournemouth Borough Council	http://www.bournemouth.gov.uk		
-00ML	BNH	ENG	UTA		Brighton and Hove		Brighton and Hove City Council	http://www.brighton-hove.gov.uk		
-00CC	BNS	ENG	MTD		Barnsley		Barnsley Metropolitan Borough Council	http://www.barnsley.gov.uk		
-00BL	BOL	ENG	MTD		Bolton		Bolton Metropolitan Borough Council	http://www.bolton.gov.uk		
-00EY	BPL	ENG	UTA		Blackpool		Blackpool Borough Council	http://www.blackpool.gov.uk		
-00MA	BRC	ENG	UTA		Bracknell Forest		Bracknell Forest Council	http://www.bracknell-forest.gov.uk		
-00CX	BRD	ENG	MTD		Bradford		Bradford Metropolitan District Council	http://www.bradford.gov.uk		
-00HB	BST	ENG	UTA		City of Bristol		Bristol City Council	http://www.bristol.gov.uk		
-00BM	BUR	ENG	MTD		Bury		Bury Metropolitan Borough Council	http://www.bury.gov.uk		
-00KC	CBF	ENG	UTA		Central Bedfordshire		Central Bedfordshire Council	http://www.centralbedfordshire.gov.uk		
-00EQ	CHE	ENG	UTA		Cheshire East		Cheshire East Council	http://www.cheshireeast.gov.uk		
-00EW	CHW	ENG	UTA		Cheshire West and Chester		Cheshire West and Chester Council	http://www.cheshirewestandchester.gov.uk		
-00CY	CLD	ENG	MTD		Calderdale		Calderdale Metropolitan Borough Council	http://www.calderdale.gov.uk		
-00HE	CON	ENG	UTA		Cornwall		Cornwall Council	http://www.cornwall.gov.uk		
-00CQ	COV	ENG	MTD		Coventry		Coventry City Council	http://www.coventry.gov.uk		
-00EH	DAL	ENG	UTA		Darlington		Darlington Borough Council	http://www.darlington.gov.uk		
-00CE	DNC	ENG	MTD		Doncaster		Doncaster Metropolitan Borough Council	http://www.doncaster.gov.uk		
-00CR	DUD	ENG	MTD		Dudley		Dudley Metropolitan Borough Council	http://www.dudley.gov.uk		
-00EJ	DUR	ENG	UTA		County Durham		Durham County Council	http://www.durham.gov.uk		
-00FB	ERY	ENG	UTA		East Riding of Yorkshire		East Riding of Yorkshire Council	http://www.eastriding.gov.uk		
-00CH	GAT	ENG	MTD		Gateshead		Gateshead Metropolitan Borough Council	http://www.gateshead.gov.uk		
+00HA	BAS	ENG	UA		Bath and North East Somerset		Bath and North East Somerset Council	http://www.bathnes.gov.uk		
+00EX	BBD	ENG	UA		Blackburn with Darwen		Blackburn with Darwen Borough Council	http://www.blackburn.gov.uk		
+00KB	BDF	ENG	UA		Bedford		Bedford Borough Council	http://www.bedford.gov.uk		
+00CN	BIR	ENG	MD		Birmingham		Birmingham City Council	http://www.birmingham.gov.uk		
+00HN	BMH	ENG	UA		Bournemouth		Bournemouth Borough Council	http://www.bournemouth.gov.uk		
+00ML	BNH	ENG	UA		Brighton and Hove		Brighton and Hove City Council	http://www.brighton-hove.gov.uk		
+00CC	BNS	ENG	MD		Barnsley		Barnsley Metropolitan Borough Council	http://www.barnsley.gov.uk		
+00BL	BOL	ENG	MD		Bolton		Bolton Metropolitan Borough Council	http://www.bolton.gov.uk		
+00EY	BPL	ENG	UA		Blackpool		Blackpool Borough Council	http://www.blackpool.gov.uk		
+00MA	BRC	ENG	UA		Bracknell Forest		Bracknell Forest Council	http://www.bracknell-forest.gov.uk		
+00CX	BRD	ENG	MD		Bradford		Bradford Metropolitan District Council	http://www.bradford.gov.uk		
+00HB	BST	ENG	UA		City of Bristol		Bristol City Council	http://www.bristol.gov.uk		
+00BM	BUR	ENG	MD		Bury		Bury Metropolitan Borough Council	http://www.bury.gov.uk		
+00KC	CBF	ENG	UA		Central Bedfordshire		Central Bedfordshire Council	http://www.centralbedfordshire.gov.uk		
+00EQ	CHE	ENG	UA		Cheshire East		Cheshire East Council	http://www.cheshireeast.gov.uk		
+00EW	CHW	ENG	UA		Cheshire West and Chester		Cheshire West and Chester Council	http://www.cheshirewestandchester.gov.uk		
+00CY	CLD	ENG	MD		Calderdale		Calderdale Metropolitan Borough Council	http://www.calderdale.gov.uk		
+00HE	CON	ENG	UA		Cornwall		Cornwall Council	http://www.cornwall.gov.uk		
+00CQ	COV	ENG	MD		Coventry		Coventry City Council	http://www.coventry.gov.uk		
+00EH	DAL	ENG	UA		Darlington		Darlington Borough Council	http://www.darlington.gov.uk		
+00CE	DNC	ENG	MD		Doncaster		Doncaster Metropolitan Borough Council	http://www.doncaster.gov.uk		
+00CR	DUD	ENG	MD		Dudley		Dudley Metropolitan Borough Council	http://www.dudley.gov.uk		
+00EJ	DUR	ENG	UA		County Durham		Durham County Council	http://www.durham.gov.uk		
+00FB	ERY	ENG	UA		East Riding of Yorkshire		East Riding of Yorkshire Council	http://www.eastriding.gov.uk		
+00CH	GAT	ENG	MD		Gateshead		Gateshead Metropolitan Borough Council	http://www.gateshead.gov.uk		
 00	GLA	ENG	CTY		Greater London		Greater London Authority	http://www.london.gov.uk		
-00ET	HAL	ENG	UTA		Halton		Halton Borough Council	http://www.halton.gov.uk		
-00GA	HEF	ENG	UTA		Herefordshire		Herefordshire Council	https://www.herefordshire.gov.uk		
-00EB	HPL	ENG	UTA		Hartlepool		Hartlepool Borough Council	http://www.hartlepool.gov.uk		
-00HF	IOS	ENG	UTA		Isles of Scilly		Council of the Isles of Scilly	http://www.scilly.gov.uk		
-00MW	IOW	ENG	UTA		Isle of Wight		Isle of Wight Council	http://www.iwight.com		
-00FA	KHL	ENG	UTA		Kingston upon Hull		Hull City Council	http://www.hullcc.gov.uk		
-00CZ	KIR	ENG	MTD		Kirklees		Kirklees Council	http://www.kirklees.gov.uk		
-00BX	KWL	ENG	MTD		Knowsley		Knowsley Council	http://www.knowsley.gov.uk		
-00FN	LCE	ENG	UTA		Leicester		Leicester City Council	http://www.leicester.gov.uk		
-00DA	LDS	ENG	MTD		Leeds		Leeds City Council	http://www.leeds.gov.uk		
-00BY	LIV	ENG	MTD		Liverpool		Liverpool City Council	http://www.liverpool.gov.uk		
+00ET	HAL	ENG	UA		Halton		Halton Borough Council	http://www.halton.gov.uk		
+00GA	HEF	ENG	UA		Herefordshire		Herefordshire Council	https://www.herefordshire.gov.uk		
+00EB	HPL	ENG	UA		Hartlepool		Hartlepool Borough Council	http://www.hartlepool.gov.uk		
+00HF	IOS	ENG	UA		Isles of Scilly		Council of the Isles of Scilly	http://www.scilly.gov.uk		
+00MW	IOW	ENG	UA		Isle of Wight		Isle of Wight Council	http://www.iwight.com		
+00FA	KHL	ENG	UA		Kingston upon Hull		Hull City Council	http://www.hullcc.gov.uk		
+00CZ	KIR	ENG	MD		Kirklees		Kirklees Council	http://www.kirklees.gov.uk		
+00BX	KWL	ENG	MD		Knowsley		Knowsley Council	http://www.knowsley.gov.uk		
+00FN	LCE	ENG	UA		Leicester		Leicester City Council	http://www.leicester.gov.uk		
+00DA	LDS	ENG	MD		Leeds		Leeds City Council	http://www.leeds.gov.uk		
+00BY	LIV	ENG	MD		Liverpool		Liverpool City Council	http://www.liverpool.gov.uk		
 00AA	LND	ENG	CTY		City of London		City and County of the City of London	http://www.cityoflondon.gov.uk		
-00KA	LUT	ENG	UTA		Luton		Luton Borough Council	http://www.luton.gov.uk		
-00BN	MAN	ENG	MTD		Manchester		Manchester City Council	http://www.manchester.gov.uk		
-00EC	MDB	ENG	UTA		Middlesbrough		Middlesbrough Borough Council	http://www.middlesbrough.gov.uk		
-00LC	MDW	ENG	UTA		Medway		Medway Council	http://www.medway.gov.uk		
-00MG	MIK	ENG	UTA		Milton Keynes		Milton Keynes Council	http://www.milton-keynes.gov.uk		
-00EM	NBL	ENG	UTA		Northumberland		Northumberland Council	http://www.northumberland.gov.uk		
-00FC	NEL	ENG	UTA		North East Lincolnshire		North East Lincolnshire Council	http://www.nelincs.gov.uk		
-00CJ	NET	ENG	MTD		Newcastle upon Tyne		Newcastle City Council	http://www.newcastle.gov.uk		
-00FY	NGM	ENG	UTA		Nottingham		Nottingham City Council	http://www.nottinghamcity.gov.uk		
-00FD	NLN	ENG	UTA		North Lincolnshire		North Lincolnshire Council	http://www.northlincs.gov.uk		
-00HC	NSM	ENG	UTA		North Somerset		North Somerset  Council	http://www.n-somerset.gov.uk		
-00CK	NTY	ENG	MTD		North Tyneside		North Tyneside Council	http://my.northtyneside.gov.uk		
-00BP	OLD	ENG	MTD		Oldham		Oldham Metropolitan Borough Council	http://www.oldham.gov.uk		
-00HG	PLY	ENG	UTA		Plymouth		Plymouth City Council	http://www.plymouth.gov.uk		
-00HP	POL	ENG	UTA		Poole		Borough of Poole	http://www.poole.gov.uk		
-00MR	POR	ENG	UTA		Portsmouth		Portsmouth City Council	http://www.portsmouth.gov.uk		
-00JA	PTE	ENG	UTA		Peterborough		Peterborough City Council	http://www.peterborough.gov.uk		
-00EE	RCC	ENG	UTA		Redcar and Cleveland		Redcar and Cleveland Borough Council	http://www.redcar-cleveland.gov.uk		
-00BQ	RCH	ENG	MTD		Rochdale		Rochdale Metropolitan Borough Council	http://www.rochdale.gov.uk		
-00MC	RDG	ENG	UTA		Reading		Reading Borough Council	http://beta.reading.gov.uk		
-00CF	ROT	ENG	MTD		Rotherham		Rotherham Metropolitan Borough Council	http://www.rotherham.gov.uk		
-00FP	RUT	ENG	UTA		Rutland		Rutland County Council	http://www.rutland.gov.uk		
-00CS	SAW	ENG	MTD		Sandwell		Sandwell Metropolitan Borough Council	http://www.sandwell.gov.uk		
-00CA	SFT	ENG	MTD		Sefton		Sefton Metropolitan Borough Council	http://www.sefton.gov.uk		
-00HD	SGC	ENG	UTA		South Gloucestershire		South Gloucestershire Council	http://www.southglos.gov.uk		
-00CG	SHF	ENG	MTD		Sheffield		Sheffield City Council	http://www.sheffield.gov.uk		
-00BZ	SHN	ENG	MTD		St. Helens		St Helens Council	http://www.sthelens.gov.uk		
-00GG	SHR	ENG	UTA		Shropshire		Shropshire Council	http://www.shropshire.gov.uk		
-00BS	SKP	ENG	MTD		Stockport		Stockport Metropolitan Borough Council	http://www.stockport.gov.uk		
-00BR	SLF	ENG	MTD		Salford		Salford City Council	http://www.salford.gov.uk		
-00MD	SLG	ENG	UTA		Slough		Slough Borough Council	http://www.slough.gov.uk		
-00CM	SND	ENG	MTD		Sunderland		Sunderland City Council	http://www.sunderland.gov.uk		
-00CT	SOL	ENG	MTD		Solihull		Solihull Metropolitan Borough Council	http://www.solihull.gov.uk		
-00KF	SOS	ENG	UTA		Southend-on-Sea		Southend-on-Sea Borough Council	http://www.southend.gov.uk		
-00GL	STE	ENG	UTA		Stoke-on-Trent		Stoke-on-Trent City Council	http://www.stoke.gov.uk		
-00MS	STH	ENG	UTA		Southampton		Southampton City Council	http://www.southampton.gov.uk		
-00EF	STT	ENG	UTA		Stockton-on-Tees		Stockton-on-Tees Borough Council	http://www.stockton.gov.uk		
-00CL	STY	ENG	MTD		South Tyneside		South Tyneside Council	http://www.southtyneside.gov.uk		
-00HX	SWD	ENG	UTA		Swindon		Swindon Borough Council	http://www.swindon.gov.uk		
-00BT	TAM	ENG	MTD		Tameside		Tameside Metropolitan Borough Council	http://www.tameside.gov.uk		
-00GF	TFW	ENG	UTA		Telford and Wrekin		Telford & Wrekin Council	http://www.telford.gov.uk		
-00KG	THR	ENG	UTA		Thurrock		Thurrock Council	http://www.thurrock.gov.uk		
-00HH	TOB	ENG	UTA		Torbay		Torbay Council	http://www.torbay.gov.uk		
-00BU	TRF	ENG	MTD		Trafford		Trafford Council	http://www.trafford.gov.uk		
-00MB	WBK	ENG	UTA		West Berkshire		West Berkshire Council	http://www.westberks.gov.uk		
-00BW	WGN	ENG	MTD		Wigan		Wigan Council	http://www.wigan.gov.uk		
-00HY	WIL	ENG	UTA		Wiltshire		Wiltshire Council	http://www.wiltshire.gov.uk		
-00DB	WKF	ENG	MTD		Wakefield		Wakefield Metropolitan District Council	http://www.wakefield.gov.uk		
-00CU	WLL	ENG	MTD		Walsall		Walsall Council	http://www.walsall.gov.uk		
-00CW	WLV	ENG	MTD		Wolverhampton		Wolverhampton City Council	http://www.wolverhampton.gov.uk		
-00ME	WNM	ENG	UTA		Windsor and Maidenhead		Royal Borough of Windsor and Maidenhead	http://www.rbwm.gov.uk		
-00MF	WOK	ENG	UTA		Wokingham		Wokingham Borough Council	http://www.wokingham.gov.uk		
-00CB	WRL	ENG	MTD		Wirral		Wirral Council	http://www.wirral.gov.uk		
-00EU	WRT	ENG	UTA		Warrington		Warrington Borough Council	http://www.warrington.gov.uk		
-00FF	YOR	ENG	UTA		York		City of York Council	http://www.york.gov.uk		
+00KA	LUT	ENG	UA		Luton		Luton Borough Council	http://www.luton.gov.uk		
+00BN	MAN	ENG	MD		Manchester		Manchester City Council	http://www.manchester.gov.uk		
+00EC	MDB	ENG	UA		Middlesbrough		Middlesbrough Borough Council	http://www.middlesbrough.gov.uk		
+00LC	MDW	ENG	UA		Medway		Medway Council	http://www.medway.gov.uk		
+00MG	MIK	ENG	UA		Milton Keynes		Milton Keynes Council	http://www.milton-keynes.gov.uk		
+00EM	NBL	ENG	UA		Northumberland		Northumberland Council	http://www.northumberland.gov.uk		
+00FC	NEL	ENG	UA		North East Lincolnshire		North East Lincolnshire Council	http://www.nelincs.gov.uk		
+00CJ	NET	ENG	MD		Newcastle upon Tyne		Newcastle City Council	http://www.newcastle.gov.uk		
+00FY	NGM	ENG	UA		Nottingham		Nottingham City Council	http://www.nottinghamcity.gov.uk		
+00FD	NLN	ENG	UA		North Lincolnshire		North Lincolnshire Council	http://www.northlincs.gov.uk		
+00HC	NSM	ENG	UA		North Somerset		North Somerset  Council	http://www.n-somerset.gov.uk		
+00CK	NTY	ENG	MD		North Tyneside		North Tyneside Council	http://my.northtyneside.gov.uk		
+00BP	OLD	ENG	MD		Oldham		Oldham Metropolitan Borough Council	http://www.oldham.gov.uk		
+00HG	PLY	ENG	UA		Plymouth		Plymouth City Council	http://www.plymouth.gov.uk		
+00HP	POL	ENG	UA		Poole		Borough of Poole	http://www.poole.gov.uk		
+00MR	POR	ENG	UA		Portsmouth		Portsmouth City Council	http://www.portsmouth.gov.uk		
+00JA	PTE	ENG	UA		Peterborough		Peterborough City Council	http://www.peterborough.gov.uk		
+00EE	RCC	ENG	UA		Redcar and Cleveland		Redcar and Cleveland Borough Council	http://www.redcar-cleveland.gov.uk		
+00BQ	RCH	ENG	MD		Rochdale		Rochdale Metropolitan Borough Council	http://www.rochdale.gov.uk		
+00MC	RDG	ENG	UA		Reading		Reading Borough Council	http://beta.reading.gov.uk		
+00CF	ROT	ENG	MD		Rotherham		Rotherham Metropolitan Borough Council	http://www.rotherham.gov.uk		
+00FP	RUT	ENG	UA		Rutland		Rutland County Council	http://www.rutland.gov.uk		
+00CS	SAW	ENG	MD		Sandwell		Sandwell Metropolitan Borough Council	http://www.sandwell.gov.uk		
+00CA	SFT	ENG	MD		Sefton		Sefton Metropolitan Borough Council	http://www.sefton.gov.uk		
+00HD	SGC	ENG	UA		South Gloucestershire		South Gloucestershire Council	http://www.southglos.gov.uk		
+00CG	SHF	ENG	MD		Sheffield		Sheffield City Council	http://www.sheffield.gov.uk		
+00BZ	SHN	ENG	MD		St. Helens		St Helens Council	http://www.sthelens.gov.uk		
+00GG	SHR	ENG	UA		Shropshire		Shropshire Council	http://www.shropshire.gov.uk		
+00BS	SKP	ENG	MD		Stockport		Stockport Metropolitan Borough Council	http://www.stockport.gov.uk		
+00BR	SLF	ENG	MD		Salford		Salford City Council	http://www.salford.gov.uk		
+00MD	SLG	ENG	UA		Slough		Slough Borough Council	http://www.slough.gov.uk		
+00CM	SND	ENG	MD		Sunderland		Sunderland City Council	http://www.sunderland.gov.uk		
+00CT	SOL	ENG	MD		Solihull		Solihull Metropolitan Borough Council	http://www.solihull.gov.uk		
+00KF	SOS	ENG	UA		Southend-on-Sea		Southend-on-Sea Borough Council	http://www.southend.gov.uk		
+00GL	STE	ENG	UA		Stoke-on-Trent		Stoke-on-Trent City Council	http://www.stoke.gov.uk		
+00MS	STH	ENG	UA		Southampton		Southampton City Council	http://www.southampton.gov.uk		
+00EF	STT	ENG	UA		Stockton-on-Tees		Stockton-on-Tees Borough Council	http://www.stockton.gov.uk		
+00CL	STY	ENG	MD		South Tyneside		South Tyneside Council	http://www.southtyneside.gov.uk		
+00HX	SWD	ENG	UA		Swindon		Swindon Borough Council	http://www.swindon.gov.uk		
+00BT	TAM	ENG	MD		Tameside		Tameside Metropolitan Borough Council	http://www.tameside.gov.uk		
+00GF	TFW	ENG	UA		Telford and Wrekin		Telford & Wrekin Council	http://www.telford.gov.uk		
+00KG	THR	ENG	UA		Thurrock		Thurrock Council	http://www.thurrock.gov.uk		
+00HH	TOB	ENG	UA		Torbay		Torbay Council	http://www.torbay.gov.uk		
+00BU	TRF	ENG	MD		Trafford		Trafford Council	http://www.trafford.gov.uk		
+00MB	WBK	ENG	UA		West Berkshire		West Berkshire Council	http://www.westberks.gov.uk		
+00BW	WGN	ENG	MD		Wigan		Wigan Council	http://www.wigan.gov.uk		
+00HY	WIL	ENG	UA		Wiltshire		Wiltshire Council	http://www.wiltshire.gov.uk		
+00DB	WKF	ENG	MD		Wakefield		Wakefield Metropolitan District Council	http://www.wakefield.gov.uk		
+00CU	WLL	ENG	MD		Walsall		Walsall Council	http://www.walsall.gov.uk		
+00CW	WLV	ENG	MD		Wolverhampton		Wolverhampton City Council	http://www.wolverhampton.gov.uk		
+00ME	WNM	ENG	UA		Windsor and Maidenhead		Royal Borough of Windsor and Maidenhead	http://www.rbwm.gov.uk		
+00MF	WOK	ENG	UA		Wokingham		Wokingham Borough Council	http://www.wokingham.gov.uk		
+00CB	WRL	ENG	MD		Wirral		Wirral Council	http://www.wirral.gov.uk		
+00EU	WRT	ENG	UA		Warrington		Warrington Borough Council	http://www.warrington.gov.uk		
+00FF	YOR	ENG	UA		York		City of York Council	http://www.york.gov.uk		
 11	BKM	ENG	CTY	BKM	Buckinghamshire		Buckinghamshire County Council	http://www.buckscc.gov.uk		
 11UB	BKM-UB	ENG	NMD	BKM	Aylesbury Vale		Aylesbury Vale District Council	http://www.aylesburyvaledc.gov.uk		
 11UC	BKM-UC	ENG	NMD	BKM	Chiltern		Chiltern District Council	http://www.chiltern.gov.uk		
@@ -118,7 +118,7 @@ snac	local-authority	uk	local-authority-type	parent-local-authority	name	name-cy
 17UH	DBY-UH	ENG	NMD	DBY	High Peak		High Peak Borough Council	http://www.highpeak.gov.uk		
 17UJ	DBY-UJ	ENG	NMD	DBY	North East Derbyshire		North East Derbyshire District Council	http://www.ne-derbyshire.gov.uk		
 17UK	DBY-UK	ENG	NMD	DBY	South Derbyshire		South Derbyshire District Council	http://www.south-derbys.gov.uk		
-17UF	DER	ENG	UTA	DBY	Derby		Derbyshire Dales District Council	http://www.derbyshiredales.gov.uk		
+17UF	DER	ENG	UA	DBY	Derby		Derbyshire Dales District Council	http://www.derbyshiredales.gov.uk		
 18	DEV	ENG	CTY	DEV	Devon		Devon County Council	http://www.devon.gov.uk		
 18UB	DEV-UB	ENG	NMD	DEV	East Devon		East Devon District Council	http://eastdevon.gov.uk		
 18UC	DEV-UC	ENG	NMD	DEV	Exeter		Exeter City Council	http://exeter.gov.uk		
@@ -387,57 +387,57 @@ snac	local-authority	uk	local-authority-type	parent-local-authority	name	name-cy
 95X	NIR-X	NIR	DIS		Ards		Ards Borough Council	http://www.ards-council.gov.uk		
 95Y	NIR-Y	NIR	DIS		Castlereagh		Castlereagh Borough Council	http://www.castlereagh.gov.uk		
 	NMD	NIR	DIS		Newry, Mourne and Down		Newry, Mourne and Down District Council	http://www.newrymournedown.org	2015-04-01	
-00QB	ABD	SCT	COA		Aberdeenshire		Aberdeenshire Council	http://www.aberdeenshire.gov.uk		
-00QA	ABE	SCT	COA		Aberdeen City		Aberdeen City Council	http://www.aberdeencity.gov.uk		
-00QD	AGB	SCT	COA		Argyll and Bute		Argyll and Bute Council	http://www.argyll-bute.gov.uk		
-00QC	ANS	SCT	COA		Angus		Angus Council	http://www.angus.gov.uk		
-00QF	CLK	SCT	COA		Clackmannanshire		Clackmannanshire Council	http://www.clacksweb.org.uk		
-00QH	DGY	SCT	COA		Dumfries and Galloway		Dumfries and Galloway Council	http://www.dumgal.gov.uk		
-00QJ	DND	SCT	COA		Dundee City		Dundee City Council	http://www.dundeecity.gov.uk		
-00QK	EAY	SCT	COA		East Ayrshire		East Ayrshire Council	http://www.east-ayrshire.gov.uk		
-00QP	EDH	SCT	COA		City of Edinburgh		City of Edinburgh Council	http://www.edinburgh.gov.uk		
-00QL	EDU	SCT	COA		East Dunbartonshire		East Dunbartonshire Council	http://www.eastdunbarton.gov.uk		
-00QM	ELN	SCT	COA		East Lothian		East Lothian Council	http://www.eastlothian.gov.uk		
-00RJ	ELS	SCT	COA		Eilean Siar		Comhairle nan Eilean Siar	http://www.cne-siar.gov.uk		
-00QN	ERW	SCT	COA		East Renfrewshire		East Renfrewshire Council	http://www.eastrenfrewshire.gov.uk		
-00QQ	FAL	SCT	COA		Falkirk		Falkirk Council	http://www.falkirk.gov.uk		
-00QR	FIF	SCT	COA		Fife		Fife Council	http://www.fifedirect.org.uk		
-00QS	GLG	SCT	COA		Glasgow City		Glasgow City Council	http://www.glasgow.gov.uk		
-00QT	HLD	SCT	COA		Highland		The Highland Council	http://www.highland.gov.uk		
-00QU	IVC	SCT	COA		Inverclyde		Inverclyde Council	http://www.inverclyde.gov.uk		
-00QW	MLN	SCT	COA		Midlothian		Midlothian Council	http://www.midlothian.gov.uk		
-00QX	MRY	SCT	COA		Moray		Moray Council	http://www.moray.gov.uk		
-00QY	NAY	SCT	COA		North Ayrshire		North Ayrshire Council	http://www.north-ayrshire.gov.uk		
-00QZ	NLK	SCT	COA		North Lanarkshire		North Lanarkshire Council	http://www.northlanarkshire.gov.uk		
-00RA	ORK	SCT	COA		Orkney Islands		Orkney Islands Council	http://www.orkney.gov.uk		
-00RB	PKN	SCT	COA		Perth and Kinross		Perth and Kinross Council	http://www.pkc.gov.uk		
-00RC	RFW	SCT	COA		Renfrewshire		Renfrewshire Council	http://www.renfrewshire.gov.uk		
-00RE	SAY	SCT	COA		South Ayrshire		South Ayrshire Council	http://www.south-ayrshire.gov.uk		
-00QE	SCB	SCT	COA		The Scottish Borders		Scottish Borders Council	http://www.scotborders.gov.uk		
-00RF	SLK	SCT	COA		South Lanarkshire		South Lanarkshire Council	http://www.southlanarkshire.gov.uk		
-00RG	STG	SCT	COA		Stirling		Stirling Council	http://www.stirling.gov.uk		
-00QG	WDU	SCT	COA		West Dunbartonshire		West Dunbartonshire Council	http://www.west-dunbarton.gov.uk		
-00RH	WLN	SCT	COA		West Lothian		West Lothian Council	http://www.westlothian.gov.uk		
-00RD	ZET	SCT	COA		Shetland Islands		Shetland Islands Council	http://www.shetland.gov.uk		
-00NA	AGY	WLS	UTA		Isle of Anglesey	Sir Ynys Môn	Isle of Anglesey County Council	http://www.anglesey.gov.uk		
-00PB	BGE	WLS	UTA		Bridgend	Pen-y-bont ar Ogwr	Bridgend County Borough Council	http://www.bridgend.gov.uk		
-00PL	BGW	WLS	UTA		Blaenau Gwent		Blaenau Gwent County Borough Council	http://www.blaenau-gwent.gov.uk		
-00PK	CAY	WLS	UTA		Caerphilly	Caerffili	Caerphilly County Borough Council	http://www.caerphilly.gov.uk		
-00NQ	CGN	WLS	UTA		Ceredigion	Sir Ceredigion	Ceredigion County Council	http://www.ceredigion.gov.uk		
-00NU	CMN	WLS	UTA		Carmarthenshire	Sir Gaerfyrddin	Carmarthenshire County Council	http://www.carmarthenshire.gov.uk		
-00PT	CRF	WLS	UTA		Cardiff	Caerdydd	City of Cardiff Council	http://www.cardiff.gov.uk		
-00NE	CWY	WLS	UTA		Conwy		Conwy County Borough Council	http://www.conwy.gov.uk		
-00NG	DEN	WLS	UTA		Denbighshire	Sir Ddinbych	Denbighshire County Council	http://www.denbighshire.gov.uk		
-00NJ	FLN	WLS	UTA		Flintshire	Sir y Fflint	Flintshire County Council	http://www.flintshire.gov.uk		
-00NC	GWN	WLS	UTA		Gwynedd		Gwynedd Council	http://www.gwynedd.gov.uk		
-00PP	MON	WLS	UTA		Monmouthshire	Sir Fynwy	Monmouthshire County Council	http://www.monmouthshire.gov.uk		
-00PH	MTY	WLS	UTA		Merthyr Tydfil	Merthyr Tudful	Merthyr Tydfil County Borough Council	http://www.merthyr.gov.uk		
-00NZ	NTL	WLS	UTA		Neath Port Talbot	Castell-nedd Port Talbot	Neath Port Talbot County Borough Council	http://www.neath-porttalbot.gov.uk		
-00PR	NWP	WLS	UTA		Newport	Casnewydd	Newport City Council	http://www.newport.gov.uk		
-00NS	PEM	WLS	UTA		Pembrokeshire	Sir Benfro	Pembrokeshire County Council	http://www.pembrokeshire.gov.uk		
-00NN	POW	WLS	UTA		Powys		Powys County Council	http://www.powys.gov.uk		
-00PF	RCT	WLS	UTA		Rhondda Cynon Taff		Rhondda Cynon Taf County Borough Council	http://www.rctcbc.gov.uk		
-00NX	SWA	WLS	UTA		Swansea	Abertawe	City and County of Swansea Council	http://www.swansea.gov.uk		
-00PM	TOF	WLS	UTA		Torfaen	Tor-faen	Torfaen County Borough Council	http://www.torfaen.gov.uk		
-00PD	VGL	WLS	UTA		The Vale of Glamorgan	Bro Morgannwg	Vale of Glamorgan Council	http://www.valeofglamorgan.gov.uk		
-00NL	WRX	WLS	UTA		Wrexham	Wrecsam	Wrexham County Borough Council	http://www.wrexham.gov.uk		
+00QB	ABD	SCT	CA		Aberdeenshire		Aberdeenshire Council	http://www.aberdeenshire.gov.uk		
+00QA	ABE	SCT	CA		Aberdeen City		Aberdeen City Council	http://www.aberdeencity.gov.uk		
+00QD	AGB	SCT	CA		Argyll and Bute		Argyll and Bute Council	http://www.argyll-bute.gov.uk		
+00QC	ANS	SCT	CA		Angus		Angus Council	http://www.angus.gov.uk		
+00QF	CLK	SCT	CA		Clackmannanshire		Clackmannanshire Council	http://www.clacksweb.org.uk		
+00QH	DGY	SCT	CA		Dumfries and Galloway		Dumfries and Galloway Council	http://www.dumgal.gov.uk		
+00QJ	DND	SCT	CA		Dundee City		Dundee City Council	http://www.dundeecity.gov.uk		
+00QK	EAY	SCT	CA		East Ayrshire		East Ayrshire Council	http://www.east-ayrshire.gov.uk		
+00QP	EDH	SCT	CA		City of Edinburgh		City of Edinburgh Council	http://www.edinburgh.gov.uk		
+00QL	EDU	SCT	CA		East Dunbartonshire		East Dunbartonshire Council	http://www.eastdunbarton.gov.uk		
+00QM	ELN	SCT	CA		East Lothian		East Lothian Council	http://www.eastlothian.gov.uk		
+00RJ	ELS	SCT	CA		Eilean Siar		Comhairle nan Eilean Siar	http://www.cne-siar.gov.uk		
+00QN	ERW	SCT	CA		East Renfrewshire		East Renfrewshire Council	http://www.eastrenfrewshire.gov.uk		
+00QQ	FAL	SCT	CA		Falkirk		Falkirk Council	http://www.falkirk.gov.uk		
+00QR	FIF	SCT	CA		Fife		Fife Council	http://www.fifedirect.org.uk		
+00QS	GLG	SCT	CA		Glasgow City		Glasgow City Council	http://www.glasgow.gov.uk		
+00QT	HLD	SCT	CA		Highland		The Highland Council	http://www.highland.gov.uk		
+00QU	IVC	SCT	CA		Inverclyde		Inverclyde Council	http://www.inverclyde.gov.uk		
+00QW	MLN	SCT	CA		Midlothian		Midlothian Council	http://www.midlothian.gov.uk		
+00QX	MRY	SCT	CA		Moray		Moray Council	http://www.moray.gov.uk		
+00QY	NAY	SCT	CA		North Ayrshire		North Ayrshire Council	http://www.north-ayrshire.gov.uk		
+00QZ	NLK	SCT	CA		North Lanarkshire		North Lanarkshire Council	http://www.northlanarkshire.gov.uk		
+00RA	ORK	SCT	CA		Orkney Islands		Orkney Islands Council	http://www.orkney.gov.uk		
+00RB	PKN	SCT	CA		Perth and Kinross		Perth and Kinross Council	http://www.pkc.gov.uk		
+00RC	RFW	SCT	CA		Renfrewshire		Renfrewshire Council	http://www.renfrewshire.gov.uk		
+00RE	SAY	SCT	CA		South Ayrshire		South Ayrshire Council	http://www.south-ayrshire.gov.uk		
+00QE	SCB	SCT	CA		The Scottish Borders		Scottish Borders Council	http://www.scotborders.gov.uk		
+00RF	SLK	SCT	CA		South Lanarkshire		South Lanarkshire Council	http://www.southlanarkshire.gov.uk		
+00RG	STG	SCT	CA		Stirling		Stirling Council	http://www.stirling.gov.uk		
+00QG	WDU	SCT	CA		West Dunbartonshire		West Dunbartonshire Council	http://www.west-dunbarton.gov.uk		
+00RH	WLN	SCT	CA		West Lothian		West Lothian Council	http://www.westlothian.gov.uk		
+00RD	ZET	SCT	CA		Shetland Islands		Shetland Islands Council	http://www.shetland.gov.uk		
+00NA	AGY	WLS	UA		Isle of Anglesey	Sir Ynys Môn	Isle of Anglesey County Council	http://www.anglesey.gov.uk		
+00PB	BGE	WLS	UA		Bridgend	Pen-y-bont ar Ogwr	Bridgend County Borough Council	http://www.bridgend.gov.uk		
+00PL	BGW	WLS	UA		Blaenau Gwent		Blaenau Gwent County Borough Council	http://www.blaenau-gwent.gov.uk		
+00PK	CAY	WLS	UA		Caerphilly	Caerffili	Caerphilly County Borough Council	http://www.caerphilly.gov.uk		
+00NQ	CGN	WLS	UA		Ceredigion	Sir Ceredigion	Ceredigion County Council	http://www.ceredigion.gov.uk		
+00NU	CMN	WLS	UA		Carmarthenshire	Sir Gaerfyrddin	Carmarthenshire County Council	http://www.carmarthenshire.gov.uk		
+00PT	CRF	WLS	UA		Cardiff	Caerdydd	City of Cardiff Council	http://www.cardiff.gov.uk		
+00NE	CWY	WLS	UA		Conwy		Conwy County Borough Council	http://www.conwy.gov.uk		
+00NG	DEN	WLS	UA		Denbighshire	Sir Ddinbych	Denbighshire County Council	http://www.denbighshire.gov.uk		
+00NJ	FLN	WLS	UA		Flintshire	Sir y Fflint	Flintshire County Council	http://www.flintshire.gov.uk		
+00NC	GWN	WLS	UA		Gwynedd		Gwynedd Council	http://www.gwynedd.gov.uk		
+00PP	MON	WLS	UA		Monmouthshire	Sir Fynwy	Monmouthshire County Council	http://www.monmouthshire.gov.uk		
+00PH	MTY	WLS	UA		Merthyr Tydfil	Merthyr Tudful	Merthyr Tydfil County Borough Council	http://www.merthyr.gov.uk		
+00NZ	NTL	WLS	UA		Neath Port Talbot	Castell-nedd Port Talbot	Neath Port Talbot County Borough Council	http://www.neath-porttalbot.gov.uk		
+00PR	NWP	WLS	UA		Newport	Casnewydd	Newport City Council	http://www.newport.gov.uk		
+00NS	PEM	WLS	UA		Pembrokeshire	Sir Benfro	Pembrokeshire County Council	http://www.pembrokeshire.gov.uk		
+00NN	POW	WLS	UA		Powys		Powys County Council	http://www.powys.gov.uk		
+00PF	RCT	WLS	UA		Rhondda Cynon Taff		Rhondda Cynon Taf County Borough Council	http://www.rctcbc.gov.uk		
+00NX	SWA	WLS	UA		Swansea	Abertawe	City and County of Swansea Council	http://www.swansea.gov.uk		
+00PM	TOF	WLS	UA		Torfaen	Tor-faen	Torfaen County Borough Council	http://www.torfaen.gov.uk		
+00PD	VGL	WLS	UA		The Vale of Glamorgan	Bro Morgannwg	Vale of Glamorgan Council	http://www.valeofglamorgan.gov.uk		
+00NL	WRX	WLS	UA		Wrexham	Wrecsam	Wrexham County Borough Council	http://www.wrexham.gov.uk		

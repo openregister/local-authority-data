@@ -60,98 +60,98 @@ snac	local-authority	uk	local-authority-type	parent-local-authority	name	name-cy
 	WFT	ENG	LBO		Waltham Forest							
 	WND	ENG	LBO		Wandsworth							
 00BK	WSM	ENG	LBO		Westminster							
-	BNS	ENG	MTD		Barnsley							
-	BIR	ENG	MTD		Birmingham							
-	BOL	ENG	MTD		Bolton							
-	BRD	ENG	MTD		Bradford							
-	BUR	ENG	MTD		Bury							
-	CLD	ENG	MTD		Calderdale							
-	COV	ENG	MTD		Coventry							
-	DNC	ENG	MTD		Doncaster							
-	DUD	ENG	MTD		Dudley							
-	GAT	ENG	MTD		Gateshead							
-	KIR	ENG	MTD		Kirklees							
-	KWL	ENG	MTD		Knowsley							
-	LDS	ENG	MTD		Leeds							
-	LIV	ENG	MTD		Liverpool							
-	MAN	ENG	MTD		Manchester							
-00CJ	NET	ENG	MTD		Newcastle upon Tyne							
-	NTY	ENG	MTD		North Tyneside							
-	OLD	ENG	MTD		Oldham							
-	RCH	ENG	MTD		Rochdale							
-	ROT	ENG	MTD		Rotherham							
-00BZ	SHN	ENG	MTD		St. Helens							
-	SLF	ENG	MTD		Salford							
-	SAW	ENG	MTD		Sandwell							
-	SFT	ENG	MTD		Sefton							
-	SHF	ENG	MTD		Sheffield							
-	SOL	ENG	MTD		Solihull							
-	STY	ENG	MTD		South Tyneside							
-	SKP	ENG	MTD		Stockport							
-	SND	ENG	MTD		Sunderland							
-	TAM	ENG	MTD		Tameside							
-	TRF	ENG	MTD		Trafford							
-	WKF	ENG	MTD		Wakefield							
-	WLL	ENG	MTD		Walsall							
-	WGN	ENG	MTD		Wigan							
-	WRL	ENG	MTD		Wirral							
-	WLV	ENG	MTD		Wolverhampton							
-	BAS	ENG	UTA		Bath and North East Somerset							
-	BDF	ENG	UTA		Bedford							
-	BBD	ENG	UTA		Blackburn with Darwen							
-	BPL	ENG	UTA		Blackpool							
-	BMH	ENG	UTA		Bournemouth							
-	BRC	ENG	UTA		Bracknell Forest							
-	BNH	ENG	UTA		Brighton and Hove							
-00HB	BST	ENG	UTA		City of Bristol							
-	CBF	ENG	UTA		Central Bedfordshire							
-	CHE	ENG	UTA		Cheshire East							
-	CHW	ENG	UTA		Cheshire West and Chester							
-	CON	ENG	UTA		Cornwall							
-	DAL	ENG	UTA		Darlington							
-	DER	ENG	UTA		Derby							
-00EJ	DUR	ENG	UTA		County Durham							
-	ERY	ENG	UTA		East Riding of Yorkshire							
-	HAL	ENG	UTA		Halton							
-	HPL	ENG	UTA		Hartlepool							
-	HEF	ENG	UTA		Herefordshire							
-	IOW	ENG	UTA		Isle of Wight							
-00HF	IOS	ENG	UTA		Isles of Scilly							
-00FA	KHL	ENG	UTA		Kingston upon Hull							
-	LCE	ENG	UTA		Leicester							
-	LUT	ENG	UTA		Luton							
-	MDW	ENG	UTA		Medway							
-	MDB	ENG	UTA		Middlesbrough							
-	MIK	ENG	UTA		Milton Keynes							
-	NEL	ENG	UTA		North East Lincolnshire							
-	NLN	ENG	UTA		North Lincolnshire							
-	NSM	ENG	UTA		North Somerset							
-	NBL	ENG	UTA		Northumberland							
-	NGM	ENG	UTA		Nottingham							
-	PTE	ENG	UTA		Peterborough							
-	PLY	ENG	UTA		Plymouth							
-00HP	POL	ENG	UTA		Poole							
-	POR	ENG	UTA		Portsmouth							
-	RDG	ENG	UTA		Reading							
-	RCC	ENG	UTA		Redcar and Cleveland							
-	RUT	ENG	UTA		Rutland							
-	SHR	ENG	UTA		Shropshire							
-	SLG	ENG	UTA		Slough							
-	SGC	ENG	UTA		South Gloucestershire							
-	STH	ENG	UTA		Southampton							
-	SOS	ENG	UTA		Southend-on-Sea							
-	STT	ENG	UTA		Stockton-on-Tees							
-	STE	ENG	UTA		Stoke-on-Trent							
-	SWD	ENG	UTA		Swindon							
-00GF	TFW	ENG	UTA		Telford and Wrekin							
-	THR	ENG	UTA		Thurrock							
-	TOB	ENG	UTA		Torbay							
-	WRT	ENG	UTA		Warrington							
-	WBK	ENG	UTA		West Berkshire							
-	WIL	ENG	UTA		Wiltshire							
-00ME	WNM	ENG	UTA		Windsor and Maidenhead							
-	WOK	ENG	UTA		Wokingham							
-00FF	YOR	ENG	UTA		York							
+	BNS	ENG	MD		Barnsley							
+	BIR	ENG	MD		Birmingham							
+	BOL	ENG	MD		Bolton							
+	BRD	ENG	MD		Bradford							
+	BUR	ENG	MD		Bury							
+	CLD	ENG	MD		Calderdale							
+	COV	ENG	MD		Coventry							
+	DNC	ENG	MD		Doncaster							
+	DUD	ENG	MD		Dudley							
+	GAT	ENG	MD		Gateshead							
+	KIR	ENG	MD		Kirklees							
+	KWL	ENG	MD		Knowsley							
+	LDS	ENG	MD		Leeds							
+	LIV	ENG	MD		Liverpool							
+	MAN	ENG	MD		Manchester							
+00CJ	NET	ENG	MD		Newcastle upon Tyne							
+	NTY	ENG	MD		North Tyneside							
+	OLD	ENG	MD		Oldham							
+	RCH	ENG	MD		Rochdale							
+	ROT	ENG	MD		Rotherham							
+00BZ	SHN	ENG	MD		St. Helens							
+	SLF	ENG	MD		Salford							
+	SAW	ENG	MD		Sandwell							
+	SFT	ENG	MD		Sefton							
+	SHF	ENG	MD		Sheffield							
+	SOL	ENG	MD		Solihull							
+	STY	ENG	MD		South Tyneside							
+	SKP	ENG	MD		Stockport							
+	SND	ENG	MD		Sunderland							
+	TAM	ENG	MD		Tameside							
+	TRF	ENG	MD		Trafford							
+	WKF	ENG	MD		Wakefield							
+	WLL	ENG	MD		Walsall							
+	WGN	ENG	MD		Wigan							
+	WRL	ENG	MD		Wirral							
+	WLV	ENG	MD		Wolverhampton							
+	BAS	ENG	UA		Bath and North East Somerset							
+	BDF	ENG	UA		Bedford							
+	BBD	ENG	UA		Blackburn with Darwen							
+	BPL	ENG	UA		Blackpool							
+	BMH	ENG	UA		Bournemouth							
+	BRC	ENG	UA		Bracknell Forest							
+	BNH	ENG	UA		Brighton and Hove							
+00HB	BST	ENG	UA		City of Bristol							
+	CBF	ENG	UA		Central Bedfordshire							
+	CHE	ENG	UA		Cheshire East							
+	CHW	ENG	UA		Cheshire West and Chester							
+	CON	ENG	UA		Cornwall							
+	DAL	ENG	UA		Darlington							
+	DER	ENG	UA		Derby							
+00EJ	DUR	ENG	UA		County Durham							
+	ERY	ENG	UA		East Riding of Yorkshire							
+	HAL	ENG	UA		Halton							
+	HPL	ENG	UA		Hartlepool							
+	HEF	ENG	UA		Herefordshire							
+	IOW	ENG	UA		Isle of Wight							
+00HF	IOS	ENG	UA		Isles of Scilly							
+00FA	KHL	ENG	UA		Kingston upon Hull							
+	LCE	ENG	UA		Leicester							
+	LUT	ENG	UA		Luton							
+	MDW	ENG	UA		Medway							
+	MDB	ENG	UA		Middlesbrough							
+	MIK	ENG	UA		Milton Keynes							
+	NEL	ENG	UA		North East Lincolnshire							
+	NLN	ENG	UA		North Lincolnshire							
+	NSM	ENG	UA		North Somerset							
+	NBL	ENG	UA		Northumberland							
+	NGM	ENG	UA		Nottingham							
+	PTE	ENG	UA		Peterborough							
+	PLY	ENG	UA		Plymouth							
+00HP	POL	ENG	UA		Poole							
+	POR	ENG	UA		Portsmouth							
+	RDG	ENG	UA		Reading							
+	RCC	ENG	UA		Redcar and Cleveland							
+	RUT	ENG	UA		Rutland							
+	SHR	ENG	UA		Shropshire							
+	SLG	ENG	UA		Slough							
+	SGC	ENG	UA		South Gloucestershire							
+	STH	ENG	UA		Southampton							
+	SOS	ENG	UA		Southend-on-Sea							
+	STT	ENG	UA		Stockton-on-Tees							
+	STE	ENG	UA		Stoke-on-Trent							
+	SWD	ENG	UA		Swindon							
+00GF	TFW	ENG	UA		Telford and Wrekin							
+	THR	ENG	UA		Thurrock							
+	TOB	ENG	UA		Torbay							
+	WRT	ENG	UA		Warrington							
+	WBK	ENG	UA		West Berkshire							
+	WIL	ENG	UA		Wiltshire							
+00ME	WNM	ENG	UA		Windsor and Maidenhead							
+	WOK	ENG	UA		Wokingham							
+00FF	YOR	ENG	UA		York							
 	ANN	NIR	DIS		Antrim and Newtownabbey		Antrim and Newtownabbey Borough Council	http://www.antrimandnewtownabbey.gov.uk	2015-04-01				
 	AND	NIR	DIS		Ards and North Down		Ards and North Down Borough Council	http://www.ardsandnorthdown.gov.uk	2015-04-01	
 	ABC	NIR	DIS		Armagh, Banbridge and Craigavon		Armagh, Banbridge and Craigavon District Council	http://www.armaghbanbridgecraigavon.org	2015-04-01			
@@ -163,57 +163,57 @@ snac	local-authority	uk	local-authority-type	parent-local-authority	name	name-cy
 	MEA	NIR	DIS		Mid and East Antrim		Mid and East Antrim Borough Council	http://www.midandeastantrim.gov.uk	2015-04-01	
 	MUL	NIR	DIS		Mid Ulster		Mid-Ulster District Council	http://www.midulstercouncil.org		
 	NMD	NIR	DIS		Newry, Mourne and Down		Newry, Mourne and Down District Council	http://www.newrymournedown.org	2015-04-01			
-	ABE	SCT	COA		Aberdeen City							
-	ABD	SCT	COA		Aberdeenshire							
-	ANS	SCT	COA		Angus							
-	AGB	SCT	COA		Argyll and Bute							
-	CLK	SCT	COA		Clackmannanshire							
-	DGY	SCT	COA		Dumfries and Galloway							
-	DND	SCT	COA		Dundee City							
-	EAY	SCT	COA		East Ayrshire							
-	EDU	SCT	COA		East Dunbartonshire							
-	ELN	SCT	COA		East Lothian							
-	ERW	SCT	COA		East Renfrewshire							
-	EDH	SCT	COA		City of Edinburgh							
-00RJ	ELS	SCT	COA		Eilean Siar							
-	FAL	SCT	COA		Falkirk							
-	FIF	SCT	COA		Fife							
-	GLG	SCT	COA		Glasgow City							
-00QT	HLD	SCT	COA		Highland							
-	IVC	SCT	COA		Inverclyde							
-	MLN	SCT	COA		Midlothian							
-	MRY	SCT	COA		Moray							
-	NAY	SCT	COA		North Ayrshire							
-	NLK	SCT	COA		North Lanarkshire							
-	ORK	SCT	COA		Orkney Islands							
-	PKN	SCT	COA		Perth and Kinross							
-	RFW	SCT	COA		Renfrewshire							
-00QE	SCB	SCT	COA		The Scottish Borders							
-	ZET	SCT	COA		Shetland Islands							
-	SAY	SCT	COA		South Ayrshire							
-	SLK	SCT	COA		South Lanarkshire							
-	STG	SCT	COA		Stirling							
-	WDU	SCT	COA		West Dunbartonshire							
-	WLN	SCT	COA		West Lothian							
-	BGW	WLS	UTA		Blaenau Gwent							
-	BGE	WLS	UTA		Bridgend	Pen-y-bont ar Ogwr						
-	CAY	WLS	UTA		Caerphilly	Caerffili						
-00PT	CRF	WLS	UTA		Cardiff	Caerdydd						
-	CMN	WLS	UTA		Carmarthenshire	Sir Gaerfyrddin						
-	CGN	WLS	UTA		Ceredigion	Sir Ceredigion						
-	CWY	WLS	UTA		Conwy							
-	DEN	WLS	UTA		Denbighshire	Sir Ddinbych						
-	FLN	WLS	UTA		Flintshire	Sir y Fflint						
-	GWN	WLS	UTA		Gwynedd							
-	AGY	WLS	UTA		Isle of Anglesey	Sir Ynys Môn						
-	MTY	WLS	UTA		Merthyr Tydfil	Merthyr Tudful						
-	MON	WLS	UTA		Monmouthshire	Sir Fynwy						
-	NTL	WLS	UTA		Neath Port Talbot	Castell-nedd Port Talbot						
-	NWP	WLS	UTA		Newport	Casnewydd						
-	PEM	WLS	UTA		Pembrokeshire	Sir Benfro						
-	POW	WLS	UTA		Powys							
-00PF	RCT	WLS	UTA		Rhondda Cynon Taff							
-00NX	SWA	WLS	UTA		Swansea	Abertawe						
-	TOF	WLS	UTA		Torfaen	Tor-faen						
-00PD	VGL	WLS	UTA		The Vale of Glamorgan	Bro Morgannwg						
-	WRX	WLS	UTA		Wrexham	Wrecsam						
+	ABE	SCT	CA		Aberdeen City							
+	ABD	SCT	CA		Aberdeenshire							
+	ANS	SCT	CA		Angus							
+	AGB	SCT	CA		Argyll and Bute							
+	CLK	SCT	CA		Clackmannanshire							
+	DGY	SCT	CA		Dumfries and Galloway							
+	DND	SCT	CA		Dundee City							
+	EAY	SCT	CA		East Ayrshire							
+	EDU	SCT	CA		East Dunbartonshire							
+	ELN	SCT	CA		East Lothian							
+	ERW	SCT	CA		East Renfrewshire							
+	EDH	SCT	CA		City of Edinburgh							
+00RJ	ELS	SCT	CA		Eilean Siar							
+	FAL	SCT	CA		Falkirk							
+	FIF	SCT	CA		Fife							
+	GLG	SCT	CA		Glasgow City							
+00QT	HLD	SCT	CA		Highland							
+	IVC	SCT	CA		Inverclyde							
+	MLN	SCT	CA		Midlothian							
+	MRY	SCT	CA		Moray							
+	NAY	SCT	CA		North Ayrshire							
+	NLK	SCT	CA		North Lanarkshire							
+	ORK	SCT	CA		Orkney Islands							
+	PKN	SCT	CA		Perth and Kinross							
+	RFW	SCT	CA		Renfrewshire							
+00QE	SCB	SCT	CA		The Scottish Borders							
+	ZET	SCT	CA		Shetland Islands							
+	SAY	SCT	CA		South Ayrshire							
+	SLK	SCT	CA		South Lanarkshire							
+	STG	SCT	CA		Stirling							
+	WDU	SCT	CA		West Dunbartonshire							
+	WLN	SCT	CA		West Lothian							
+	BGW	WLS	UA		Blaenau Gwent							
+	BGE	WLS	UA		Bridgend	Pen-y-bont ar Ogwr						
+	CAY	WLS	UA		Caerphilly	Caerffili						
+00PT	CRF	WLS	UA		Cardiff	Caerdydd						
+	CMN	WLS	UA		Carmarthenshire	Sir Gaerfyrddin						
+	CGN	WLS	UA		Ceredigion	Sir Ceredigion						
+	CWY	WLS	UA		Conwy							
+	DEN	WLS	UA		Denbighshire	Sir Ddinbych						
+	FLN	WLS	UA		Flintshire	Sir y Fflint						
+	GWN	WLS	UA		Gwynedd							
+	AGY	WLS	UA		Isle of Anglesey	Sir Ynys Môn						
+	MTY	WLS	UA		Merthyr Tydfil	Merthyr Tudful						
+	MON	WLS	UA		Monmouthshire	Sir Fynwy						
+	NTL	WLS	UA		Neath Port Talbot	Castell-nedd Port Talbot						
+	NWP	WLS	UA		Newport	Casnewydd						
+	PEM	WLS	UA		Pembrokeshire	Sir Benfro						
+	POW	WLS	UA		Powys							
+00PF	RCT	WLS	UA		Rhondda Cynon Taff							
+00NX	SWA	WLS	UA		Swansea	Abertawe						
+	TOF	WLS	UA		Torfaen	Tor-faen						
+00PD	VGL	WLS	UA		The Vale of Glamorgan	Bro Morgannwg						
+	WRX	WLS	UA		Wrexham	Wrecsam						
