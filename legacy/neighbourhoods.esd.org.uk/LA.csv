@@ -1,0 +1,419 @@
+AreaTypeIdentifier,AreaTypeUri,AreaTypeLabel,AreaTypeDescription,AreaIdentifier,AreaUri,AreaLabel,AreaAltLabels,AreaDescription,AreaColour
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000001,http://id.esd.org.uk/neighbourhood/E06000001,Hartlepool,,,65cdde
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000002,http://id.esd.org.uk/neighbourhood/E06000002,Middlesbrough,,,598882
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000014,http://id.esd.org.uk/neighbourhood/E06000014,York,,,4327d1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000005,http://id.esd.org.uk/neighbourhood/E06000005,Darlington,,,8d1c43
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000016,http://id.esd.org.uk/neighbourhood/E06000016,Leicester,,,486944
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000010,http://id.esd.org.uk/neighbourhood/E06000010,Kingston upon Hull,,,9bf6cc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000006,http://id.esd.org.uk/neighbourhood/E06000006,Halton,,,b3f2a9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000011,http://id.esd.org.uk/neighbourhood/E06000011,East Riding of Yorkshire,,,ce3de4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000013,http://id.esd.org.uk/neighbourhood/E06000013,North Lincolnshire,,,cd4744
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000015,http://id.esd.org.uk/neighbourhood/E06000015,Derby,,,79af63
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000012,http://id.esd.org.uk/neighbourhood/E06000012,North East Lincolnshire,,,9d3199
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000003,http://id.esd.org.uk/neighbourhood/E06000003,Redcar and Cleveland,,,ba48aa
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000008,http://id.esd.org.uk/neighbourhood/E06000008,Blackburn with Darwen,,,13c097
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000017,http://id.esd.org.uk/neighbourhood/E06000017,Rutland,,,96fd8a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000009,http://id.esd.org.uk/neighbourhood/E06000009,Blackpool,,,f4cc6d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000004,http://id.esd.org.uk/neighbourhood/E06000004,Stockton-on-Tees,,,e6aadf
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000007,http://id.esd.org.uk/neighbourhood/E06000007,Warrington,,,47c74a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000019,http://id.esd.org.uk/neighbourhood/E06000019,Herefordshire,,,2a0863
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000026,http://id.esd.org.uk/neighbourhood/E06000026,Plymouth,,,13a6da
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000028,http://id.esd.org.uk/neighbourhood/E06000028,Bournemouth,,,a7d935
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000030,http://id.esd.org.uk/neighbourhood/E06000030,Swindon,,,c62c73
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000020,http://id.esd.org.uk/neighbourhood/E06000020,Telford and Wrekin,,,8cf688
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000029,http://id.esd.org.uk/neighbourhood/E06000029,Poole,,,8c2bbe
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000031,http://id.esd.org.uk/neighbourhood/E06000031,Peterborough,,,2b458b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000025,http://id.esd.org.uk/neighbourhood/E06000025,South Gloucestershire,,,2e6778
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000018,http://id.esd.org.uk/neighbourhood/E06000018,Nottingham,,,d1c01f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000023,http://id.esd.org.uk/neighbourhood/E06000023,Bristol,,,5331d9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000021,http://id.esd.org.uk/neighbourhood/E06000021,Stoke-on-Trent,,,909132
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000024,http://id.esd.org.uk/neighbourhood/E06000024,North Somerset,,,028478
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000022,http://id.esd.org.uk/neighbourhood/E06000022,Bath and North East Somerset,,,2b5736
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000027,http://id.esd.org.uk/neighbourhood/E06000027,Torbay,,,c54405
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000036,http://id.esd.org.uk/neighbourhood/E06000036,Bracknell Forest,,,5a9520
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000044,http://id.esd.org.uk/neighbourhood/E06000044,Portsmouth,,,3a2a6c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000034,http://id.esd.org.uk/neighbourhood/E06000034,Thurrock,,,3b9b89
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000040,http://id.esd.org.uk/neighbourhood/E06000040,Windsor and Maidenhead,,,6d5b3c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000047,http://id.esd.org.uk/neighbourhood/E06000047,Durham,,,9a84ff
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000032,http://id.esd.org.uk/neighbourhood/E06000032,Luton,,,d27d9c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000038,http://id.esd.org.uk/neighbourhood/E06000038,Reading,,,dd93db
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000042,http://id.esd.org.uk/neighbourhood/E06000042,Milton Keynes,,,7ae697
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000043,http://id.esd.org.uk/neighbourhood/E06000043,Brighton and Hove,,,8f66b4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000046,http://id.esd.org.uk/neighbourhood/E06000046,Isle of Wight,,,565c1d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000035,http://id.esd.org.uk/neighbourhood/E06000035,Medway,,,c6b676
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000039,http://id.esd.org.uk/neighbourhood/E06000039,Slough,,,7acc9d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000041,http://id.esd.org.uk/neighbourhood/E06000041,Wokingham,,,3e97b6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000045,http://id.esd.org.uk/neighbourhood/E06000045,Southampton,,,a582c8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000033,http://id.esd.org.uk/neighbourhood/E06000033,Southend-on-Sea,,,85f175
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000037,http://id.esd.org.uk/neighbourhood/E06000037,West Berkshire,,,97f85e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000008,http://id.esd.org.uk/neighbourhood/E07000008,Cambridge,,,2a0dee
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000050,http://id.esd.org.uk/neighbourhood/E06000050,Cheshire West and Chester,,,22dee7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000049,http://id.esd.org.uk/neighbourhood/E06000049,Cheshire East,,,8cc6b3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000004,http://id.esd.org.uk/neighbourhood/E07000004,Aylesbury Vale,,,9af21b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000007,http://id.esd.org.uk/neighbourhood/E07000007,Wycombe,,,58bcac
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000005,http://id.esd.org.uk/neighbourhood/E07000005,Chiltern,,,abaa1b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000056,http://id.esd.org.uk/neighbourhood/E06000056,Central Bedfordshire,,,a536d2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000052,http://id.esd.org.uk/neighbourhood/E06000052,Cornwall,,,927bd3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000054,http://id.esd.org.uk/neighbourhood/E06000054,Wiltshire,,,e8cc68
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000006,http://id.esd.org.uk/neighbourhood/E07000006,South Bucks,,,659f42
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000051,http://id.esd.org.uk/neighbourhood/E06000051,Shropshire,,,08919c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000057,http://id.esd.org.uk/neighbourhood/E06000057,Northumberland,,,36fad5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000055,http://id.esd.org.uk/neighbourhood/E06000055,Bedford Borough,,,d51b4f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000009,http://id.esd.org.uk/neighbourhood/E07000009,East Cambridgeshire,,,52aa31
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E06000053,http://id.esd.org.uk/neighbourhood/E06000053,Isles of Scilly,,,8294b9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000034,http://id.esd.org.uk/neighbourhood/E07000034,Chesterfield,,,41b69c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000010,http://id.esd.org.uk/neighbourhood/E07000010,Fenland,,,8bce1b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000037,http://id.esd.org.uk/neighbourhood/E07000037,High Peak,,,4db996
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000033,http://id.esd.org.uk/neighbourhood/E07000033,Bolsover,,,221232
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000028,http://id.esd.org.uk/neighbourhood/E07000028,Carlisle,,,dd9a9c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000036,http://id.esd.org.uk/neighbourhood/E07000036,Erewash,,,aa6b56
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000027,http://id.esd.org.uk/neighbourhood/E07000027,Barrow-in-Furness,,,aab694
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000029,http://id.esd.org.uk/neighbourhood/E07000029,Copeland,,,c89aa9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000030,http://id.esd.org.uk/neighbourhood/E07000030,Eden,,,954ab8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000032,http://id.esd.org.uk/neighbourhood/E07000032,Amber Valley,,,0f210a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000031,http://id.esd.org.uk/neighbourhood/E07000031,South Lakeland,,,f4c57a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000035,http://id.esd.org.uk/neighbourhood/E07000035,Derbyshire Dales,,,091688
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000026,http://id.esd.org.uk/neighbourhood/E07000026,Allerdale,,,914ecc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000012,http://id.esd.org.uk/neighbourhood/E07000012,South Cambridgeshire,,,943258
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000011,http://id.esd.org.uk/neighbourhood/E07000011,Huntingdonshire,,,45a4e3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000040,http://id.esd.org.uk/neighbourhood/E07000040,East Devon,,,b86112
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000049,http://id.esd.org.uk/neighbourhood/E07000049,East Dorset,,,49c0ac
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000050,http://id.esd.org.uk/neighbourhood/E07000050,North Dorset,,,11cc21
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000041,http://id.esd.org.uk/neighbourhood/E07000041,Exeter,,,2ad1cb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000047,http://id.esd.org.uk/neighbourhood/E07000047,West Devon,,,24b2f5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000044,http://id.esd.org.uk/neighbourhood/E07000044,South Hams,,,1ba078
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000038,http://id.esd.org.uk/neighbourhood/E07000038,North East Derbyshire,,,9b1111
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000042,http://id.esd.org.uk/neighbourhood/E07000042,Mid Devon,,,ad2ab4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000048,http://id.esd.org.uk/neighbourhood/E07000048,Christchurch,,,eb5163
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000046,http://id.esd.org.uk/neighbourhood/E07000046,Torridge,,,92d5ba
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000043,http://id.esd.org.uk/neighbourhood/E07000043,North Devon,,,1c491c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000045,http://id.esd.org.uk/neighbourhood/E07000045,Teignbridge,,,3891f8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000039,http://id.esd.org.uk/neighbourhood/E07000039,South Derbyshire,,,982ae9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000051,http://id.esd.org.uk/neighbourhood/E07000051,Purbeck,,,12d1fd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000068,http://id.esd.org.uk/neighbourhood/E07000068,Brentwood,,,a5611c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000066,http://id.esd.org.uk/neighbourhood/E07000066,Basildon,,,d61bc7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000071,http://id.esd.org.uk/neighbourhood/E07000071,Colchester,,,a67fb2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000065,http://id.esd.org.uk/neighbourhood/E07000065,Wealden,,,86b388
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000074,http://id.esd.org.uk/neighbourhood/E07000074,Maldon,,,6a8bed
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000069,http://id.esd.org.uk/neighbourhood/E07000069,Castle Point,,,4343ea
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000073,http://id.esd.org.uk/neighbourhood/E07000073,Harlow,,,0c45d8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000062,http://id.esd.org.uk/neighbourhood/E07000062,Hastings,,,b818b4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000052,http://id.esd.org.uk/neighbourhood/E07000052,West Dorset,,,91a60d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000053,http://id.esd.org.uk/neighbourhood/E07000053,Weymouth and Portland,,,e24ddd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000064,http://id.esd.org.uk/neighbourhood/E07000064,Rother,,,9e2ea8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000063,http://id.esd.org.uk/neighbourhood/E07000063,Lewes,,,7711b7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000061,http://id.esd.org.uk/neighbourhood/E07000061,Eastbourne,,,972c89
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000072,http://id.esd.org.uk/neighbourhood/E07000072,Epping Forest,,,9464ee
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000070,http://id.esd.org.uk/neighbourhood/E07000070,Chelmsford,,,e36543
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000067,http://id.esd.org.uk/neighbourhood/E07000067,Braintree,,,6d6248
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000087,http://id.esd.org.uk/neighbourhood/E07000087,Fareham,,,575b77
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000077,http://id.esd.org.uk/neighbourhood/E07000077,Uttlesford,,,e1e785
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000076,http://id.esd.org.uk/neighbourhood/E07000076,Tendring,,,e1bf37
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000078,http://id.esd.org.uk/neighbourhood/E07000078,Cheltenham,,,5e5199
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000084,http://id.esd.org.uk/neighbourhood/E07000084,Basingstoke and Deane,,,8dd2ce
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000075,http://id.esd.org.uk/neighbourhood/E07000075,Rochford,,,86085d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000082,http://id.esd.org.uk/neighbourhood/E07000082,Stroud,,,3b8605
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000079,http://id.esd.org.uk/neighbourhood/E07000079,Cotswold,,,d35fae
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000088,http://id.esd.org.uk/neighbourhood/E07000088,Gosport,,,76b96d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000086,http://id.esd.org.uk/neighbourhood/E07000086,Eastleigh,,,fd31b0
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000083,http://id.esd.org.uk/neighbourhood/E07000083,Tewkesbury,,,16b0e7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000081,http://id.esd.org.uk/neighbourhood/E07000081,Gloucester,,,dea398
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000080,http://id.esd.org.uk/neighbourhood/E07000080,Forest of Dean,,,cb4356
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000085,http://id.esd.org.uk/neighbourhood/E07000085,East Hampshire,,,5ad622
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000089,http://id.esd.org.uk/neighbourhood/E07000089,Hart,,,dabd8a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000103,http://id.esd.org.uk/neighbourhood/E07000103,Watford,,,307977
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000102,http://id.esd.org.uk/neighbourhood/E07000102,Three Rivers,,,b9b308
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000098,http://id.esd.org.uk/neighbourhood/E07000098,Hertsmere,,,3568d8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000094,http://id.esd.org.uk/neighbourhood/E07000094,Winchester,,,2626f6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000099,http://id.esd.org.uk/neighbourhood/E07000099,North Hertfordshire,,,a5cab0
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000092,http://id.esd.org.uk/neighbourhood/E07000092,Rushmoor,,,feaeb2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000090,http://id.esd.org.uk/neighbourhood/E07000090,Havant,,,8a9a66
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000091,http://id.esd.org.uk/neighbourhood/E07000091,New Forest,,,86aa26
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000095,http://id.esd.org.uk/neighbourhood/E07000095,Broxbourne,,,723017
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000106,http://id.esd.org.uk/neighbourhood/E07000106,Canterbury,,,1a9a3a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000096,http://id.esd.org.uk/neighbourhood/E07000096,Dacorum,,,ef50be
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000105,http://id.esd.org.uk/neighbourhood/E07000105,Ashford,,,1379d4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000093,http://id.esd.org.uk/neighbourhood/E07000093,Test Valley,,,c0e934
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000107,http://id.esd.org.uk/neighbourhood/E07000107,Dartford,,,c58699
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000117,http://id.esd.org.uk/neighbourhood/E07000117,Burnley,,,71f587
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000121,http://id.esd.org.uk/neighbourhood/E07000121,Lancaster,,,ab8ad8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000109,http://id.esd.org.uk/neighbourhood/E07000109,Gravesham,,,857c77
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000111,http://id.esd.org.uk/neighbourhood/E07000111,Sevenoaks,,,b899b3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000110,http://id.esd.org.uk/neighbourhood/E07000110,Maidstone,,,c421b7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000120,http://id.esd.org.uk/neighbourhood/E07000120,Hyndburn,,,51e0dc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000119,http://id.esd.org.uk/neighbourhood/E07000119,Fylde,,,479c17
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000108,http://id.esd.org.uk/neighbourhood/E07000108,Dover,,,de7cd2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000118,http://id.esd.org.uk/neighbourhood/E07000118,Chorley,,,77c473
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000113,http://id.esd.org.uk/neighbourhood/E07000113,Swale,,,9e386b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000114,http://id.esd.org.uk/neighbourhood/E07000114,Thanet,,,361a2e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000116,http://id.esd.org.uk/neighbourhood/E07000116,Tunbridge Wells,,,625316
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000112,http://id.esd.org.uk/neighbourhood/E07000112,Shepway,,,8b7d4b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000115,http://id.esd.org.uk/neighbourhood/E07000115,Tonbridge and Malling,,,e0353c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000130,http://id.esd.org.uk/neighbourhood/E07000130,Charnwood,,,7509a1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000126,http://id.esd.org.uk/neighbourhood/E07000126,South Ribble,,,ab1dd5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000132,http://id.esd.org.uk/neighbourhood/E07000132,Hinckley and Bosworth,,,a23ef1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000125,http://id.esd.org.uk/neighbourhood/E07000125,Rossendale,,,31ad80
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000122,http://id.esd.org.uk/neighbourhood/E07000122,Pendle,,,64d568
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000134,http://id.esd.org.uk/neighbourhood/E07000134,North West Leicestershire,,,9ba18a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000123,http://id.esd.org.uk/neighbourhood/E07000123,Preston,,,33bb1b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000136,http://id.esd.org.uk/neighbourhood/E07000136,Boston,,,4924e2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000135,http://id.esd.org.uk/neighbourhood/E07000135,Oadby and Wigston,,,ada5be
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000131,http://id.esd.org.uk/neighbourhood/E07000131,Harborough,,,753ee3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000129,http://id.esd.org.uk/neighbourhood/E07000129,Blaby,,,7a0a57
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000127,http://id.esd.org.uk/neighbourhood/E07000127,West Lancashire,,,5fd7c9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000124,http://id.esd.org.uk/neighbourhood/E07000124,Ribble Valley,,,8af35c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000128,http://id.esd.org.uk/neighbourhood/E07000128,Wyre,,,33e410
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000133,http://id.esd.org.uk/neighbourhood/E07000133,Melton,,,f26b19
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000141,http://id.esd.org.uk/neighbourhood/E07000141,South Kesteven,,,e0a8d4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000140,http://id.esd.org.uk/neighbourhood/E07000140,South Holland,,,b813f8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000143,http://id.esd.org.uk/neighbourhood/E07000143,Breckland,,,896d76
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000138,http://id.esd.org.uk/neighbourhood/E07000138,Lincoln,,,4f648d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000150,http://id.esd.org.uk/neighbourhood/E07000150,Corby,,,03ac6d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000149,http://id.esd.org.uk/neighbourhood/E07000149,South Norfolk,,,9d0ddf
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000142,http://id.esd.org.uk/neighbourhood/E07000142,West Lindsey,,,531dd5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000139,http://id.esd.org.uk/neighbourhood/E07000139,North Kesteven,,,ca8145
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000146,http://id.esd.org.uk/neighbourhood/E07000146,King's Lynn and West Norfolk,,,ecb786
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000147,http://id.esd.org.uk/neighbourhood/E07000147,North Norfolk,,,a78a6e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000137,http://id.esd.org.uk/neighbourhood/E07000137,East Lindsey,,,7e8ab6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000145,http://id.esd.org.uk/neighbourhood/E07000145,Great Yarmouth,,,2db72c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000148,http://id.esd.org.uk/neighbourhood/E07000148,Norwich,,,8c8541
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000144,http://id.esd.org.uk/neighbourhood/E07000144,Broadland,,,801c1f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000169,http://id.esd.org.uk/neighbourhood/E07000169,Selby,,,ab9522
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000164,http://id.esd.org.uk/neighbourhood/E07000164,Hambleton,,,3d6f0f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000165,http://id.esd.org.uk/neighbourhood/E07000165,Harrogate,,,86db8b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000155,http://id.esd.org.uk/neighbourhood/E07000155,South Northamptonshire,,,5cb2e1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000156,http://id.esd.org.uk/neighbourhood/E07000156,Wellingborough,,,cae726
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000154,http://id.esd.org.uk/neighbourhood/E07000154,Northampton,,,e954c4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000167,http://id.esd.org.uk/neighbourhood/E07000167,Ryedale,,,997e55
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000170,http://id.esd.org.uk/neighbourhood/E07000170,Ashfield,,,0f4887
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000166,http://id.esd.org.uk/neighbourhood/E07000166,Richmondshire,,,e0736d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000163,http://id.esd.org.uk/neighbourhood/E07000163,Craven,,,677355
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000151,http://id.esd.org.uk/neighbourhood/E07000151,Daventry,,,63eb5c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000171,http://id.esd.org.uk/neighbourhood/E07000171,Bassetlaw,,,bf4752
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000152,http://id.esd.org.uk/neighbourhood/E07000152,East Northamptonshire,,,2bb6b4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000168,http://id.esd.org.uk/neighbourhood/E07000168,Scarborough,,,762595
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000153,http://id.esd.org.uk/neighbourhood/E07000153,Kettering,,,cabb22
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000187,http://id.esd.org.uk/neighbourhood/E07000187,Mendip,,,f1160a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000178,http://id.esd.org.uk/neighbourhood/E07000178,Oxford,,,38ace6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000172,http://id.esd.org.uk/neighbourhood/E07000172,Broxtowe,,,e5ad41
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000191,http://id.esd.org.uk/neighbourhood/E07000191,West Somerset,,,d67962
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000175,http://id.esd.org.uk/neighbourhood/E07000175,Newark and Sherwood,,,6bfa7d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000176,http://id.esd.org.uk/neighbourhood/E07000176,Rushcliffe,,,2873ab
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000188,http://id.esd.org.uk/neighbourhood/E07000188,Sedgemoor,,,c8a73a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000192,http://id.esd.org.uk/neighbourhood/E07000192,Cannock Chase,,,fc948a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000181,http://id.esd.org.uk/neighbourhood/E07000181,West Oxfordshire,,,5df3c7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000173,http://id.esd.org.uk/neighbourhood/E07000173,Gedling,,,6cdab2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000189,http://id.esd.org.uk/neighbourhood/E07000189,South Somerset,,,474886
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000180,http://id.esd.org.uk/neighbourhood/E07000180,Vale of White Horse,,,29d94d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000174,http://id.esd.org.uk/neighbourhood/E07000174,Mansfield,,,30ecb5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000179,http://id.esd.org.uk/neighbourhood/E07000179,South Oxfordshire,,,aad658
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000177,http://id.esd.org.uk/neighbourhood/E07000177,Cherwell,,,699772
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000190,http://id.esd.org.uk/neighbourhood/E07000190,Taunton Deane,,,ab43ae
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000202,http://id.esd.org.uk/neighbourhood/E07000202,Ipswich,,,7c7744
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000201,http://id.esd.org.uk/neighbourhood/E07000201,Forest Heath,,,34e4cd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000200,http://id.esd.org.uk/neighbourhood/E07000200,Babergh,,,31c851
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000199,http://id.esd.org.uk/neighbourhood/E07000199,Tamworth,,,a39353
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000203,http://id.esd.org.uk/neighbourhood/E07000203,Mid Suffolk,,,967a23
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000193,http://id.esd.org.uk/neighbourhood/E07000193,East Staffordshire,,,c88bcc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000195,http://id.esd.org.uk/neighbourhood/E07000195,Newcastle-under-Lyme,,,52e178
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000204,http://id.esd.org.uk/neighbourhood/E07000204,St Edmundsbury,,,69e0ab
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000196,http://id.esd.org.uk/neighbourhood/E07000196,South Staffordshire,,,eaaddd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000194,http://id.esd.org.uk/neighbourhood/E07000194,Lichfield,,,d356e3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000197,http://id.esd.org.uk/neighbourhood/E07000197,Stafford,,,4fabd9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000198,http://id.esd.org.uk/neighbourhood/E07000198,Staffordshire Moorlands,,,918d93
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000205,http://id.esd.org.uk/neighbourhood/E07000205,Suffolk Coastal,,,2664b2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000206,http://id.esd.org.uk/neighbourhood/E07000206,Waveney,,,c536a5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000210,http://id.esd.org.uk/neighbourhood/E07000210,Mole Valley,,,d35b41
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000211,http://id.esd.org.uk/neighbourhood/E07000211,Reigate and Banstead,,,b984d9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000214,http://id.esd.org.uk/neighbourhood/E07000214,Surrey Heath,,,3e5838
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000207,http://id.esd.org.uk/neighbourhood/E07000207,Elmbridge,,,46b9e8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000216,http://id.esd.org.uk/neighbourhood/E07000216,Waverley,,,6d2ebb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000221,http://id.esd.org.uk/neighbourhood/E07000221,Stratford-on-Avon,,,7a2236
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000217,http://id.esd.org.uk/neighbourhood/E07000217,Woking,,,67a48a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000219,http://id.esd.org.uk/neighbourhood/E07000219,Nuneaton and Bedworth,,,9abe8e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000213,http://id.esd.org.uk/neighbourhood/E07000213,Spelthorne,,,5b747d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000215,http://id.esd.org.uk/neighbourhood/E07000215,Tandridge,,,ecca98
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000208,http://id.esd.org.uk/neighbourhood/E07000208,Epsom and Ewell,,,5e47f4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000212,http://id.esd.org.uk/neighbourhood/E07000212,Runnymede,,,8c8e34
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000218,http://id.esd.org.uk/neighbourhood/E07000218,North Warwickshire,,,1255a1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000220,http://id.esd.org.uk/neighbourhood/E07000220,Rugby,,,986189
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000209,http://id.esd.org.uk/neighbourhood/E07000209,Guildford,,,e2db78
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000222,http://id.esd.org.uk/neighbourhood/E07000222,Warwick,,,a8d414
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000237,http://id.esd.org.uk/neighbourhood/E07000237,Worcester,,,7c8b59
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000224,http://id.esd.org.uk/neighbourhood/E07000224,Arun,,,be597a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000223,http://id.esd.org.uk/neighbourhood/E07000223,Adur,,,294e24
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000234,http://id.esd.org.uk/neighbourhood/E07000234,Bromsgrove,,,6371be
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000239,http://id.esd.org.uk/neighbourhood/E07000239,Wyre Forest,,,19832f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000240,http://id.esd.org.uk/neighbourhood/E07000240,St Albans,,,331756
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000229,http://id.esd.org.uk/neighbourhood/E07000229,Worthing,,,6396a2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000226,http://id.esd.org.uk/neighbourhood/E07000226,Crawley,,,54746d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000225,http://id.esd.org.uk/neighbourhood/E07000225,Chichester,,,b61211
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000236,http://id.esd.org.uk/neighbourhood/E07000236,Redditch,,,1928c2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000228,http://id.esd.org.uk/neighbourhood/E07000228,Mid Sussex,,,45c854
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000227,http://id.esd.org.uk/neighbourhood/E07000227,Horsham,,,e32b49
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000238,http://id.esd.org.uk/neighbourhood/E07000238,Wychavon,,,b88f16
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000235,http://id.esd.org.uk/neighbourhood/E07000235,Malvern Hills,,,e55977
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000004,http://id.esd.org.uk/neighbourhood/E08000004,Oldham,,,4b9cf0
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000241,http://id.esd.org.uk/neighbourhood/E07000241,Welwyn Hatfield,,,f63ca5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000010,http://id.esd.org.uk/neighbourhood/E08000010,Wigan,,,a8aa16
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000008,http://id.esd.org.uk/neighbourhood/E08000008,Tameside,,,a0411d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000012,http://id.esd.org.uk/neighbourhood/E08000012,Liverpool,,,3e7465
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000006,http://id.esd.org.uk/neighbourhood/E08000006,Salford,,,f8cdb1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000013,http://id.esd.org.uk/neighbourhood/E08000013,St. Helens,,,85c27b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000009,http://id.esd.org.uk/neighbourhood/E08000009,Trafford,,,7c9e62
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000007,http://id.esd.org.uk/neighbourhood/E08000007,Stockport,,,d255b2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000014,http://id.esd.org.uk/neighbourhood/E08000014,Sefton,,,8800d9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000011,http://id.esd.org.uk/neighbourhood/E08000011,Knowsley,,,c74ebc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000003,http://id.esd.org.uk/neighbourhood/E08000003,Manchester,,,4bc58b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000015,http://id.esd.org.uk/neighbourhood/E08000015,Wirral,,,69ede4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000001,http://id.esd.org.uk/neighbourhood/E08000001,Bolton,,,91ce35
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000002,http://id.esd.org.uk/neighbourhood/E08000002,Bury,,,77656a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000005,http://id.esd.org.uk/neighbourhood/E08000005,Rochdale,,,d7736c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000030,http://id.esd.org.uk/neighbourhood/E08000030,Walsall,,,29bd95
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000019,http://id.esd.org.uk/neighbourhood/E08000019,Sheffield,,,ee58a6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000022,http://id.esd.org.uk/neighbourhood/E08000022,North Tyneside,,,82a63c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000028,http://id.esd.org.uk/neighbourhood/E08000028,Sandwell,,,8b821d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000027,http://id.esd.org.uk/neighbourhood/E08000027,Dudley,,,6dec1b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000021,http://id.esd.org.uk/neighbourhood/E08000021,Newcastle upon Tyne,,,13c09c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000032,http://id.esd.org.uk/neighbourhood/E08000032,Bradford,,,2a0210
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000029,http://id.esd.org.uk/neighbourhood/E08000029,Solihull,,,a32176
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000031,http://id.esd.org.uk/neighbourhood/E08000031,Wolverhampton,,,93d4d6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000024,http://id.esd.org.uk/neighbourhood/E08000024,Sunderland,,,ebdb06
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000033,http://id.esd.org.uk/neighbourhood/E08000033,Calderdale,,,ea5654
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000017,http://id.esd.org.uk/neighbourhood/E08000017,Doncaster,,,1dbe73
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000023,http://id.esd.org.uk/neighbourhood/E08000023,South Tyneside,,,ee8c1b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000026,http://id.esd.org.uk/neighbourhood/E08000026,Coventry,,,ab3c65
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000016,http://id.esd.org.uk/neighbourhood/E08000016,Barnsley,,,012c93
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000025,http://id.esd.org.uk/neighbourhood/E08000025,Birmingham,,,f12c64
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000018,http://id.esd.org.uk/neighbourhood/E08000018,Rotherham,,,57bf4c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000035,http://id.esd.org.uk/neighbourhood/E08000035,Leeds,,,d6347e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000003,http://id.esd.org.uk/neighbourhood/E09000003,Barnet,,,dc7653
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000013,http://id.esd.org.uk/neighbourhood/E09000013,Hammersmith and Fulham,,,445813
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000004,http://id.esd.org.uk/neighbourhood/E09000004,Bexley,,,5578b0
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000016,http://id.esd.org.uk/neighbourhood/E09000016,Havering,,,4b55ba
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000036,http://id.esd.org.uk/neighbourhood/E08000036,Wakefield,,,bc9720
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000034,http://id.esd.org.uk/neighbourhood/E08000034,Kirklees,,,748199
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000007,http://id.esd.org.uk/neighbourhood/E09000007,Camden,,,4cc1ca
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000015,http://id.esd.org.uk/neighbourhood/E09000015,Harrow,,,15c23b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000005,http://id.esd.org.uk/neighbourhood/E09000005,Brent,,,5cb2ba
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000006,http://id.esd.org.uk/neighbourhood/E09000006,Bromley,,,43fd3e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000001,http://id.esd.org.uk/neighbourhood/E09000001,City of London,,,ad95bb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000014,http://id.esd.org.uk/neighbourhood/E09000014,Haringey,,,b7f4ca
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000009,http://id.esd.org.uk/neighbourhood/E09000009,Ealing,,,e354e2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000010,http://id.esd.org.uk/neighbourhood/E09000010,Enfield,,,322c35
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000011,http://id.esd.org.uk/neighbourhood/E09000011,Greenwich,,,bdace7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000012,http://id.esd.org.uk/neighbourhood/E09000012,Hackney,,,6448bb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000002,http://id.esd.org.uk/neighbourhood/E09000002,Barking and Dagenham,,,5631d9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000008,http://id.esd.org.uk/neighbourhood/E09000008,Croydon,,,bd88b1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000017,http://id.esd.org.uk/neighbourhood/E09000017,Hillingdon,,,c97b0f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000032,http://id.esd.org.uk/neighbourhood/E09000032,Wandsworth,,,70b1fc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000024,http://id.esd.org.uk/neighbourhood/E09000024,Merton,,,a03778
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000026,http://id.esd.org.uk/neighbourhood/E09000026,Redbridge,,,ab7637
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000019,http://id.esd.org.uk/neighbourhood/E09000019,Islington,,,cef259
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000027,http://id.esd.org.uk/neighbourhood/E09000027,Richmond upon Thames,,,3b14ce
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000018,http://id.esd.org.uk/neighbourhood/E09000018,Hounslow,,,ddea69
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000031,http://id.esd.org.uk/neighbourhood/E09000031,Waltham Forest,,,bd7fd8
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000029,http://id.esd.org.uk/neighbourhood/E09000029,Sutton,,,3c6afc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000025,http://id.esd.org.uk/neighbourhood/E09000025,Newham,,,2a7cd5
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000030,http://id.esd.org.uk/neighbourhood/E09000030,Tower Hamlets,,,1ac176
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000020,http://id.esd.org.uk/neighbourhood/E09000020,Kensington and Chelsea,,,d08dfb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000023,http://id.esd.org.uk/neighbourhood/E09000023,Lewisham,,,c2a32a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000028,http://id.esd.org.uk/neighbourhood/E09000028,Southwark,,,60e94a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000002,http://id.esd.org.uk/neighbourhood/E10000002,Buckinghamshire,,,60b028
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000033,http://id.esd.org.uk/neighbourhood/E09000033,Westminster,,,68b1a4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000003,http://id.esd.org.uk/neighbourhood/E10000003,Cambridgeshire,,,7876bd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000022,http://id.esd.org.uk/neighbourhood/E09000022,Lambeth,,,249813
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E09000021,http://id.esd.org.uk/neighbourhood/E09000021,Kingston upon Thames,,,1182c9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000025,http://id.esd.org.uk/neighbourhood/E10000025,Oxfordshire,,,3de32a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000023,http://id.esd.org.uk/neighbourhood/E10000023,North Yorkshire,,,68179b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000011,http://id.esd.org.uk/neighbourhood/E10000011,East Sussex,,,76a7e3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000018,http://id.esd.org.uk/neighbourhood/E10000018,Leicestershire,,,a5318e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000009,http://id.esd.org.uk/neighbourhood/E10000009,Dorset,,,3df25e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000013,http://id.esd.org.uk/neighbourhood/E10000013,Gloucestershire,,,3abdbb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000017,http://id.esd.org.uk/neighbourhood/E10000017,Lancashire,,,5798fa
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000027,http://id.esd.org.uk/neighbourhood/E10000027,Somerset,,,1e32e2
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000014,http://id.esd.org.uk/neighbourhood/E10000014,Hampshire,,,558aa0
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000015,http://id.esd.org.uk/neighbourhood/E10000015,Hertfordshire,,,541ed1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000020,http://id.esd.org.uk/neighbourhood/E10000020,Norfolk,,,63bd34
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000007,http://id.esd.org.uk/neighbourhood/E10000007,Derbyshire,,,bc17b1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000021,http://id.esd.org.uk/neighbourhood/E10000021,Northamptonshire,,,a4f655
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000024,http://id.esd.org.uk/neighbourhood/E10000024,Nottinghamshire,,,829c26
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000006,http://id.esd.org.uk/neighbourhood/E10000006,Cumbria,,,1c41de
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000016,http://id.esd.org.uk/neighbourhood/E10000016,Kent,,,00ff00
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000012,http://id.esd.org.uk/neighbourhood/E10000012,Essex,,,ddfb14
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000019,http://id.esd.org.uk/neighbourhood/E10000019,Lincolnshire,,,7b658f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000008,http://id.esd.org.uk/neighbourhood/E10000008,Devon,,,662311
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000030,http://id.esd.org.uk/neighbourhood/E10000030,Surrey,,,5ad372
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000031,http://id.esd.org.uk/neighbourhood/E10000031,Warwickshire,,,e14dc9
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000032,http://id.esd.org.uk/neighbourhood/E10000032,West Sussex,,,83c19c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000028,http://id.esd.org.uk/neighbourhood/E10000028,Staffordshire,,,653eeb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000029,http://id.esd.org.uk/neighbourhood/E10000029,Suffolk,,,f98425
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E10000034,http://id.esd.org.uk/neighbourhood/E10000034,Worcestershire,,,612b3a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000006,http://id.esd.org.uk/neighbourhood/S12000006,Dumfries and Galloway,,,23cb8f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000019,http://id.esd.org.uk/neighbourhood/S12000019,Midlothian,,,99bfd4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000020,http://id.esd.org.uk/neighbourhood/S12000020,Moray,,,216574
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000010,http://id.esd.org.uk/neighbourhood/S12000010,East Lothian,,,7cb4d6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000021,http://id.esd.org.uk/neighbourhood/S12000021,North Ayrshire,,,255581
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000011,http://id.esd.org.uk/neighbourhood/S12000011,East Renfrewshire,,,3a73ea
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000005,http://id.esd.org.uk/neighbourhood/S12000005,Clackmannanshire,,,dac595
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000014,http://id.esd.org.uk/neighbourhood/S12000014,Falkirk,,,ab9c3d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000015,http://id.esd.org.uk/neighbourhood/S12000015,Fife,,,c90c9a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000017,http://id.esd.org.uk/neighbourhood/S12000017,Highland,,,bf2164
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000013,http://id.esd.org.uk/neighbourhood/S12000013,Eilean Siar,,,56912f
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000008,http://id.esd.org.uk/neighbourhood/S12000008,East Ayrshire,,,233bcd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000018,http://id.esd.org.uk/neighbourhood/S12000018,Inverclyde,,,e0a658
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000044,http://id.esd.org.uk/neighbourhood/S12000044,North Lanarkshire,,,5697b4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000030,http://id.esd.org.uk/neighbourhood/S12000030,Stirling,,,f317bd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000038,http://id.esd.org.uk/neighbourhood/S12000038,Renfrewshire,,,b63324
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000029,http://id.esd.org.uk/neighbourhood/S12000029,South Lanarkshire,,,9c1e27
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000041,http://id.esd.org.uk/neighbourhood/S12000041,Angus,,,fecd81
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000023,http://id.esd.org.uk/neighbourhood/S12000023,Orkney Islands,,,d35716
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000034,http://id.esd.org.uk/neighbourhood/S12000034,Aberdeenshire,,,4afb13
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000042,http://id.esd.org.uk/neighbourhood/S12000042,Dundee,,,932117
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000027,http://id.esd.org.uk/neighbourhood/S12000027,Shetland Islands,,,42a2c6
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000026,http://id.esd.org.uk/neighbourhood/S12000026,Scottish Borders,,,fecc57
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000046,http://id.esd.org.uk/neighbourhood/S12000046,Glasgow,,,631606
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000039,http://id.esd.org.uk/neighbourhood/S12000039,West Dunbartonshire,,,009735
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000036,http://id.esd.org.uk/neighbourhood/S12000036,Edinburgh,,,5966e4
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000033,http://id.esd.org.uk/neighbourhood/S12000033,Aberdeen,,,6a9d2c
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000024,http://id.esd.org.uk/neighbourhood/S12000024,Perth and Kinross,,,21f44b
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000045,http://id.esd.org.uk/neighbourhood/S12000045,East Dunbartonshire,,,4bc850
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000040,http://id.esd.org.uk/neighbourhood/S12000040,West Lothian,,,bd0e63
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000028,http://id.esd.org.uk/neighbourhood/S12000028,South Ayrshire,,,516a01
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,S12000035,http://id.esd.org.uk/neighbourhood/S12000035,Argyll and Bute,,,b841a3
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000006,http://id.esd.org.uk/neighbourhood/W06000006,Wrexham,,,73b7b1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000002,http://id.esd.org.uk/neighbourhood/W06000002,Gwynedd,,,1c070a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000005,http://id.esd.org.uk/neighbourhood/W06000005,Flintshire,,,9450dd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000004,http://id.esd.org.uk/neighbourhood/W06000004,Denbighshire,,,835591
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000003,http://id.esd.org.uk/neighbourhood/W06000003,Conwy,,,f03274
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000001,http://id.esd.org.uk/neighbourhood/W06000001,Isle of Anglesey,,,562994
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000008,http://id.esd.org.uk/neighbourhood/W06000008,Ceredigion,,,1254ba
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000009,http://id.esd.org.uk/neighbourhood/W06000009,Pembrokeshire,,,7360ba
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000023,http://id.esd.org.uk/neighbourhood/W06000023,Powys,,,e698da
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000011,http://id.esd.org.uk/neighbourhood/W06000011,Swansea,,,605217
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000016,http://id.esd.org.uk/neighbourhood/W06000016,"Rhondda, Cynon, Taff",,,124525
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000010,http://id.esd.org.uk/neighbourhood/W06000010,Carmarthenshire,,,124671
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000019,http://id.esd.org.uk/neighbourhood/W06000019,Blaenau Gwent,,,816860
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000015,http://id.esd.org.uk/neighbourhood/W06000015,Cardiff,,,762755
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000021,http://id.esd.org.uk/neighbourhood/W06000021,Monmouthshire,,,7c6735
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000013,http://id.esd.org.uk/neighbourhood/W06000013,Bridgend,,,ee0e35
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000018,http://id.esd.org.uk/neighbourhood/W06000018,Caerphilly,,,22e6d1
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000020,http://id.esd.org.uk/neighbourhood/W06000020,Torfaen,,,6534bb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000022,http://id.esd.org.uk/neighbourhood/W06000022,Newport,,,587493
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000024,http://id.esd.org.uk/neighbourhood/W06000024,Merthyr Tydfil,,,b93565
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000014,http://id.esd.org.uk/neighbourhood/W06000014,The Vale of Glamorgan,,,2e1c8a
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,W06000012,http://id.esd.org.uk/neighbourhood/W06000012,Neath Port Talbot,,,94efde
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000242,http://id.esd.org.uk/neighbourhood/E07000242,East Hertfordshire,,,a6aa91
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E07000243,http://id.esd.org.uk/neighbourhood/E07000243,Stevenage,,,3612fc
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,E08000037,http://id.esd.org.uk/neighbourhood/E08000037,Gateshead,,,bcdedb
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000001,http://id.esd.org.uk/neighbourhood/N09000001,Antrim and Newtownabbey,,,b2aa7e
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000002,http://id.esd.org.uk/neighbourhood/N09000002,"Armagh, Banbridge and Craigavon",,,cba971
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000003,http://id.esd.org.uk/neighbourhood/N09000003,Belfast,,,3fc851
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000004,http://id.esd.org.uk/neighbourhood/N09000004,Causeway Coast and Glens,,,c97342
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000005,http://id.esd.org.uk/neighbourhood/N09000005,Derry and Strabane,,,eaaa3d
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000006,http://id.esd.org.uk/neighbourhood/N09000006,Fermanagh and Omagh,,,7213f7
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000007,http://id.esd.org.uk/neighbourhood/N09000007,Lisburn and Castlereagh,,,9bf335
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000008,http://id.esd.org.uk/neighbourhood/N09000008,Mid and East Antrim,,,8201fe
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000009,http://id.esd.org.uk/neighbourhood/N09000009,Mid-Ulster,,,e697dd
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000010,http://id.esd.org.uk/neighbourhood/N09000010,"Newry, Mourne and Down",,,e37ade
+LA,http://id.esd.org.uk/neighbourhood/LA,Local authority,,N09000011,http://id.esd.org.uk/neighbourhood/N09000011,Ards and North Down,,,5e31c8
