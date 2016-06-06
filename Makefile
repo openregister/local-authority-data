@@ -1,19 +1,14 @@
-SOURCES=\
-	data/local-authority/local-authorities.tsv \
-	legacy/geoplace/local-custodian.tsv \
-	legacy/opendatacommunities/opendatacommunities.tsv \
-	legacy/food-standards/local-authorities.tsv
+TARGETS=\
+	legacy/report.html \
+	legacy/report.tsv
 
-all:	maps/map.tsv legacy/report.html
-
-maps/map.tsv:	bin/map.py $(SOURCES)
-	bin/map.py > $@
+all:	legacy/report.html
 
 legacy/report.html:	bin/legacy.rb
 	bundle exec ruby bin/legacy.rb
 
 clobber:
-	rm -f map/map.tsv legacy/report.html legacy/map.tsv
+	rm -f $(TARGETS)
 
 flake8:
 	flake8 bin
