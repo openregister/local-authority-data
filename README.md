@@ -1,23 +1,26 @@
 # Local-authority register data
 
 Data for the alpha [local-authority register](http://local-authority.alpha.openregister.org), 
-a list of local government organisations in the United Kingdom seeded with data from
-legislation and [opendatacommunities.org](http://opendatacommunities.org/).
+a list of local government organisations in the United Kingdom.
 
 This is currently a single data file, but the process of establishing a custodian for the register may result in the data being split
 to populate four separate registers for England, Scotland, Wales and Northern Ireland, each with their own custodian.
 
 # Identifier
 
-The local-authority is indexed by the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifier, where available, or a short ONS code where not.
+The local-authority identifier has been constructed from the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifier.
 
-It is envisaged a separate local-authority-register will contain the boundary for each local-authority, indexed by the [ONS GSS](https://en.wikipedia.org/wiki/ONS_coding_system) code.
+A separate local-authority-boundary register will contain the boundary for each local-authority,
+indexed by the [ONS/GSS](https://en.wikipedia.org/wiki/ONS_coding_system) geographical code, which changes when the boundary changes.
 
 # Maps
 
-This repository also includes a number of [maps](maps) to help migrate references to local authorities found in existing data and documents to the identifiers used by the register.
+This repository also includes a number of [maps](maps) intended to help migrate references to local authorities found in existing data and documents to the identifiers used by the register:
 
-
+- [edubase.tsv](maps/edubase.tsv) — Edubase local authority codes
+- [food-standards.tsv](maps/food-standards.tsv) — local authority codes from the Food Standards Agency ratings data
+- [geoplace.tsv](maps/geoplace.tsv) — Geoplace address custodian codes
+- [snac.tsv](maps/snac.tsv) — ONS former hierarchical Standard Names and Codes (SNAC)
 
 # Licence
 
