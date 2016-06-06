@@ -9,11 +9,11 @@ all:	maps/map.tsv legacy/report.html
 maps/map.tsv:	bin/map.py $(SOURCES)
 	bin/map.py > $@
 
-legacy/report.html:	bin/map.rb
-	bundle exec ruby bin/map.rb
+legacy/report.html:	bin/legacy.rb
+	bundle exec ruby bin/legacy.rb
 
 clobber:
-	rm -f map/map.tsv
+	rm -f map/map.tsv legacy/report.html legacy/map.tsv
 
 flake8:
 	flake8 bin

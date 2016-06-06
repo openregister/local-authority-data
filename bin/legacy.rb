@@ -256,8 +256,8 @@ dataset_to_type['legislation']['Local Government District'] = 'district'
 
 write_to_html authorities, legacy, by_name, dataset_to_type
 
-puts 'Write file to: maps/map2.tsv'
-File.open('maps/map2.tsv', 'w') do |f|
+puts 'Write file to: legacy/map.tsv'
+File.open('legacy/map.tsv', 'w') do |f|
   class_keys = class_keys authorities, legacy
   class_keys.each do |key|
     f.write(key.name.sub('Morph::','').underscore.gsub('_','-'))
