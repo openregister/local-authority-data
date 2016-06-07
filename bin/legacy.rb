@@ -64,8 +64,8 @@ def log_legacy legacy
   legacy.map do |name, list|
     puts ""
     puts name
-    puts [list.first._id, list.first._name].join(" | ")
     puts list.first.morph_attributes.to_yaml
+    puts [list.first._id, list.first._name].join(" | ")
     puts ""
     puts ""
   end
@@ -151,14 +151,14 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
       b.style({type: "text/css"}, '
         a { color: inherit; }
         table th, table td { font-size: 17px; }
-        .city-corporation      { color: #d53880; }
-        .council-area          { color: #f47738; }
-        .district              { color: #006435; }
-        .london-borough        { color: #912b88; }
-        .metropolitan-district { color: #85994b; }
-        .two-tier-county       { color: #B10E1E; }
-        .unitary-authority     { color: #2b8cc4; }
-        .other                 { color: #6F777B; }
+        .city-corporation, .cty, two-tier-county      { color: #d53880; }
+        .council-area, .ca           { color: #f47738; }
+        .district, .dis              { color: #006435; }
+        .london-borough, .lob        { color: #912b88; }
+        .metropolitan-district, .md  { color: #85994b; }
+        .two-tier-district, .nmd       { color: #B10E1E; }
+        .unitary-authority, .ua      { color: #2b8cc4; }
+        .other                       { color: #6F777B; }
       ')
     }
     b.body {
@@ -253,6 +253,12 @@ type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item
 dataset_to_type = type_to_aliases.to_a.each_with_object({}) {|to_alias, h| mapping = to_alias.last ; type = to_alias.first ; mapping.each {|submap| submap.keys.each {|dataset| h[dataset] ||= {}; h[dataset][submap[dataset]] = type} } }
 dataset_to_type['localauthority']['district'] = 'district'
 dataset_to_type['legislation']['Local Government District'] = 'district'
+dataset_to_type['boundarycommission']['two-tier district'] = 'two-tier-district'
+dataset_to_type['boundarycommission']['unitary district'] = 'unitary-authority'
+dataset_to_type['onsapiadminareas']['Non-metropolitan District'] = 'nmd'
+dataset_to_type['opendatacommunities']['District Council'] = 'nmd'
+dataset_to_type['onsapiadminareas']['Unitary Authority'] = 'unitary-authority'
+dataset_to_type['opendatacommunities']['Unitary Authority'] = 'unitary-authority'
 
 write_to_html authorities, legacy, by_name, dataset_to_type
 
