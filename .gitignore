@@ -6,3 +6,4 @@ __pycache__/
 *.swp
 
 legacy/report.html
+legacy/report.tsv

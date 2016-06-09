@@ -2,7 +2,9 @@ TARGETS=\
 	legacy/report.html \
 	legacy/report.tsv
 
-all:	legacy/report.html
+all:	$(TARGETS)
+
+legacy/report.tsv:	legacy/report.html
 
 legacy/report.html:	bin/legacy.rb
 	bundle exec ruby bin/legacy.rb
