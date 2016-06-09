@@ -2,8 +2,6 @@
 URL='https://www.ordnancesurvey.co.uk/docs/product-schemas/addressbase-products-local-custodian-codes.zip'
 ZIP='addressbase-products-local-custodian-codes.zip'
 
-local-authorities.tsv:	$(ZIP)
-	funzip $(ZIP) > x
-
+# hard to script extracting codes from the .docx document
 $(ZIP):
 	curl -qs $(URL) > $@
