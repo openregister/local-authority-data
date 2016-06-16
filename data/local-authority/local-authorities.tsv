@@ -136,10 +136,10 @@ DOR-UE	ENG	NMD	DOR	North Dorset		North Dorset District Council	http://www.dorset
 DOR-UG	ENG	NMD	DOR	Purbeck		Purbeck District Council	http://www.dorsetforyou.com		
 DOR-UH	ENG	NMD	DOR	West Dorset		West Dorset District Council	http://www.dorsetforyou.com		
 DOR-UJ	ENG	NMD	DOR	Weymouth and Portland		Weymouth and Portland Borough Council	http://www.dorsetforyou.com		
-BEN	ENG	LBO	ESS	Brent		Brentwood Borough Council	http://www.brentwood.gov.uk		
 ESS	ENG	CTY	ESS	Essex		Essex County Council	http://www.essex.gov.uk		
 ESS-UB	ENG	NMD	ESS	Basildon		Basildon Borough Council	http://www.basildon.gov.uk		
 ESS-UC	ENG	NMD	ESS	Braintree		Braintree District Council	http://www.braintree.gov.uk		
+ESS-UD	ENG	NMD	ESS	Brentwood		Brentwood Borough Council	http://www.brentwood.gov.uk		
 ESS-UE	ENG	NMD	ESS	Castle Point		Castle Point Borough Council	http://www.castlepoint.gov.uk		
 ESS-UF	ENG	NMD	ESS	Chelmsford		Chelmsford City Council	http://www.chelmsford.gov.uk		
 ESS-UG	ENG	NMD	ESS	Colchester		Colchester Borough Council	http://www.colchester.gov.uk		
@@ -156,6 +156,7 @@ ESX-UF	ENG	NMD	ESX	Lewes		Lewes District Council	http://www.lewes.gov.uk
 ESX-UG	ENG	NMD	ESX	Rother		Rother District Council	http://www.rother.gov.uk		
 ESX-UH	ENG	NMD	ESX	Wealden		Wealden District Council	http://www.wealden.gov.uk		
 BDG	ENG	LBO	GLA	Barking and Dagenham		London Borough of Barking and Dagenham	https://www.lbbd.gov.uk		
+BEN	ENG	LBO	GLA	Brent		London Borough of Brent	http://www.brent.gov.uk		
 BEX	ENG	LBO	GLA	Bexley		London Borough of Bexley	http://www.bexley.gov.uk		
 BNE	ENG	LBO	GLA	Barnet		London Borough of Barnet	http://www.barnet.gov.uk		
 BRY	ENG	LBO	GLA	Bromley		London Borough of Bromley	http://www.bromley.gov.uk		
