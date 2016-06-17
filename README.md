@@ -17,7 +17,7 @@ indexed by the [ONS/GSS](https://en.wikipedia.org/wiki/ONS_coding_system) geogra
 
 This repository also includes a number of [maps](maps) intended to help migrate references to local authorities found in existing data and documents to the identifiers used by the register:
 
-- [geoplace.tsv](maps/geoplace.tsv) — Geoplace address custodian codes
+- [local-custodian.tsv](maps/local-custodian.tsv) — AddressBase™ / Geoplace LLP address custodian names and codes
 - [edubase.tsv](maps/edubase.tsv) — Edubase local authority codes
 - [food-standards.tsv](maps/food-standards.tsv) — local authority codes from the Food Standards Agency ratings data
 - [snac.tsv](maps/snac.tsv) — ONS former hierarchical Standard Names and Codes (SNAC)
