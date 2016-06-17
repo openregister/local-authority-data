@@ -1,0 +1,208 @@
+edubase	local-authority	name
+301	BDG	Barking and Dagenham
+302	BNE	Barnet
+370	BNS	Barnsley
+800	BAS	Bath and North East Somerset
+822	BDF	Bedford
+303	BEX	Bexley
+702		BFPO Overseas Establishments
+330	BIR	Birmingham
+889	BBD	Blackburn with Darwen
+890	BPL	Blackpool
+677	BGW	Blaenau Gwent
+350	BOL	Bolton
+837	BMH	Bournemouth
+867	BRC	Bracknell Forest
+380	BRD	Bradford
+304	BEN	Brent
+672	BGE	Bridgend
+846	BNH	Brighton and Hove
+801	BST	Bristol City of
+305	BRY	Bromley
+825	BKM	Buckinghamshire
+351	BUR	Bury
+676	CAY	Caerphilly
+381	CLD	Calderdale
+873	CAM	Cambridgeshire
+202	CMD	Camden
+681	CRF	Cardiff
+669	CMN	Carmarthenshire
+823	CBF	Central Bedfordshire
+667	CGN	Ceredigion
+895	CHE	Cheshire East
+896	CHW	Cheshire West and Chester
+201	LND	City of London
+662	CWY	Conwy
+908	CON	Cornwall
+331	COV	Coventry
+306	CRY	Croydon
+909	CMA	Cumbria
+841	DAL	Darlington
+663	DEN	Denbighshire
+831	DER	Derby
+830	DBY	Derbyshire
+878	DEV	Devon
+371	DNC	Doncaster
+835	DOR	Dorset
+332	DUD	Dudley
+840	DUR	Durham
+307	EAL	Ealing
+811	ERY	East Riding of Yorkshire
+845	ESX-UC	East Sussex
+308	ENF	Enfield
+881	ESS	Essex
+704		Fieldwork Overseas Establishments
+664	FLN	Flintshire
+390	GAT	Gateshead
+708		Gibraltar Overseas Establishments
+916	GLS	Gloucestershire
+203	GRE	Greenwich
+706		Guernsey Offshore Establishments
+661	GWN	Gwynedd
+204	HCK	Hackney
+876	HAL	Halton
+205	HMF	Hammersmith and Fulham
+850	HAM	Hampshire
+309	HRY	Haringey
+310	HRW	Harrow
+805	HPL	Hartlepool
+311	HAV	Havering
+884	HEF	Herefordshire
+919	HRT	Hertfordshire
+312	HIL	Hillingdon
+313	HNS	Hounslow
+660	AGY	Isle of Anglesey
+705		Isle of Man Offshore Establishments
+921	IOW	Isle of Wight
+420	IOS	Isles Of Scilly
+206	ISL	Islington
+707		Jersey Offshore Establishments
+207	KEC	Kensington and Chelsea
+886	KEN	Kent
+810	KHL	Kingston upon Hull City of
+314	KTT	Kingston upon Thames
+382	KIR	Kirklees
+340	KWL	Knowsley
+208	LBH	Lambeth
+888	LAN	Lancashire
+383	LDS	Leeds
+856	LCE	Leicester
+855	LEC	Leicestershire
+209	LEW	Lewisham
+925	LIN	Lincolnshire
+341	LIV	Liverpool
+821	LUT	Luton
+352	MAN	Manchester
+887	MDW	Medway
+675	MTY	Merthyr Tydfil
+315	MRT	Merton
+806	MDB	Middlesbrough
+826	MIK	Milton Keynes
+679	MON	Monmouthshire
+671	NTL	Neath Port Talbot
+391	NET	Newcastle upon Tyne
+316	NWM	Newham
+680	NWP	Newport
+926	NFK	Norfolk
+812	NEL	North East Lincolnshire
+813	NLN	North Lincolnshire
+802	NSM	North Somerset
+392	NTY	North Tyneside
+815	NYK	North Yorkshire
+928	NTH	Northamptonshire
+929	NBL	Northumberland
+892	NGM	Nottingham
+891	NTT	Nottinghamshire
+353	OLD	Oldham
+931	OXF	Oxfordshire
+668	PEM	Pembrokeshire
+874	PTE	Peterborough
+879	PLY	Plymouth
+836	POL	Poole
+851	POR	Portsmouth
+666	POW	Powys
+901		Pre LGR (1996) Avon
+907		Pre LGR (1996) Cleveland
+920		Pre LGR (1996) Humberside
+927		Pre LGR (1996) North Yorkshire
+902		Pre LGR (1997) Bedfordshire
+904		Pre LGR (1997) Buckinghamshire
+910		Pre LGR (1997) Derbyshire
+912		Pre LGR (1997) Dorset
+913		Pre LGR (1997) Durham
+914		Pre LGR (1997) East Sussex
+917		Pre LGR (1997) Hampshire
+924		Pre LGR (1997) Leicestershire
+934		Pre LGR (1997) Staffordshire
+939		Pre LGR (1997) Wiltshire
+903		Pre LGR (1998) Berkshire
+905		Pre LGR (1998) Cambridgeshire
+906		Pre LGR (1998) Cheshire
+911		Pre LGR (1998) Devon
+915		Pre LGR (1998) Essex
+918		Pre LGR (1998) Hereford & Worcester
+922		Pre LGR (1998) Kent
+923		Pre LGR (1998) Lancashire
+930		Pre LGR (1998) Nottinghamshire
+932		Pre LGR (1998) Shropshire
+820		Pre LGR (2009) Bedfordshire
+875		Pre LGR (2009) Cheshire
+870	RDG	Reading
+317	RDB	Redbridge
+807	RCC	Redcar and Cleveland
+674	RCT	"Rhondda	 Cynon	 Taff"
+318	RIC	Richmond upon Thames
+354	ESS-UL	Rochdale
+372	ROT	Rotherham
+857	RUT	Rutland
+355	SLF	Salford
+333	SAW	Sandwell
+701		Scotland Offshore Establishments
+343	SFT	Sefton
+373	SHF	Sheffield
+893	SHR	Shropshire
+871	SLG	Slough
+334	SOL	Solihull
+933	SOM	Somerset
+803	SGC	South Gloucestershire
+393	STY	South Tyneside
+852	STH	Southampton
+882	SOS	Southend-on-Sea
+210	SWK	Southwark
+342	SHN	St. Helens
+860	STS	Staffordshire
+356	SKP	Stockport
+808	STT	Stockton-on-Tees
+861	STE	Stoke-on-Trent
+935	SFK	Suffolk
+394	SND	Sunderland
+936	SRY	Surrey
+319	STN	Sutton
+670	SWA	Swansea
+866	SWD	Swindon
+357	TAM	Tameside
+894	TFW	Telford and Wrekin
+673	VGL	The Vale of Glamorgan
+883	THR	Thurrock
+880	TOB	Torbay
+678	TOF	Torfaen
+211	TWH	Tower Hamlets
+358	TRF	Trafford
+384	WKF	Wakefield
+335	WLL	Walsall
+320	WFT	Waltham Forest
+212	WND	Wandsworth
+877	WRT	Warrington
+937	WAR	Warwickshire
+869	WBK	West Berkshire
+938	WSX	West Sussex
+213	WSM	Westminster
+359	WGN	Wigan
+865	WIL	Wiltshire
+868	WNM	Windsor and Maidenhead
+344	WRL	Wirral
+872	WOK	Wokingham
+336	WLV	Wolverhampton
+885	WOR	Worcestershire
+665	WRX	Wrexham
+816	YOR	York
