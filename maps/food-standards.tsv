@@ -1,0 +1,407 @@
+food-authority	local-authority	name	website	email
+760	ABE	Aberdeen City	http://www.aberdeencity.gov.uk	commercial@aberdeencity.gov.uk
+761	ABD	Aberdeenshire	http://www.aberdeenshire.gov.uk/	environmental@aberdeenshire.gov.uk
+568	SWA	Abertawe	http://www.swansea.gov.uk	FoodandSafety@swansea.gov.uk
+323	WSX-UB	Adur	http://www.adur-worthing.gov.uk	envsupport@adur-worthing.gov.uk
+55	CMA-UB	Allerdale	http://www.allerdale.gov.uk	environmental.health@allerdale.gov.uk
+62	DBY-UB	Amber Valley	http://www.ambervalley.gov.uk	envhealth@ambervalley.gov.uk
+551	AGY	Anglesey	http://www.ynysmon.gov.uk	iechydyramgylchedd@ynysmon.gov.uk
+762	ANS	Angus	http://www.angus.gov.uk/fhis/	ENVHEALTH@angus.gov.uk
+801	ANN	Antrim and Newtownabbey	http://www.antrimandnewtownabbey.gov.uk	envhealth@antrimandnewtownabbey.gov.uk
+802	AND	Ards and North Down	http://www.ardsandnorthdown.gov.uk	env.services@ardsandnorthdown.gov.uk
+763	AGB	Argyll and Bute	http://www.argyll-bute.gov.uk	envhealth@argyll-bute.gov.uk
+803	ABC	"Armagh City	 Banbridge and Craigavon"	http://www.armaghbanbridgecraigavon.gov.uk/	ehealth@armaghbanbridgecraigavon.gov.uk
+324	WSX-UC	Arun	http://www.arun.gov.uk	food.safety@arun.gov.uk
+259	NTT-UB	Ashfield	http://www.ashfield-dc.gov.uk	info@ashfield-dc.gov.uk
+179	KEN-UB	Ashford	http://www.ashford.gov.uk	envhealth@ashford.gov.uk
+21	BKM-UB	Aylesbury Vale	http://www.aylesburyvaledc.gov.uk	envhealth@aylesburyvaledc.gov.uk
+297	SFK-UB	Babergh	http://www.babergh.gov.uk/	food.safety@babergh.gov.uk
+501	BDG	Barking and Dagenham	http://www.lbbd.gov.uk/Pages/Home.aspx	fhsteam@lbbd.gov.uk
+502	BNE	Barnet	http://www.barnet.gov.uk/	FoodSafety@barnet.gov.uk
+401	BNS	Barnsley	http://www.barnsley.gov.uk	regulatoryservices@barnsley.gov.uk
+56	CMA-UC	Barrow-in-Furness	http://www.barrowbc.gov.uk	commercial@barrowbc.gov.uk
+109	ESS-UB	Basildon	http://www.basildon.gov.uk	ehs@basildon.gov.uk
+131	HAM-UB	Basingstoke and Deane	http://www.basingstoke.gov.uk	ehteam@basingstoke.gov.uk
+260	NTT-UC	Bassetlaw	http://www.bassetlaw.gov.uk	environmental.health@bassetlaw.gov.uk
+857	BAS	Bath and North East Somerset	http://www.bathnes.gov.uk/healthandsocial/foodsafety/Pages/default.aspx	public_protection@bathnes.gov.uk
+701	BDF	Bedford	http://www.bedford.gov.uk	ehadmin@bedford.gov.uk
+807	BFS	Belfast City	http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx	envhealth@belfastcity.gov.uk
+503	BEX	Bexley	http://www.bexley.gov.uk	food.safety@bexley.gov.uk
+402	BIR	Birmingham	http://www.birmingham.gov.uk/environmental-health	nick.lowe@birmingham.gov.uk
+209	LEC-UB	Blaby	http://www.blaby.gov.uk	environmental.health@blaby.gov.uk
+897	BBD	Blackburn	http://www.blackburn.gov.uk	publicprotection@blackburn.gov.uk
+898	BPL	Blackpool	http://www.blackpool.gov.uk/Services/A-F/FoodHygiene/	foodcontrol@blackpool.gov.uk
+552	BGW	Blaenau Gwent	http://www.blaenau-gwent.gov.uk	environmental.health@blaenau-gwent.gov.uk
+63	DBY-UC	Bolsover	http://www.bolsover.gov.uk/	enquiries@bolsover.gov.uk
+403	BOL	Bolton	http://www.bolton.gov.uk	environmental.health@bolton.gov.uk
+219	LIN-UB	Boston	http://www.boston.gov.uk	env.serv@boston.gov.uk
+872	BMH	Bournemouth	http://www.bournemouth.gov.uk	foodandhealthandsafety@bournemouth.gov.uk
+882	BRC	Bracknell Forest	http://www.bracknell-forest.gov.uk	environmental.health@bracknell-forest.gov.uk
+404	BRD	Bradford	http://www.bradford.gov.uk	eh.admin@bradford.gov.uk
+110	ESS-UC	Braintree	http://www.braintree.gov.uk	health_protection@braintree.gov.uk
+227	NFK-UB	Breckland	http://www.breckland.gov.uk/	eh.bst@breckland.gov.uk
+504	BEN	Brent	http://www.brent.gov.uk/	ens.foodsafety@brent.gov.uk
+111	BEN	Brentwood	http://www.brentwood.gov.uk/	envhealth@brentwood.gov.uk
+553	BGE	Bridgend	http://www.bridgend.gov.uk/	publicprotection@bridgend.gov.uk
+875	BNH	Brighton and Hove	http://www.brighton-hove.gov.uk/foodsafety	ehl.food@brighton-hove.gov.uk
+855	BST	Bristol	http://www.bristol.gov.uk	food.safety@bristol.gov.uk
+570	VGL	Bro Morgannwg	http://www.valeofglamorgan.gov.uk	foodsafetyteam@valeofglamorgan.gov.uk
+228	NFK-UC	Broadland	http://www.broadland.gov.uk	environ.enforcement@broadland.gov.uk
+505	BRY	Bromley	http://www.bromley.gov.uk	food@bromley.gov.uk
+145	WOR-UB	Bromsgrove	http://www.worcsregservices.gov.uk	wrsenquiries@worcestershire.gov.uk
+155	HRT-UB	Broxbourne	http://www.broxbourne.gov.uk	envhealth@broxbourne.gov.uk
+261	NTT-UD	Broxtowe	http://www.broxtowe.gov.uk	health@broxtowe.gov.uk
+196	LAN-UD	Burnley	http://www.burnley.gov.uk	envhealth@burnley.gov.uk
+405	BUR	Bury	http://www.bury.gov.uk	Foodsafety@bury.gov.uk
+556	CRF	Caerdydd	http://www.cardiff.gov.uk/foodsafety	foodteam@cardiff.gov.uk
+555	CAY	Caerffili	http://www.caerphilly.gov.uk	foodhealthandsafety@caerphilly.gov.uk
+555	CAY	Caerphilly	http://www.caerphilly.gov.uk	foodhealthandsafety@caerphilly.gov.uk
+406	CLD	Calderdale	http://www.calderdale.gov.uk	environmental.health@calderdale.gov.uk
+27	CAM-UB	Cambridge City	http://www.cambridge.gov.uk	env.health@cambridge.gov.uk
+506	CMD	Camden	http://www.camden.gov.uk	planningandpublicprotection@camden.gov.uk
+287	STS-UB	Cannock Chase	http://www.cannockchasedc.gov.uk	environmentalhealth@cannockchasedc.gov.uk
+180	KEN-UC	Canterbury City	http://www.canterbury.gov.uk	food@canterbury.gov.uk
+556	CRF	Cardiff	http://www.cardiff.gov.uk/foodsafety	foodteam@cardiff.gov.uk
+57	CMA-UD	Carlisle City	http://www.carlisle.gov.uk	Environmentalhealth@carlisle.gov.uk
+558	CMN	Carmarthenshire	http://www.carmarthenshire.gov.uk	PublicProtection@carmarthenshire.gov.uk
+564	NWP	Casnewydd	http://www.newport.gov.uk	environmental.health@newport.gov.uk
+563	NTL	Castell-nedd Port Talbot	http://www.npt.gov.uk	ehd@npt.gov.uk
+112	ESS-UE	Castle Point	http://www.castlepoint.gov.uk	environmentalhealth@castlepoint.gov.uk
+805	CCG	Causeway Coast and Glens	http://www.causewaycoastandglens.gov.uk	info@causewaycoastandglens.gov.uk
+702	CBF	Central Bedfordshire	http://www.centralbedfordshire.gov.uk	env.health@centralbedfordshire.gov.uk
+557	CGN	Ceredigion	http://www.ceredigion.gov.uk/	envhealth@ceredigion.gov.uk
+210	LEC-UC	Charnwood	http://www.charnwood.gov.uk/	food.hygiene@charnwood.gov.uk
+113	ESS-UF	Chelmsford	http://www.chelmsford.gov.uk	safesupport@chelmsford.gov.uk
+124	GLS-UB	Cheltenham	http://www.cheltenham.gov.uk	ehbusinesssupport@cheltenham.gov.uk
+268	OXF-UB	Cherwell	http://www.cherwell.gov.uk	public.protection@cherwell-dc.gov.uk
+703	CHE	Cheshire East	http://www.cheshireeast.gov.uk/	commercialservices@cheshireeast.gov.uk
+704	CHW	Cheshire West and Chester	http://www.cheshirewestandchester.gov.uk	foodsafety@cheshirewestandchester.gov.uk
+64	DBY-UD	Chesterfield	http://www.chesterfield.gov.uk	food@chesterfield.gov.uk
+325	WSX-UD	Chichester	http://www.chichester.gov.uk	environmentalhealth@chichester.gov.uk
+22	BKM-UC	Chiltern	http://www.chiltern.gov.uk	envhealth@chiltern.gov.uk
+197	LAN-UE	Chorley	http://www.chorley.gov.uk/foodratings	contact@chorley.gov.uk
+84	DOR-UC	Christchurch	http://www.dorsetforyou.com	environmental.services@christchurch.gov.uk
+508	LND	City of London Corporation	http://www.cityoflondon.gov.uk/Corporation/homepage.htm	publicprotection@cityoflondon.gov.uk
+768	CLK	Clackmannanshire	http://www.clacksweb.org.uk	ehealth@clacks.gov.uk
+114	ESS-UG	Colchester	http://www.colchester.gov.uk	food.safety@colchester.gov.uk
+791	ELS	Comhairle nan Eilean Siar (Western Isles)	http://www.cne-siar.gov.uk/foodsafety/food-hygiene-scheme.asp	eh@cne-siar.gov.uk
+550	CWY	Conwy	http://www.conwy.gov.uk	regulatory.services@conwy.gov.uk
+58	CMA-UE	Copeland	http://www.copeland.gov.uk	envhealth@copeland.gov.uk
+235	NTH-UB	Corby	http://www.corby.gov.uk/Pages/Welcome.aspx	env.health@corby.gov.uk
+705	CON	Cornwall	http://www.cornwall.gov.uk	envhealthandlicensing@cornwall.gov.uk
+125	GLS-UC	Cotswold	http://www.cotswold.gov.uk	foodandsafetymail@cotswold.gov.uk
+407	COV	Coventry	http://www.coventry.gov.uk	ehcommercial@coventry.gov.uk
+250	NYK-UB	Craven	http://www.cravendc.gov.uk	environmentalhealth@cravendc.gov.uk
+326	WSX-UE	Crawley	http://www.crawley.gov.uk	foodandsafety@crawley.gov.uk
+507	CRY	Croydon	http://www.croydon.gov.uk	food.safety@croydon.gov.uk
+156	HRT-UC	Dacorum	http://www.dacorum.gov.uk	environmental.health@dacorum.gov.uk
+874	DAL	Darlington	http://www.darlington.gov.uk	environmentalhealth@darlington.gov.uk
+181	KEN-UD	Dartford	http://www.dartford.gov.uk/foodsafety/index.htm	environmentalhealth@dartford.gov.uk
+236	NTH-UC	Daventry	http://www.daventrydc.gov.uk	healthimprovement@daventrydc.gov.uk
+559	DEN	Denbighshire	http://www.denbighshire.gov.uk/	envhealth@denbighshire.gov.uk
+871	DER	Derby City	http://www.derby.gov.uk	environmental.services@derby.gov.uk
+70	DBY-UF	Derbyshire Dales	http://www.derbyshiredales.gov.uk/fhrs	envhealth@derbyshiredales.gov.uk
+813	DRS	Derry City and Strabane	http://www.derrycityandstrabanedc.com	ehealth@derrycityandstrabanedc.com
+408	DNC	Doncaster	http://www.doncaster.gov.uk	food.safety@doncaster.gov.uk
+182	KEN-UE	Dover	http://www.dover.gov.uk/	envhealth@dover.gov.uk
+409	DUD	Dudley	http://www.dudley.gov.uk	foodandsafety@dudley.gov.uk
+770	DGY	Dumfries and Galloway	http://www.dumgal.gov.uk/	contact@dumgal.gov.uk
+772	DND	Dundee City	http://www.dundeecity.gov.uk/environment/hygieneinfo/	food.safety@dundeecity.gov.uk
+706	DUR	Durham	http://www.durham.gov.uk	ehcp@durham.gov.uk
+509	EAL	Ealing	http://www.ealing.gov.uk/info/200798/food_hygiene_and_safety	foodsafety@ealing.gov.uk
+764	EAY	East Ayrshire	http://eac.eu/	environmentalhealth@east-ayrshire.gov.uk
+28	CAM-UC	East Cambridgeshire	http://www.eastcambs.gov.uk	customerservices@eastcambs.gov.uk
+72	DEV-UB	East Devon	http://www.eastdevon.gov.uk	environmentalhealth@eastdevon.gov.uk
+85	DOR-UD	East Dorset	http://www.dorsetforyou.gov.uk	publichealth@christchurchandeastdorset.gov.uk
+771	EDU	East Dunbartonshire	http://www.eastdunbarton.gov.uk/home.aspx	environmentalhealth@eastdunbarton.gov.uk
+132	HAM-UC	East Hampshire	http://www.easthants.gov.uk/	ehealth@easthants.gov.uk
+157	HRT-UD	East Hertfordshire	http://www.eastherts.gov.uk	environmental.health@eastherts.gov.uk
+220	LIN-UC	East Lindsey	http://www.e-lindsey.gov.uk/	customerservices@e-lindsey.gov.uk
+781	ELN	East Lothian	http://www.eastlothian.gov.uk	ehts@eastlothian.gov.uk
+237	NTH-UD	East Northamptonshire	http://www.east-northamptonshire.gov.uk/	commhealth@east-northamptonshire.gov.uk
+787	ERW	East Renfrewshire	http://www.eastrenfrewshire.gov.uk/	EnvironmentalHealth@eastrenfrewshire.gov.uk
+863	ERY	East Riding of Yorkshire	http://www.eastriding.gov.uk	food.services@eastriding.gov.uk
+288	STS-UC	East Staffordshire	http://www.eaststaffsbc.gov.uk	foodteam@eaststaffsbc.gov.uk
+102	ESX-UC	Eastbourne	http://www.eastbourne.gov.uk/foodratings	Customerfirst@eastbourne.gov.uk
+133	HAM-UD	Eastleigh	http://www.eastleigh.gov.uk/	eh@eastleigh.gov.uk
+59	CMA-UF	Eden	http://www.eden.gov.uk/	foodratings@eden.gov.uk
+773	EDH	Edinburgh (City of)	http://www.edinburgh.gov.uk/foodsafety	environmentalhealth@edinburgh.gov.uk
+305	SRY-UB	Elmbridge	http://www.elmbridge.gov.uk/food	envhealth@elmbridge.gov.uk
+510	ENF	Enfield	http://www.enfield.gov.uk/	environmentalhealth@enfield.gov.uk
+115	ESS-UH	Epping Forest	http://www.eppingforestdc.gov.uk	publichealth@eppingforestdc.gov.uk
+306	SRY-UC	Epsom and Ewell	http://www.epsom-ewell.gov.uk/ratings	ehpublichealth@epsom-ewell.gov.uk
+66	DBY-UG	Erewash	http://www.erewash.gov.uk/	environmentalhealth@erewash.gov.uk
+73	DEV-UC	Exeter City	http://www.exeter.gov.uk	environmental.health@exeter.gov.uk
+774	FAL	Falkirk	http://www.falkirk.gov.uk/	fs@falkirk.gov.uk
+134	HAM-UE	Fareham	http://www.fareham.gov.uk	regulatory@fareham.gov.uk
+29	CAM-UD	Fenland	http://www.fenland.gov.uk/article/2117/Food-Safety	environmentalservicerequests@fenland.gov.uk
+816	FMO	Fermanagh and Omagh	http://www.fermanaghomagh.com	fs@fermanaghomagh.com
+775	FIF	Fife	http://www.fifedirect.org.uk/fife_council/index.cfm	Food.Advice@fife.gov.uk
+560	FLN	Flintshire	http://www.flintshire.gov.uk/	food.safety@flintshire.gov.uk
+298	SFK-UC	Forest Heath	http://www.westsuffolk.gov.uk	food&safety@westsuffolk.gov.uk
+126	GLS-UD	Forest of Dean	http://www.fdean.gov.uk	food@fdean.gov.uk
+198	LAN-UF	Fylde	http://www.fylde.gov.uk/environment/environmental-health/food-safety/national-food-hygiene-rating-scheme/	commercial@fylde.gov.uk
+410	GAT	Gateshead	http://www.gateshead.gov.uk	EnvironmentalHealth@gateshead.gov.uk
+262	NTT-UE	Gedling	http://www.gedling.gov.uk/	foodsafety@gedling.gov.uk
+776	GLG	Glasgow City	http://www.glasgow.gov.uk	food.safety@glasgow.gov.uk
+127	GLS-UE	Gloucester City	http://www.gloucester.gov.uk	heretohelp@gloucester.gov.uk
+135	HAM-UF	Gosport	http://www.gosport.gov.uk	ehs@gosport.gov.uk
+184	KEN-UG	Gravesham	http://www.gravesham.gov.uk/	hygiene.ratingscheme@gravesham.gov.uk
+229	NFK-UD	Great Yarmouth	http://www.great-yarmouth.gov.uk/live/index.htm	health@great-yarmouth.gov.uk
+511	GRE	Greenwich	http://www.royalgreenwich.gov.uk	health@royalgreenwich.gov.uk
+307	SRY-UD	Guildford	http://www.guildford.gov.uk	HCCS@guildford.gov.uk
+554	GWN	Gwynedd	http://www.gwynedd.gov.uk	BwydIechydaDiogelwch@gwynedd.gov.uk
+512	HCK	Hackney	http://www.hackney.gov.uk/e-env-environmental-health.htm	technicalbusinesssupport@hackney.gov.uk
+889	HAL	Halton	http://www.halton.gov.uk	environmental.protection@halton.gov.uk
+251	NYK-UC	Hambleton	http://www.hambleton.gov.uk/	fhrs@hambleton.gov.uk
+513	HMF	Hammersmith and Fulham	http://www.lbhf.gov.uk	commercialservices@lbhf.gov.uk
+211	LEC-UD	Harborough	http://www.harborough.gov.uk	foodandsafety@harborough.gov.uk
+514	HRY	Haringey	http://www.haringey.gov.uk	enforcement@haringey.gov.uk
+116	ESS-UJ	Harlow	http://www.harlow.gov.uk/	env.health@harlow.gov.uk
+252	NYK-UD	Harrogate	http://www.harrogate.gov.uk	foodandoccupationalsafety@harrogate.gov.uk
+515	HRW	Harrow	http://www.harrow.gov.uk	ehealth@harrow.gov.uk
+136	HAM-UG	Hart	http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm	eh@hart.gov.uk
+859	HPL	Hartlepool	http://www.hartlepool.gov.uk	jane.kett@hartlepool.gov.uk
+103	ESX-UD	Hastings	http://www.hastings.gov.uk	fhrs@hastings.gov.uk
+137	HAM-UH	Havant	http://www.havant.gov.uk	ehcommercial@havant.gov.uk
+516	HAV	Havering	http://www.havering.gov.uk	environmental.health@havering.gov.uk
+895	HEF	Herefordshire	http://www.herefordshire.gov.uk/	info@herefordshire.gov.uk
+158	HRT-UE	Hertsmere	http://www.hertsmere.gov.uk	environmental.health@hertsmere.gov.uk
+67	DBY-UH	High Peak	http://www.highpeak.gov.uk	borough-council@highpeak.gov.uk
+777	HLD	Highland	http://www.highland.gov.uk	env.health@highland.gov.uk
+517	HIL	Hillingdon	http://www.hillingdon.gov.uk/foodsafety	environmentalhealthcp@hillingdon.gov.uk
+212	LEC-UE	Hinckley and Bosworth	http://www.hinckley-bosworth.gov.uk	esadmin@hinckley-bosworth.gov.uk
+327	WSX-UF	Horsham	http://www.horsham.gov.uk	publichealth.licensing@horsham.gov.uk
+518	HNS	Hounslow	http://www.hounslow.gov.uk	foodsafety@hounslow.gov.uk
+866	KHL	Hull City	http://www.hullcc.gov.uk	environmental.health@hullcc.gov.uk
+30	CAM-UE	Huntingdonshire	http://www.huntingdonshire.gov.uk	food@huntingdonshire.gov.uk
+199	LAN-UG	Hyndburn	http://www.hyndburnbc.gov.uk	enquiries@hyndburnbc.gov.uk
+778	IVC	Inverclyde	http://www.inverclyde.gov.uk/business-and-trade/food-safety-and-standards/	safer.communities@inverclyde.gov.uk
+299	SFK-UD	Ipswich	http://www.ipswich.gov.uk	foodsafety@ipswich.gov.uk
+867	IOW	Isle of Wight	http://www.iwight.com/eh	eh@iow.gov.uk
+336	IOS	Isles of Scilly	http://www.scilly.gov.uk/	environmentalhealth@scilly.gov.uk
+519	ISL	Islington	http://www.islington.gov.uk	Commercial.Envh@islington.gov.uk
+520	KEC	Kensington and Chelsea	http://www.rbkc.gov.uk	food.hygiene@rbkc.gov.uk
+238	NTH-UE	Kettering	http://www.kettering.gov.uk	fhrs@kettering.gov.uk
+230	NFK-UE	King's Lynn and West Norfolk	http://www.west-norfolk.gov.uk/	foodhygieneandsafety@west-norfolk.gov.uk
+521	KTT	Kingston-Upon-Thames	http://www.kingston.gov.uk	environmental.health@rbk.kingston.gov.uk
+411	KIR	Kirklees	http://www.kirklees.gov.uk/	food.safety@kirklees.gov.uk
+412	KWL	Knowsley	http://www.knowsley.gov.uk	environmentalhealth@knowsley.gov.uk
+522	LBH	Lambeth	http://www.lambeth.gov.uk	foodhealthandsafety@lambeth.gov.uk
+200	LAN-UH	Lancaster City	http://www.lancaster.gov.uk/foodratings	foodratings@lancaster.gov.uk
+413	LDS	Leeds	http://www.leeds.gov.uk/	food.safety@leeds.gov.uk
+878	LCE	Leicester City	http://www.leicester.gov.uk/food	food@leicester.gov.uk
+105	ESX-UF	Lewes	http://www.lewes.gov.uk/	ehealth@lewes.gov.uk
+523	LEW	Lewisham	http://www.lewisham.gov.uk/myservices/business/food-safety/Pages/default.aspx	david.edwards@lewisham.gov.uk
+289	STS-UD	Lichfield	http://www.lichfielddc.gov.uk	food.safety@lichfielddc.gov.uk
+221	LIN-UD	Lincoln City	http://www.lincoln.gov.uk	ehcnet@lincoln.gov.uk
+809	LBC	Lisburn and Castlereagh City	http://www.lisburncastlereagh.gov.uk/	eh@lisburncastlereagh.gov.uk
+414	LIV	Liverpool	http://www.liverpool.gov.uk/	environmental.health@liverpool.gov.uk
+869	LUT	Luton	http://www.luton.gov.uk/foodscore	environmentalhealth@luton.gov.uk
+185	KEN-UH	Maidstone	http://www.maidstone.gov.uk/	customerservices@maidstone.gov.uk
+117	ESS-UK	Maldon	http://www.maldon.gov.uk	environmentservices.request@maldon.gov.uk
+148	WOR-UC	Malvern Hills	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
+415	MAN	Manchester	http://www.manchester.gov.uk	envhealth@manchester.gov.uk
+263	NTT-UF	Mansfield	http://www.mansfield.gov.uk	envhealth@mansfield.gov.uk
+896	MDW	Medway	http://www.medway.gov.uk/	foodandsafety@medway.gov.uk
+214	LEC-UG	Melton	http://www.melton.gov.uk	fhrs@melton.gov.uk
+281	SOM-UB	Mendip	http://www.mendip.gov.uk	env-health@mendip.gov.uk
+561	MTY	Merthyr Tudful	http://www.merthyr.gov.uk	publichealth@merthyr.gov.uk
+561	MTY	Merthyr Tydfil	http://www.merthyr.gov.uk	publichealth@merthyr.gov.uk
+524	MRT	Merton	http://www.merton.gov.uk	EHCommercial@merton.gov.uk
+804	MEA	Mid and East Antrim	http://www.midandeastantrim.gov.uk	ballymena.envhealth@midandeastantrim.gov.uk
+74	DEV-UD	Mid Devon	http://www.middevon.gov.uk	ehadmin@middevon.gov.uk
+300	SFK-UE	Mid Suffolk	http://www.midsuffolk.gov.uk/	food.safety@babergh.gov.uk
+328	WSX-UG	Mid Sussex	http://www.midsussex.gov.uk/	foodsafety@midsussex.gov.uk
+811	MUL	Mid Ulster	http://www.midulstercouncil.org	environmentalhealth@midulstercouncil.org
+861	MDB	Middlesbrough	http://www.middlesbrough.gov.uk	contactcentre@middlesbrough.gov.uk
+783	MLN	Midlothian	http://www.midlothian.gov.uk	foodandsafety@midlothian.gov.uk
+870	MIK	Milton Keynes	http://www.milton-keynes.gov.uk	ehfst@milton-keynes.gov.uk
+308	SRY-UE	Mole Valley	http://www.molevalley.gov.uk	EnvHealth@molevalley.gov.uk
+562	MON	Monmouthshire	http://www.monmouthshire.gov.uk	environmentalhealth@monmouthshire.gov.uk
+784	MRY	Moray	http://www.moray.gov.uk	foodsafety@moray.gov.uk
+563	NTL	Neath Port Talbot	http://www.npt.gov.uk	ehd@npt.gov.uk
+138	HAM-UJ	New Forest	http://www.newforest.gov.uk	hygiene.rating@nfdc.gov.uk
+264	NTT-UG	Newark and Sherwood	http://www.newark-sherwooddc.gov.uk/	environmental.health@nsdc.info
+416	NET	Newcastle Upon Tyne	http://www.newcastle.gov.uk/	rspp@newcastle.gov.uk
+290	STS-UE	Newcastle-Under-Lyme	http://www.newcastle-staffs.gov.uk/	foodandsafety@newcastle-staffs.gov.uk
+525	NWM	Newham	http://ww2.newham.gov.uk/Pages/index.aspx	food@newham.gov.uk
+564	NWP	Newport	http://www.newport.gov.uk	environmental.health@newport.gov.uk
+814	NMD	"Newry	 Mourne and Down"	http://www.newrymournedown.org	env.health@nmandd.org
+765	NAY	North Ayrshire	http://www.north-ayrshire.gov.uk/PlanningAndTheEnvironment/EnvironmentalHealth/EnvironmentalHealth-Food/FoodHygieneInformationScheme.aspx	environmentalhealth@north-ayrshire.gov.uk
+75	DEV-UE	North Devon	http://www.northdevon.gov.uk	customerservices@northdevon.gov.uk
+86	DOR-UE	North Dorset	http://www.dorsetforyou.com	envlicens@north-dorset.gov.uk
+68	DBY-UJ	North East Derbyshire	http://www.ne-derbyshire.gov.uk/	envhealth@ne-derbyshire.gov.uk
+865	NEL	North East Lincolnshire	http://www.nelincs.gov.uk	environmental.health@nelincs.gov.uk
+159	HRT-UF	North Hertfordshire	http://www.north-herts.gov.uk	env.health@north-herts.gov.uk
+222	LIN-UE	North Kesteven	http://www.n-kesteven.gov.uk	FoodTeam@n-kesteven.gov.uk
+779	NLK	North Lanarkshire	http://www.northlanarkshire.gov.uk	P&EFoodsafety@northlan.gov.uk
+864	NLN	North Lincolnshire	http://www.northlincs.gov.uk/environment/environmentalhealth/food/food-safety/	food.safety@northlincs.gov.uk
+231	NFK-UF	North Norfolk	http://www.northnorfolk.org	commercial@north-norfolk.gov.uk
+858	NSM	North Somerset	http://www.n-somerset.gov.uk	foodandsafety@n-somerset.gov.uk
+417	NTY	North Tyneside	http://www.northtyneside.gov.uk/	environmental.health@northtyneside.gov.uk
+317	WAR-UB	North Warwickshire	http://www.northwarks.gov.uk	foodsafety@northwarks.gov.uk
+215	LEC-UH	North West Leicestershire	http://www.nwleics.gov.uk	ehealth@nwleicestershire.gov.uk
+239	NTH-UF	Northampton	http://www.northampton.gov.uk	ehadmin@northampton.gov.uk
+707	NBL	Northumberland	http://www.northumberland.gov.uk	envhealthsoutheast@northumberland.gov.uk
+232	NFK-UG	Norwich City	http://www.norwich.gov.uk/foodhygieneratings	foodandsafety@norwich.gov.uk
+899	NGM	Nottingham City	http://www.nottinghamcity.gov.uk/foodsafety	food.enforcement@nottinghamcity.gov.uk
+318	WAR-UC	Nuneaton and Bedworth	http://www.nuneatonandbedworth.gov.uk	carl.jacobs@nuneatonandbedworth.gov.uk
+216	LEC-UJ	Oadby and Wigston	http://www.oadby-wigston.gov.uk	env.health@oadby-wigston.gov.uk
+418	OLD	Oldham	https://www.oldham.gov.uk	FHRS@oldham.gov.uk
+785	ORK	Orkney Islands	http://www.orkney.gov.uk/	env.health@orkney.gov.uk
+269	OXF-UC	Oxford City	http://www.oxford.gov.uk	foodsafety@oxford.gov.uk
+565	PEM	Pembrokeshire	http://www.pembrokeshire.gov.uk	foodratings@pembrokeshire.gov.uk
+201	LAN-UJ	Pendle	http://www.pendle.gov.uk	environmental.food@pendle.gov.uk
+553	BGE	Pen-y-bont ar Ogwr	http://www.bridgend.gov.uk/	publicprotection@bridgend.gov.uk
+786	PKN	Perth and Kinross	http://www.pkc.gov.uk/Business+and+trade/Health+and+safety/Health+and+safety+-+food/Food+hygiene/Food+hygiene+information/Food+Hygiene+Information.htm	ES@pkc.gov.uk
+888	PTE	Peterborough City	http://www.peterborough.gov.uk	foodandsafety@peterborough.gov.uk
+891	PLY	Plymouth City	http://www.plymouth.gov.uk	public.protection@plymouth.gov.uk
+Poole	POL	Poole	http://www.boroughofpoole.com/	environment@poole.gov.uk
+876	POR	Portsmouth	http://www.portsmouth.gov.uk	public.protection@portsmouthcc.gov.uk
+566	POW	Powys	http://www.powys.gov.uk	public.protection@powys.gov.uk
+202	LAN-UK	Preston	http://www.preston.gov.uk	info@preston.gov.uk
+88	DOR-UG	Purbeck	http://www.dorsetforyou.com/purbeck	publichealth@purbeck-dc.gov.uk
+884	RDG	Reading	http://www.reading.gov.uk	consumerprotection@reading.gov.uk
+526	RDB	Redbridge	http://www.redbridge.gov.uk/	alan.drake@redbridge.gov.uk
+860	RCC	Redcar and Cleveland	http://www.redcar-cleveland.gov.uk	food_team@redcar-cleveland.gov.uk
+149	WOR-UD	Redditch	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
+309	SRY-UF	Reigate and Banstead	http://www.reigate-banstead.gov.uk/	food.safety@reigate-banstead.gov.uk
+788	RFW	Renfrewshire	http://www.renfrewshire.gov.uk/webcontent/home/services/environment/food%2C+hygiene+and+quality/es-foodhygieneinformationschemehomepage__wci__1341	b-serv.es@renfrewshire.gov.uk
+567	RCT	Rhondda Cynon Taf	http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx	food.healthandsafety@rctcbc.gov.uk
+203	LAN-UL	Ribble Valley	http://www.ribblevalley.gov.uk	environmental.health@ribblevalley.gov.uk
+253	NYK-UE	Richmondshire	http://www.richmondshire.gov.uk/	environment@richmondshire.gov.uk
+527	RIC	Richmond-Upon-Thames	http://www.richmond.gov.uk	commercialeh@richmond.gov.uk
+648	RCC	River Tees	http://www.teesporthealth.co.uk	port.health@redcar-cleveland.gov.uk
+419	RCH	Rochdale	http://www.rochdale.gov.uk/health_and_social_care/food/food_safety_-_inspections/food_safety_for_businesses.aspx	environmental.health2@rochdale.gov.uk
+118	ESS-UL	Rochford	http://www.rochford.gov.uk	customerservices@rochford.gov.uk
+204	LAN-UM	Rossendale	http://www.rossendale.gov.uk	envhealth@rossendalebc.gov.uk
+106	ESX-UG	Rother	http://www.rother.gov.uk	envhealth@rother.gov.uk
+420	ROT	Rotherham	http://www.rotherham.gov.uk	food.health&safety@rotherham.gov.uk
+319	WAR-UD	Rugby	http://www.rugby.gov.uk	FS@rugby.gov.uk
+310	SRY-UG	Runnymede	http://www.runnymede.gov.uk/portal/site/runnymede	helen.jones@runnymede.gov.uk
+266	NTT-UJ	Rushcliffe	http://www.rushcliffe.gov.uk/	envhealth@rushcliffe.gov.uk
+140	HAM-UL	Rushmoor	http://www.rushmoor.gov.uk	food@rushmoor.gov.uk
+254	NYK-UF	Ryedale	http://www.ryedale.gov.uk/	fshs.admin@ryedale.gov.uk
+422	SLF	Salford	http://www.salford.gov.uk/envhealth.htm	environmentalhealth@salford.gov.uk
+423	SAW	Sandwell	http://www.sandwell.gov.uk/foodratings	environmental_health@sandwell.gov.uk
+255	NYK-UG	Scarborough	http://www.scarborough.gov.uk/foodhygienerating	fos@scarborough.gov.uk
+767	SCB	Scottish Borders	http://www.scotborders.gov.uk/	foodteam@scotborders.gov.uk
+282	SOM-UC	Sedgemoor	http://www.sedgemoor.gov.uk	environmental.services@sedgemoor.gov.uk
+424	SFT	Sefton	http://www.sefton.gov.uk/	ETSContact@sefton.gov.uk
+256	NYK-UH	Selby	http://www.selby.gov.uk	info@selby.gov.uk
+187	KEN-UK	Sevenoaks	http://www.sevenoaks.gov.uk/	eh.support@dartford.gov.uk
+425	SHF	Sheffield	https://www.sheffield.gov.uk/environment/environmental-health.html	healthprotection@sheffield.gov.uk
+188	KEN-UL	Shepway	http://www.shepway.gov.uk	environmental.services@shepway.gov.uk
+789	ZET	Shetland Islands	http://www.shetland.gov.uk/	foodsafety@shetland.gov.uk
+708	SHR	Shropshire	http://www.shropshire.gov.uk/foodhygienescheme	food@shropshire.gov.uk
+565	PEM	Sir Benfro	http://www.pembrokeshire.gov.uk	foodratings@pembrokeshire.gov.uk
+559	DEN	Sir Ddinbych	http://www.denbighshire.gov.uk/	envhealth@denbighshire.gov.uk
+562	MON	Sir Fynwy	http://www.monmouthshire.gov.uk	environmentalhealth@monmouthshire.gov.uk
+558	CMN	Sir Gaerfyrddin	http://www.carmarthenshire.gov.uk	PublicProtection@carmarthenshire.gov.uk
+560	FLN	Sir y Fflint	http://www.flintshire.gov.uk/	food.safety@flintshire.gov.uk
+885	SLG	Slough	http://www.slough.gov.uk	foodandsafety@slough.gov.uk
+426	SOL	Solihull	http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm	pprotection@solihull.gov.uk
+766	SAY	South Ayrshire	http://www.south-ayrshire.gov.uk/environmentalhealth/foodsafety/fhis.aspx	environmental.health@south-ayrshire.gov.uk
+24	BKM-UE	South Buckinghamshire	http://www.southbucks.gov.uk	envhealth@southbucks.gov.uk
+32	CAM-UG	South Cambridgeshire	http://www.scambs.gov.uk/	env.health@scambs.gov.uk
+69	DBY-UK	South Derbyshire	http://www.south-derbys.gov.uk	environmental.health@south-derbys.gov.uk
+856	SGC	South Gloucestershire	http://www.southglos.gov.uk	foodandhealth@southglos.gov.uk
+77	DEV-UG	South Hams	http://www.southhams.gov.uk/	environmental.health@southhams.gov.uk
+223	LIN-UF	South Holland	http://www.sholland.gov.uk	foodhs@sholland.gov.uk
+224	LIN-UG	South Kesteven	http://www.southkesteven.gov.uk	healthy@southkesteven.gov.uk
+60	CMA-UG	South Lakeland	http://www.southlakeland.gov.uk	publicprotection@southlakeland.gov.uk
+780	SLK	South Lanarkshire	http://www.southlanarkshire.gov.uk/	slc_environmental_services@southlanarkshire.gcsx.gov.uk
+233	NFK-UH	South Norfolk	http://www.south-norfolk.gov.uk	envserv@s-norfolk.gov.uk
+240	NTH-UG	South Northamptonshire	http://www.southnorthants.gov.uk/	health.protection@southnorthants.gov.uk
+270	OXF-UD	South Oxfordshire	https://www.southoxon.gov.uk	env.health@southandvale.gov.uk
+205	LAN-UN	South Ribble	http://www.southribble.gov.uk	envhealth@southribble.gov.uk
+283	SOM-UD	South Somerset	http://www.southsomerset.gov.uk/food	food.safety@southsomerset.gov.uk
+291	STS-UF	South Staffordshire	http://www.sstaffs.gov.uk	env.commercial@sstaffs.gov.uk
+427	STY	South Tyneside	http://www.southtyneside.info	environmental.health@southtyneside.gov.uk
+877	STH	Southampton	http://www.southampton.gov.uk	hygiene.rating@southampton.gov.uk
+893	SOS	Southend-On-Sea	http://www.southend.gov.uk	steveramm@southend.gov.uk
+528	SWK	Southwark	http://www.southwark.gov.uk/	food@southwark.gov.uk
+311	SRY-UH	Spelthorne	http://www.spelthorne.gov.uk	environmental.health.commercial@spelthorne.gov.uk
+160	HRT-UG	St Albans City	http://www.stalbans.gov.uk/business/Health-and-safety/food-safety/foodHygieneRating.aspx	fhrs@stalbans.gov.uk
+301	SFK-UF	St Edmundsbury	http://www.westsuffolk.gov.uk	food&safety@westsuffolk.gov.uk
+421	SHN	St Helens	http://www.sthelens.gov.uk	environmentalhealth@sthelens.gov.uk
+292	STS-UG	Stafford	http://www.staffordbc.gov.uk	regulatoryservices@staffordbc.gov.uk
+293	STS-UH	Staffordshire Moorlands	http://www.staffsmoorlands.gov.uk	environmental.health@staffsmoorlands.gov.uk
+161	HRT-UH	Stevenage	http://www.stevenage.gov.uk	env.health@stevenage.gov.uk
+790	STG	Stirling	http://www.stirling.gov.uk	thefoodteam@stirling.gov.uk
+428	SKP	Stockport	http://www.stockport.gov.uk	food.safety@stockport.gov.uk
+862	STT	Stockton On Tees	http://www.stockton.gov.uk	environmental.health@stockton.gov.uk
+880	STE	Stoke-On-Trent	http://www.stoke.gov.uk	PublicProtection@stoke.gov.uk
+320	WAR-UE	Stratford-on-Avon	http://www.stratford.gov.uk	food@stratford-dc.gov.uk
+128	GLS-UF	Stroud	http://www.stroud.gov.uk	environmental.health@stroud.gov.uk
+302	SFK-UG	Suffolk Coastal	http://www.suffolkcoastal.gov.uk	environment@eastsuffolk.gov.uk
+429	SND	Sunderland	http://www.sunderland.gov.uk	public.health@sunderland.gov.uk
+312	SRY-UJ	Surrey Heath	http://www.surreyheath.gov.uk	environmental.health@surreyheath.gov.uk
+529	STN	Sutton	http://www.sutton.gov.uk	brs@sutton.gov.uk
+189	KEN-UM	Swale	http://www.swale.gov.uk	commerical@midkent.gov.uk
+568	SWA	Swansea	http://www.swansea.gov.uk	FoodandSafety@swansea.gov.uk
+881	SWD	Swindon	http://www.swindon.gov.uk/	foodhealth&safety@swindon.gov.uk
+430	TAM	Tameside	http://www.tameside.gov.uk	environmentalhealth@tameside.gov.uk
+295	STS-UK	Tamworth	http://www.tamworth.gov.uk	publicprotection@tamworth.gov.uk
+313	SRY-UK	Tandridge	http://www.tandridge.gov.uk/	fsa_enforcement@tandridge.gov.uk
+284	SOM-UE	Taunton Deane	http://www.tauntondeane.gov.uk	Foodsafety@tauntondeane.gov.uk
+78	DEV-UH	Teignbridge	http://www.teignbridge.gov.uk/fhrs	fhrs@teignbridge.gov.uk
+900	TFW	Telford and Wrekin Council	http://www.telford.gov.uk/	environmental.health@telford.gov.uk
+120	ESS-UN	Tendring	http://www.tendringdc.gov.uk/	fhsadmin@tendringdc.gov.uk
+142	HAM-UN	Test Valley	http://www.testvalley.gov.uk/	envhealth@testvalley.gov.uk
+129	GLS-UG	Tewkesbury	http://www.tewkesbury.gov.uk	ehenquiries@tewkesbury.gov.uk
+190	KEN-UN	Thanet	http://www.thanet.gov.uk	environmental.health@thanet.gov.uk
+162	HRT-UJ	Three Rivers	http://www.threerivers.gov.uk	enquiries@Threerivers.gov.uk
+894	THR	Thurrock	http://www.thurrock.gov.uk/food	foodsafety@thurrock.gov.uk
+191	KEN-UP	Tonbridge and Malling	http://www.tmbc.gov.uk	foodandsafety@tmbc.gov.uk
+892	TOB	Torbay	http://www.torbay.gov.uk/	food.safety@torbay.gov.uk
+569	TOF	Torfaen	http://www.torfaen.gov.uk/	commercial.services@torfaen.gov.uk
+80	DEV-UK	Torridge	http://www.torridge.gov.uk/food	foodandsafety@torridge.gov.uk
+530	TWH	Tower Hamlets	http://www.towerhamlets.gov.uk	foodsafety@towerhamlets.gov.uk
+431	TRF	Trafford	http://www.trafford.gov.uk	environmental.health@trafford.gov.uk
+192	KEN-UQ	Tunbridge Wells	http://www.tunbridgewells.gov.uk	foodandcomm@tunbridgewells.gov.uk
+122	ESS-UQ	Uttlesford	http://www.uttlesford.gov.uk	environmentalhealth@uttlesford.gov.uk
+570	VGL	Vale of Glamorgan	http://www.valeofglamorgan.gov.uk	foodsafetyteam@valeofglamorgan.gov.uk
+271	OXF-UE	Vale of White Horse	http://www.whitehorsedc.gov.uk	env.health@whitehorsedc.gov.uk
+432	WKF	Wakefield	http://www.wakefield.gov.uk	food@wakefield.gov.uk
+433	WLL	Walsall	http://www.walsall.gov.uk/index/environment/food_production_and_quality.htm	foodsafety@walsall.gov.uk
+531	WFT	Waltham Forest	http://www.walthamforest.gov.uk	environmentalhealth@walthamforest.gov.uk
+532	WND	Wandsworth	http://www.wandsworth.gov.uk	foodsafety@wandsworth.gov.uk
+890	WRT	Warrington	http://www.warrington.gov.uk	environmental.health@warrington.gov.uk
+321	WAR-UF	Warwick	http://www.warwickdc.gov.uk	foodsafety@warwickdc.gov.uk
+163	HRT-UK	Watford	http://www.watford.gov.uk/foodhygieneratings	envhealth@watford.gov.uk
+303	SFK-UH	Waveney	http://www.waveney.gov.uk	environment@eastsuffolk.gov.uk
+314	SRY-UL	Waverley	http://www.waverley.gov.uk	environmentalhealth@waverley.gov.uk
+107	ESX-UH	Wealden	http://www.wealden.gov.uk	envhealth@rother.gov.uk
+241	NTH-UH	Wellingborough	http://www.wellingborough.gov.uk	HealthProtection@wellingborough.gov.uk
+164	HRT-UL	Welwyn Hatfield	http://www.welhat.gov.uk	e.health@welhat.gov.uk
+883	WBK	West Berkshire	http://www.westberks.gov.uk	EHAdvice@westberks.gov.uk
+81	DEV-UL	West Devon	http://www.westdevon.gov.uk	eh@westdevon.gov.uk
+89	DOR-UH	West Dorset	http://www.dorsetforyou.com	env.health@westdorset-dc.gov.uk
+769	WDU	West Dunbartonshire	http://www.west-dunbarton.gov.uk	environmental.health@west-dunbarton.gov.uk
+206	LAN-UP	West Lancashire	http://www.westlancs.gov.uk	EnvHealth.Admin@westlancs.gov.uk
+225	LIN-UH	West Lindsey	https://www.west-lindsey.gov.uk	food.healthandsafety@west-lindsey.gov.uk
+782	WLN	West Lothian	http://www.westlothian.gov.uk/	environmentalhealth@westlothian.gov.uk
+272	OXF-UF	West Oxfordshire	http://www.westoxon.gov.uk	community.services@westoxon.gov.uk
+285	SOM-UF	West Somerset	http://www.westsomersetonline.gov.uk	licensingenvhealth@westsomerset.gov.uk
+533	WSM	Westminster	http://www.westminster.gov.uk/	foodsafety@westminster.gov.uk
+90	DOR-UJ	Weymouth and Portland	http://www.dorsetforyou.com	envhealth@weymouth.gov.uk
+434	WGN	Wigan	http://www.wigan.gov.uk/	comm@wigan.gov.uk
+709	WIL	Wiltshire	http://www.wiltshire.gov.uk	publicprotectioneast@wiltshire.gov.uk
+143	HAM-UP	Winchester City	http://www.winchester.gov.uk	healthprotection@winchester.gov.uk
+886	WNM	Windsor and Maidenhead	http://www.rbwm.gov.uk/	customer.service@rbwm.gov.uk
+435	WRL	Wirral	http://www.wirral.gov.uk	environmentalhealth@wirral.gov.uk
+315	SRY-UM	Woking	http://www.woking.gov.uk	emma.bourne@woking.gov.uk
+887	WOK	Wokingham	http://www.wokingham.gov.uk/welcome/	environmental.health@wokingham.gov.uk
+436	WLV	Wolverhampton	http://www.wolverhampton.gov.uk/	environmentalhealth@wolverhampton.gov.uk
+151	WOR-UE	Worcester City	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
+329	WSX-UH	Worthing	http://www.adur-worthing.gov.uk	envsupport@adur-worthing.gov.uk
+571	WRX	Wrecsam	http://www.wrexham.gov.uk/	public_protection_service@wrexham.gov.uk
+571	WRX	Wrexham	http://www.wrexham.gov.uk/	public_protection_service@wrexham.gov.uk
+152	WOR-UF	Wychavon	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
+25	BKM-UF	Wycombe	http://www.wycombe.gov.uk	Food.Ratings@wycombe.gov.uk
+207	LAN-UQ	Wyre	https://wyre.gov.uk	mailroom@wyre.gov.uk
+153	WOR-UG	Wyre Forest	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
+551	AGY	Ynys Môn/ Isle of Anglesey	http://www.ynysmon.gov.uk	iechydyramgylchedd@ynysmon.gov.uk
+868	YOR	York	http://www.york.gov.uk	food.safety@york.gov.uk
