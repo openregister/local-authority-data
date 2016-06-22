@@ -21,6 +21,7 @@ This repository also includes a number of [maps](maps) intended to help migrate 
 - [edubase.tsv](maps/edubase.tsv) — Edubase local authority codes
 - [food-standards.tsv](maps/food-standards.tsv) — local authority codes from the Food Standards Agency ratings data
 - [snac.tsv](maps/snac.tsv) — ONS former hierarchical Standard Names and Codes (SNAC)
+- [os.tsv](maps/os.tsv) — Ordnance Survey county and other codes found in os-open-names data
 
 # Licence
 
