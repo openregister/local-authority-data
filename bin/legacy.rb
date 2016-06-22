@@ -36,6 +36,7 @@ def load file
   puts "\n#{file}\n#{name}\n#{meta.inspect}"
   klass = list.first.class
   klass.class_eval("def _name; send(:#{meta[:name]}); end")
+  klass.class_eval("def _name=(val); send(:#{meta[:name]}=, val); end")
   klass.class_eval("def _id; send(:#{meta[:id]}); end")
   type = meta[:type] ? "send(:#{meta[:type]}).strip" : 'nil'
   klass.class_eval("def _type; #{type}; end")
@@ -58,6 +59,14 @@ end
 def remove_unrelated! legacy
   legacy[:local_directgov].delete_if { |item| item.snac.blank? }; nil
   legacy[:opendatacommunities].delete_if { |item| item.ons_code.blank? }; nil
+  legacy[:ons_api_admin_areas].delete_if do |item|
+    ['England and Wales',
+    'Region',
+    'Inner and Outer London',
+    'Country',
+    'Metropolitan County',
+    'United Kingdom'].include?(item._type)
+  end; nil
 end
 
 def log_legacy legacy
@@ -73,13 +82,58 @@ end
 
 def fix_mispelling! name
   name.sub!(' coucil', ' council')
+  name.sub!(/^east dunbarton$/, 'east dunbartonshire')
+  name.sub!(/^shetland$/, 'shetland islands')
+  name.sub!(/^orkney$/, 'orkney islands')
+  name.sub!(/^highlands$/, 'highland')
   [
     ['aberdeen c ity', 'aberdeen city'],
     ['aberdeen cuty', 'aberdeen city'],
+    ['blaenau gwent blaenau gwent', 'blaenau gwent'],
+    ['borough council of', ''],
+    ['ease dunbartonshire',  'east dunbartonshire'],
+    ['east dunbaronshire',   'east dunbartonshire'],
+    ['east dunnbartonshire', 'east dunbartonshire'],
+    ['london borough of', ''],
+    ['royal borough of', ''],
+    ['borough of', ''],
+    ['bradford mdc', 'bradford'],
+    ['bristol city of', 'bristol'],
+    ['(city of)', ''],
+    ['the city of', ''],
+    ['city of', ''],
     ['comhairle nan eilean siar (western isles)', 'comhairle nan eilean siar'],
     ['merthyr tudful', 'merthyr tydfil'],
     ['merthyr tydfil ua', 'merthyr tydfil'],
+    ["king's lynn and west norfolk", 'kings lynn and west norfolk'],
     ['rhondda cynon taff', 'rhondda cynon taf'],
+    ['south ayshire', 'south ayrshire'],
+    ['south buckinghamshire', 'south bucks'],
+    # welsh to english ->
+    ['abertawe', 'swansea'],
+    ['blaenau gwent', 'blaenau gwent'],
+    ['bro morgannwg', 'the vale of glamorgan'],
+    ['caerdydd', 'cardiff'],
+    ['caerffili', 'caerphilly'],
+    ['casnewydd', 'newport'],
+    ['castell-nedd port talbot', 'neath port talbot'],
+    ['castell nedd port talbot', 'neath port talbot'],
+    ['conwy', 'conwy'],
+    ['gwynedd', 'gwynedd'],
+    ['merthyr tudful', 'merthyr tydfil'],
+    ['pen-y-bont ar ogwr', 'bridgend'],
+    ['powys', 'powys'],
+    ['rhondda cynon taf', 'rhondda cynon taf'],
+    ['sir benfro', 'pembrokeshire'],
+    ['sir ceredigion', 'ceredigion'],
+    ['sir ddinbych', 'denbighshire'],
+    ['sir fynwy', 'monmouthshire'],
+    ['sir gaerfyrddin', 'carmarthenshire'],
+    ['sir y fflint', 'flintshire'],
+    ['sir ynys mon', 'isle of anglesey'],
+    ['tor-faen', 'torfaen'],
+    ['wrecsam', 'wrexham']
+    # <- welsh to english
   ].each do |replace, with|
     name.sub!(replace, with)
   end
@@ -87,16 +141,22 @@ end
 
 def remove_suffix! name
   [
+    '\(b\)',
     'county borough council',
     'metropolitan district council',
     'metropolitan borough council',
     'borough council',
     'county council',
+    'city and district council',
     'district council',
     'county borough',
     'council',
     'county of',
     'city of',
+    'district',
+    'london boro',
+    'city',
+    'county'
   ].each do |suffix|
     name.sub!(/\s#{suffix}$/, '')
   end
@@ -122,6 +182,8 @@ end
 
 def group_by_normalize_name authorities, legacy
   legacy_values = legacy.except(:os_open_names).except(:map).values
+  legacy[:os_boundary_line].each {|item| item._name = item._name.split(" - ").last }
+
   by_name = [authorities, legacy_values].flatten.
     select{|item| !normalize_name(item)[/\s(fire|police)\s/] }.
     sort_by{|item| normalize_name(item) }.
@@ -150,7 +212,7 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
       b.link(href: "https://govuk-elements.herokuapp.com/public/stylesheets/elements-page.css", rel: "stylesheet", type: "text/css")
       b.style({type: "text/css"}, '
         a { color: inherit; }
-        table th, table td { font-size: 17px; }
+        table th, table td { font-size: 12px; }
         .city-corporation, .cty, two-tier-county      { color: #d53880; }
         .council-area, .ca           { color: #f47738; }
         .district, .dis              { color: #006435; }
