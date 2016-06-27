@@ -1,0 +1,4 @@
+%{"csv": {:hex, :csv, "1.4.2", "cedb2f230171e6d10423aee8ce90512833b07e978747cc836b0f2c037fcf779d", [:mix], [{:parallel_stream, "~> 1.0.4", [hex: :parallel_stream, optional: false]}]},
+  "data_morph": {:git, "https://github.com/robmckinnon/data_morph.git", "0d02b383337692a1805cbd478854898d19b2630d", []},
+  "parallel_stream": {:hex, :parallel_stream, "1.0.5", "4c78d3e675f9eff885cbe252c89a8fc1d2fb803c0d03a914281e587834e09431", [:mix], []},
+  "poison": {:hex, :poison, "2.2.0", "4763b69a8a77bd77d26f477d196428b741261a761257ff1cf92753a0d4d24a63", [:mix], []}}
