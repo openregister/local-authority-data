@@ -1,0 +1,11 @@
+---
+local-custodian:
+  description: AddressBase™ / Geoplace LLP address custodian names and codes
+food-authority:
+  description: Local authority codes from the Food Standards Agency ratings data
+edubase:
+  description: Edubase local authority codes
+snac:
+  description: ONS former hierarchical Standard Names and Codes (SNAC)
+os:
+  description: Ordnance Survey county and other codes found in os-open-names data
