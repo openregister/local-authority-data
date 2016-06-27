@@ -85,6 +85,7 @@ def fix_mispelling! name
   name.sub!('comhairle nan eilean siar (western isles)', 'eilean siar')
 
   [
+    ['blackburn', 'blackburn with darwen'],
     ['east dunbarton', 'east dunbartonshire'],
     ['shetland', 'shetland islands'],
     ['orkney', 'orkney islands'],
@@ -371,9 +372,11 @@ puts 'Write file to: legacy/report.tsv'
 File.open('legacy/report.tsv', 'w') do |f|
   class_keys = class_keys authorities, legacy
   class_keys.each do |key|
-    f.write(key.name.sub('Morph::','').underscore.gsub('_','-'))
+    header = key.name.sub('Morph::','').underscore.gsub('_','-')
+    header = 'food-authority' if header[/food-standards/]
+    f.write(header)
     f.write("\t")
-    f.write(key.name.sub('Morph::','').underscore.gsub('_','-') + '-name')
+    f.write(header + '-name')
     f.write("\t")
   end
   f.write("\n")
