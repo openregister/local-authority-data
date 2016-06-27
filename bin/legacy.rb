@@ -42,6 +42,7 @@ def load file
   klass.class_eval("def _type; #{type}; end")
   dataset = klass.name.sub('Morph::','').downcase
   klass.class_eval("def _dataset; '#{dataset}'; end")
+  klass.class_eval("def _dataset_url; '#{meta[:url]}'; end")
   [name, list]
 end
 
@@ -202,6 +203,7 @@ end
 
 def write_to_html authorities, legacy, by_name, dataset_to_type
   class_keys = class_keys authorities, legacy
+  all = by_name.to_a
 
   b = Builder::XmlMarkup.new(indent: 2)
   html = b.html {
@@ -229,7 +231,15 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
           b.tr {
             b.th style: "background: lightgrey;"
             class_keys.each do |key|
-              b.th({style: "background: lightgrey;"}, key.name.downcase.sub('morph::','') )
+              item = legacy.values.detect{|list| list.first.class == key}.try(:first)
+              b.th(style: "background: lightgrey;") {
+                header = key.name.downcase.sub('morph::','')
+                if item && item._dataset_url.present?
+                  b.a({href: item._dataset_url}, header)
+                else
+                  b.span(header)
+                end
+              }
             end
           }
         }
@@ -249,7 +259,6 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
               }
             end
           }
-          all = by_name.to_a
           first = all.delete_at(0)
           all.insert(-1, first)
           all.each do |n, list|
