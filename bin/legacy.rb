@@ -214,8 +214,9 @@ def normalize_name item
 end
 
 def group_by_normalize_name authorities, legacy
-  legacy_values = legacy.except(:os_open_names).except(:map).values
+  legacy_values = legacy.except(:map).values
   legacy[:os_boundary_line].each {|item| item._name = item._name.split(" - ").last }
+  legacy[:os_open_names].each {|item| item._name = item._name.split(" - ").last }
 
   by_name = [authorities, legacy_values].flatten.
     select{|item| !normalize_name(item)[/\s(fire|police)\s/] }.
@@ -224,7 +225,7 @@ def group_by_normalize_name authorities, legacy
 end
 
 def class_keys authorities, legacy
-  dataset_keys = legacy.keys.select{ |x| x != :os_open_names }
+  dataset_keys = legacy.keys
   [authorities.first.class] + dataset_keys.map{|k| legacy[k].first.class}
 end
 
