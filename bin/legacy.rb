@@ -82,10 +82,41 @@ end
 
 def fix_mispelling! name
   name.sub!(' coucil', ' council')
-  name.sub!(/^east dunbarton$/, 'east dunbartonshire')
-  name.sub!(/^shetland$/, 'shetland islands')
-  name.sub!(/^orkney$/, 'orkney islands')
-  name.sub!(/^highlands$/, 'highland')
+  name.sub!('comhairle nan eilean siar (western isles)', 'eilean siar')
+
+  [
+    ['east dunbarton', 'east dunbartonshire'],
+    ['shetland', 'shetland islands'],
+    ['orkney', 'orkney islands'],
+    ['anglesey', 'isle of anglesey'],
+    ['highlands', 'highland'],
+    ['scottish borders', 'the scottish borders'],
+    ['county of herefordshire', 'herefordshire'],
+    ['city and county of the city of london', 'city of london'],
+    ['na h eileanan an iar', 'eilean siar'],
+    ['eilean', 'eilean siar'],
+    ['comhairle nan eilean siar', 'eilean siar'],
+    ['western isles', 'eilean siar'],
+    ['clackmannan', 'clackmannanshire'],
+    ['armagh banbridge and craigavon', 'armagh city banbridge and craigavon'],
+    ['city and county of swansea council', 'swansea'],
+    ['derry and strabane', 'derry city and strabane'],
+    ['durham', 'county durham'],
+    ['durham county council', 'county durham'],
+    ['newcastle city council', 'newcastle upon tyne'],
+    ['north down and ards', 'ards and north down'],
+    ['hull city council', 'kingston upon hull'],
+    ['hull city', 'kingston upon hull'],
+    ['north west somerset', 'north somerset'],
+    ['pen y bont ar ogwr', 'bridgend'],
+    ['the highland council', 'highland'],
+    ['vale of glamorgan council', 'the vale of glamorgan'],
+    ['vale of glamorgan', 'the vale of glamorgan'],
+    ['ynys mn', 'isle of anglesey']
+  ].each do |pattern, replace|
+    name.sub!(/^#{pattern}$/, replace)
+  end
+
   [
     ['aberdeen c ity', 'aberdeen city'],
     ['aberdeen cuty', 'aberdeen city'],
@@ -102,6 +133,8 @@ def fix_mispelling! name
     ['(city of)', ''],
     ['the city of', ''],
     ['city of', ''],
+    ['highands', 'highland'],
+    ['london corporation', 'london'],
     ['comhairle nan eilean siar (western isles)', 'comhairle nan eilean siar'],
     ['merthyr tudful', 'merthyr tydfil'],
     ['merthyr tydfil ua', 'merthyr tydfil'],
@@ -228,6 +261,7 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
         b.thead {
           b.tr {
             b.th style: "background: lightgrey;"
+            b.th style: "background: lightgrey;"
             class_keys.each do |key|
               b.th({style: "background: lightgrey;"}, key.name.downcase.sub('morph::','') )
             end
@@ -235,6 +269,7 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
         }
         b.tbody {
           b.tr {
+            b.td ''
             b.td ''
             class_keys.each do |key|
               b.td {
@@ -254,7 +289,14 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
           all.insert(-1, first)
           all.each do |n, list|
             b.tr {
-              b.td { b.b(n) }
+              b.td {
+                b.b(n)
+                end_date = list.detect { |item| item.class == Morph::LocalAuthority }.try(:end_date)
+                if end_date
+                  b.span(" | end_date:" + end_date.to_s)
+                end
+              }
+              b.td { b.b( list.detect { |item| item.class == Morph::LocalAuthority }.try(:uk).to_s) }
               class_keys.each do |key|
                 values = list.select {|i| i.class == key}.map do |item|
                   value = item._id
