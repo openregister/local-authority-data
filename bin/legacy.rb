@@ -85,6 +85,7 @@ def fix_mispelling! name
   name.sub!('comhairle nan eilean siar (western isles)', 'eilean siar')
 
   [
+    ['blackburn', 'blackburn with darwen'],
     ['east dunbarton', 'east dunbartonshire'],
     ['shetland', 'shetland islands'],
     ['orkney', 'orkney islands'],
@@ -214,8 +215,9 @@ def normalize_name item
 end
 
 def group_by_normalize_name authorities, legacy
-  legacy_values = legacy.except(:os_open_names).except(:map).values
+  legacy_values = legacy.except(:map).values
   legacy[:os_boundary_line].each {|item| item._name = item._name.split(" - ").last }
+  legacy[:os_open_names].each {|item| item._name = item._name.split(" - ").last }
 
   by_name = [authorities, legacy_values].flatten.
     select{|item| !normalize_name(item)[/\s(fire|police)\s/] }.
@@ -224,7 +226,7 @@ def group_by_normalize_name authorities, legacy
 end
 
 def class_keys authorities, legacy
-  dataset_keys = legacy.keys.select{ |x| x != :os_open_names }
+  dataset_keys = legacy.keys
   [authorities.first.class] + dataset_keys.map{|k| legacy[k].first.class}
 end
 
@@ -370,9 +372,11 @@ puts 'Write file to: legacy/report.tsv'
 File.open('legacy/report.tsv', 'w') do |f|
   class_keys = class_keys authorities, legacy
   class_keys.each do |key|
-    f.write(key.name.sub('Morph::','').underscore.gsub('_','-'))
+    header = key.name.sub('Morph::','').underscore.gsub('_','-')
+    header = 'food-authority' if header[/food-standards/]
+    f.write(header)
     f.write("\t")
-    f.write(key.name.sub('Morph::','').underscore.gsub('_','-') + '-name')
+    f.write(header + '-name')
     f.write("\t")
   end
   f.write("\n")

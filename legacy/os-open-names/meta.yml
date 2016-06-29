@@ -1,3 +1,4 @@
 ---
-id: ONS
-name: OS
+id: os
+name: name
+type: type
