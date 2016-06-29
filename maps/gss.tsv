@@ -59,7 +59,7 @@ E08000002	BUR	Bury
 W06000018	CAY	Caerphilly
 E08000033	CLD	Calderdale
 E07000008	CAM-UB	Cambridge
-	CAM	
+E10000003	CAM	Cambridgeshire
 E09000007	CMD	Camden
 E07000192	STS-UB	Cannock Chase
 E07000106	KEN-UC	Canterbury
@@ -102,20 +102,20 @@ E08000026	COV	Coventry
 E07000163	NYK-UB	Craven
 E07000226	WSX-UE	Crawley
 E09000008	CRY	Croydon
-	CMA	
+E10000006	CMA	Cumbria
 E07000096	HRT-UC	Dacorum
 E06000005	DAL	Darlington
 E07000107	KEN-UD	Dartford
 E07000151	NTH-UC	Daventry
 W06000004	DEN	Denbighshire
 E06000015	DER	Derby
-	DBY	
+E10000007	DBY	Derbyshire
 E07000035	DBY-UF	Derbyshire Dales
 	NIR-A	
 N09000005	DRS	Derry and Strabane
-	DEV	
+E10000008	DEV	Devon
 E08000017	DNC	Doncaster
-	DOR	
+E10000009	DOR	Dorset
 E07000108	KEN-UE	Dover
 	NIR-R	
 E08000027	DUD	Dudley
@@ -136,17 +136,17 @@ E07000152	NTH-UD	East Northamptonshire
 S12000011	ERW	East Renfrewshire
 E06000011	ERY	East Riding of Yorkshire
 E07000193	STS-UC	East Staffordshire
-	ESX	
+E10000011	ESX	East Sussex
 E07000061	ESX-UC	Eastbourne
 E07000086	HAM-UD	Eastleigh
 E07000030	CMA-UF	Eden
-	ELS	
+S12000013	ELS	Na h-Eileanan an Iar
 E07000207	SRY-UB	Elmbridge
 E09000010	ENF	Enfield
 E07000072	ESS-UH	Epping Forest
 E07000208	SRY-UC	Epsom and Ewell
 E07000036	DBY-UG	Erewash
-	ESS	
+E10000012	ESS	Essex
 E07000041	DEV-UC	Exeter
 S12000014	FAL	Falkirk
 E07000087	HAM-UE	Fareham
@@ -162,7 +162,7 @@ E08000037	GAT	Gateshead
 E07000173	NTT-UE	Gedling
 S12000046	GLG	Glasgow City
 E07000081	GLS-UE	Gloucester
-	GLS	
+E10000013	GLS	Gloucestershire
 E07000088	HAM-UF	Gosport
 E07000109	KEN-UG	Gravesham
 E07000145	NFK-UD	Great Yarmouth
@@ -174,7 +174,7 @@ E09000012	HCK	Hackney
 E06000006	HAL	Halton
 E07000164	NYK-UC	Hambleton
 E09000013	HMF	Hammersmith and Fulham
-	HAM	
+E10000014	HAM	Hampshire
 E07000131	LEC-UD	Harborough
 E09000014	HRY	Haringey
 E07000073	ESS-UJ	Harlow
@@ -186,7 +186,7 @@ E07000062	ESX-UD	Hastings
 E07000090	HAM-UH	Havant
 E09000016	HAV	Havering
 E06000019	HEF	Herefordshire, County of
-	HRT	
+E10000015	HRT	Hertfordshire
 E07000098	HRT-UE	Hertsmere
 E07000037	DBY-UH	High Peak
 S12000017	HLD	Highland
@@ -203,7 +203,7 @@ E06000046	IOW	Isle of Wight
 E06000053	IOS	Isles of Scilly
 E09000019	ISL	Islington
 E09000020	KEC	Kensington and Chelsea
-	KEN	
+E10000016	KEN	Kent
 E07000153	NTH-UE	Kettering
 E07000146	NFK-UE	King's Lynn and West Norfolk
 E06000010	KHL	Kingston upon Hull, City of
@@ -211,17 +211,17 @@ E09000021	KTT	Kingston upon Thames
 E08000034	KIR	Kirklees
 E08000011	KWL	Knowsley
 E09000022	LBH	Lambeth
-	LAN	
+E10000017	LAN	Lancashire
 E07000121	LAN-UH	Lancaster
 	NIR-F	
 E08000035	LDS	Leeds
 E06000016	LCE	Leicester
-	LEC	
+E10000018	LEC	Leicestershire
 E07000063	ESX-UF	Lewes
 E09000023	LEW	Lewisham
 E07000194	STS-UD	Lichfield
 	NIR-B	
-	LIN	
+E10000019	LIN	Lincolnshire
 	NIR-S	
 N09000007	LBC	Lisburn and Castlereagh
 E08000012	LIV	Liverpool
@@ -259,7 +259,7 @@ W06000022	NWP	Newport
 	NIR-P	
 N09000010	NMD	Newry, Mourne and Down
 	NIR-U	
-	NFK	
+E10000020	NFK	Norfolk
 S12000021	NAY	North Ayrshire
 E07000043	DEV-UE	North Devon
 E07000050	DOR-UE	North Dorset
@@ -275,20 +275,20 @@ E06000024	NSM	North Somerset
 E08000022	NTY	North Tyneside
 E07000218	WAR-UB	North Warwickshire
 E07000134	LEC-UH	North West Leicestershire
-	NYK	
+E10000023	NYK	North Yorkshire
 E07000154	NTH-UF	Northampton
-	NTH	
+E10000021	NTH	Northamptonshire
 E06000057	NBL	Northumberland
 E07000148	NFK-UG	Norwich
 E06000018	NGM	Nottingham
-	NTT	
+E10000024	NTT	Nottinghamshire
 E07000219	WAR-UC	Nuneaton and Bedworth
 E07000135	LEC-UJ	Oadby and Wigston
 E08000004	OLD	Oldham
 	NIR-K	
 S12000023	ORK	Orkney Islands
 E07000178	OXF-UC	Oxford
-	OXF	
+E10000025	OXF	Oxfordshire
 W06000009	PEM	Pembrokeshire
 E07000122	LAN-UJ	Pendle
 S12000024	PKN	Perth and Kinross
@@ -333,7 +333,7 @@ S12000027	ZET	Shetland Islands
 E06000051	SHR	Shropshire
 E06000039	SLG	Slough
 E08000029	SOL	Solihull
-	SOM	
+E10000027	SOM	Somerset
 S12000028	SAY	South Ayrshire
 E07000006	BKM-UE	South Bucks
 E07000012	CAM-UG	South Cambridgeshire
@@ -359,7 +359,7 @@ E07000240	HRT-UG	St Albans
 E07000204	SFK-UF	St Edmundsbury
 E08000013	SHN	St. Helens
 E07000197	STS-UG	Stafford
-	STS	
+E10000028	STS	Staffordshire
 E07000198	STS-UH	Staffordshire Moorlands
 E07000243	HRT-UH	Stevenage
 S12000030	STG	Stirling
@@ -369,10 +369,10 @@ E06000021	STE	Stoke-on-Trent
 	NIR-J	
 E07000221	WAR-UE	Stratford-on-Avon
 E07000082	GLS-UF	Stroud
-	SFK	
+E10000029	SFK	Suffolk
 E07000205	SFK-UG	Suffolk Coastal
 E08000024	SND	Sunderland
-	SRY	
+E10000030	SRY	Surrey
 E07000214	SRY-UJ	Surrey Heath
 E09000029	STN	Sutton
 E07000113	KEN-UM	Swale
@@ -407,7 +407,7 @@ E09000031	WFT	Waltham Forest
 E09000032	WND	Wandsworth
 E06000007	WRT	Warrington
 E07000222	WAR-UF	Warwick
-	WAR	
+E10000031	WAR	Warwickshire
 E07000103	HRT-UK	Watford
 E07000206	SFK-UH	Waveney
 E07000216	SRY-UL	Waverley
@@ -423,7 +423,7 @@ E07000142	LIN-UH	West Lindsey
 S12000040	WLN	West Lothian
 E07000181	OXF-UF	West Oxfordshire
 E07000191	SOM-UF	West Somerset
-	WSX	
+E10000032	WSX	Sussex
 E09000033	WSM	Westminster
 E07000053	DOR-UJ	Weymouth and Portland
 E08000010	WGN	Wigan
@@ -435,7 +435,7 @@ E07000217	SRY-UM	Woking
 E06000041	WOK	Wokingham
 E08000031	WLV	Wolverhampton
 E07000237	WOR-UE	Worcester
-	WOR	
+E10000034	WOR	Worcestershire
 E07000229	WSX-UH	Worthing
 W06000006	WRX	Wrexham
 E07000238	WOR-UF	Wychavon
