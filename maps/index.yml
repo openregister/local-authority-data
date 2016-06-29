@@ -9,3 +9,5 @@ snac:
   description: ONS former hierarchical Standard Names and Codes (SNAC)
 os:
   description: Ordnance Survey county and other codes found in os-open-names data
+gss:
+  description: Office of National Statistics GSS coding system codes

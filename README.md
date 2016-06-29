@@ -1,6 +1,6 @@
 # Local-authority register data
 
-Data for the alpha [local-authority register](http://local-authority.alpha.openregister.org), 
+Data for the alpha [local-authority register](http://local-authority.alpha.openregister.org),
 a list of local government organisations in the United Kingdom.
 
 This is currently a single data file, but the process of establishing a custodian for the register may result in the data being split
@@ -22,6 +22,7 @@ This repository also includes a number of [maps](maps) intended to help migrate 
 - [food-standards.tsv](maps/food-standards.tsv) — local authority codes from the Food Standards Agency ratings data
 - [snac.tsv](maps/snac.tsv) — ONS former hierarchical Standard Names and Codes (SNAC)
 - [os.tsv](maps/os.tsv) — Ordnance Survey county and other codes found in os-open-names data
+- [gss.tsv](maps/gss.tsv) — Office of National Statistics GSS coding system codes
 
 # Licence
 
