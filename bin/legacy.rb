@@ -365,9 +365,8 @@ def write_to_report_tsv class_keys, by_name
       f.write("\t")
     end
     f.write("\n")
-    all = by_name.to_a
-    first = all.delete_at(0)
-    all.each do |n, list|
+    by_name.each do |n, list|
+      next if n.blank?
       class_keys.each do |key|
         values = class_matches(list, key).map do |item|
           value = item._id
@@ -385,6 +384,46 @@ def write_to_report_tsv class_keys, by_name
         f.write("\t")
       end
       f.write("\n")
+    end
+  end
+end
+
+def normalize_name_for_maps name
+  name = name.downcase
+  name.gsub!('&', 'and')
+  name.gsub!(/\s+/, ' ')
+  name.strip!
+  name.chomp!(' (b)')
+  name
+end
+
+def write_to_name_tsv class_keys, by_name
+  puts 'Write file to: legacy/name.tsv'
+  File.open('legacy/name.tsv', 'w') do |f|
+    f.write('name')
+    f.write("\t")
+    f.write('local-authority')
+    f.write("\n")
+
+    name_hash = {}
+    by_name.each do |n, list|
+      next if n.blank?
+      local_authority = local_authority_from(list)
+      next if local_authority.blank?
+      class_keys.each do |key|
+        names = class_matches(list, key).map { |item| item._name }
+        names.each do |name|
+          name_hash[normalize_name_for_maps(name)] = local_authority.local_authority
+        end
+      end
+    end
+    name_hash.keys.sort.each do |name|
+      unless name.blank?
+        f.write(name)
+        f.write("\t")
+        f.write(name_hash[name])
+        f.write("\n")
+      end
     end
   end
 end
@@ -411,3 +450,4 @@ dataset_to_type['opendatacommunities']['Unitary Authority'] = 'unitary-authority
 class_keys = class_keys authorities, legacy
 write_to_html class_keys, by_name, dataset_to_type
 write_to_report_tsv class_keys, by_name
+write_to_name_tsv class_keys, by_name
