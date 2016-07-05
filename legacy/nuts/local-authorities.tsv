@@ -1,0 +1,175 @@
+nuts	name
+UKC11	Hartlepool and Stockton-on-Tees
+UKC12	South Teesside
+UKC13	Darlington
+UKC14	Durham CC
+UKC21	Northumberland
+UKC22	Tyneside
+UKC23	Sunderland
+UKD11	West Cumbria
+UKD12	East Cumbria
+UKD33	Manchester
+UKD34	Greater Manchester South West
+UKD35	Greater Manchester South East
+UKD36	Greater Manchester North West
+UKD37	Greater Manchester North East
+UKD41	Blackburn with Darwen
+UKD42	Blackpool
+UKD44	Lancaster and Wyre
+UKD45	Mid Lancashire
+UKD46	East Lancashire
+UKD47	Chorley and West Lancashire
+UKD61	Warrington
+UKD62	Cheshire East
+UKD63	Cheshire West and Chester
+UKD71	East Merseyside
+UKD72	Liverpool
+UKD73	Sefton
+UKD74	Wirral
+UKE11	Kingston upon Hull, City of
+UKE12	East Riding of Yorkshire
+UKE13	North and North East Lincolnshire
+UKE21	York
+UKE22	North Yorkshire CC
+UKE31	Barnsley, Doncaster and Rotherham
+UKE32	Sheffield
+UKE41	Bradford
+UKE42	Leeds
+UKE44	Calderdale and Kirklees
+UKE45	Wakefield
+UKF11	Derby
+UKF12	East Derbyshire
+UKF13	South and West Derbyshire
+UKF14	Nottingham
+UKF15	North Nottinghamshire
+UKF16	South Nottinghamshire
+UKF21	Leicester
+UKF22	Leicestershire CC and Rutland
+UKF24	West Northamptonshire
+UKF25	North Northamptonshire
+UKF30	Lincolnshire
+UKG11	Herefordshire, County of
+UKG12	Worcestershire
+UKG13	Warwickshire
+UKG21	Telford and Wrekin
+UKG22	Shropshire CC
+UKG23	Stoke-on-Trent
+UKG24	Staffordshire CC
+UKG31	Birmingham
+UKG32	Solihull
+UKG33	Coventry
+UKG36	Dudley
+UKG37	Sandwell
+UKG38	Walsall
+UKG39	Wolverhampton
+UKH11	Peterborough
+UKH12	Cambridgeshire CC
+UKH14	Suffolk
+UKH15	Norwich and East Norfolk
+UKH16	North and West Norfolk
+UKH17	Breckland and South Norfolk
+UKH21	Luton
+UKH23	Hertfordshire
+UKH24	Bedford
+UKH25	Central Bedfordshire
+UKH31	Southend-on-Sea
+UKH32	Thurrock
+UKH34	Essex Haven Gateway
+UKH35	West Essex
+UKH36	Heart of Essex
+UKH37	Essex Thames Gateway
+UKI31	Camden and City of London
+UKI32	Westminster
+UKI33	Kensington & Chelsea and Hammersmith & Fulham
+UKI34	Wandsworth
+UKI41	Hackney and Newham
+UKI42	Tower Hamlets
+UKI43	Haringey and Islington
+UKI44	Lewisham and Southwark
+UKI45	Lambeth
+UKI51	Bexley and Greenwich
+UKI52	Barking & Dagenham and Havering
+UKI53	Redbridge and Waltham Forest
+UKI54	Enfield
+UKI61	Bromley
+UKI62	Croydon
+UKI63	Merton, Kingston upon Thames and Sutton
+UKI71	Barnet
+UKI72	Brent
+UKI73	Ealing
+UKI74	Harrow and Hillingdon
+UKI75	Hounslow and Richmond upon Thames
+UKJ11	Berkshire
+UKJ12	Milton Keynes
+UKJ13	Buckinghamshire CC
+UKJ14	Oxfordshire
+UKJ21	Brighton and Hove
+UKJ22	East Sussex CC
+UKJ25	West Surrey
+UKJ26	East Surrey
+UKJ27	West Sussex (South West)
+UKJ28	West Sussex (North East)
+UKJ31	Portsmouth
+UKJ32	Southampton
+UKJ34	Isle of Wight
+UKJ35	South Hampshire
+UKJ36	Central Hampshire
+UKJ37	North Hampshire
+UKJ41	Medway
+UKJ43	Kent Thames Gateway
+UKJ44	East Kent
+UKJ45	Mid Kent
+UKJ46	West Kent
+UKK11	Bristol, City of
+UKK12	Bath and North East Somerset, North Somerset and South Gloucestershire
+UKK13	Gloucestershire
+UKK14	Swindon
+UKK15	Wiltshire CC
+UKK21	Bournemouth and Poole
+UKK22	Dorset CC
+UKK23	Somerset
+UKK30	Cornwall and Isles of Scilly
+UKK41	Plymouth
+UKK42	Torbay
+UKK43	Devon CC
+UKL11	Isle of Anglesey
+UKL12	Gwynedd
+UKL13	Conwy and Denbighshire
+UKL14	South West Wales
+UKL15	Central Valleys
+UKL16	Gwent Valleys
+UKL17	Bridgend and Neath Port Talbot
+UKL18	Swansea
+UKL21	Monmouthshire and Newport
+UKL22	Cardiff and Vale of Glamorgan
+UKL23	Flintshire and Wrexham
+UKL24	Powys
+UKM21	Angus and Dundee City
+UKM22	Clackmannanshire and Fife
+UKM23	East Lothian and Midlothian
+UKM24	Scottish Borders
+UKM25	Edinburgh, City of
+UKM26	Falkirk
+UKM27	Perth & Kinross and Stirling
+UKM28	West Lothian
+UKM31	East Dunbartonshire, West Dunbartonshire and Helensburgh & Lomond
+UKM32	Dumfries & Galloway
+UKM33	East Ayrshire and North Ayrshire mainland
+UKM34	Glasgow City
+UKM35	Inverclyde, East Renfrewshire and Renfrewshire
+UKM36	North Lanarkshire
+UKM37	South Ayrshire
+UKM38	South Lanarkshire
+UKM50	Aberdeen City and Aberdeenshire
+UKM61	Caithness & Sutherland and Ross & Cromarty
+UKM62	Inverness & Nairn and Moray, Badenoch & Strathspey
+UKM63	Lochaber, Skye & Lochalsh, Arran & Cumbrae and Argyll & Bute
+UKM64	Eilean Siar (Western Isles)
+UKM65	Orkney Islands
+UKM66	Shetland Islands
+UKN01	Belfast
+UKN02	Outer Belfast
+UKN03	East of Northern Ireland
+UKN04	North of Northern Ireland
+UKN05	West and South of Northern Ireland
+UKZZZ	Extra-Regio NUTS 3
