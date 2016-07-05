@@ -1,7 +1,6 @@
 food-authority	local-authority	name	website	email
 760	ABE	Aberdeen City	http://www.aberdeencity.gov.uk	commercial@aberdeencity.gov.uk
 761	ABD	Aberdeenshire	http://www.aberdeenshire.gov.uk/	environmental@aberdeenshire.gov.uk
-568	SWA	Abertawe	http://www.swansea.gov.uk	FoodandSafety@swansea.gov.uk
 323	WSX-UB	Adur	http://www.adur-worthing.gov.uk	envsupport@adur-worthing.gov.uk
 055	CMA-UB	Allerdale	http://www.allerdale.gov.uk	environmental.health@allerdale.gov.uk
 062	DBY-UB	Amber Valley	http://www.ambervalley.gov.uk	envhealth@ambervalley.gov.uk
@@ -45,7 +44,6 @@ food-authority	local-authority	name	website	email
 553	BGE	Bridgend	http://www.bridgend.gov.uk/	publicprotection@bridgend.gov.uk
 875	BNH	Brighton and Hove	http://www.brighton-hove.gov.uk/foodsafety	ehl.food@brighton-hove.gov.uk
 855	BST	Bristol	http://www.bristol.gov.uk	food.safety@bristol.gov.uk
-570	VGL	Bro Morgannwg	http://www.valeofglamorgan.gov.uk	foodsafetyteam@valeofglamorgan.gov.uk
 228	NFK-UC	Broadland	http://www.broadland.gov.uk	environ.enforcement@broadland.gov.uk
 505	BRY	Bromley	http://www.bromley.gov.uk	food@bromley.gov.uk
 145	WOR-UB	Bromsgrove	http://www.worcsregservices.gov.uk	wrsenquiries@worcestershire.gov.uk
@@ -53,8 +51,6 @@ food-authority	local-authority	name	website	email
 261	NTT-UD	Broxtowe	http://www.broxtowe.gov.uk	health@broxtowe.gov.uk
 196	LAN-UD	Burnley	http://www.burnley.gov.uk	envhealth@burnley.gov.uk
 405	BUR	Bury	http://www.bury.gov.uk	Foodsafety@bury.gov.uk
-556	CRF	Caerdydd	http://www.cardiff.gov.uk/foodsafety	foodteam@cardiff.gov.uk
-555	CAY	Caerffili	http://www.caerphilly.gov.uk	foodhealthandsafety@caerphilly.gov.uk
 555	CAY	Caerphilly	http://www.caerphilly.gov.uk	foodhealthandsafety@caerphilly.gov.uk
 406	CLD	Calderdale	http://www.calderdale.gov.uk	environmental.health@calderdale.gov.uk
 027	CAM-UB	Cambridge City	http://www.cambridge.gov.uk	env.health@cambridge.gov.uk
@@ -64,8 +60,6 @@ food-authority	local-authority	name	website	email
 556	CRF	Cardiff	http://www.cardiff.gov.uk/foodsafety	foodteam@cardiff.gov.uk
 057	CMA-UD	Carlisle City	http://www.carlisle.gov.uk	Environmentalhealth@carlisle.gov.uk
 558	CMN	Carmarthenshire	http://www.carmarthenshire.gov.uk	PublicProtection@carmarthenshire.gov.uk
-564	NWP	Casnewydd	http://www.newport.gov.uk	environmental.health@newport.gov.uk
-563	NTL	Castell-nedd Port Talbot	http://www.npt.gov.uk	ehd@npt.gov.uk
 112	ESS-UE	Castle Point	http://www.castlepoint.gov.uk	environmentalhealth@castlepoint.gov.uk
 805	CCG	Causeway Coast and Glens	http://www.causewaycoastandglens.gov.uk	info@causewaycoastandglens.gov.uk
 702	CBF	Central Bedfordshire	http://www.centralbedfordshire.gov.uk	env.health@centralbedfordshire.gov.uk
@@ -206,7 +200,6 @@ food-authority	local-authority	name	website	email
 896	MDW	Medway	http://www.medway.gov.uk/	foodandsafety@medway.gov.uk
 214	LEC-UG	Melton	http://www.melton.gov.uk	fhrs@melton.gov.uk
 281	SOM-UB	Mendip	http://www.mendip.gov.uk	env-health@mendip.gov.uk
-561	MTY	Merthyr Tudful	http://www.merthyr.gov.uk	publichealth@merthyr.gov.uk
 561	MTY	Merthyr Tydfil	http://www.merthyr.gov.uk	publichealth@merthyr.gov.uk
 524	MRT	Merton	http://www.merton.gov.uk	EHCommercial@merton.gov.uk
 804	MEA	Mid and East Antrim	http://www.midandeastantrim.gov.uk	ballymena.envhealth@midandeastantrim.gov.uk
@@ -253,7 +246,6 @@ food-authority	local-authority	name	website	email
 269	OXF-UC	Oxford City	http://www.oxford.gov.uk	foodsafety@oxford.gov.uk
 565	PEM	Pembrokeshire	http://www.pembrokeshire.gov.uk	foodratings@pembrokeshire.gov.uk
 201	LAN-UJ	Pendle	http://www.pendle.gov.uk	environmental.food@pendle.gov.uk
-553	BGE	Pen-y-bont ar Ogwr	http://www.bridgend.gov.uk/	publicprotection@bridgend.gov.uk
 786	PKN	Perth and Kinross	http://www.pkc.gov.uk/Business+and+trade/Health+and+safety/Health+and+safety+-+food/Food+hygiene/Food+hygiene+information/Food+Hygiene+Information.htm	ES@pkc.gov.uk
 888	PTE	Peterborough City	http://www.peterborough.gov.uk	foodandsafety@peterborough.gov.uk
 891	PLY	Plymouth City	http://www.plymouth.gov.uk	public.protection@plymouth.gov.uk
@@ -295,11 +287,6 @@ food-authority	local-authority	name	website	email
 188	KEN-UL	Shepway	http://www.shepway.gov.uk	environmental.services@shepway.gov.uk
 789	ZET	Shetland Islands	http://www.shetland.gov.uk/	foodsafety@shetland.gov.uk
 708	SHR	Shropshire	http://www.shropshire.gov.uk/foodhygienescheme	food@shropshire.gov.uk
-565	PEM	Sir Benfro	http://www.pembrokeshire.gov.uk	foodratings@pembrokeshire.gov.uk
-559	DEN	Sir Ddinbych	http://www.denbighshire.gov.uk/	envhealth@denbighshire.gov.uk
-562	MON	Sir Fynwy	http://www.monmouthshire.gov.uk	environmentalhealth@monmouthshire.gov.uk
-558	CMN	Sir Gaerfyrddin	http://www.carmarthenshire.gov.uk	PublicProtection@carmarthenshire.gov.uk
-560	FLN	Sir y Fflint	http://www.flintshire.gov.uk/	food.safety@flintshire.gov.uk
 885	SLG	Slough	http://www.slough.gov.uk	foodandsafety@slough.gov.uk
 426	SOL	Solihull	http://www.solihull.gov.uk/foodhygieneratingscheme/default.htm	pprotection@solihull.gov.uk
 766	SAY	South Ayrshire	http://www.south-ayrshire.gov.uk/environmentalhealth/foodsafety/fhis.aspx	environmental.health@south-ayrshire.gov.uk
@@ -397,11 +384,9 @@ food-authority	local-authority	name	website	email
 436	WLV	Wolverhampton	http://www.wolverhampton.gov.uk/	environmentalhealth@wolverhampton.gov.uk
 151	WOR-UE	Worcester City	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
 329	WSX-UH	Worthing	http://www.adur-worthing.gov.uk	envsupport@adur-worthing.gov.uk
-571	WRX	Wrecsam	http://www.wrexham.gov.uk/	public_protection_service@wrexham.gov.uk
 571	WRX	Wrexham	http://www.wrexham.gov.uk/	public_protection_service@wrexham.gov.uk
 152	WOR-UF	Wychavon	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
 025	BKM-UF	Wycombe	http://www.wycombe.gov.uk	Food.Ratings@wycombe.gov.uk
 207	LAN-UQ	Wyre	https://wyre.gov.uk	mailroom@wyre.gov.uk
 153	WOR-UG	Wyre Forest	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
-551	AGY	Ynys Môn/ Isle of Anglesey	http://www.ynysmon.gov.uk	iechydyramgylchedd@ynysmon.gov.uk
 868	YOR	York	http://www.york.gov.uk	food.safety@york.gov.uk
