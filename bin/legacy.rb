@@ -49,8 +49,13 @@ def load_data_and_legacy
   _, data = load Dir.glob('data/*/*{tsv}').first ; nil
 
   legacy = Dir.glob('legacy/*/*{tsv}').each_with_object({}) do |file, hash|
-    name, list = load(file)
-    hash[name.to_sym] = list
+    begin
+      name, list = load(file)
+      hash[name.to_sym] = list
+    rescue Errno::ENOENT => e
+      puts ""
+      puts e.to_s
+    end
   end ; nil
 
   [data, legacy]
