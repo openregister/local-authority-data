@@ -7,5 +7,6 @@ __pycache__/
 legacy/os-open-names/_build
 legacy/os-open-names/deps
 
+legacy/name.tsv
 legacy/report.tsv
 legacy/report.html
