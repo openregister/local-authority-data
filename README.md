@@ -17,12 +17,13 @@ indexed by the [ONS/GSS](https://en.wikipedia.org/wiki/ONS_coding_system) geogra
 
 This repository also includes a number of [maps](maps) intended to help migrate references to local authorities found in existing data and documents to the identifiers used by the register:
 
+- [gss.tsv](maps/gss.tsv) — Office of National Statistics GSS coding system codes
+- [snac.tsv](maps/snac.tsv) — ONS former hierarchical Standard Names and Codes (SNAC)
 - [local-custodian.tsv](maps/local-custodian.tsv) — AddressBase™ / Geoplace LLP address custodian names and codes
 - [edubase.tsv](maps/edubase.tsv) — Edubase local authority codes
 - [food-standards.tsv](maps/food-standards.tsv) — local authority codes from the Food Standards Agency ratings data
-- [snac.tsv](maps/snac.tsv) — ONS former hierarchical Standard Names and Codes (SNAC)
 - [os.tsv](maps/os.tsv) — Ordnance Survey county and other codes found in os-open-names data
-- [gss.tsv](maps/gss.tsv) — Office of National Statistics GSS coding system codes
+- [gaz50k.tsv](maps/gaz50k.tsv) — Ordnance Survey county codes found in the 50k gazetteer
 
 # Licence
 
