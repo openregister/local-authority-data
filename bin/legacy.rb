@@ -235,9 +235,15 @@ def css_class value
   type.blank? ? 'other' : type
 end
 
-def write_to_html authorities, legacy, by_name, dataset_to_type
-  class_keys = class_keys authorities, legacy
+def class_matches(list, key)
+  list.select {|i| i.class == key}
+end
 
+def local_authority_from(list)
+  list.detect {|i| i.class == Morph::LocalAuthority}
+end
+
+def write_to_html class_keys, by_name, dataset_to_type
   b = Builder::XmlMarkup.new(indent: 2)
   html = b.html {
     b.head {
@@ -293,14 +299,14 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
             b.tr {
               b.td {
                 b.b(n)
-                end_date = list.detect { |item| item.class == Morph::LocalAuthority }.try(:end_date)
+                end_date = local_authority_from(list).try(:end_date)
                 if end_date
                   b.span(" | end_date:" + end_date.to_s)
                 end
               }
-              b.td { b.b( list.detect { |item| item.class == Morph::LocalAuthority }.try(:uk).to_s) }
+              b.td { b.b( local_authority_from(list).try(:uk).to_s) }
               class_keys.each do |key|
-                values = list.select {|i| i.class == key}.map do |item|
+                values = class_matches(list, key).map do |item|
                   value = item._id
                   value += ' | ' + item._name unless item._id == item._name
                   type = 'unknown'
@@ -347,10 +353,9 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
   puts "\nFile written to #{file}\n"
 end
 
-def write_to_report_tsv authorities, legacy, by_name
+def write_to_report_tsv class_keys, by_name
   puts 'Write file to: legacy/report.tsv'
   File.open('legacy/report.tsv', 'w') do |f|
-    class_keys = class_keys authorities, legacy
     class_keys.each do |key|
       header = key.name.sub('Morph::','').underscore.gsub('_','-')
       header = 'food-authority' if header[/food-standards/]
@@ -364,12 +369,12 @@ def write_to_report_tsv authorities, legacy, by_name
     first = all.delete_at(0)
     all.each do |n, list|
       class_keys.each do |key|
-        values = list.select {|i| i.class == key}.map do |item|
+        values = class_matches(list, key).map do |item|
           value = item._id
         end.join(';')
         f.write(values)
         f.write("\t")
-        names = list.select {|i| i.class == key}.map do |item|
+        names = class_matches(list, key).map do |item|
           if item._id != item._name
             value = item._name
           else
@@ -403,5 +408,6 @@ dataset_to_type['opendatacommunities']['District Council'] = 'nmd'
 dataset_to_type['onsapiadminareas']['Unitary Authority'] = 'unitary-authority'
 dataset_to_type['opendatacommunities']['Unitary Authority'] = 'unitary-authority'
 
-write_to_html authorities, legacy, by_name, dataset_to_type
-write_to_report_tsv authorities, legacy, by_name
+class_keys = class_keys authorities, legacy
+write_to_html class_keys, by_name, dataset_to_type
+write_to_report_tsv class_keys, by_name
