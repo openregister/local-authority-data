@@ -1,13 +1,1276 @@
 name	local-authority
-CITY OF ABERDEEN	ABE
-DUNDEE CITY	DND
-GLASGOW CITY	GLG
-BRISTOL	BST
-BRISTOL, CITY OF	BST
-DURHAM	DUR
-HEREFORDSHIRE, COUNTY OF	HEF
-KINGSTON UPON HULL, CITY OF	KHL
-SCOTTISH BORDERS	SB
-CITY OF WESTMINSTER	WSM
-CITY OF STOKE-ON-TRENT	STE
-VALE OF GLAMORGAN	VGL
+aberdeen c ity	ABE
+aberdeen city	ABE
+aberdeen city council	ABE
+aberdeen cuty	ABE
+aberdeenshire	ABD
+aberdeenshire council	ABD
+abertawe	SWA
+adur	WSX-UB
+adur district	WSX-UB
+adur district council	WSX-UB
+allerdale	CMA-UB
+allerdale borough council	CMA-UB
+allerdale district	CMA-UB
+amber valley	DBY-UB
+amber valley borough council	DBY-UB
+amber valley district	DBY-UB
+anglesey	AGY
+angus	ANS
+angus council	ANS
+antrim	NIR-T
+antrim and newtownabbey	ANN
+antrim borough council	NIR-T
+ards	NIR-X
+ards and north down	AND
+ards borough council	NIR-X
+argyll and bute	AGB
+argyll and bute council	AGB
+armagh city	NIR-O
+armagh city and district council	NIR-O
+armagh city, banbridge and craigavon	ABC
+armagh, banbridge and craigavon	ABC
+arun	WSX-UC
+arun district	WSX-UC
+arun district council	WSX-UC
+ashfield	NTT-UB
+ashfield district	NTT-UB
+ashfield district council	NTT-UB
+ashford	KEN-UB
+ashford borough council	KEN-UB
+ashford district	KEN-UB
+aylesbury vale	BKM-UB
+aylesbury vale district	BKM-UB
+aylesbury vale district council	BKM-UB
+babergh	SFK-UB
+babergh district	SFK-UB
+babergh district council	SFK-UB
+ballymena	NIR-G
+ballymena borough council	NIR-G
+ballymoney	NIR-D
+ballymoney borough council	NIR-D
+banbridge	NIR-Q
+banbridge district council	NIR-Q
+barking and dagenham	BDG
+barking and dagenham london boro	BDG
+barnet	BNE
+barnet london boro	BNE
+barnsley	BNS
+barnsley district	BNS
+barnsley metropolitan borough council	BNS
+barrow-in-furness	CMA-UC
+barrow-in-furness district	CMA-UC
+basildon	ESS-UB
+basildon borough council	ESS-UB
+basildon district	ESS-UB
+basingstoke and deane	HAM-UB
+basingstoke and deane borough council	HAM-UB
+basingstoke and deane district	HAM-UB
+bassetlaw	NTT-UC
+bassetlaw district	NTT-UC
+bassetlaw district council	NTT-UC
+bath and north east somerset	BAS
+bath and north east somerset council	BAS
+bedford	BDF
+bedford borough council	BDF
+belfast	BFS
+belfast city	BFS
+belfast city council	BFS
+bexley	BEX
+bexley london boro	BEX
+birmingham	BIR
+birmingham city council	BIR
+birmingham district	BIR
+blaby	LEC-UB
+blaby district	LEC-UB
+blaby district council	LEC-UB
+blackburn	BBD
+blackburn with darwen	BBD
+blackburn with darwen borough council	BBD
+blackpool	BPL
+blackpool borough council	BPL
+blaenau gwent	BGW
+blaenau gwent county borough council	BGW
+bolsover	DBY-UC
+bolsover district	DBY-UC
+bolsover district council	DBY-UC
+bolton	BOL
+bolton district	BOL
+bolton metropolitan borough council	BOL
+borough council of kings lynn and west norfolk	NFK-UE
+borough of barrow-in-furness	CMA-UC
+borough of broxbourne	HRT-UB
+borough of poole	POL
+boston	LIN-UB
+boston borough council	LIN-UB
+boston district	LIN-UB
+bournemouth	BMH
+bournemouth borough council	BMH
+bracknell forest	BRC
+bracknell forest council	BRC
+bradford	BRD
+bradford district	BRD
+bradford mdc	BRD
+bradford metropolitan district council	BRD
+braintree	ESS-UC
+braintree district	ESS-UC
+braintree district council	ESS-UC
+breckland	NFK-UB
+breckland council	NFK-UB
+breckland district	NFK-UB
+brent	BEN
+brent london boro	BEN
+brentwood	ESS-UD
+brentwood borough council	ESS-UD
+brentwood district	ESS-UD
+bridgend	BGE
+bridgend county borough	BGE
+bridgend county borough council	BGE
+brighton and hove	BNH
+brighton and hove city council	BNH
+bristol	BST
+bristol city council	BST
+bristol city of	BST
+bristol, city of	BST
+bro morgannwg	VGL
+broadland	NFK-UC
+broadland district	NFK-UC
+broadland district council	NFK-UC
+bromley	BRY
+bromley london boro	BRY
+bromsgrove	WOR-UB
+bromsgrove district	WOR-UB
+bromsgrove district council	WOR-UB
+broxbourne	HRT-UB
+broxbourne district	HRT-UB
+broxtowe	NTT-UD
+broxtowe borough council	NTT-UD
+broxtowe district	NTT-UD
+buckinghamshire	BKM
+buckinghamshire county	BKM
+buckinghamshire county council	BKM
+burnley	LAN-UD
+burnley borough council	LAN-UD
+burnley district	LAN-UD
+bury	BUR
+bury district	BUR
+bury metropolitan borough council	BUR
+caerdydd	CRF
+caerffili	CAY
+caerphilly	CAY
+caerphilly county borough	CAY
+caerphilly county borough council	CAY
+calderdale	CLD
+calderdale district	CLD
+calderdale metropolitan borough council	CLD
+cambridge	CAM-UB
+cambridge city	CAM-UB
+cambridge city council	CAM-UB
+cambridge district	CAM-UB
+cambridgeshire	CAM
+cambridgeshire county	CAM
+cambridgeshire county council	CAM
+camden	CMD
+camden london boro	CMD
+cannock chase	STS-UB
+cannock chase district	STS-UB
+cannock chase district council	STS-UB
+canterbury	KEN-UC
+canterbury city	KEN-UC
+canterbury city council	KEN-UC
+canterbury district	KEN-UC
+cardiff	CRF
+carlisle	CMA-UD
+carlisle city	CMA-UD
+carlisle city council	CMA-UD
+carlisle district	CMA-UD
+carmarthenshire	CMN
+carmarthenshire county council	CMN
+carrickfergus	NIR-V
+carrickfergus borough council	NIR-V
+casnewydd	NWP
+castell-nedd port talbot	NTL
+castle point	ESS-UE
+castle point borough council	ESS-UE
+castle point district	ESS-UE
+castlereagh	NIR-Y
+castlereagh borough council	NIR-Y
+causeway coast and glens	CCG
+central bedfordshire	CBF
+central bedfordshire council	CBF
+ceredigion	CGN
+ceredigion county council	CGN
+charnwood	LEC-UC
+charnwood borough council	LEC-UC
+charnwood district	LEC-UC
+chelmsford	ESS-UF
+chelmsford city council	ESS-UF
+chelmsford district	ESS-UF
+cheltenham	GLS-UB
+cheltenham borough council	GLS-UB
+cheltenham district	GLS-UB
+cherwell	OXF-UB
+cherwell district	OXF-UB
+cherwell district council	OXF-UB
+cheshire east	CHE
+cheshire east council	CHE
+cheshire west and chester	CHW
+cheshire west and chester council	CHW
+chesterfield	DBY-UD
+chesterfield borough council	DBY-UD
+chesterfield district	DBY-UD
+chichester	WSX-UD
+chichester district	WSX-UD
+chichester district council	WSX-UD
+chiltern	BKM-UC
+chiltern district	BKM-UC
+chiltern district council	BKM-UC
+chorley	LAN-UE
+chorley council	LAN-UE
+chorley district	LAN-UE
+christchurch	DOR-UC
+christchurch borough council	DOR-UC
+christchurch district	DOR-UC
+city and county of swansea council	SWA
+city and county of the city of london	LND
+city of aberdeen	ABE
+city of brighton and hove	BNH
+city of bristol	BST
+city of cardiff council	CRF
+city of derby	DER
+city of dundee	DND
+city of edinburgh	EDH
+city of edinburgh council	EDH
+city of glasgow	GLG
+city of kingston upon hull	KHL
+city of leicester	LCE
+city of lincoln	LIN-UD
+city of lincoln council	LIN-UD
+city of london	LND
+city of london corporation	LND
+city of nottingham	NGM
+city of peterborough	PTE
+city of plymouth	PLY
+city of portsmouth	POR
+city of southampton	STH
+city of stoke-on-trent	STE
+city of westminster	WSM
+city of westminster london boro	WSM
+city of wolverhampton	WLV
+city of wolverhampton district	WLV
+city of york council	YOR
+clackmannan	CLK
+clackmannanshire	CLK
+clackmannanshire council	CLK
+colchester	ESS-UG
+colchester borough council	ESS-UG
+colchester district	ESS-UG
+coleraine	NIR-C
+coleraine borough council	NIR-C
+comhairle nan eilean siar	ELS
+comhairle nan eilean siar (western isles)	ELS
+conwy	CWY
+conwy county borough council	CWY
+cookstown	NIR-I
+cookstown district council	NIR-I
+copeland	CMA-UE
+copeland borough council	CMA-UE
+copeland district	CMA-UE
+corby	NTH-UB
+corby borough council	NTH-UB
+corby district	NTH-UB
+cornwall	CON
+cornwall council	CON
+cotswold	GLS-UC
+cotswold district	GLS-UC
+cotswold district council	GLS-UC
+county durham	DUR
+county of herefordshire	HEF
+coventry	COV
+coventry city council	COV
+coventry district	COV
+craigavon	NIR-N
+craigavon borough council	NIR-N
+craven	NYK-UB
+craven district	NYK-UB
+craven district council	NYK-UB
+crawley	WSX-UE
+crawley borough council	WSX-UE
+crawley district	WSX-UE
+croydon	CRY
+croydon london boro	CRY
+cumbria	CMA
+cumbria county	CMA
+cumbria county council	CMA
+dacorum	HRT-UC
+dacorum borough council	HRT-UC
+dacorum district	HRT-UC
+darlington	DAL
+darlington borough council	DAL
+dartford	KEN-UD
+dartford borough council	KEN-UD
+dartford district	KEN-UD
+daventry	NTH-UC
+daventry district	NTH-UC
+daventry district council	NTH-UC
+denbighshire	DEN
+denbighshire county council	DEN
+derby	DER
+derby city	DER
+derby city council	DER
+derbyshire	DBY
+derbyshire county	DBY
+derbyshire county council	DBY
+derbyshire dales	DBY-UF
+derbyshire dales district	DBY-UF
+derbyshire dales district council	DBY-UF
+derry	NIR-A
+derry and strabane	DRS
+derry city and strabane	DRS
+derry city council	NIR-A
+devon	DEV
+devon county	DEV
+devon county council	DEV
+doncaster	DNC
+doncaster district	DNC
+doncaster metropolitan borough council	DNC
+dorset	DOR
+dorset county	DOR
+dorset county council	DOR
+dover	KEN-UE
+dover district	KEN-UE
+dover district council	KEN-UE
+down	NIR-R
+down district council	NIR-R
+dudley	DUD
+dudley district	DUD
+dudley metropolitan borough council	DUD
+dumfries and galloway	DGY
+dumfries and galloway council	DGY
+dundee city	DND
+dundee city council	DND
+dungannon and south tyrone	NIR-M
+dungannon and south tyrone borough council	NIR-M
+durham	DUR
+durham county council	DUR
+ealing	EAL
+ealing london boro	EAL
+ease dunbartonshire	EDU
+east ayrshire	EAY
+east ayrshire council	EAY
+east cambridgeshire	CAM-UC
+east cambridgeshire district	CAM-UC
+east cambridgeshire district council	CAM-UC
+east devon	DEV-UB
+east devon district	DEV-UB
+east devon district council	DEV-UB
+east dorset	DOR-UD
+east dorset district	DOR-UD
+east dorset district council	DOR-UD
+east dunbaronshire	EDU
+east dunbarton	EDU
+east dunbartonshire	EDU
+east dunbartonshire council	EDU
+east dunnbartonshire	EDU
+east hampshire	HAM-UC
+east hampshire district	HAM-UC
+east hampshire district council	HAM-UC
+east hertfordshire	HRT-UD
+east hertfordshire district	HRT-UD
+east hertfordshire district council	HRT-UD
+east lindsey	LIN-UC
+east lindsey district	LIN-UC
+east lindsey district council	LIN-UC
+east lothian	ELN
+east lothian council	ELN
+east northamptonshire	NTH-UD
+east northamptonshire council	NTH-UD
+east northamptonshire district	NTH-UD
+east renfrewshire	ERW
+east renfrewshire council	ERW
+east riding of yorkshire	ERY
+east riding of yorkshire council	ERY
+east staffordshire	STS-UC
+east staffordshire borough council	STS-UC
+east staffordshire district	STS-UC
+east sussex	ESX
+east sussex county	ESX
+east sussex county council	ESX
+eastbourne	ESX-UC
+eastbourne borough council	ESX-UC
+eastbourne district	ESX-UC
+eastleigh	HAM-UD
+eastleigh borough council	HAM-UD
+eastleigh district	HAM-UD
+eden	CMA-UF
+eden district	CMA-UF
+eden district council	CMA-UF
+edinburgh (city of)	EDH
+edinburgh, city of	EDH
+eilean	ELS
+eilean siar	ELS
+elmbridge	SRY-UB
+elmbridge borough council	SRY-UB
+elmbridge district	SRY-UB
+enfield	ENF
+enfield london boro	ENF
+epping forest	ESS-UH
+epping forest district	ESS-UH
+epping forest district council	ESS-UH
+epsom and ewell	SRY-UC
+epsom and ewell borough council	SRY-UC
+epsom and ewell district	SRY-UC
+erewash	DBY-UG
+erewash borough council	DBY-UG
+erewash district	DBY-UG
+essex	ESS
+essex county	ESS
+essex county council	ESS
+exeter	DEV-UC
+exeter city	DEV-UC
+exeter city council	DEV-UC
+exeter district	DEV-UC
+falkirk	FAL
+falkirk council	FAL
+fareham	HAM-UE
+fareham borough council	HAM-UE
+fareham district	HAM-UE
+fenland	CAM-UD
+fenland district	CAM-UD
+fenland district council	CAM-UD
+fermanagh	NIR-L
+fermanagh and omagh	FMO
+fermanagh district council	NIR-L
+fife	FIF
+fife council	FIF
+flintshire	FLN
+flintshire county council	FLN
+forest heath	SFK-UC
+forest heath district	SFK-UC
+forest heath district council	SFK-UC
+forest of dean	GLS-UD
+forest of dean district	GLS-UD
+forest of dean district council	GLS-UD
+fylde	LAN-UF
+fylde borough council	LAN-UF
+fylde district	LAN-UF
+gateshead	GAT
+gateshead district	GAT
+gateshead metropolitan borough council	GAT
+gedling	NTT-UE
+gedling borough council	NTT-UE
+gedling district	NTT-UE
+glasgow	GLG
+glasgow city	GLG
+glasgow city coucil	GLG
+glasgow city council	GLG
+gloucester	GLS-UE
+gloucester city	GLS-UE
+gloucester city council	GLS-UE
+gloucester district	GLS-UE
+gloucestershire	GLS
+gloucestershire county	GLS
+gloucestershire county council	GLS
+gosport	HAM-UF
+gosport borough council	HAM-UF
+gosport district	HAM-UF
+gravesham	KEN-UG
+gravesham borough council	KEN-UG
+gravesham district	KEN-UG
+great yarmouth	NFK-UD
+great yarmouth borough council	NFK-UD
+great yarmouth district	NFK-UD
+greater london	GLA
+greenwich	GRE
+greenwich london boro	GRE
+guildford	SRY-UD
+guildford borough council	SRY-UD
+guildford district	SRY-UD
+gwynedd	GWN
+gwynedd council	GWN
+hackney	HCK
+hackney london boro	HCK
+halton	HAL
+halton borough council	HAL
+hambleton	NYK-UC
+hambleton district	NYK-UC
+hambleton district council	NYK-UC
+hammersmith and fulham	HMF
+hammersmith and fulham london boro	HMF
+hampshire	HAM
+hampshire county	HAM
+hampshire county council	HAM
+harborough	LEC-UD
+harborough district	LEC-UD
+harborough district council	LEC-UD
+haringey	HRY
+haringey london boro	HRY
+harlow	ESS-UJ
+harlow council	ESS-UJ
+harlow district	ESS-UJ
+harrogate	NYK-UD
+harrogate borough council	NYK-UD
+harrogate district	NYK-UD
+harrow	HRW
+harrow london boro	HRW
+hart	HAM-UG
+hart district	HAM-UG
+hart district council	HAM-UG
+hartlepool	HPL
+hartlepool borough council	HPL
+hastings	ESX-UD
+hastings borough council	ESX-UD
+hastings district	ESX-UD
+havant	HAM-UH
+havant borough council	HAM-UH
+havant district	HAM-UH
+havering	HAV
+havering london boro	HAV
+herefordshire	HEF
+herefordshire council	HEF
+herefordshire, county of	HEF
+hertfordshire	HRT
+hertfordshire county	HRT
+hertfordshire county council	HRT
+hertsmere	HRT-UE
+hertsmere borough council	HRT-UE
+hertsmere district	HRT-UE
+high peak	DBY-UH
+high peak borough council	DBY-UH
+high peak district	DBY-UH
+highands	HLD
+highland	HLD
+highlands	HLD
+hillingdon	HIL
+hillingdon london boro	HIL
+hinckley and bosworth	LEC-UE
+hinckley and bosworth borough council	LEC-UE
+hinckley and bosworth district	LEC-UE
+horsham	WSX-UF
+horsham district	WSX-UF
+horsham district council	WSX-UF
+hounslow	HNS
+hounslow london boro	HNS
+hull city	KHL
+hull city council	KHL
+huntingdonshire	CAM-UE
+huntingdonshire district	CAM-UE
+huntingdonshire district council	CAM-UE
+hyndburn	LAN-UG
+hyndburn borough council	LAN-UG
+hyndburn district	LAN-UG
+inverclyde	IVC
+inverclyde council	IVC
+ipswich	SFK-UD
+ipswich borough council	SFK-UD
+ipswich district	SFK-UD
+isle of anglesey	AGY
+isle of anglesey county council	AGY
+isle of wight	IOW
+isle of wight council	IOW
+isles of scilly	IOS
+islington	ISL
+islington london boro	ISL
+kensington and chelsea	KEC
+kensington and chelsea london boro	KEC
+kent	KEN
+kent county	KEN
+kent county council	KEN
+kettering	NTH-UE
+kettering borough council	NTH-UE
+kettering district	NTH-UE
+king's lynn and west norfolk	NFK-UE
+king's lynn and west norfolk district	NFK-UE
+kings lynn and west norfolk	NFK-UE
+kingston upon hull	KHL
+kingston upon hull city of	KHL
+kingston upon hull, city of	KHL
+kingston upon thames	KTT
+kingston upon thames london boro	KTT
+kingston-upon-thames	KTT
+kirklees	KIR
+kirklees council	KIR
+kirklees district	KIR
+knowsley	KWL
+knowsley council	KWL
+knowsley district	KWL
+lambeth	LBH
+lambeth london boro	LBH
+lancashire	LAN
+lancashire county	LAN
+lancashire county council	LAN
+lancaster	LAN-UH
+lancaster city	LAN-UH
+lancaster city council	LAN-UH
+lancaster district	LAN-UH
+larne	NIR-F
+larne borough council	NIR-F
+leeds	LDS
+leeds city council	LDS
+leeds district	LDS
+leicester	LCE
+leicester city	LCE
+leicester city council	LCE
+leicestershire	LEC
+leicestershire county	LEC
+leicestershire county council	LEC
+lewes	ESX-UF
+lewes district	ESX-UF
+lewes district council	ESX-UF
+lewisham	LEW
+lewisham london boro	LEW
+lichfield	STS-UD
+lichfield district	STS-UD
+lichfield district council	STS-UD
+limavady	NIR-B
+limavady borough council	NIR-B
+lincoln	LIN-UD
+lincoln city	LIN-UD
+lincoln district	LIN-UD
+lincolnshire	LIN
+lincolnshire county	LIN
+lincolnshire county council	LIN
+lisburn	NIR-S
+lisburn and castlereagh	LBC
+lisburn and castlereagh city	LBC
+lisburn city council	NIR-S
+liverpool	LIV
+liverpool city council	LIV
+liverpool district	LIV
+london borough of barking and dagenham	BDG
+london borough of barnet	BNE
+london borough of bexley	BEX
+london borough of brent	BEN
+london borough of bromley	BRY
+london borough of camden	CMD
+london borough of croydon	CRY
+london borough of ealing	EAL
+london borough of enfield	ENF
+london borough of hackney	HCK
+london borough of hammersmith and fulham	HMF
+london borough of haringey	HRY
+london borough of harrow	HRW
+london borough of havering	HAV
+london borough of hillingdon	HIL
+london borough of hounslow	HNS
+london borough of islington	ISL
+london borough of lambeth	LBH
+london borough of lewisham	LEW
+london borough of merton	MRT
+london borough of newham	NWM
+london borough of redbridge	RDB
+london borough of richmond upon thames	RIC
+london borough of southwark	SWK
+london borough of sutton	STN
+london borough of tower hamlets	TWH
+london borough of waltham forest	WFT
+london borough of wandsworth	WND
+luton	LUT
+luton borough council	LUT
+magherafelt	NIR-H
+magherafelt district council	NIR-H
+maidstone	KEN-UH
+maidstone borough council	KEN-UH
+maidstone district	KEN-UH
+maldon	ESS-UK
+maldon district	ESS-UK
+maldon district council	ESS-UK
+malvern hills	WOR-UC
+malvern hills district	WOR-UC
+malvern hills district council	WOR-UC
+manchester	MAN
+manchester city council	MAN
+manchester district	MAN
+mansfield	NTT-UF
+mansfield district	NTT-UF
+mansfield district council	NTT-UF
+medway	MDW
+medway council	MDW
+melton	LEC-UG
+melton borough council	LEC-UG
+melton district	LEC-UG
+mendip	SOM-UB
+mendip district	SOM-UB
+mendip district council	SOM-UB
+merthyr tudful	MTY
+merthyr tydfil	MTY
+merthyr tydfil county borough council	MTY
+merthyr tydfil ua	MTY
+merton	MRT
+merton london boro	MRT
+mid and east antrim	MEA
+mid devon	DEV-UD
+mid devon district	DEV-UD
+mid devon district council	DEV-UD
+mid suffolk	SFK-UE
+mid suffolk district	SFK-UE
+mid suffolk district council	SFK-UE
+mid sussex	WSX-UG
+mid sussex district	WSX-UG
+mid sussex district council	WSX-UG
+mid ulster	MUL
+middlesbrough	MDB
+middlesbrough borough council	MDB
+midlothian	MLN
+midlothian council	MLN
+milton keynes	MIK
+milton keynes council	MIK
+mole valley	SRY-UE
+mole valley district	SRY-UE
+mole valley district council	SRY-UE
+monmouthshire	MON
+monmouthshire county council	MON
+moray	MRY
+moray council	MRY
+moyle	NIR-E
+moyle district council	NIR-E
+na h-eileanan an iar	ELS
+neath port talbot	NTL
+neath port talbot county borough council	NTL
+new forest	HAM-UJ
+new forest district	HAM-UJ
+new forest district council	HAM-UJ
+newark and sherwood	NTT-UG
+newark and sherwood district	NTT-UG
+newark and sherwood district council	NTT-UG
+newcastle city council	NET
+newcastle upon tyne	NET
+newcastle upon tyne district	NET
+newcastle-under-lyme	STS-UE
+newcastle-under-lyme district	STS-UE
+newcastle-under-lyme district council	STS-UE
+newham	NWM
+newham london boro	NWM
+newport	NWP
+newport city council	NWP
+newry and mourne	NIR-P
+newry and mourne district council	NIR-P
+newry, mourne and down	NMD
+newtownabbey	NIR-U
+newtownabbey borough council	NIR-U
+norfolk	NFK
+norfolk county	NFK
+norfolk county council	NFK
+north ayrshire	NAY
+north ayrshire council	NAY
+north devon	DEV-UE
+north devon council	DEV-UE
+north devon district	DEV-UE
+north dorset	DOR-UE
+north dorset district	DOR-UE
+north dorset district council	DOR-UE
+north down	NIR-W
+north down and ards	AND
+north down borough council	NIR-W
+north east derbyshire	DBY-UJ
+north east derbyshire district	DBY-UJ
+north east derbyshire district council	DBY-UJ
+north east lincolnshire	NEL
+north east lincolnshire council	NEL
+north hertfordshire	HRT-UF
+north hertfordshire district	HRT-UF
+north hertfordshire district council	HRT-UF
+north kesteven	LIN-UE
+north kesteven district	LIN-UE
+north kesteven district council	LIN-UE
+north lanarkshire	NLK
+north lanarkshire council	NLK
+north lincolnshire	NLN
+north lincolnshire council	NLN
+north norfolk	NFK-UF
+north norfolk district	NFK-UF
+north norfolk district council	NFK-UF
+north somerset	NSM
+north somerset council	NSM
+north tyneside	NTY
+north tyneside council	NTY
+north tyneside district	NTY
+north warwickshire	WAR-UB
+north warwickshire borough council	WAR-UB
+north warwickshire district	WAR-UB
+north west leicestershire	LEC-UH
+north west leicestershire district	LEC-UH
+north west leicestershire district council	LEC-UH
+north west somerset	NSM
+north yorkshire	NYK
+north yorkshire county	NYK
+north yorkshire county council	NYK
+northampton	NTH-UF
+northampton borough council	NTH-UF
+northampton district	NTH-UF
+northamptonshire	NTH
+northamptonshire county	NTH
+northamptonshire county council	NTH
+northumberland	NBL
+northumberland council	NBL
+norwich	NFK-UG
+norwich city	NFK-UG
+norwich city council	NFK-UG
+norwich district	NFK-UG
+nottingham	NGM
+nottingham city	NGM
+nottingham city council	NGM
+nottinghamshire	NTT
+nottinghamshire county	NTT
+nottinghamshire county council	NTT
+nuneaton and bedworth	WAR-UC
+nuneaton and bedworth borough council	WAR-UC
+nuneaton and bedworth district	WAR-UC
+oadby and wigston	LEC-UJ
+oadby and wigston district	LEC-UJ
+oadby and wigston district council	LEC-UJ
+oldham	OLD
+oldham district	OLD
+oldham metropolitan borough council	OLD
+omagh	NIR-K
+omagh district council	NIR-K
+orkney	ORK
+orkney islands	ORK
+orkney islands council	ORK
+oxford	OXF-UC
+oxford city	OXF-UC
+oxford city council	OXF-UC
+oxford district	OXF-UC
+oxfordshire	OXF
+oxfordshire county	OXF
+oxfordshire county council	OXF
+pembrokeshire	PEM
+pembrokeshire county council	PEM
+pen-y-bont ar ogwr	BGE
+pendle	LAN-UJ
+pendle borough council	LAN-UJ
+pendle district	LAN-UJ
+perth and kinross	PKN
+perth and kinross council	PKN
+peterborough	PTE
+peterborough city	PTE
+peterborough city council	PTE
+plymouth	PLY
+plymouth city	PLY
+plymouth city council	PLY
+poole	POL
+portsmouth	POR
+portsmouth city council	POR
+powys	POW
+powys county council	POW
+preston	LAN-UK
+preston city council	LAN-UK
+preston district	LAN-UK
+purbeck	DOR-UG
+purbeck district	DOR-UG
+purbeck district council	DOR-UG
+reading	RDG
+reading borough council	RDG
+redbridge	RDB
+redbridge london boro	RDB
+redcar and cleveland	RCC
+redcar and cleveland borough council	RCC
+redditch	WOR-UD
+redditch borough council	WOR-UD
+redditch district	WOR-UD
+reigate and banstead	SRY-UF
+reigate and banstead borough council	SRY-UF
+reigate and banstead district	SRY-UF
+renfrewshire	RFW
+renfrewshire council	RFW
+rhondda cynon taf	RCT
+rhondda cynon taf county borough council	RCT
+rhondda cynon taff	RCT
+rhondda, cynon, taff	RCT
+rhondda,cynon,taff	RCT
+ribble valley	LAN-UL
+ribble valley borough council	LAN-UL
+ribble valley district	LAN-UL
+richmond upon thames	RIC
+richmond upon thames london boro	RIC
+richmond-upon-thames	RIC
+richmondshire	NYK-UE
+richmondshire district	NYK-UE
+richmondshire district council	NYK-UE
+rochdale	RCH
+rochdale district	RCH
+rochdale metropolitan borough council	RCH
+rochford	ESS-UL
+rochford district	ESS-UL
+rochford district council	ESS-UL
+rossendale	LAN-UM
+rossendale borough council	LAN-UM
+rossendale district	LAN-UM
+rother	ESX-UG
+rother district	ESX-UG
+rother district council	ESX-UG
+rotherham	ROT
+rotherham district	ROT
+rotherham metropolitan borough council	ROT
+royal borough of greenwich	GRE
+royal borough of kensington and chelsea	KEC
+royal borough of kingston upon thames	KTT
+royal borough of windsor and maidenhead	WNM
+rugby	WAR-UD
+rugby borough council	WAR-UD
+rugby district	WAR-UD
+runnymede	SRY-UG
+runnymede borough council	SRY-UG
+runnymede district	SRY-UG
+rushcliffe	NTT-UJ
+rushcliffe borough council	NTT-UJ
+rushcliffe district	NTT-UJ
+rushmoor	HAM-UL
+rushmoor borough council	HAM-UL
+rushmoor district	HAM-UL
+rutland	RUT
+rutland county council	RUT
+ryedale	NYK-UF
+ryedale district	NYK-UF
+ryedale district council	NYK-UF
+salford	SLF
+salford city council	SLF
+salford district	SLF
+sandwell	SAW
+sandwell district	SAW
+sandwell metropolitan borough council	SAW
+scarborough	NYK-UG
+scarborough borough council	NYK-UG
+scarborough district	NYK-UG
+scottish borders	SCB
+sedgemoor	SOM-UC
+sedgemoor district	SOM-UC
+sedgemoor district council	SOM-UC
+sefton	SFT
+sefton council	SFT
+sefton district	SFT
+sefton metropolitan borough council	SFT
+selby	NYK-UH
+selby district	NYK-UH
+selby district council	NYK-UH
+sevenoaks	KEN-UK
+sevenoaks district	KEN-UK
+sevenoaks district council	KEN-UK
+sheffield	SHF
+sheffield city council	SHF
+sheffield district	SHF
+shepway	KEN-UL
+shepway district	KEN-UL
+shepway district council	KEN-UL
+shetland	ZET
+shetland islands	ZET
+shetland islands council	ZET
+shropshire	SHR
+shropshire council	SHR
+sir benfro	PEM
+sir ddinbych	DEN
+sir fynwy	MON
+sir gaerfyrddin	CMN
+sir y fflint	FLN
+slough	SLG
+slough borough council	SLG
+solihull	SOL
+solihull district	SOL
+solihull metropolitan borough council	SOL
+somerset	SOM
+somerset county	SOM
+somerset county council	SOM
+south ayrshire	SAY
+south ayrshire council	SAY
+south ayshire	SAY
+south buckinghamshire	BKM-UE
+south bucks	BKM-UE
+south bucks district	BKM-UE
+south bucks district council	BKM-UE
+south cambridgeshire	CAM-UG
+south cambridgeshire district	CAM-UG
+south cambridgeshire district council	CAM-UG
+south derbyshire	DBY-UK
+south derbyshire district	DBY-UK
+south derbyshire district council	DBY-UK
+south gloucestershire	SGC
+south gloucestershire council	SGC
+south hams	DEV-UG
+south hams district	DEV-UG
+south hams district council	DEV-UG
+south holland	LIN-UF
+south holland district	LIN-UF
+south holland district council	LIN-UF
+south kesteven	LIN-UG
+south kesteven district	LIN-UG
+south kesteven district council	LIN-UG
+south lakeland	CMA-UG
+south lakeland district	CMA-UG
+south lakeland district council	CMA-UG
+south lanarkshire	SLK
+south lanarkshire council	SLK
+south norfolk	NFK-UH
+south norfolk district	NFK-UH
+south norfolk district council	NFK-UH
+south northamptonshire	NTH-UG
+south northamptonshire council	NTH-UG
+south northamptonshire district	NTH-UG
+south oxfordshire	OXF-UD
+south oxfordshire district	OXF-UD
+south oxfordshire district council	OXF-UD
+south ribble	LAN-UN
+south ribble borough council	LAN-UN
+south ribble district	LAN-UN
+south somerset	SOM-UD
+south somerset district	SOM-UD
+south somerset district council	SOM-UD
+south staffordshire	STS-UF
+south staffordshire council	STS-UF
+south staffordshire district	STS-UF
+south tyneside	STY
+south tyneside council	STY
+south tyneside district	STY
+southampton	STH
+southampton city council	STH
+southend-on-sea	SOS
+southend-on-sea borough council	SOS
+southwark	SWK
+southwark london boro	SWK
+spelthorne	SRY-UH
+spelthorne borough council	SRY-UH
+spelthorne district	SRY-UH
+st albans	HRT-UG
+st albans city	HRT-UG
+st albans city and district council	HRT-UG
+st edmundsbury	SFK-UF
+st edmundsbury borough council	SFK-UF
+st helens	SHN
+st helens council	SHN
+st. albans	HRT-UG
+st. albans district	HRT-UG
+st. edmundsbury	SFK-UF
+st. edmundsbury district	SFK-UF
+st. helens	SHN
+st. helens district	SHN
+stafford	STS-UG
+stafford borough council	STS-UG
+stafford district	STS-UG
+staffordshire	STS
+staffordshire county	STS
+staffordshire county council	STS
+staffordshire moorlands	STS-UH
+staffordshire moorlands district	STS-UH
+staffordshire moorlands district council	STS-UH
+stevenage	HRT-UH
+stevenage borough council	HRT-UH
+stevenage district	HRT-UH
+stirling	STG
+stirling council	STG
+stockport	SKP
+stockport district	SKP
+stockport metropolitan borough council	SKP
+stockton on tees	STT
+stockton-on-tees	STT
+stockton-on-tees borough council	STT
+stoke-on-trent	STE
+stoke-on-trent city council	STE
+strabane	NIR-J
+strabane district council	NIR-J
+stratford-on-avon	WAR-UE
+stratford-on-avon district	WAR-UE
+stratford-on-avon district council	WAR-UE
+stroud	GLS-UF
+stroud district	GLS-UF
+stroud district council	GLS-UF
+suffolk	SFK
+suffolk coastal	SFK-UG
+suffolk coastal district	SFK-UG
+suffolk coastal district council	SFK-UG
+suffolk county	SFK
+suffolk county council	SFK
+sunderland	SND
+sunderland city council	SND
+sunderland district	SND
+surrey	SRY
+surrey county	SRY
+surrey county council	SRY
+surrey heath	SRY-UJ
+surrey heath borough council	SRY-UJ
+surrey heath district	SRY-UJ
+sutton	STN
+sutton london boro	STN
+swale	KEN-UM
+swale borough council	KEN-UM
+swale district	KEN-UM
+swansea	SWA
+swindon	SWD
+swindon borough council	SWD
+tameside	TAM
+tameside district	TAM
+tameside metropolitan borough council	TAM
+tamworth	STS-UK
+tamworth borough council	STS-UK
+tamworth district	STS-UK
+tandridge	SRY-UK
+tandridge district	SRY-UK
+tandridge district council	SRY-UK
+taunton deane	SOM-UE
+taunton deane borough council	SOM-UE
+taunton deane district	SOM-UE
+teignbridge	DEV-UH
+teignbridge district	DEV-UH
+teignbridge district council	DEV-UH
+telford and wrekin	TFW
+telford and wrekin council	TFW
+tendring	ESS-UN
+tendring district	ESS-UN
+tendring district council	ESS-UN
+test valley	HAM-UN
+test valley borough council	HAM-UN
+test valley district	HAM-UN
+tewkesbury	GLS-UG
+tewkesbury borough council	GLS-UG
+tewkesbury district	GLS-UG
+thanet	KEN-UN
+thanet district	KEN-UN
+thanet district council	KEN-UN
+the city of brighton and hove	BNH
+the highland council	HLD
+the scottish borders	SCB
+the vale of glamorgan	VGL
+three rivers	HRT-UJ
+three rivers district	HRT-UJ
+three rivers district council	HRT-UJ
+thurrock	THR
+thurrock council	THR
+tonbridge and malling	KEN-UP
+tonbridge and malling borough council	KEN-UP
+tonbridge and malling district	KEN-UP
+torbay	TOB
+torbay council	TOB
+torfaen	TOF
+torfaen county borough council	TOF
+torridge	DEV-UK
+torridge district	DEV-UK
+torridge district council	DEV-UK
+tower hamlets	TWH
+tower hamlets london boro	TWH
+trafford	TRF
+trafford council	TRF
+trafford district	TRF
+tunbridge wells	KEN-UQ
+tunbridge wells borough council	KEN-UQ
+tunbridge wells district	KEN-UQ
+uttlesford	ESS-UQ
+uttlesford district	ESS-UQ
+uttlesford district council	ESS-UQ
+vale of glamorgan	VGL
+vale of glamorgan council	VGL
+vale of white horse	OXF-UE
+vale of white horse district	OXF-UE
+vale of white horse district council	OXF-UE
+wakefield	WKF
+wakefield district	WKF
+wakefield metropolitan district council	WKF
+walsall	WLL
+walsall council	WLL
+walsall district	WLL
+waltham forest	WFT
+waltham forest london boro	WFT
+wandsworth	WND
+wandsworth london boro	WND
+warrington	WRT
+warrington borough council	WRT
+warwick	WAR-UF
+warwick district	WAR-UF
+warwick district council	WAR-UF
+warwickshire	WAR
+warwickshire county	WAR
+warwickshire county council	WAR
+watford	HRT-UK
+watford borough council	HRT-UK
+watford district	HRT-UK
+waveney	SFK-UH
+waveney district	SFK-UH
+waveney district council	SFK-UH
+waverley	SRY-UL
+waverley borough council	SRY-UL
+waverley district	SRY-UL
+wealden	ESX-UH
+wealden district	ESX-UH
+wealden district council	ESX-UH
+wellingborough	NTH-UH
+wellingborough borough council	NTH-UH
+wellingborough district	NTH-UH
+welwyn hatfield	HRT-UL
+welwyn hatfield council	HRT-UL
+welwyn hatfield district	HRT-UL
+west berkshire	WBK
+west berkshire council	WBK
+west devon	DEV-UL
+west devon borough council	DEV-UL
+west devon district	DEV-UL
+west dorset	DOR-UH
+west dorset district	DOR-UH
+west dorset district council	DOR-UH
+west dunbartonshire	WDU
+west dunbartonshire council	WDU
+west lancashire	LAN-UP
+west lancashire borough council	LAN-UP
+west lancashire district	LAN-UP
+west lindsey	LIN-UH
+west lindsey district	LIN-UH
+west lindsey district council	LIN-UH
+west lothian	WLN
+west lothian council	WLN
+west oxfordshire	OXF-UF
+west oxfordshire district	OXF-UF
+west oxfordshire district council	OXF-UF
+west somerset	SOM-UF
+west somerset council	SOM-UF
+west somerset district	SOM-UF
+west sussex	WSX
+west sussex county	WSX
+west sussex county council	WSX
+western isles	ELS
+westminster	WSM
+weymouth and portland	DOR-UJ
+weymouth and portland borough council	DOR-UJ
+weymouth and portland district	DOR-UJ
+wigan	WGN
+wigan council	WGN
+wigan district	WGN
+wiltshire	WIL
+wiltshire council	WIL
+winchester	HAM-UP
+winchester city	HAM-UP
+winchester city council	HAM-UP
+winchester district	HAM-UP
+windsor and maidenhead	WNM
+wirral	WRL
+wirral council	WRL
+wirral district	WRL
+woking	SRY-UM
+woking borough council	SRY-UM
+woking district	SRY-UM
+wokingham	WOK
+wokingham borough council	WOK
+wolverhampton	WLV
+wolverhampton city council	WLV
+worcester	WOR-UE
+worcester city	WOR-UE
+worcester city council	WOR-UE
+worcester district	WOR-UE
+worcestershire	WOR
+worcestershire county	WOR
+worcestershire county council	WOR
+worthing	WSX-UH
+worthing borough council	WSX-UH
+worthing district	WSX-UH
+wrecsam	WRX
+wrexham	WRX
+wrexham county borough council	WRX
+wychavon	WOR-UF
+wychavon district	WOR-UF
+wychavon district council	WOR-UF
+wycombe	BKM-UF
+wycombe district	BKM-UF
+wycombe district council	BKM-UF
+wyre	LAN-UQ
+wyre council	LAN-UQ
+wyre district	LAN-UQ
+wyre forest	WOR-UG
+wyre forest district	WOR-UG
+wyre forest district council	WOR-UG
+ynys mn	AGY
+york	YOR
