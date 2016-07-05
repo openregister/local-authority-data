@@ -347,6 +347,43 @@ def write_to_html authorities, legacy, by_name, dataset_to_type
   puts "\nFile written to #{file}\n"
 end
 
+def write_to_report_tsv authorities, legacy, by_name
+  puts 'Write file to: legacy/report.tsv'
+  File.open('legacy/report.tsv', 'w') do |f|
+    class_keys = class_keys authorities, legacy
+    class_keys.each do |key|
+      header = key.name.sub('Morph::','').underscore.gsub('_','-')
+      header = 'food-authority' if header[/food-standards/]
+      f.write(header)
+      f.write("\t")
+      f.write(header + '-name')
+      f.write("\t")
+    end
+    f.write("\n")
+    all = by_name.to_a
+    first = all.delete_at(0)
+    all.each do |n, list|
+      class_keys.each do |key|
+        values = list.select {|i| i.class == key}.map do |item|
+          value = item._id
+        end.join(';')
+        f.write(values)
+        f.write("\t")
+        names = list.select {|i| i.class == key}.map do |item|
+          if item._id != item._name
+            value = item._name
+          else
+            ''
+          end
+        end.join(';')
+        f.write(names)
+        f.write("\t")
+      end
+      f.write("\n")
+    end
+  end
+end
+
 authorities, legacy = load_data_and_legacy ; nil
 remove_unrelated! legacy ; nil
 
@@ -367,38 +404,4 @@ dataset_to_type['onsapiadminareas']['Unitary Authority'] = 'unitary-authority'
 dataset_to_type['opendatacommunities']['Unitary Authority'] = 'unitary-authority'
 
 write_to_html authorities, legacy, by_name, dataset_to_type
-
-puts 'Write file to: legacy/report.tsv'
-File.open('legacy/report.tsv', 'w') do |f|
-  class_keys = class_keys authorities, legacy
-  class_keys.each do |key|
-    header = key.name.sub('Morph::','').underscore.gsub('_','-')
-    header = 'food-authority' if header[/food-standards/]
-    f.write(header)
-    f.write("\t")
-    f.write(header + '-name')
-    f.write("\t")
-  end
-  f.write("\n")
-  all = by_name.to_a
-  first = all.delete_at(0)
-  all.each do |n, list|
-    class_keys.each do |key|
-      values = list.select {|i| i.class == key}.map do |item|
-        value = item._id
-      end.join(';')
-      f.write(values)
-      f.write("\t")
-      names = list.select {|i| i.class == key}.map do |item|
-        if item._id != item._name
-          value = item._name
-        else
-          ''
-        end
-      end.join(';')
-      f.write(names)
-      f.write("\t")
-    end
-    f.write("\n")
-  end
-end
+write_to_report_tsv authorities, legacy, by_name
