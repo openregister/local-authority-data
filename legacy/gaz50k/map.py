@@ -40,4 +40,4 @@ for row in csv.reader(sys.stdin, delimiter=':', quoting=csv.QUOTE_NONE):
 fields = [ 'gaz50k', 'county', 'name' ]
 print("\t".join(fields))
 for code in county:
-    print("⋯  ".join([county[code][field] or "" for field in fields]))
+    print("\t".join([county[code][field] or "" for field in fields]))

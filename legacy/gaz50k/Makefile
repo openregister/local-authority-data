@@ -6,7 +6,7 @@
 ZIP=gaz50k_gb.zip
 TXT=cache/50kgaz2016.txt
 
-loca-authorities.tsv: $(TXT) map.py
+local-authorities.tsv: $(TXT) map.py
 	map.py < $(TXT) > $@
 
 $(TXT):	$(ZIP)
