@@ -11,3 +11,5 @@ os:
   description: Ordnance Survey county and other codes found in os-open-names data
 gss:
   description: Office of National Statistics GSS coding system codes
+gaz50k:
+  description: 'Ordnance Survey 50K Gazetteer county codes'
