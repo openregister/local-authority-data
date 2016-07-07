@@ -1,6 +1,8 @@
 ---
 local-custodian:
   description: AddressBase™ / Geoplace LLP address custodian names and codes
+opendatacommunities:
+  description: OpenDataCommunities.org administrative geography codes based on data from the Office for National Statistics
 food-authority:
   description: Local authority codes from the Food Standards Agency ratings data
 edubase:
