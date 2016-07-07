@@ -2,7 +2,7 @@
 local-custodian:
   description: AddressBase™ / Geoplace LLP address custodian names and codes
 opendatacommunities:
-  description: OpenDataCommunities.org administrative geography codes based on data from the Office for National Statistics
+  description: Department for Communities and Local Government's OpenDataCommunities.org administrative geography codes based on data from ONS
 food-authority:
   description: Local authority codes from the Food Standards Agency ratings data
 edubase:
