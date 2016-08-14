@@ -16,7 +16,7 @@ defmodule OrdinanceSurvey.Mixfile do
 
   defp deps do
     [
-      {:data_morph, git: "https://github.com/robmckinnon/data_morph.git"},
+      {:data_morph, "~> 0.0.3"},
       {:poison, "~> 2.0"},
     ]
   end
