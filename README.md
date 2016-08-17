@@ -1,16 +1,21 @@
 # Local-authority register data
 
-Data for the alpha [local-authority register](http://local-authority.alpha.openregister.org),
-a list of local government organisations in the United Kingdom.
+Data for the alpha [local-authority-eng register](http://local-authority-eng.alpha.openregister.org),
+a list of local government organisations in England:
 
-This is currently a single data file, but the process of establishing a custodian for the register may result in the data being split
-to populate four separate registers for England, Scotland, Wales and Northern Ireland, each with their own custodian.
+- [local-authority-eng](data/local-authority-eng/local-authorities.tsv)
+
+This repository also includes data to populate four similar registers for Scotland, Wales and Northern Ireland, which are in discovery awaiting a custodian:
+
+- [local-authority-sct](data/local-authority-sct/local-authorities.tsv)
+- [local-authority-wls](data/local-authority-sct/local-authorities.tsv)
+- [local-authority-nir](data/local-authority-nir/local-authorities.tsv)
 
 # Identifier
 
 The local-authority identifier has been constructed from the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifier.
 
-A separate local-authority-boundary register will contain the boundary for each local-authority,
+Separate local authority boundary registers will contain the boundary for each local-authority,
 indexed by the [ONS/GSS](https://en.wikipedia.org/wiki/ONS_coding_system) geographical code, which changes when the boundary changes.
 
 # Maps
@@ -24,6 +29,7 @@ This repository also includes a number of [maps](maps) intended to help migrate 
 - [food-standards.tsv](maps/food-standards.tsv) — local authority codes from the Food Standards Agency ratings data
 - [os.tsv](maps/os.tsv) — Ordnance Survey county and other codes found in os-open-names data
 - [gaz50k.tsv](maps/gaz50k.tsv) — Ordnance Survey county codes found in the 50k gazetteer
+- [discovery.tsv](maps/discovery.tsv) — discovery register codes
 
 # Licence
 
