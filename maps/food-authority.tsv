@@ -10,7 +10,7 @@ food-authority	local-authority	name	website	email
 801	local-authority-nir:ANN	Antrim and Newtownabbey	http://www.antrimandnewtownabbey.gov.uk	envhealth@antrimandnewtownabbey.gov.uk
 802	local-authority-nir:AND	Ards and North Down	http://www.ardsandnorthdown.gov.uk	env.services@ardsandnorthdown.gov.uk
 763	local-authority-sct:AGB	Argyll and Bute	http://www.argyll-bute.gov.uk	envhealth@argyll-bute.gov.uk
-803	local-authority-nir:ABC	Armagh City	 Banbridge and Craigavon	http://www.armaghbanbridgecraigavon.gov.uk/	ehealth@armaghbanbridgecraigavon.gov.uk
+803	local-authority-nir:ABC	Armagh City, Banbridge and Craigavon	http://www.armaghbanbridgecraigavon.gov.uk/	ehealth@armaghbanbridgecraigavon.gov.uk
 324	local-authority-eng:ARD	Arun	http://www.arun.gov.uk	food.safety@arun.gov.uk
 259	local-authority-eng:ASD	Ashfield	http://www.ashfield-dc.gov.uk	info@ashfield-dc.gov.uk
 179	local-authority-eng:ASB	Ashford	http://www.ashford.gov.uk	envhealth@ashford.gov.uk
@@ -227,7 +227,7 @@ food-authority	local-authority	name	website	email
 290	local-authority-eng:NED	Newcastle-Under-Lyme	http://www.newcastle-staffs.gov.uk/	foodandsafety@newcastle-staffs.gov.uk
 525	local-authority-eng:NWM	Newham	http://ww2.newham.gov.uk/Pages/index.aspx	food@newham.gov.uk
 564	local-authority-wls:NWP	Newport	http://www.newport.gov.uk	environmental.health@newport.gov.uk
-814	local-authority-nir:NMD	Newry	 Mourne and Down	http://www.newrymournedown.org	env.health@nmandd.org
+814	local-authority-nir:NMD	Newry, Mourne and Down	http://www.newrymournedown.org	env.health@nmandd.org
 765	local-authority-sct:NAY	North Ayrshire	http://www.north-ayrshire.gov.uk/PlanningAndTheEnvironment/EnvironmentalHealth/EnvironmentalHealth-Food/FoodHygieneInformationScheme.aspx	environmentalhealth@north-ayrshire.gov.uk
 075	local-authority-eng:NDE	North Devon	http://www.northdevon.gov.uk	customerservices@northdevon.gov.uk
 086	local-authority-eng:NDO	North Dorset	http://www.dorsetforyou.com	envlicens@north-dorset.gov.uk
