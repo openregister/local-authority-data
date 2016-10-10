@@ -11,9 +11,8 @@ require 'morph'
 require 'yaml'
 
 def local_authority_data_meta file
-  id = file[%r{data/(local-authority-...)/}, 1]
   {
-    id: id.gsub('-','_'),
+    id: 'local_authority',
     name: 'name',
     type: 'local_authority_type'
   }
@@ -38,9 +37,25 @@ def name_from file
   [name, extension]
 end
 
+def add_local_authority_type! list, country
+  case country
+  when 'wls'
+    list.each {|x| x.local_authority_type = 'UA' }
+  when 'sct'
+    list.each {|x| x.local_authority_type = 'CA' }
+  when 'nir'
+    list.each {|x| x.local_authority_type = 'DIS' }
+  end
+end
+
 def load_data name, extension, file
   data = IO.read(file).encode('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
-  Morph.send(:"from_#{extension.tr('.','')}", data, name)
+  data.sub!(/local-authority-(eng|wls|sct|nir)/, 'local-authority')
+  country = name[/_(eng|wls|sct|nir)/,1]
+  name = name.gsub(/_(eng|wls|sct|nir)/, '')
+  list = Morph.send(:"from_#{extension.tr('.','')}", data, name)
+  add_local_authority_type! list, country
+  list
 end
 
 def load file
@@ -60,7 +75,10 @@ def load file
 end
 
 def load_data_and_legacy
-  _, data = load Dir.glob('data/*/*{tsv}').first ; nil
+  data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/*{tsv}').flat_map do |file|
+    _, list = load file ; nil
+    list
+  end ; nil
 
   legacy = Dir.glob('legacy/*/*{tsv}').each_with_object({}) do |file, hash|
     begin
@@ -259,7 +277,7 @@ def class_matches(list, key)
 end
 
 def local_authority_from(list)
-  list.detect {|i| i.class == Morph::LocalAuthorityEng}
+  list.detect {|i| i.class == Morph::LocalAuthority}
 end
 
 def write_to_html class_keys, by_name, dataset_to_type
@@ -437,7 +455,7 @@ def write_to_name_tsv class_keys, by_name
       class_keys.each do |key|
         names = class_matches(list, key).map { |item| item._name }
         names.each do |name|
-          name_hash[normalize_name_for_maps(name)] = local_authority.local_authority_eng
+          name_hash[normalize_name_for_maps(name)] = local_authority.local_authority
         end
       end
     end
@@ -472,6 +490,7 @@ dataset_to_type = type_to_aliases.to_a.each_with_object({}) do |to_alias, h|
   end
 end
 
+dataset_to_type['localauthority']['DIS'] = 'district'
 dataset_to_type['legislation']['Local Government District'] = 'district'
 dataset_to_type['boundarycommission']['two-tier district'] = 'two-tier-district'
 dataset_to_type['boundarycommission']['unitary district'] = 'unitary-authority'
