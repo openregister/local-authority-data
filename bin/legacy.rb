@@ -40,11 +40,13 @@ end
 def add_local_authority_type! list, country
   case country
   when 'wls'
-    list.each {|x| x.local_authority_type = 'UA' }
+    list.each {|x| x.register = 'local-authority-wls'; x.local_authority_type = 'UA' }
   when 'sct'
-    list.each {|x| x.local_authority_type = 'CA' }
+    list.each {|x| x.register = 'local-authority-sct'; x.local_authority_type = 'CA' }
   when 'nir'
-    list.each {|x| x.local_authority_type = 'DIS' }
+    list.each {|x| x.register = 'local-authority-nir'; x.local_authority_type = 'DIS' }
+  else
+    list.each {|x| x.register = 'local-authority-eng' }
   end
 end
 
@@ -411,7 +413,11 @@ def write_to_report_tsv class_keys, by_name
       next if n.blank?
       class_keys.each do |key|
         values = class_matches(list, key).map do |item|
-          value = item._id
+          if key.name == 'Morph::LocalAuthority'
+            "#{item.register}:#{item._id}"
+          else
+            item._id
+          end
         end.join(';')
         f.write(values)
         f.write("\t")
