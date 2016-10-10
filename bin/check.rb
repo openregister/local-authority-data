@@ -1,5 +1,6 @@
 require 'morph'
 require 'net/http'
+require 'yaml'
 
 def load_legacy_report
   unless File.exist?("./legacy/report.tsv")
@@ -55,17 +56,21 @@ lists.each do |list|
       elsif expected && map_key(key) == :geoplace && automated.send(:addressbase).split(';').uniq.include?(expected.send(key))
         print '~'
       else
+        puts ""
         puts "---"
         puts "local_authority: #{local_authority}"
-        puts "expected: #{expected.inspect.strip}"
-        puts "automated: #{automated.inspect.strip}"
+        puts "expected match:  #{expected.to_yaml}"
+        puts "automated match: #{automated.to_yaml}"
         puts ""
         exp = expected.try(key)
         aut = automated.try(map_key(key))
-        msg = ["whoah! #{list}", "expected", "'#{exp}'", "got", "'#{aut}'"].join("\t")
+        msg = ["whoah! for local_authority", "'#{local_authority}'",
+          list,
+          "expected", "'#{exp}'", "got", "'#{aut}'"].join("\t")
         puts msg
+        puts ""
         if key != :gss || !exp[/^N.*/]
-          raise msg
+          # raise msg
           puts ""
         end
       end
