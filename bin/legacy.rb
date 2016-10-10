@@ -10,11 +10,25 @@ require 'map_by_method'
 require 'morph'
 require 'yaml'
 
+def local_authority_data_meta file
+  id = file[%r{data/(local-authority-...)/}, 1]
+  {
+    id: id.gsub('-','_'),
+    name: 'name',
+    type: 'local_authority_type'
+  }
+end
+
 def load_meta file
-  dir = File.split(file).first
-  meta = File.join(dir, 'meta.yml')
-  YAML.load_file(meta).each_with_object({}) do |x, h|
-    h[x.first.to_sym] = x.last.gsub('-','_').downcase.to_sym
+  case file
+  when %r{data/local-authority-}
+    local_authority_data_meta file
+  else
+    dir = File.split(file).first
+    meta = File.join(dir, 'meta.yml')
+    YAML.load_file(meta).each_with_object({}) do |x, h|
+      h[x.first.to_sym] = x.last.gsub('-','_').downcase.to_sym
+    end
   end
 end
 
@@ -245,7 +259,7 @@ def class_matches(list, key)
 end
 
 def local_authority_from(list)
-  list.detect {|i| i.class == Morph::LocalAuthority}
+  list.detect {|i| i.class == Morph::LocalAuthorityEng}
 end
 
 def write_to_html class_keys, by_name, dataset_to_type
@@ -312,7 +326,12 @@ def write_to_html class_keys, by_name, dataset_to_type
               b.td { b.b( local_authority_from(list).try(:uk).to_s) }
               class_keys.each do |key|
                 values = class_matches(list, key).map do |item|
-                  value = item._id
+                  begin
+                    value = item._id
+                  rescue Exception => e
+                    require 'pry'
+                    binding.pry
+                  end
                   value += ' | ' + item._name unless item._id == item._name
                   type = 'unknown'
                   if item._type
@@ -418,7 +437,7 @@ def write_to_name_tsv class_keys, by_name
       class_keys.each do |key|
         names = class_matches(list, key).map { |item| item._name }
         names.each do |name|
-          name_hash[normalize_name_for_maps(name)] = local_authority.local_authority
+          name_hash[normalize_name_for_maps(name)] = local_authority.local_authority_eng
         end
       end
     end
@@ -440,10 +459,19 @@ log_legacy legacy
 
 by_name = group_by_normalize_name(authorities, legacy) ; nil
 
-type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthority']}
+type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthorityeng']}
 
-dataset_to_type = type_to_aliases.to_a.each_with_object({}) {|to_alias, h| mapping = to_alias.last ; type = to_alias.first ; mapping.each {|submap| submap.keys.each {|dataset| h[dataset] ||= {}; h[dataset][submap[dataset]] = type} } }
-dataset_to_type['localauthority']['district'] = 'district'
+dataset_to_type = type_to_aliases.to_a.each_with_object({}) do |to_alias, h|
+  mapping = to_alias.last
+  type = to_alias.first
+  mapping.each do |submap|
+    submap.keys.each do |dataset|
+      h[dataset] ||= {};
+      h[dataset][submap[dataset]] = type
+    end
+  end
+end
+
 dataset_to_type['legislation']['Local Government District'] = 'district'
 dataset_to_type['boundarycommission']['two-tier district'] = 'two-tier-district'
 dataset_to_type['boundarycommission']['unitary district'] = 'unitary-authority'
