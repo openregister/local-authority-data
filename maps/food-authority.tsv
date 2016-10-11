@@ -121,7 +121,7 @@ food-authority	local-authority	name	website	email
 237	local-authority-eng:ENO	East Northamptonshire	http://www.east-northamptonshire.gov.uk/	commhealth@east-northamptonshire.gov.uk
 787	local-authority-sct:ERW	East Renfrewshire	http://www.eastrenfrewshire.gov.uk/	EnvironmentalHealth@eastrenfrewshire.gov.uk
 863	local-authority-eng:ERY	East Riding of Yorkshire	http://www.eastriding.gov.uk	food.services@eastriding.gov.uk
-288	local-authority-eng:EAT	East Staffordshire	http://www.eaststaffsbc.gov.uk	foodteam@eaststaffsbc.gov.uk
+288	local-authority-eng:EST	East Staffordshire	http://www.eaststaffsbc.gov.uk	foodteam@eaststaffsbc.gov.uk
 102	local-authority-eng:EAS	Eastbourne	http://www.eastbourne.gov.uk/foodratings	Customerfirst@eastbourne.gov.uk
 133	local-authority-eng:EAT	Eastleigh	http://www.eastleigh.gov.uk/	eh@eastleigh.gov.uk
 059	local-authority-eng:EDN	Eden	http://www.eden.gov.uk/	foodratings@eden.gov.uk
