@@ -9,7 +9,7 @@ snac	local-authority
 	local-authority-nir:MEA
 	local-authority-nir:MUL
 	local-authority-nir:NMD
-00	local-authority-eng:GLA
+	local-authority-eng:GLA
 00AA	local-authority-eng:LND
 00AB	local-authority-eng:BDG
 00AC	local-authority-eng:BNT
