@@ -131,6 +131,7 @@ def fix_mispelling! name
     ['anglesey', 'isle of anglesey'],
     ['highlands', 'highland'],
     ['scottish borders', 'the scottish borders'],
+    ['scottish borders council', 'the scottish borders'],
     ['county of herefordshire', 'herefordshire'],
     ['city and county of the city of london', 'city of london'],
     ['na h eileanan an iar', 'eilean siar'],
@@ -173,6 +174,7 @@ def fix_mispelling! name
     ['(city of)', ''],
     ['the city of', ''],
     ['city of', ''],
+    ['council of the', ''],
     ['highands', 'highland'],
     ['london corporation', 'london'],
     ['comhairle nan eilean siar (western isles)', 'comhairle nan eilean siar'],
@@ -243,13 +245,14 @@ def normalize_name item
   name.tr!('-', ' ')
   name.gsub!(/\s+/, ' ')
   name.downcase!
-  name.sub!(' & ', ' and ')
+  name.sub!('&', ' and ')
 
   fix_mispelling! name
   remove_suffix! name
 
   name.sub!(/\sand$/, '')
   name.strip!
+  name.squeeze!(' ')
   name
 end
 
