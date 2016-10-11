@@ -36,7 +36,7 @@ snac	local-authority
 00BA	local-authority-eng:MRT
 00BB	local-authority-eng:NWM
 00BC	local-authority-eng:RDB
-00BD	local-authority-eng:RIC
+00BD	local-authority-eng:RIT
 00BE	local-authority-eng:SWK
 00BF	local-authority-eng:STN
 00BG	local-authority-eng:TWH
@@ -105,7 +105,7 @@ snac	local-authority
 00GF	local-authority-eng:TFW
 00GG	local-authority-eng:SHR
 00GL	local-authority-eng:STE
-00HA	local-authority-eng:BNE
+00HA	local-authority-eng:BAS
 00HB	local-authority-eng:BST
 00HC	local-authority-eng:NSM
 00HD	local-authority-eng:SGC
@@ -239,11 +239,11 @@ snac	local-authority
 21UG	local-authority-eng:ROH
 21UH	local-authority-eng:WEA
 22	local-authority-eng:ESS
-22UB	local-authority-eng:BAS
-22UC	local-authority-eng:BRT
+22UB	local-authority-eng:BAI
+22UC	local-authority-eng:BRA
 22UD	local-authority-eng:BRW
 22UE	local-authority-eng:CAS
-22UF	local-authority-eng:CHC
+22UF	local-authority-eng:CHL
 22UG	local-authority-eng:COL
 22UH	local-authority-eng:EPP
 22UJ	local-authority-eng:HAR
@@ -252,7 +252,7 @@ snac	local-authority
 22UN	local-authority-eng:TEN
 22UQ	local-authority-eng:UTT
 23	local-authority-eng:GLS
-23UB	local-authority-eng:CHE
+23UB	local-authority-eng:CHT
 23UC	local-authority-eng:COT
 23UD	local-authority-eng:FOE
 23UE	local-authority-eng:GLO
@@ -264,7 +264,7 @@ snac	local-authority
 24UD	local-authority-eng:EAT
 24UE	local-authority-eng:FAR
 24UF	local-authority-eng:GOS
-24UG	local-authority-eng:HAR
+24UG	local-authority-eng:HAT
 24UH	local-authority-eng:HAA
 24UJ	local-authority-eng:NEW
 24UL	local-authority-eng:RUH
@@ -306,7 +306,7 @@ snac	local-authority
 30UM	local-authority-eng:ROS
 30UN	local-authority-eng:SRI
 30UP	local-authority-eng:WLA
-30UQ	local-authority-eng:WYC
+30UQ	local-authority-eng:WYR
 31	local-authority-eng:LEC
 31UB	local-authority-eng:BLA
 31UC	local-authority-eng:CHA
@@ -369,9 +369,9 @@ snac	local-authority
 40UF	local-authority-eng:WSO
 41	local-authority-eng:STS
 41UB	local-authority-eng:CAN
-41UC	local-authority-eng:EAS
+41UC	local-authority-eng:EAT
 41UD	local-authority-eng:LIF
-41UE	local-authority-eng:NED
+41UE	local-authority-eng:NEC
 41UF	local-authority-eng:SST
 41UG	local-authority-eng:STA
 41UH	local-authority-eng:STF
@@ -405,7 +405,7 @@ snac	local-authority
 45	local-authority-eng:WSX
 45UB	local-authority-eng:ADU
 45UC	local-authority-eng:ARU
-45UD	local-authority-eng:CHS
+45UD	local-authority-eng:CHI
 45UE	local-authority-eng:CRW
 45UF	local-authority-eng:HOR
 45UG	local-authority-eng:MSS
