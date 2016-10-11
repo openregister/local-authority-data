@@ -1,5 +1,6 @@
 require 'morph'
 require 'net/http'
+require 'yaml'
 
 def load_legacy_report
   unless File.exist?("./legacy/report.tsv")
@@ -20,25 +21,42 @@ end
 
 def map_key key
   case key
+  when :gss
+    :os_boundary_line
   when :local_custodian
     :geoplace
   when :os
     :os_open_names
-  when :gss
-    :os_boundary_line
+  when :snac
+    :local_directgov
   else
     key
   end
 end
 
+def known_report_exception? key, expected
+  expected.try(:name).to_s[/MISSING/] ||
+  (key == :gss && expected.try(key).to_s[/^N.*/])
+end
+
 legacy_mapping = load_legacy_report
-lists = %w[ edubase food-authority local-custodian gss os ]
+lists = %w[
+  edubase
+  food-authority
+  gaz50k
+  gss
+  local-custodian
+  opendatacommunities
+  os
+  snac
+]
 
 lists.each do |list|
   puts ""
-  puts list
+  puts ""
+  print list
   data_by_local_authority = load_map_file(list)
-  puts "Expect mapping for: #{data_by_local_authority.count} files"
+  print ": expect mapping for #{data_by_local_authority.count} files"
 
   key = list.gsub('-','_').to_sym
 
@@ -49,29 +67,32 @@ lists.each do |list|
 
     begin
       if expected && automated && expected.send(key).to_s == automated.send(map_key(key)).to_s.split(';').uniq.last.to_s
-        print '.'
+        # print '.'
       elsif expected.nil? && automated.try(map_key(key)).blank?
-        print '-'
+        # print '-'
       elsif expected && map_key(key) == :geoplace && automated.send(:addressbase).split(';').uniq.include?(expected.send(key))
-        print '~'
-      else
+        # print '~'
+      elsif !known_report_exception?(key, expected)
+        puts ""
         puts "---"
         puts "local_authority: #{local_authority}"
-        puts "expected: #{expected.inspect.strip}"
-        puts "automated: #{automated.inspect.strip}"
+        puts "expected match:  #{expected.to_yaml}"
+        puts "automated match: #{automated.to_yaml}"
         puts ""
-        exp = expected.try(key)
-        aut = automated.try(map_key(key))
-        msg = ["whoah! #{list}", "expected", "'#{exp}'", "got", "'#{aut}'"].join("\t")
-        puts msg
-        if key != :gss || !exp[/^N.*/]
-          raise msg
-          puts ""
-        end
+        expected_key = expected.try(key)
+        automated_match_key = automated.try(map_key(key))
+        msg = ["whoah! for local_authority", "'#{local_authority}'",
+          list,
+          "expected", "'#{expected_key}'", "got", "'#{automated_match_key}'"].join("\t")
+        puts ""
+        raise msg
+        puts ""
       end
     rescue Exception => e
       raise e
     end
   end
+  puts " ... passed ok"
 
 end
+puts ""

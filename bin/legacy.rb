@@ -10,11 +10,24 @@ require 'map_by_method'
 require 'morph'
 require 'yaml'
 
+def local_authority_data_meta file
+  {
+    id: 'local_authority',
+    name: 'name',
+    type: 'local_authority_type'
+  }
+end
+
 def load_meta file
-  dir = File.split(file).first
-  meta = File.join(dir, 'meta.yml')
-  YAML.load_file(meta).each_with_object({}) do |x, h|
-    h[x.first.to_sym] = x.last.gsub('-','_').downcase.to_sym
+  case file
+  when %r{data/local-authority-}
+    local_authority_data_meta file
+  else
+    dir = File.split(file).first
+    meta = File.join(dir, 'meta.yml')
+    YAML.load_file(meta).each_with_object({}) do |x, h|
+      h[x.first.to_sym] = x.last.gsub('-','_').downcase.to_sym
+    end
   end
 end
 
@@ -24,9 +37,27 @@ def name_from file
   [name, extension]
 end
 
+def add_local_authority_type! list, country
+  case country
+  when 'wls'
+    list.each {|x| x.register = 'local-authority-wls'; x.local_authority_type = 'UA' }
+  when 'sct'
+    list.each {|x| x.register = 'local-authority-sct'; x.local_authority_type = 'CA' }
+  when 'nir'
+    list.each {|x| x.register = 'local-authority-nir'; x.local_authority_type = 'DIS' }
+  else
+    list.each {|x| x.register = 'local-authority-eng' }
+  end
+end
+
 def load_data name, extension, file
   data = IO.read(file).encode('UTF-8', 'binary', invalid: :replace, undef: :replace, replace: '')
-  Morph.send(:"from_#{extension.tr('.','')}", data, name)
+  data.sub!(/local-authority-(eng|wls|sct|nir)/, 'local-authority')
+  country = name[/_(eng|wls|sct|nir)/,1]
+  name = name.gsub(/_(eng|wls|sct|nir)/, '')
+  list = Morph.send(:"from_#{extension.tr('.','')}", data, name)
+  add_local_authority_type! list, country
+  list
 end
 
 def load file
@@ -46,7 +77,10 @@ def load file
 end
 
 def load_data_and_legacy
-  _, data = load Dir.glob('data/*/*{tsv}').first ; nil
+  data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/*{tsv}').flat_map do |file|
+    _, list = load file ; nil
+    list
+  end ; nil
 
   legacy = Dir.glob('legacy/*/*{tsv}').each_with_object({}) do |file, hash|
     begin
@@ -97,6 +131,7 @@ def fix_mispelling! name
     ['anglesey', 'isle of anglesey'],
     ['highlands', 'highland'],
     ['scottish borders', 'the scottish borders'],
+    ['scottish borders council', 'the scottish borders'],
     ['county of herefordshire', 'herefordshire'],
     ['city and county of the city of london', 'city of london'],
     ['na h eileanan an iar', 'eilean siar'],
@@ -139,6 +174,7 @@ def fix_mispelling! name
     ['(city of)', ''],
     ['the city of', ''],
     ['city of', ''],
+    ['council of the', ''],
     ['highands', 'highland'],
     ['london corporation', 'london'],
     ['comhairle nan eilean siar (western isles)', 'comhairle nan eilean siar'],
@@ -209,13 +245,14 @@ def normalize_name item
   name.tr!('-', ' ')
   name.gsub!(/\s+/, ' ')
   name.downcase!
-  name.sub!(' & ', ' and ')
+  name.sub!('&', ' and ')
 
   fix_mispelling! name
   remove_suffix! name
 
   name.sub!(/\sand$/, '')
   name.strip!
+  name.squeeze!(' ')
   name
 end
 
@@ -312,7 +349,12 @@ def write_to_html class_keys, by_name, dataset_to_type
               b.td { b.b( local_authority_from(list).try(:uk).to_s) }
               class_keys.each do |key|
                 values = class_matches(list, key).map do |item|
-                  value = item._id
+                  begin
+                    value = item._id
+                  rescue Exception => e
+                    require 'pry'
+                    binding.pry
+                  end
                   value += ' | ' + item._name unless item._id == item._name
                   type = 'unknown'
                   if item._type
@@ -374,7 +416,11 @@ def write_to_report_tsv class_keys, by_name
       next if n.blank?
       class_keys.each do |key|
         values = class_matches(list, key).map do |item|
-          value = item._id
+          if key.name == 'Morph::LocalAuthority'
+            "#{item.register}:#{item._id}"
+          else
+            item._id
+          end
         end.join(';')
         f.write(values)
         f.write("\t")
@@ -440,10 +486,20 @@ log_legacy legacy
 
 by_name = group_by_normalize_name(authorities, legacy) ; nil
 
-type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthority']}
+type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthorityeng']}
 
-dataset_to_type = type_to_aliases.to_a.each_with_object({}) {|to_alias, h| mapping = to_alias.last ; type = to_alias.first ; mapping.each {|submap| submap.keys.each {|dataset| h[dataset] ||= {}; h[dataset][submap[dataset]] = type} } }
-dataset_to_type['localauthority']['district'] = 'district'
+dataset_to_type = type_to_aliases.to_a.each_with_object({}) do |to_alias, h|
+  mapping = to_alias.last
+  type = to_alias.first
+  mapping.each do |submap|
+    submap.keys.each do |dataset|
+      h[dataset] ||= {};
+      h[dataset][submap[dataset]] = type
+    end
+  end
+end
+
+dataset_to_type['localauthority']['DIS'] = 'district'
 dataset_to_type['legislation']['Local Government District'] = 'district'
 dataset_to_type['boundarycommission']['two-tier district'] = 'two-tier-district'
 dataset_to_type['boundarycommission']['unitary district'] = 'unitary-authority'
