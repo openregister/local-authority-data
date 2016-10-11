@@ -21,24 +21,35 @@ end
 
 def map_key key
   case key
+  when :gss
+    :os_boundary_line
   when :local_custodian
     :geoplace
   when :os
     :os_open_names
-  when :gss
-    :os_boundary_line
+  when :snac
+    :local_directgov
   else
     key
   end
 end
 
 def known_report_exception? key, expected
-  expected.try(:name)[/MISSING/] ||
-  (key == :gss && expected.try(key)[/^N.*/])
+  expected.try(:name).to_s[/MISSING/] ||
+  (key == :gss && expected.try(key).to_s[/^N.*/])
 end
 
 legacy_mapping = load_legacy_report
-lists = %w[ edubase food-authority local-custodian gss os ]
+lists = %w[
+  edubase
+  food-authority
+  gaz50k
+  gss
+  local-custodian
+  opendatacommunities
+  os
+  snac
+]
 
 lists.each do |list|
   puts ""
