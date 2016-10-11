@@ -20,10 +20,10 @@ food-authority	local-authority	name	website	email
 502	local-authority-eng:BNE	Barnet	http://www.barnet.gov.uk/	FoodSafety@barnet.gov.uk
 401	local-authority-eng:BNS	Barnsley	http://www.barnsley.gov.uk	regulatoryservices@barnsley.gov.uk
 056	local-authority-eng:BAR	Barrow-in-Furness	http://www.barrowbc.gov.uk	commercial@barrowbc.gov.uk
-109	local-authority-eng:BAS	Basildon	http://www.basildon.gov.uk	ehs@basildon.gov.uk
+109	local-authority-eng:BAI	Basildon	http://www.basildon.gov.uk	ehs@basildon.gov.uk
 131	local-authority-eng:BAN	Basingstoke and Deane	http://www.basingstoke.gov.uk	ehteam@basingstoke.gov.uk
 260	local-authority-eng:BAE	Bassetlaw	http://www.bassetlaw.gov.uk	environmental.health@bassetlaw.gov.uk
-857	local-authority-eng:BNE	Bath and North East Somerset	http://www.bathnes.gov.uk/healthandsocial/foodsafety/Pages/default.aspx	public_protection@bathnes.gov.uk
+857	local-authority-eng:BAS	Bath and North East Somerset	http://www.bathnes.gov.uk/healthandsocial/foodsafety/Pages/default.aspx	public_protection@bathnes.gov.uk
 701	local-authority-eng:BDF	Bedford	http://www.bedford.gov.uk	ehadmin@bedford.gov.uk
 807	local-authority-nir:BFS	Belfast City	http://www.belfastcity.gov.uk/buildingcontrol-environment/foodsafety/consumers-foodhygienescheme.aspx	envhealth@belfastcity.gov.uk
 503	local-authority-eng:BEX	Bexley	http://www.bexley.gov.uk	food.safety@bexley.gov.uk
