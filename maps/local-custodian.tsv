@@ -1,12 +1,12 @@
 local-custodian	local-authority	name
-114	local-authority-eng:BNE	BATH AND NORTH EAST SOMERSET
+114	local-authority-eng:BAS	BATH AND NORTH EAST SOMERSET
 116	local-authority-eng:BST	BRISTOL
 119	local-authority-eng:SGC	SOUTH GLOUCESTERSHIRE
 121	local-authority-eng:NSM	NORTH SOMERSET
 230	local-authority-eng:LUT	LUTON
 235	local-authority-eng:BDF	BEDFORD
 240	local-authority-eng:CBF	CENTRAL BEDFORDSHIRE
-335	local-authority-eng:BNF	BRACKNELL FOREST
+335	local-authority-eng:BRC	BRACKNELL FOREST
 340	local-authority-eng:WBK	WEST BERKSHIRE
 345	local-authority-eng:RDG	READING
 350	local-authority-eng:SLG	SLOUGH
@@ -27,8 +27,8 @@ local-custodian	local-authority	name
 540	local-authority-eng:PTE	PETERBOROUGH
 650	local-authority-eng:HAL	HALTON
 655	local-authority-eng:WRT	WARRINGTON
-660	local-authority-eng:CEA	CHESHIRE EAST
-665	local-authority-eng:CWE	CHESHIRE WEST AND CHESTER
+660	local-authority-eng:CHE	CHESHIRE EAST
+665	local-authority-eng:CHW	CHESHIRE WEST AND CHESTER
 724	local-authority-eng:HPL	HARTLEPOOL
 728	local-authority-eng:RCC	REDCAR AND CLEVELAND
 734	local-authority-eng:MDB	MIDDLESBROUGH
@@ -94,8 +94,8 @@ local-custodian	local-authority	name
 1560	local-authority-eng:TDR	TENDRING
 1570	local-authority-eng:UTD	UTTLESFORD
 1585	local-authority-eng:ESS	*MISSING*
-1590	local-authority-eng:SSE	SOUTHEND-ON-SEA
-1595	local-authority-eng:TUK	THURROCK
+1590	local-authority-eng:SOS	SOUTHEND-ON-SEA
+1595	local-authority-eng:THR	THURROCK
 1600	local-authority-eng:GLS	*MISSING*
 1605	local-authority-eng:CHE	CHELTENHAM
 1610	local-authority-eng:CWD	COTSWOLD
@@ -246,7 +246,7 @@ local-custodian	local-authority	name
 3435	local-authority-eng:STM	STAFFORDSHIRE MOORLANDS
 3445	local-authority-eng:TAB	TAMWORTH
 3450	local-authority-eng:STS	*MISSING*
-3455	local-authority-eng:SOT	CITY OF STOKE-ON-TRENT
+3455	local-authority-eng:STE	CITY OF STOKE-ON-TRENT
 3500	local-authority-eng:SFK	*MISSING*
 3505	local-authority-eng:BBG	BABERGH
 3510	local-authority-eng:FOH	FOREST HEATH
@@ -311,17 +311,18 @@ local-custodian	local-authority	name
 4610	local-authority-eng:COV	COVENTRY
 4615	local-authority-eng:DUD	DUDLEY
 4620	local-authority-eng:SAW	SANDWELL
-4625	local-authority-eng:SHL	SOLIHULL
+4625	local-authority-eng:SOL	SOLIHULL
 4630	local-authority-eng:WLL	WALSALL
 4635	local-authority-eng:WLV	WOLVERHAMPTON
 4705	local-authority-eng:BRD	BRADFORD MDC
+4710	local-authority-eng:CLD	CALDERDALE
 4710	local-authority-eng:CLD	CALDERDALE
 4715	local-authority-eng:KIR	KIRKLEES
 4720	local-authority-eng:LDS	LEEDS
 4725	local-authority-eng:WKF	WAKEFIELD
 5030	local-authority-eng:LND	CITY OF LONDON
 5060	local-authority-eng:BDG	BARKING AND DAGENHAM
-5090	local-authority-eng:BNT	BARNET
+5090	local-authority-eng:BNE	BARNET
 5120	local-authority-eng:BEX	BEXLEY
 5150	local-authority-eng:BEN	BRENT
 5180	local-authority-eng:BRY	LONDON BOROUGH OF BROMLEY
@@ -345,7 +346,7 @@ local-custodian	local-authority	name
 5720	local-authority-eng:MRT	MERTON
 5750	local-authority-eng:NWM	NEWHAM
 5780	local-authority-eng:RDB	REDBRIDGE
-5810	local-authority-eng:RIC	RICHMOND UPON THAMES
+5810	local-authority-eng:RIT	RICHMOND UPON THAMES
 5840	local-authority-eng:SWK	SOUTHWARK
 5870	local-authority-eng:STN	SUTTON
 5900	local-authority-eng:TWH	TOWER HAMLETS
