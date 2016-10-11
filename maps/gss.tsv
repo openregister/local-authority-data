@@ -24,10 +24,10 @@ E09000002	local-authority-eng:BDG	Barking and Dagenham
 E09000003	local-authority-eng:BNE	Barnet
 E08000016	local-authority-eng:BNS	Barnsley
 E07000027	local-authority-eng:BAR	Barrow-in-Furness
-E07000066	local-authority-eng:BAS	Basildon
+E07000066	local-authority-eng:BAI	Basildon
 E07000084	local-authority-eng:BAN	Basingstoke and Deane
 E07000171	local-authority-eng:BAE	Bassetlaw
-E06000022	local-authority-eng:BNE	Bath and North East Somerset
+E06000022	local-authority-eng:BAS	Bath and North East Somerset
 E06000055	local-authority-eng:BDF	Bedford
 N09000003	local-authority-nir:BFS	Belfast
 E09000004	local-authority-eng:BEX	Bexley
@@ -42,7 +42,7 @@ E07000136	local-authority-eng:BOT	Boston
 E06000028	local-authority-eng:BMH	Bournemouth
 E06000036	local-authority-eng:BRC	Bracknell Forest
 E08000032	local-authority-eng:BRD	Bradford
-E07000067	local-authority-eng:BRT	Braintree
+E07000067	local-authority-eng:BRA	Braintree
 E07000143	local-authority-eng:BRE	Breckland
 E09000005	local-authority-eng:BEN	Brent
 E07000068	local-authority-eng:BRW	Brentwood
@@ -73,13 +73,13 @@ N09000004	local-authority-nir:CCG	Causeway Coast and Glens
 E06000056	local-authority-eng:CBF	Central Bedfordshire
 W06000008	local-authority-wls:CGN	Ceredigion
 E07000130	local-authority-eng:CHA	Charnwood
-E07000070	local-authority-eng:CHC	Chelmsford
-E07000078	local-authority-eng:CHE	Cheltenham
+E07000070	local-authority-eng:CHL	Chelmsford
+E07000078	local-authority-eng:CHT	Cheltenham
 E07000177	local-authority-eng:CHR	Cherwell
 E06000049	local-authority-eng:CHE	Cheshire East
 E06000050	local-authority-eng:CHW	Cheshire West and Chester
 E07000034	local-authority-eng:CHS	Chesterfield
-E07000225	local-authority-eng:CHS	Chichester
+E07000225	local-authority-eng:CHI	Chichester
 E07000005	local-authority-eng:CHN	Chiltern
 E07000118	local-authority-eng:CHO	Chorley
 E07000048	local-authority-eng:CHC	Christchurch
@@ -135,7 +135,7 @@ S12000010	local-authority-sct:ELN	East Lothian
 E07000152	local-authority-eng:ENO	East Northamptonshire
 S12000011	local-authority-sct:ERW	East Renfrewshire
 E06000011	local-authority-eng:ERY	East Riding of Yorkshire
-E07000193	local-authority-eng:EAS	East Staffordshire
+E07000193	local-authority-eng:EAT	East Staffordshire
 E10000011	local-authority-eng:ESX	East Sussex
 E07000061	local-authority-eng:EAS	Eastbourne
 E07000086	local-authority-eng:EAT	Eastleigh
@@ -180,7 +180,7 @@ E09000014	local-authority-eng:HRY	Haringey
 E07000073	local-authority-eng:HAR	Harlow
 E07000165	local-authority-eng:HAG	Harrogate
 E09000015	local-authority-eng:HRW	Harrow
-E07000089	local-authority-eng:HAR	Hart
+E07000089	local-authority-eng:HAT	Hart
 E06000001	local-authority-eng:HPL	Hartlepool
 E07000062	local-authority-eng:HAS	Hastings
 E07000090	local-authority-eng:HAA	Havant
@@ -253,7 +253,7 @@ W06000012	local-authority-wls:NTL	Neath Port Talbot
 E07000091	local-authority-eng:NEW	New Forest
 E07000175	local-authority-eng:NEA	Newark and Sherwood
 E08000021	local-authority-eng:NET	Newcastle upon Tyne
-E07000195	local-authority-eng:NED	Newcastle-under-Lyme
+E07000195	local-authority-eng:NEC	Newcastle-under-Lyme
 E09000025	local-authority-eng:NWM	Newham
 W06000022	local-authority-wls:NWP	Newport
 	local-authority-nir:NIR-P	
@@ -307,7 +307,7 @@ E07000211	local-authority-eng:REI	Reigate and Banstead
 S12000038	local-authority-sct:RFW	Renfrewshire
 W06000016	local-authority-wls:RCT	Rhondda Cynon Taf
 E07000124	local-authority-eng:RIB	Ribble Valley
-E09000027	local-authority-eng:RIC	Richmond upon Thames
+E09000027	local-authority-eng:RIT	Richmond upon Thames
 E07000166	local-authority-eng:RIC	Richmondshire
 E08000005	local-authority-eng:RCH	Rochdale
 E07000075	local-authority-eng:ROC	Rochford
@@ -440,6 +440,6 @@ E07000229	local-authority-eng:WOT	Worthing
 W06000006	local-authority-wls:WRX	Wrexham
 E07000238	local-authority-eng:WYC	Wychavon
 E07000007	local-authority-eng:WYO	Wycombe
-E07000128	local-authority-eng:WYC	Wyre
+E07000128	local-authority-eng:WYR	Wyre
 E07000239	local-authority-eng:WYE	Wyre Forest
 E06000014	local-authority-eng:YOR	York
