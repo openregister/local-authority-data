@@ -38,7 +38,7 @@ food-authority	local-authority	name	website	email
 872	local-authority-eng:BMH	Bournemouth	http://www.bournemouth.gov.uk	foodandhealthandsafety@bournemouth.gov.uk
 882	local-authority-eng:BRC	Bracknell Forest	http://www.bracknell-forest.gov.uk	environmental.health@bracknell-forest.gov.uk
 404	local-authority-eng:BRD	Bradford	http://www.bradford.gov.uk	eh.admin@bradford.gov.uk
-110	local-authority-eng:BRT	Braintree	http://www.braintree.gov.uk	health_protection@braintree.gov.uk
+110	local-authority-eng:BRA	Braintree	http://www.braintree.gov.uk	health_protection@braintree.gov.uk
 227	local-authority-eng:BRE	Breckland	http://www.breckland.gov.uk/	eh.bst@breckland.gov.uk
 504	local-authority-eng:BEN	Brent	http://www.brent.gov.uk/	ens.foodsafety@brent.gov.uk
 111	local-authority-eng:BRW	Brentwood	http://www.brentwood.gov.uk/	envhealth@brentwood.gov.uk
@@ -71,13 +71,13 @@ food-authority	local-authority	name	website	email
 702	local-authority-eng:CBF	Central Bedfordshire	http://www.centralbedfordshire.gov.uk	env.health@centralbedfordshire.gov.uk
 557	local-authority-wls:CGN	Ceredigion	http://www.ceredigion.gov.uk/	envhealth@ceredigion.gov.uk
 210	local-authority-eng:CHA	Charnwood	http://www.charnwood.gov.uk/	food.hygiene@charnwood.gov.uk
-113	local-authority-eng:CHC	Chelmsford	http://www.chelmsford.gov.uk	safesupport@chelmsford.gov.uk
-124	local-authority-eng:CHE	Cheltenham	http://www.cheltenham.gov.uk	ehbusinesssupport@cheltenham.gov.uk
+113	local-authority-eng:CHL	Chelmsford	http://www.chelmsford.gov.uk	safesupport@chelmsford.gov.uk
+124	local-authority-eng:CHT	Cheltenham	http://www.cheltenham.gov.uk	ehbusinesssupport@cheltenham.gov.uk
 268	local-authority-eng:CHR	Cherwell	http://www.cherwell.gov.uk	public.protection@cherwell-dc.gov.uk
 703	local-authority-eng:CHE	Cheshire East	http://www.cheshireeast.gov.uk/	commercialservices@cheshireeast.gov.uk
 704	local-authority-eng:CHW	Cheshire West and Chester	http://www.cheshirewestandchester.gov.uk	foodsafety@cheshirewestandchester.gov.uk
 064	local-authority-eng:CHS	Chesterfield	http://www.chesterfield.gov.uk	food@chesterfield.gov.uk
-325	local-authority-eng:CHS	Chichester	http://www.chichester.gov.uk	environmentalhealth@chichester.gov.uk
+325	local-authority-eng:CHI	Chichester	http://www.chichester.gov.uk	environmentalhealth@chichester.gov.uk
 022	local-authority-eng:CHN	Chiltern	http://www.chiltern.gov.uk	envhealth@chiltern.gov.uk
 197	local-authority-eng:CHO	Chorley	http://www.chorley.gov.uk/foodratings	contact@chorley.gov.uk
 084	local-authority-eng:CHC	Christchurch	http://www.dorsetforyou.com	environmental.services@christchurch.gov.uk
@@ -121,7 +121,7 @@ food-authority	local-authority	name	website	email
 237	local-authority-eng:ENO	East Northamptonshire	http://www.east-northamptonshire.gov.uk/	commhealth@east-northamptonshire.gov.uk
 787	local-authority-sct:ERW	East Renfrewshire	http://www.eastrenfrewshire.gov.uk/	EnvironmentalHealth@eastrenfrewshire.gov.uk
 863	local-authority-eng:ERY	East Riding of Yorkshire	http://www.eastriding.gov.uk	food.services@eastriding.gov.uk
-288	local-authority-eng:EAS	East Staffordshire	http://www.eaststaffsbc.gov.uk	foodteam@eaststaffsbc.gov.uk
+288	local-authority-eng:EAT	East Staffordshire	http://www.eaststaffsbc.gov.uk	foodteam@eaststaffsbc.gov.uk
 102	local-authority-eng:EAS	Eastbourne	http://www.eastbourne.gov.uk/foodratings	Customerfirst@eastbourne.gov.uk
 133	local-authority-eng:EAT	Eastleigh	http://www.eastleigh.gov.uk/	eh@eastleigh.gov.uk
 059	local-authority-eng:EDN	Eden	http://www.eden.gov.uk/	foodratings@eden.gov.uk
@@ -160,7 +160,7 @@ food-authority	local-authority	name	website	email
 116	local-authority-eng:HAR	Harlow	http://www.harlow.gov.uk/	env.health@harlow.gov.uk
 252	local-authority-eng:HAG	Harrogate	http://www.harrogate.gov.uk	foodandoccupationalsafety@harrogate.gov.uk
 515	local-authority-eng:HRW	Harrow	http://www.harrow.gov.uk	ehealth@harrow.gov.uk
-136	local-authority-eng:HAR	Hart	http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm	eh@hart.gov.uk
+136	local-authority-eng:HAT	Hart	http://www.hart.gov.uk/index/environment-and-planning/environmental_health/food_safety.htm	eh@hart.gov.uk
 859	local-authority-eng:HPL	Hartlepool	http://www.hartlepool.gov.uk	jane.kett@hartlepool.gov.uk
 103	local-authority-eng:HAS	Hastings	http://www.hastings.gov.uk	fhrs@hastings.gov.uk
 137	local-authority-eng:HAA	Havant	http://www.havant.gov.uk	ehcommercial@havant.gov.uk
@@ -224,7 +224,7 @@ food-authority	local-authority	name	website	email
 138	local-authority-eng:NEW	New Forest	http://www.newforest.gov.uk	hygiene.rating@nfdc.gov.uk
 264	local-authority-eng:NEA	Newark and Sherwood	http://www.newark-sherwooddc.gov.uk/	environmental.health@nsdc.info
 416	local-authority-eng:NET	Newcastle Upon Tyne	http://www.newcastle.gov.uk/	rspp@newcastle.gov.uk
-290	local-authority-eng:NED	Newcastle-Under-Lyme	http://www.newcastle-staffs.gov.uk/	foodandsafety@newcastle-staffs.gov.uk
+290	local-authority-eng:NEC	Newcastle-Under-Lyme	http://www.newcastle-staffs.gov.uk/	foodandsafety@newcastle-staffs.gov.uk
 525	local-authority-eng:NWM	Newham	http://ww2.newham.gov.uk/Pages/index.aspx	food@newham.gov.uk
 564	local-authority-wls:NWP	Newport	http://www.newport.gov.uk	environmental.health@newport.gov.uk
 814	local-authority-nir:NMD	Newry, Mourne and Down	http://www.newrymournedown.org	env.health@nmandd.org
@@ -271,7 +271,7 @@ food-authority	local-authority	name	website	email
 567	local-authority-wls:RCT	Rhondda Cynon Taf	http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx	food.healthandsafety@rctcbc.gov.uk
 203	local-authority-eng:RIB	Ribble Valley	http://www.ribblevalley.gov.uk	environmental.health@ribblevalley.gov.uk
 253	local-authority-eng:RIC	Richmondshire	http://www.richmondshire.gov.uk/	environment@richmondshire.gov.uk
-527	local-authority-eng:RIC	Richmond-Upon-Thames	http://www.richmond.gov.uk	commercialeh@richmond.gov.uk
+527	local-authority-eng:RIT	Richmond-Upon-Thames	http://www.richmond.gov.uk	commercialeh@richmond.gov.uk
 648		River Tees	http://www.teesporthealth.co.uk	port.health@redcar-cleveland.gov.uk
 419	local-authority-eng:RCH	Rochdale	http://www.rochdale.gov.uk/health_and_social_care/food/food_safety_-_inspections/food_safety_for_businesses.aspx	environmental.health2@rochdale.gov.uk
 118	local-authority-eng:ROC	Rochford	http://www.rochford.gov.uk	customerservices@rochford.gov.uk
@@ -401,7 +401,7 @@ food-authority	local-authority	name	website	email
 571	local-authority-wls:WRX	Wrexham	http://www.wrexham.gov.uk/	public_protection_service@wrexham.gov.uk
 152	local-authority-eng:WYC	Wychavon	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
 025	local-authority-eng:WYO	Wycombe	http://www.wycombe.gov.uk	Food.Ratings@wycombe.gov.uk
-207	local-authority-eng:WYC	Wyre	https://wyre.gov.uk	mailroom@wyre.gov.uk
+207	local-authority-eng:WYR	Wyre	https://wyre.gov.uk	mailroom@wyre.gov.uk
 153	local-authority-eng:WYE	Wyre Forest	http://www.worcsregservices.gov.uk	wrsenquiries@worcsregservices.gov.uk
 551	local-authority-wls:AGY	Ynys Môn/ Isle of Anglesey	http://www.ynysmon.gov.uk	iechydyramgylchedd@ynysmon.gov.uk
 868	local-authority-eng:YOR	York	http://www.york.gov.uk	food.safety@york.gov.uk
