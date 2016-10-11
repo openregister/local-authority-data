@@ -32,14 +32,20 @@ def map_key key
   end
 end
 
+def known_report_exception? key, expected
+  expected.try(:name)[/MISSING/] ||
+  (key == :gss && expected.try(key)[/^N.*/])
+end
+
 legacy_mapping = load_legacy_report
 lists = %w[ edubase food-authority local-custodian gss os ]
 
 lists.each do |list|
   puts ""
-  puts list
+  puts ""
+  print list
   data_by_local_authority = load_map_file(list)
-  puts "Expect mapping for: #{data_by_local_authority.count} files"
+  print ": expect mapping for #{data_by_local_authority.count} files"
 
   key = list.gsub('-','_').to_sym
 
@@ -50,33 +56,32 @@ lists.each do |list|
 
     begin
       if expected && automated && expected.send(key).to_s == automated.send(map_key(key)).to_s.split(';').uniq.last.to_s
-        print '.'
+        # print '.'
       elsif expected.nil? && automated.try(map_key(key)).blank?
-        print '-'
+        # print '-'
       elsif expected && map_key(key) == :geoplace && automated.send(:addressbase).split(';').uniq.include?(expected.send(key))
-        print '~'
-      else
+        # print '~'
+      elsif !known_report_exception?(key, expected)
         puts ""
         puts "---"
         puts "local_authority: #{local_authority}"
         puts "expected match:  #{expected.to_yaml}"
         puts "automated match: #{automated.to_yaml}"
         puts ""
-        exp = expected.try(key)
-        aut = automated.try(map_key(key))
+        expected_key = expected.try(key)
+        automated_match_key = automated.try(map_key(key))
         msg = ["whoah! for local_authority", "'#{local_authority}'",
           list,
-          "expected", "'#{exp}'", "got", "'#{aut}'"].join("\t")
-        puts msg
+          "expected", "'#{expected_key}'", "got", "'#{automated_match_key}'"].join("\t")
         puts ""
-        if key != :gss || !exp[/^N.*/]
-          # raise msg
-          puts ""
-        end
+        raise msg
+        puts ""
       end
     rescue Exception => e
       raise e
     end
   end
+  puts " ... passed ok"
 
 end
+puts ""
