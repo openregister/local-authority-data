@@ -2,9 +2,9 @@ gaz50k	local-authority
 LO	local-authority-eng:LND
 AG	local-authority-sct:ANS
 RD	local-authority-eng:RCH
-BC	local-authority-eng:BNF
+BC	local-authority-eng:BRC
 YY	local-authority-eng:SKP
-YS	local-authority-eng:SSE
+YS	local-authority-eng:SOS
 RH	local-authority-wls:RCT
 ES	local-authority-eng:ESX
 WH	local-authority-eng:WLV
@@ -22,7 +22,7 @@ BZ	local-authority-eng:BST
 HE	local-authority-eng:HEF
 WX	local-authority-wls:WRX
 YT	local-authority-eng:SLG
-WK	local-authority-eng:WKS
+WK	local-authority-eng:WAR
 WG	local-authority-eng:WRT
 CW	local-authority-wls:CWY
 HP	local-authority-eng:HAM
@@ -37,7 +37,7 @@ BR	local-authority-eng:BRY
 SX	local-authority-sct:SAY
 LN	local-authority-eng:LUT
 SI	local-authority-sct:ZET
-HD	local-authority-eng:HFS
+HD	local-authority-eng:HRT
 KN	local-authority-eng:KWL
 WN	local-authority-eng:WGN
 KG	local-authority-eng:KTT
@@ -48,7 +48,7 @@ IL	local-authority-eng:ISL
 PY	local-authority-eng:PLY
 HS	local-authority-eng:HNS
 WC	local-authority-eng:WNM
-BN	local-authority-eng:BNT
+BN	local-authority-eng:BNE
 TB	local-authority-eng:TOB
 TR	local-authority-eng:TRF
 EN	local-authority-eng:ENF
@@ -76,10 +76,10 @@ MM	local-authority-wls:MON
 ED	local-authority-sct:EDU
 HL	local-authority-sct:HLD
 LD	local-authority-eng:LDS
-TU	local-authority-eng:TUK
+TU	local-authority-eng:THR
 MI	local-authority-sct:MLN
 KH	local-authority-eng:KHL
-SQ	local-authority-eng:SHL
+SQ	local-authority-eng:SOL
 BX	local-authority-eng:BEX
 BH	local-authority-eng:BNH
 SC	local-authority-eng:SLF
@@ -98,7 +98,7 @@ BT	local-authority-eng:BEN
 LB	local-authority-eng:LBH
 DN	local-authority-eng:DEV
 DT	local-authority-eng:DOR
-SJ	local-authority-eng:SOT
+SJ	local-authority-eng:STE
 ST	local-authority-eng:SOM
 DU	local-authority-eng:DUR
 RG	local-authority-eng:RDG
@@ -109,7 +109,7 @@ SS	local-authority-wls:SWA
 NC	local-authority-eng:NEL
 IM	
 BF	local-authority-eng:BDF
-CH	local-authority-eng:CEA
+CH	local-authority-eng:CHE
 PW	local-authority-wls:POW
 LA	local-authority-eng:LAN
 CU	local-authority-eng:CMA
@@ -136,7 +136,7 @@ KT	local-authority-eng:KEN
 AN	local-authority-sct:ABE
 VG	local-authority-wls:VGL
 NY	local-authority-eng:NYK
-BS	local-authority-eng:BNE
+BS	local-authority-eng:BAS
 BI	local-authority-eng:BIR
 NG	local-authority-eng:NGM
 NK	local-authority-eng:NFK
@@ -155,7 +155,7 @@ HI	local-authority-eng:HIL
 MK	local-authority-eng:MIK
 BD	local-authority-eng:BDG
 MT	local-authority-wls:MTY
-RT	local-authority-eng:RIC
+RT	local-authority-eng:RIT
 SF	local-authority-eng:STS
 WP	local-authority-eng:TFW
 DB	local-authority-eng:DER
@@ -200,7 +200,7 @@ RB	local-authority-eng:RDB
 CB	local-authority-eng:CAM
 IA	local-authority-wls:AGY
 PK	local-authority-sct:PKN
-CC	local-authority-eng:CWE
+CC	local-authority-eng:CHW
 SL	local-authority-sct:SLK
 SK	local-authority-eng:SFK
 PE	local-authority-eng:PTE
