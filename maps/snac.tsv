@@ -36,7 +36,7 @@ snac	local-authority
 00BA	local-authority-eng:MRT
 00BB	local-authority-eng:NWM
 00BC	local-authority-eng:RDB
-00BD	local-authority-eng:RIT
+00BD	local-authority-eng:RIC
 00BE	local-authority-eng:SWK
 00BF	local-authority-eng:STN
 00BG	local-authority-eng:TWH
@@ -343,7 +343,7 @@ snac	local-authority
 36UB	local-authority-eng:CRA
 36UC	local-authority-eng:HAE
 36UD	local-authority-eng:HAG
-36UE	local-authority-eng:RIC
+36UE	local-authority-eng:RID
 36UF	local-authority-eng:RYE
 36UG	local-authority-eng:SCE
 36UH	local-authority-eng:SEL

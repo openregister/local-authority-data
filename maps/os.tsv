@@ -137,7 +137,7 @@ os	local-authority	name
 7000000000011391	local-authority-eng:HRW	Harrow
 7000000000011399	local-authority-eng:EAL	Ealing
 7000000000011412	local-authority-eng:KTT	Kingston upon Thames
-7000000000011427	local-authority-eng:RIT	Richmond upon Thames
+7000000000011427	local-authority-eng:RIC	Richmond upon Thames
 7000000000011447	local-authority-eng:BEN	Brent
 7000000000011489	local-authority-eng:HNS	Hounslow
 7000000000011539	local-authority-eng:HIL	Hillingdon
@@ -270,7 +270,7 @@ os	local-authority	name
 7000000000021482	local-authority-eng:HAE	Hambleton
 7000000000021490	local-authority-eng:HAG	Harrogate
 7000000000021698	local-authority-eng:CRA	Craven
-7000000000021986	local-authority-eng:RIC	Richmondshire
+7000000000021986	local-authority-eng:RID	Richmondshire
 7000000000022028	local-authority-eng:NYK	North Yorkshire
 7000000000022569	local-authority-eng:SHA	South Hams
 7000000000022606	local-authority-eng:EXE	Exeter

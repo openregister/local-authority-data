@@ -270,8 +270,8 @@ food-authority	local-authority	name	website	email
 788	local-authority-sct:RFW	Renfrewshire	http://www.renfrewshire.gov.uk/webcontent/home/services/environment/food%2C+hygiene+and+quality/es-foodhygieneinformationschemehomepage__wci__1341	b-serv.es@renfrewshire.gov.uk
 567	local-authority-wls:RCT	Rhondda Cynon Taf	http://www.rhondda-cynon-taf.gov.uk/en/business/healthandsafety/foodbusiness-foodsafetyinspections/foodbusiness-foodsafetyinspection.aspx	food.healthandsafety@rctcbc.gov.uk
 203	local-authority-eng:RIB	Ribble Valley	http://www.ribblevalley.gov.uk	environmental.health@ribblevalley.gov.uk
-253	local-authority-eng:RIC	Richmondshire	http://www.richmondshire.gov.uk/	environment@richmondshire.gov.uk
-527	local-authority-eng:RIT	Richmond-Upon-Thames	http://www.richmond.gov.uk	commercialeh@richmond.gov.uk
+253	local-authority-eng:RID	Richmondshire	http://www.richmondshire.gov.uk/	environment@richmondshire.gov.uk
+527	local-authority-eng:RIC	Richmond-Upon-Thames	http://www.richmond.gov.uk	commercialeh@richmond.gov.uk
 648		River Tees	http://www.teesporthealth.co.uk	port.health@redcar-cleveland.gov.uk
 419	local-authority-eng:RCH	Rochdale	http://www.rochdale.gov.uk/health_and_social_care/food/food_safety_-_inspections/food_safety_for_businesses.aspx	environmental.health2@rochdale.gov.uk
 118	local-authority-eng:ROC	Rochford	http://www.rochford.gov.uk	customerservices@rochford.gov.uk
