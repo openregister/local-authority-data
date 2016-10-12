@@ -12,6 +12,7 @@ legacy/report.html:	bin/legacy.rb
 
 clobber:
 	rm -f $(TARGETS)
+	rm -f legacy/names.tsv
 
 flake8:
 	flake8 bin
