@@ -23,6 +23,8 @@ def map_key key
   case key
   when :gss
     :os_boundary_line
+  when :iso_code
+    :iso
   when :local_custodian
     :geoplace
   when :os
@@ -45,6 +47,7 @@ lists = %w[
   food-authority
   gaz50k
   gss
+  iso-code
   local-custodian
   opendatacommunities
   os

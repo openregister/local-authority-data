@@ -1,59 +1,59 @@
 os	local-authority	name
-7000000000000009	local-authority-eng:SHL	Solihull
+7000000000000009	local-authority-eng:SOL	Solihull
 7000000000000018	local-authority-eng:BIR	Birmingham
 7000000000000033	local-authority-eng:COV	Coventry
 7000000000000072	local-authority-eng:WLL	Walsall
 7000000000000081	local-authority-eng:SAW	Sandwell
 7000000000000109	local-authority-eng:DUD	Dudley
 7000000000000156	local-authority-eng:WLV	City of Wolverhampton
-7000000000001255	local-authority-eng:CCC	Cambridge
-7000000000001303	local-authority-eng:SOC	South Cambridgeshire
-7000000000001348	local-authority-eng:EAC	East Cambridgeshire
-7000000000001357	local-authority-eng:FLD	Fenland
+7000000000001255	local-authority-eng:CAB	Cambridge
+7000000000001303	local-authority-eng:SCA	South Cambridgeshire
+7000000000001348	local-authority-eng:ECA	East Cambridgeshire
+7000000000001357	local-authority-eng:FEN	Fenland
 7000000000001386	local-authority-eng:CAM	Cambridgeshire
-7000000000001470	local-authority-eng:HUD	Huntingdonshire
-7000000000002583	local-authority-eng:HST	Hastings
+7000000000001470	local-authority-eng:HUN	Huntingdonshire
+7000000000002583	local-authority-eng:HAS	Hastings
 7000000000002625	local-authority-eng:ESX	East Sussex
-7000000000002632	local-authority-eng:EBO	Eastbourne
-7000000000002678	local-authority-eng:WLD	Wealden
-7000000000002852	local-authority-eng:RTR	Rother
-7000000000002896	local-authority-eng:LED	Lewes
+7000000000002632	local-authority-eng:EAS	Eastbourne
+7000000000002678	local-authority-eng:WEA	Wealden
+7000000000002852	local-authority-eng:ROH	Rother
+7000000000002896	local-authority-eng:LEE	Lewes
 7000000000002993	local-authority-eng:WOR	Worcestershire
 7000000000003080	local-authority-eng:BRM	Bromsgrove
-7000000000003085	local-authority-eng:REB	Redditch
-7000000000003127	local-authority-eng:WYN	Wychavon
+7000000000003085	local-authority-eng:RED	Redditch
+7000000000003127	local-authority-eng:WYC	Wychavon
 7000000000003134	local-authority-eng:WOC	Worcester
-7000000000003214	local-authority-eng:WYF	Wyre Forest
-7000000000003292	local-authority-eng:MAH	Malvern Hills
-7000000000003623	local-authority-eng:BXB	Broxbourne
+7000000000003214	local-authority-eng:WYE	Wyre Forest
+7000000000003292	local-authority-eng:MAV	Malvern Hills
+7000000000003623	local-authority-eng:BRX	Broxbourne
 7000000000003679	local-authority-eng:EHE	East Hertfordshire
-7000000000003708	local-authority-eng:HEB	Hertsmere
-7000000000003728	local-authority-eng:WEH	Welwyn Hatfield
+7000000000003708	local-authority-eng:HER	Hertsmere
+7000000000003728	local-authority-eng:WEW	Welwyn Hatfield
 7000000000003744	local-authority-eng:STV	Stevenage
-7000000000003796	local-authority-eng:WTF	Watford
-7000000000003826	local-authority-eng:TRR	Three Rivers
-7000000000003876	local-authority-eng:SAC	St. Albans
-7000000000003897	local-authority-eng:NOH	North Hertfordshire
-7000000000003909	local-authority-eng:HFS	Hertfordshire
-7000000000003923	local-authority-eng:DAB	Dacorum
-7000000000004566	local-authority-eng:BUB	Burnley
-7000000000004572	local-authority-eng:ROB	Rossendale
-7000000000004627	local-authority-eng:HYB	Hyndburn
-7000000000004713	local-authority-eng:RIV	Ribble Valley
-7000000000004768	local-authority-eng:CLY	Chorley
-7000000000004834	local-authority-eng:SOR	South Ribble
-7000000000004853	local-authority-eng:PRC	Preston
+7000000000003796	local-authority-eng:WAT	Watford
+7000000000003826	local-authority-eng:THE	Three Rivers
+7000000000003876	local-authority-eng:SAL	St. Albans
+7000000000003897	local-authority-eng:NHE	North Hertfordshire
+7000000000003909	local-authority-eng:HRT	Hertfordshire
+7000000000003923	local-authority-eng:DAC	Dacorum
+7000000000004566	local-authority-eng:BUN	Burnley
+7000000000004572	local-authority-eng:ROS	Rossendale
+7000000000004627	local-authority-eng:HYN	Hyndburn
+7000000000004713	local-authority-eng:RIB	Ribble Valley
+7000000000004768	local-authority-eng:CHO	Chorley
+7000000000004834	local-authority-eng:SRI	South Ribble
+7000000000004853	local-authority-eng:PRE	Preston
 7000000000004912	local-authority-eng:WLA	West Lancashire
-7000000000004922	local-authority-eng:WYC	Wyre
+7000000000004922	local-authority-eng:WYR	Wyre
 7000000000004925	local-authority-eng:LAC	Lancaster
-7000000000004985	local-authority-eng:FYB	Fylde
+7000000000004985	local-authority-eng:FYL	Fylde
 7000000000005156	local-authority-eng:LAN	Lancashire
-7000000000005306	local-authority-eng:BOB	Boston
+7000000000005306	local-authority-eng:BOT	Boston
 7000000000005317	local-authority-eng:ELI	East Lindsey
-7000000000005542	local-authority-eng:NOK	North Kesteven
-7000000000005557	local-authority-eng:SOK	South Kesteven
+7000000000005542	local-authority-eng:NKE	North Kesteven
+7000000000005557	local-authority-eng:SKE	South Kesteven
 7000000000005599	local-authority-eng:SHO	South Holland
-7000000000005716	local-authority-eng:CIO	Lincoln
+7000000000005716	local-authority-eng:LIC	Lincoln
 7000000000005942	local-authority-eng:LIN	Lincolnshire
 7000000000005960	local-authority-eng:SFT	Sefton
 7000000000005974	local-authority-eng:LIV	Liverpool
@@ -61,34 +61,34 @@ os	local-authority	name
 7000000000006068	local-authority-eng:WRL	Wirral
 7000000000006392	local-authority-eng:GRY	Great Yarmouth
 7000000000006553	local-authority-eng:BRO	Broadland
-7000000000006724	local-authority-eng:SNK	South Norfolk
-7000000000006759	local-authority-eng:NOC	Norwich
-7000000000006917	local-authority-eng:BRL	Breckland
-7000000000007016	local-authority-eng:BOC	King's Lynn and West Norfolk
-7000000000007024	local-authority-eng:NON	North Norfolk
+7000000000006724	local-authority-eng:SNO	South Norfolk
+7000000000006759	local-authority-eng:NOW	Norwich
+7000000000006917	local-authority-eng:BRE	Breckland
+7000000000007016	local-authority-eng:KIN	King's Lynn and West Norfolk
+7000000000007024	local-authority-eng:NNO	North Norfolk
 7000000000007238	local-authority-eng:NFK	Norfolk
-7000000000007288	local-authority-eng:CBY	Corby
-7000000000007301	local-authority-eng:EAN	East Northamptonshire
-7000000000007306	local-authority-eng:SNH	South Northamptonshire
-7000000000007356	local-authority-eng:WEB	Wellingborough
+7000000000007288	local-authority-eng:COR	Corby
+7000000000007301	local-authority-eng:ENO	East Northamptonshire
+7000000000007306	local-authority-eng:SNR	South Northamptonshire
+7000000000007356	local-authority-eng:WEL	Wellingborough
 7000000000007371	local-authority-eng:NTH	Northamptonshire
-7000000000007408	local-authority-eng:KEB	Kettering
-7000000000007451	local-authority-eng:DAD	Daventry
-7000000000007473	local-authority-eng:NOB	Northampton
-7000000000007731	local-authority-eng:RUC	Rushcliffe
-7000000000007914	local-authority-eng:GEB	Gedling
-7000000000007969	local-authority-eng:ASD	Ashfield
-7000000000007997	local-authority-eng:BXT	Broxtowe
-7000000000008100	local-authority-eng:NSW	Newark and Sherwood
-7000000000008122	local-authority-eng:BLW	Bassetlaw
+7000000000007408	local-authority-eng:KET	Kettering
+7000000000007451	local-authority-eng:DAV	Daventry
+7000000000007473	local-authority-eng:NOR	Northampton
+7000000000007731	local-authority-eng:RUS	Rushcliffe
+7000000000007914	local-authority-eng:GED	Gedling
+7000000000007969	local-authority-eng:ASH	Ashfield
+7000000000007997	local-authority-eng:BRT	Broxtowe
+7000000000008100	local-authority-eng:NEA	Newark and Sherwood
+7000000000008122	local-authority-eng:BAE	Bassetlaw
 7000000000008127	local-authority-eng:NTT	Nottinghamshire
-7000000000008167	local-authority-eng:MSF	Mansfield
+7000000000008167	local-authority-eng:MAS	Mansfield
 7000000000008253	local-authority-eng:SOX	South Oxfordshire
 7000000000008328	local-authority-eng:OXF	Oxfordshire
-7000000000008439	local-authority-eng:VAO	Vale of White Horse
-7000000000008448	local-authority-eng:OXC	Oxford
-7000000000008504	local-authority-eng:CWL	Cherwell
-7000000000008571	local-authority-eng:WEO	West Oxfordshire
+7000000000008439	local-authority-eng:VAL	Vale of White Horse
+7000000000008448	local-authority-eng:OXO	Oxford
+7000000000008504	local-authority-eng:CHR	Cherwell
+7000000000008571	local-authority-eng:WOX	West Oxfordshire
 7000000000009082	local-authority-eng:DNC	Doncaster
 7000000000009113	local-authority-eng:SHF	Sheffield
 7000000000009123	local-authority-eng:ROT	Rotherham
@@ -98,16 +98,16 @@ os	local-authority	name
 7000000000009716	local-authority-eng:GAT	Gateshead
 7000000000009731	local-authority-eng:SND	Sunderland
 7000000000009784	local-authority-eng:NET	Newcastle upon Tyne
-7000000000009885	local-authority-eng:RGB	Rugby
-7000000000009943	local-authority-eng:SOA	Stratford-on-Avon
-7000000000010049	local-authority-eng:WKS	Warwickshire
-7000000000010057	local-authority-eng:NUA	Nuneaton and Bedworth
-7000000000010124	local-authority-eng:NWK	North Warwickshire
-7000000000010370	local-authority-eng:TDE	Taunton Deane
-7000000000010495	local-authority-eng:SSM	South Somerset
-7000000000010575	local-authority-eng:SGM	Sedgemoor
+7000000000009885	local-authority-eng:RUG	Rugby
+7000000000009943	local-authority-eng:STR	Stratford-on-Avon
+7000000000010049	local-authority-eng:WAR	Warwickshire
+7000000000010057	local-authority-eng:NUN	Nuneaton and Bedworth
+7000000000010124	local-authority-eng:NWA	North Warwickshire
+7000000000010370	local-authority-eng:TAU	Taunton Deane
+7000000000010495	local-authority-eng:SSO	South Somerset
+7000000000010575	local-authority-eng:SEG	Sedgemoor
 7000000000010578	local-authority-eng:SOM	Somerset
-7000000000010687	local-authority-eng:WES	West Somerset
+7000000000010687	local-authority-eng:WSO	West Somerset
 7000000000010759	local-authority-eng:BEX	Bexley
 7000000000010772	local-authority-eng:BRY	Bromley
 7000000000010777	local-authority-eng:GRE	Greenwich
@@ -133,7 +133,7 @@ os	local-authority	name
 7000000000011281	local-authority-eng:ISL	Islington
 7000000000011290	local-authority-eng:HRY	Haringey
 7000000000011329	local-authority-eng:ENF	Enfield
-7000000000011378	local-authority-eng:BNT	Barnet
+7000000000011378	local-authority-eng:BNE	Barnet
 7000000000011391	local-authority-eng:HRW	Harrow
 7000000000011399	local-authority-eng:EAL	Ealing
 7000000000011412	local-authority-eng:KTT	Kingston upon Thames
@@ -141,99 +141,99 @@ os	local-authority	name
 7000000000011447	local-authority-eng:BEN	Brent
 7000000000011489	local-authority-eng:HNS	Hounslow
 7000000000011539	local-authority-eng:HIL	Hillingdon
-7000000000011693	local-authority-eng:SOB	South Bucks
-7000000000011771	local-authority-eng:CTN	Chiltern
-7000000000011882	local-authority-eng:WYD	Wycombe
+7000000000011693	local-authority-eng:SBU	South Bucks
+7000000000011771	local-authority-eng:CHN	Chiltern
+7000000000011882	local-authority-eng:WYO	Wycombe
 7000000000011901	local-authority-eng:BKM	Buckinghamshire
-7000000000011903	local-authority-eng:AYV	Aylesbury Vale
-7000000000012712	local-authority-eng:CRL	Carlisle
+7000000000011903	local-authority-eng:AYL	Aylesbury Vale
+7000000000012712	local-authority-eng:CAR	Carlisle
 7000000000012934	local-authority-eng:SLA	South Lakeland
-7000000000012941	local-authority-eng:BIF	Barrow-in-Furness
-7000000000012966	local-authority-eng:COB	Copeland
-7000000000013049	local-authority-eng:EDD	Eden
-7000000000013065	local-authority-eng:ALB	Allerdale
+7000000000012941	local-authority-eng:BAR	Barrow-in-Furness
+7000000000012966	local-authority-eng:COP	Copeland
+7000000000013049	local-authority-eng:EDN	Eden
+7000000000013065	local-authority-eng:ALL	Allerdale
 7000000000013244	local-authority-eng:CMA	Cumbria
-7000000000013264	local-authority-eng:ERB	Erewash
-7000000000013359	local-authority-eng:BOD	Bolsover
-7000000000013391	local-authority-eng:NOE	North East Derbyshire
-7000000000013404	local-authority-eng:AMV	Amber Valley
-7000000000013540	local-authority-eng:SOD	South Derbyshire
-7000000000013672	local-authority-eng:DED	Derbyshire Dales
+7000000000013264	local-authority-eng:ERE	Erewash
+7000000000013359	local-authority-eng:BOS	Bolsover
+7000000000013391	local-authority-eng:NED	North East Derbyshire
+7000000000013404	local-authority-eng:AMB	Amber Valley
+7000000000013540	local-authority-eng:SDE	South Derbyshire
+7000000000013672	local-authority-eng:DEB	Derbyshire Dales
 7000000000013688	local-authority-eng:DBY	Derbyshire
-7000000000013717	local-authority-eng:CSF	Chesterfield
-7000000000013755	local-authority-eng:HIP	High Peak
-7000000000013870	local-authority-eng:TDG	Tandridge
-7000000000013893	local-authority-eng:REA	Reigate and Banstead
-7000000000013949	local-authority-eng:EPA	Epsom and Ewell
+7000000000013717	local-authority-eng:CHS	Chesterfield
+7000000000013755	local-authority-eng:HIG	High Peak
+7000000000013870	local-authority-eng:TAN	Tandridge
+7000000000013893	local-authority-eng:REI	Reigate and Banstead
+7000000000013949	local-authority-eng:EPS	Epsom and Ewell
 7000000000013965	local-authority-eng:SRY	Surrey
-7000000000013981	local-authority-eng:ELB	Elmbridge
-7000000000014002	local-authority-eng:GUB	Guildford
-7000000000014060	local-authority-eng:RYM	Runnymede
-7000000000014064	local-authority-eng:SUH	Surrey Heath
-7000000000014119	local-authority-eng:WVY	Waverley
-7000000000014169	local-authority-eng:SPB	Spelthorne
-7000000000014192	local-authority-eng:WKG	Woking
-7000000000014202	local-authority-eng:CRC	Christchurch
+7000000000013981	local-authority-eng:ELM	Elmbridge
+7000000000014002	local-authority-eng:GRT	Guildford
+7000000000014060	local-authority-eng:RUN	Runnymede
+7000000000014064	local-authority-eng:SUR	Surrey Heath
+7000000000014119	local-authority-eng:WAE	Waverley
+7000000000014169	local-authority-eng:SPE	Spelthorne
+7000000000014192	local-authority-eng:WOI	Woking
+7000000000014202	local-authority-eng:CHC	Christchurch
 7000000000014362	local-authority-eng:DOR	Dorset
-7000000000014363	local-authority-eng:PUD	Purbeck
+7000000000014363	local-authority-eng:PUR	Purbeck
 7000000000014422	local-authority-eng:EDO	East Dorset
 7000000000014451	local-authority-eng:NDO	North Dorset
-7000000000014503	local-authority-eng:WPO	Weymouth and Portland
+7000000000014503	local-authority-eng:WEY	Weymouth and Portland
 7000000000014539	local-authority-eng:WDO	West Dorset
-7000000000014727	local-authority-eng:TAB	Tamworth
-7000000000014797	local-authority-eng:LID	Lichfield
+7000000000014727	local-authority-eng:TAW	Tamworth
+7000000000014797	local-authority-eng:LIF	Lichfield
 7000000000014855	local-authority-eng:SST	South Staffordshire
-7000000000014869	local-authority-eng:CCH	Cannock Chase
+7000000000014869	local-authority-eng:CAN	Cannock Chase
 7000000000014892	local-authority-eng:STA	Stafford
 7000000000015052	local-authority-eng:STS	Staffordshire
-7000000000015064	local-authority-eng:EAS	East Staffordshire
-7000000000015068	local-authority-eng:STM	Staffordshire Moorlands
-7000000000015178	local-authority-eng:NED	Newcastle-under-Lyme
-7000000000015314	local-authority-eng:IPB	Ipswich
-7000000000015440	local-authority-eng:WNY	Waveney
-7000000000015508	local-authority-eng:SUC	Suffolk Coastal
-7000000000015647	local-authority-eng:SDM	St. Edmundsbury
-7000000000015674	local-authority-eng:MSK	Mid Suffolk
-7000000000015692	local-authority-eng:BBG	Babergh
-7000000000015867	local-authority-eng:FOH	Forest Heath
+7000000000015064	local-authority-eng:EST	East Staffordshire
+7000000000015068	local-authority-eng:STF	Staffordshire Moorlands
+7000000000015178	local-authority-eng:NEC	Newcastle-under-Lyme
+7000000000015314	local-authority-eng:IPS	Ipswich
+7000000000015440	local-authority-eng:WAV	Waveney
+7000000000015508	local-authority-eng:SUF	Suffolk Coastal
+7000000000015647	local-authority-eng:SED	St. Edmundsbury
+7000000000015674	local-authority-eng:MSU	Mid Suffolk
+7000000000015692	local-authority-eng:BAB	Babergh
+7000000000015867	local-authority-eng:FOR	Forest Heath
 7000000000015934	local-authority-eng:SFK	Suffolk
-7000000000016211	local-authority-eng:MSX	Mid Sussex
-7000000000016223	local-authority-eng:ADD	Adur
-7000000000016261	local-authority-eng:WOB	Worthing
-7000000000016340	local-authority-eng:HOD	Horsham
+7000000000016211	local-authority-eng:MSS	Mid Sussex
+7000000000016223	local-authority-eng:ADU	Adur
+7000000000016261	local-authority-eng:WOT	Worthing
+7000000000016340	local-authority-eng:HOR	Horsham
 7000000000016356	local-authority-eng:CRW	Crawley
 7000000000016417	local-authority-eng:WSX	West Sussex
-7000000000016438	local-authority-eng:ARD	Arun
-7000000000016444	local-authority-eng:CHS	Chichester
+7000000000016438	local-authority-eng:ARU	Arun
+7000000000016444	local-authority-eng:CHI	Chichester
 7000000000016665	local-authority-eng:KIR	Kirklees
 7000000000016675	local-authority-eng:LDS	Leeds
 7000000000016714	local-authority-eng:CLD	Calderdale
 7000000000016726	local-authority-eng:BRD	Bradford
 7000000000016758	local-authority-eng:WKF	Wakefield
-7000000000017275	local-authority-eng:RSM	Rushmoor
-7000000000017297	local-authority-eng:HVT	Havant
+7000000000017275	local-authority-eng:RUH	Rushmoor
+7000000000017297	local-authority-eng:HAA	Havant
 7000000000017315	local-authority-eng:EHA	East Hampshire
-7000000000017378	local-authority-eng:GOB	Gosport
-7000000000017486	local-authority-eng:HAR	Hart
-7000000000017544	local-authority-eng:FAB	Fareham
-7000000000017596	local-authority-eng:ELG	Eastleigh
-7000000000017653	local-authority-eng:BAA	Basingstoke and Deane
-7000000000017733	local-authority-eng:NEF	New Forest
-7000000000017754	local-authority-eng:WIC	Winchester
+7000000000017378	local-authority-eng:GOS	Gosport
+7000000000017486	local-authority-eng:HAT	Hart
+7000000000017544	local-authority-eng:FAR	Fareham
+7000000000017596	local-authority-eng:EAT	Eastleigh
+7000000000017653	local-authority-eng:BAN	Basingstoke and Deane
+7000000000017733	local-authority-eng:NEW	New Forest
+7000000000017754	local-authority-eng:WIN	Winchester
 7000000000017765	local-authority-eng:HAM	Hampshire
-7000000000017977	local-authority-eng:DVR	Dover
-7000000000018085	local-authority-eng:SHD	Shepway
-7000000000018130	local-authority-eng:THD	Thanet
-7000000000018139	local-authority-eng:CTB	Canterbury
+7000000000017977	local-authority-eng:DOV	Dover
+7000000000018085	local-authority-eng:SHE	Shepway
+7000000000018130	local-authority-eng:THA	Thanet
+7000000000018139	local-authority-eng:CAT	Canterbury
 7000000000018210	local-authority-eng:KEN	Kent
-7000000000018224	local-authority-eng:MAB	Maidstone
-7000000000018232	local-authority-eng:ASB	Ashford
-7000000000018242	local-authority-eng:SWB	Swale
-7000000000018343	local-authority-eng:TOA	Tonbridge and Malling
-7000000000018515	local-authority-eng:GRB	Gravesham
-7000000000018593	local-authority-eng:SVK	Sevenoaks
-7000000000018638	local-authority-eng:DFD	Dartford
-7000000000018650	local-authority-eng:TUW	Tunbridge Wells
+7000000000018224	local-authority-eng:MAI	Maidstone
+7000000000018232	local-authority-eng:ASF	Ashford
+7000000000018242	local-authority-eng:SWA	Swale
+7000000000018343	local-authority-eng:TON	Tonbridge and Malling
+7000000000018515	local-authority-eng:GRA	Gravesham
+7000000000018593	local-authority-eng:SEV	Sevenoaks
+7000000000018638	local-authority-eng:DAR	Dartford
+7000000000018650	local-authority-eng:TUN	Tunbridge Wells
 7000000000018690	local-authority-eng:OLD	Oldham
 7000000000018700	local-authority-eng:TAM	Tameside
 7000000000018757	local-authority-eng:SKP	Stockport
@@ -244,50 +244,50 @@ os	local-authority	name
 7000000000018832	local-authority-eng:BOL	Bolton
 7000000000018846	local-authority-eng:BUR	Bury
 7000000000018868	local-authority-eng:WGN	Wigan
-7000000000019459	local-authority-eng:CAP	Castle Point
-7000000000019501	local-authority-eng:MDN	Maldon
-7000000000019547	local-authority-eng:TDR	Tendring
-7000000000019569	local-authority-eng:CST	Colchester
-7000000000019625	local-authority-eng:RCF	Rochford
+7000000000019459	local-authority-eng:CAS	Castle Point
+7000000000019501	local-authority-eng:MAL	Maldon
+7000000000019547	local-authority-eng:TEN	Tendring
+7000000000019569	local-authority-eng:COL	Colchester
+7000000000019625	local-authority-eng:ROC	Rochford
 7000000000019687	local-authority-eng:ESS	Essex
-7000000000019701	local-authority-eng:CHC	Chelmsford
-7000000000019739	local-authority-eng:BAS	Basildon
-7000000000019795	local-authority-eng:BRT	Braintree
-7000000000019968	local-authority-eng:EPF	Epping Forest
-7000000000019984	local-authority-eng:BTW	Brentwood
-7000000000020033	local-authority-eng:UTD	Uttlesford
-7000000000020080	local-authority-eng:HAC	Harlow
-7000000000020224	local-authority-eng:CWD	Cotswold
-7000000000020272	local-authority-eng:CHE	Cheltenham
-7000000000020380	local-authority-eng:TEB	Tewkesbury
-7000000000020391	local-authority-eng:GLC	Gloucester
-7000000000020508	local-authority-eng:FOO	Forest of Dean
-7000000000020571	local-authority-eng:SRD	Stroud
+7000000000019701	local-authority-eng:CHL	Chelmsford
+7000000000019739	local-authority-eng:BAI	Basildon
+7000000000019795	local-authority-eng:BRA	Braintree
+7000000000019968	local-authority-eng:EPP	Epping Forest
+7000000000019984	local-authority-eng:BRW	Brentwood
+7000000000020033	local-authority-eng:UTT	Uttlesford
+7000000000020080	local-authority-eng:HAR	Harlow
+7000000000020224	local-authority-eng:COT	Cotswold
+7000000000020272	local-authority-eng:CHT	Cheltenham
+7000000000020380	local-authority-eng:TEW	Tewkesbury
+7000000000020391	local-authority-eng:GLO	Gloucester
+7000000000020508	local-authority-eng:FOE	Forest of Dean
+7000000000020571	local-authority-eng:STO	Stroud
 7000000000020616	local-authority-eng:GLS	Gloucestershire
-7000000000021055	local-authority-eng:SBY	Selby
-7000000000021291	local-authority-eng:RYD	Ryedale
-7000000000021355	local-authority-eng:SCB	Scarborough
-7000000000021482	local-authority-eng:HBT	Hambleton
-7000000000021490	local-authority-eng:HGT	Harrogate
-7000000000021698	local-authority-eng:CRD	Craven
+7000000000021055	local-authority-eng:SEL	Selby
+7000000000021291	local-authority-eng:RYE	Ryedale
+7000000000021355	local-authority-eng:SCE	Scarborough
+7000000000021482	local-authority-eng:HAE	Hambleton
+7000000000021490	local-authority-eng:HAG	Harrogate
+7000000000021698	local-authority-eng:CRA	Craven
 7000000000021986	local-authority-eng:RID	Richmondshire
 7000000000022028	local-authority-eng:NYK	North Yorkshire
 7000000000022569	local-authority-eng:SHA	South Hams
-7000000000022606	local-authority-eng:EXC	Exeter
+7000000000022606	local-authority-eng:EXE	Exeter
 7000000000022713	local-authority-eng:EDE	East Devon
 7000000000022767	local-authority-eng:WDE	West Devon
-7000000000022881	local-authority-eng:TBG	Teignbridge
-7000000000022902	local-authority-eng:MID	Mid Devon
+7000000000022881	local-authority-eng:TEI	Teignbridge
+7000000000022902	local-authority-eng:MDE	Mid Devon
 7000000000022933	local-authority-eng:NDE	North Devon
-7000000000022970	local-authority-eng:TOD	Torridge
+7000000000022970	local-authority-eng:TOR	Torridge
 7000000000023147	local-authority-eng:DEV	Devon
-7000000000023279	local-authority-eng:HBG	Harborough
-7000000000023352	local-authority-eng:MEB	Melton
-7000000000023413	local-authority-eng:OAA	Oadby and Wigston
+7000000000023279	local-authority-eng:HAO	Harborough
+7000000000023352	local-authority-eng:MEL	Melton
+7000000000023413	local-authority-eng:OAD	Oadby and Wigston
 7000000000023423	local-authority-eng:LEC	Leicestershire
-7000000000023452	local-authority-eng:CAW	Charnwood
-7000000000023555	local-authority-eng:HIA	Hinckley and Bosworth
-7000000000023585	local-authority-eng:BLD	Blaby
+7000000000023452	local-authority-eng:CHA	Charnwood
+7000000000023555	local-authority-eng:HIN	Hinckley and Bosworth
+7000000000023585	local-authority-eng:BLA	Blaby
 7000000000023615	local-authority-eng:NWL	North West Leicestershire
 7000000000025469	local-authority-eng:IOW	Isle of Wight
 7000000000025482	local-authority-wls:AGY	Isle of Anglesey
@@ -310,7 +310,7 @@ os	local-authority	name
 7000000000025502	local-authority-wls:VGL	the Vale of Glamorgan
 7000000000025504	local-authority-eng:NSM	North Somerset
 7000000000025523	local-authority-eng:BST	City of Bristol
-7000000000025554	local-authority-eng:BNE	Bath and North East Somerset
+7000000000025554	local-authority-eng:BAS	Bath and North East Somerset
 7000000000025559	local-authority-eng:SGC	South Gloucestershire
 7000000000025586	local-authority-eng:MDB	Middlesbrough
 7000000000025587	local-authority-eng:STT	Stockton-on-Tees
@@ -364,7 +364,7 @@ os	local-authority	name
 7000000000038339	local-authority-eng:POL	Poole
 7000000000038340	local-authority-eng:BMH	Bournemouth
 7000000000038404	local-authority-eng:DAL	Darlington
-7000000000038408	local-authority-eng:SOT	City of Stoke-on-Trent
+7000000000038408	local-authority-eng:STE	City of Stoke-on-Trent
 7000000000038413	local-authority-eng:MIK	Milton Keynes
 7000000000038840	local-authority-eng:BBD	Blackburn with Darwen
 7000000000038843	local-authority-eng:WRT	Warrington
@@ -372,31 +372,31 @@ os	local-authority	name
 7000000000038854	local-authority-eng:TFW	Telford and Wrekin
 7000000000038857	local-authority-eng:NGM	City of Nottingham
 7000000000038861	local-authority-eng:BPL	Blackpool
-7000000000038866	local-authority-eng:TUK	Thurrock
+7000000000038866	local-authority-eng:THR	Thurrock
 7000000000038872	local-authority-eng:PLY	City of Plymouth
 7000000000038883	local-authority-eng:TOB	Torbay
 7000000000038886	local-authority-eng:PTE	City of Peterborough
 7000000000038891	local-authority-eng:SLG	Slough
 7000000000038892	local-authority-eng:WNM	Windsor and Maidenhead
-7000000000038893	local-authority-eng:BNF	Bracknell Forest
+7000000000038893	local-authority-eng:BRC	Bracknell Forest
 7000000000038894	local-authority-eng:WOK	Wokingham
 7000000000038895	local-authority-eng:RDG	Reading
 7000000000038899	local-authority-eng:WBK	West Berkshire
 7000000000038904	local-authority-eng:HEF	County of Herefordshire
-7000000000038907	local-authority-eng:SSE	Southend-on-Sea
+7000000000038907	local-authority-eng:SOS	Southend-on-Sea
 7000000000038908	local-authority-eng:MDW	Medway
 7000000000041441	local-authority-eng:GLA	Greater London
 7000000000043391	local-authority-sct:SAY	South Ayrshire
 7000000000043393	local-authority-sct:EAY	East Ayrshire
-7000000000043462	local-authority-eng:MED	Mendip
-7000000000043511	local-authority-eng:TEV	Test Valley
-7000000000043516	local-authority-eng:WWK	Warwick
+7000000000043462	local-authority-eng:MEN	Mendip
+7000000000043511	local-authority-eng:TES	Test Valley
+7000000000043516	local-authority-eng:WAW	Warwick
 7000000000043527	local-authority-eng:WLI	West Lindsey
-7000000000043552	local-authority-eng:CWE	Cheshire West and Chester
-7000000000043553	local-authority-eng:CEA	Cheshire East
+7000000000043552	local-authority-eng:CHW	Cheshire West and Chester
+7000000000043553	local-authority-eng:CHE	Cheshire East
 7000000000043607	local-authority-eng:DUR	County Durham
 7000000000043674	local-authority-eng:NBL	Northumberland
-7000000000043744	local-authority-eng:PEB	Pendle
+7000000000043744	local-authority-eng:PEN	Pendle
 7000000000043750	local-authority-eng:CON	Cornwall
 7000000000043822	local-authority-eng:SHR	Shropshire
 7000000000043870	local-authority-eng:CBF	Central Bedfordshire
@@ -405,5 +405,5 @@ os	local-authority	name
 7000000000043972	local-authority-eng:IOS	Isles of Scilly
 7000000000044425	local-authority-wls:TOF	Torfaen
 7000000000044426	local-authority-wls:NWP	Newport
-7000000000044474	local-authority-eng:MOV	Mole Valley
+7000000000044474	local-authority-eng:MOL	Mole Valley
 7000000000044503	local-authority-eng:KWL	Knowsley

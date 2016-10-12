@@ -1,34 +1,34 @@
 local-custodian	local-authority	name
-114	local-authority-eng:BNE	BATH AND NORTH EAST SOMERSET
+114	local-authority-eng:BAS	BATH AND NORTH EAST SOMERSET
 116	local-authority-eng:BST	BRISTOL
 119	local-authority-eng:SGC	SOUTH GLOUCESTERSHIRE
 121	local-authority-eng:NSM	NORTH SOMERSET
 230	local-authority-eng:LUT	LUTON
 235	local-authority-eng:BDF	BEDFORD
 240	local-authority-eng:CBF	CENTRAL BEDFORDSHIRE
-335	local-authority-eng:BNF	BRACKNELL FOREST
+335	local-authority-eng:BRC	BRACKNELL FOREST
 340	local-authority-eng:WBK	WEST BERKSHIRE
 345	local-authority-eng:RDG	READING
 350	local-authority-eng:SLG	SLOUGH
 355	local-authority-eng:WNM	WINDSOR AND MAIDENHEAD
 360	local-authority-eng:WOK	WOKINGHAM
-405	local-authority-eng:AYV	AYLESBURY VALE
-410	local-authority-eng:SOB	SOUTH BUCKS
-415	local-authority-eng:CTN	CHILTERN
-425	local-authority-eng:WYD	WYCOMBE
+405	local-authority-eng:AYL	AYLESBURY VALE
+410	local-authority-eng:SBU	SOUTH BUCKS
+415	local-authority-eng:CHN	CHILTERN
+425	local-authority-eng:WYO	WYCOMBE
 430	local-authority-eng:BKM	*MISSING*
 435	local-authority-eng:MIK	MILTON KEYNES
-505	local-authority-eng:CCC	CAMBRIDGE
-510	local-authority-eng:EAC	EAST CAMBRIDGESHIRE
-515	local-authority-eng:FLD	FENLAND
-520	local-authority-eng:HUD	HUNTINGDONSHIRE
-530	local-authority-eng:SOC	SOUTH CAMBRIDGESHIRE
+505	local-authority-eng:CAB	CAMBRIDGE
+510	local-authority-eng:ECA	EAST CAMBRIDGESHIRE
+515	local-authority-eng:FEN	FENLAND
+520	local-authority-eng:HUN	HUNTINGDONSHIRE
+530	local-authority-eng:SCA	SOUTH CAMBRIDGESHIRE
 535	local-authority-eng:CAM	*MISSING*
 540	local-authority-eng:PTE	PETERBOROUGH
 650	local-authority-eng:HAL	HALTON
 655	local-authority-eng:WRT	WARRINGTON
-660	local-authority-eng:CEA	CHESHIRE EAST
-665	local-authority-eng:CWE	CHESHIRE WEST AND CHESTER
+660	local-authority-eng:CHE	CHESHIRE EAST
+665	local-authority-eng:CHW	CHESHIRE WEST AND CHESTER
 724	local-authority-eng:HPL	HARTLEPOOL
 728	local-authority-eng:RCC	REDCAR AND CLEVELAND
 734	local-authority-eng:MDB	MIDDLESBROUGH
@@ -36,251 +36,251 @@ local-custodian	local-authority	name
 835	local-authority-eng:IOS	ISLES OF SCILLY
 840	local-authority-eng:CON	CORNWALL
 900	local-authority-eng:CMA	*MISSING*
-905	local-authority-eng:ALB	ALLERDALE
-910	local-authority-eng:BIF	BARROW-IN-FURNESS
-915	local-authority-eng:CRL	CARLISLE
-920	local-authority-eng:COB	COPELAND
-925	local-authority-eng:EDD	EDEN
+905	local-authority-eng:ALL	ALLERDALE
+910	local-authority-eng:BAR	BARROW-IN-FURNESS
+915	local-authority-eng:CAR	CARLISLE
+920	local-authority-eng:COP	COPELAND
+925	local-authority-eng:EDN	EDEN
 930	local-authority-eng:SLA	SOUTH LAKELAND
-1005	local-authority-eng:AMV	AMBER VALLEY
-1010	local-authority-eng:BOD	BOLSOVER
-1015	local-authority-eng:CSF	CHESTERFIELD
-1025	local-authority-eng:ERB	EREWASH
-1030	local-authority-eng:HIP	HIGH PEAK
-1035	local-authority-eng:NOE	NORTH EAST DERBYSHIRE
-1040	local-authority-eng:SOD	SOUTH DERBYSHIRE
-1045	local-authority-eng:DED	DERBYSHIRE DALES
+1005	local-authority-eng:AMB	AMBER VALLEY
+1010	local-authority-eng:BOS	BOLSOVER
+1015	local-authority-eng:CHS	CHESTERFIELD
+1025	local-authority-eng:ERE	EREWASH
+1030	local-authority-eng:HIG	HIGH PEAK
+1035	local-authority-eng:NED	NORTH EAST DERBYSHIRE
+1040	local-authority-eng:SDE	SOUTH DERBYSHIRE
+1045	local-authority-eng:DEB	DERBYSHIRE DALES
 1050	local-authority-eng:DBY	*MISSING*
 1055	local-authority-eng:DER	DERBY
 1105	local-authority-eng:EDE	EAST DEVON
-1110	local-authority-eng:EXC	EXETER
+1110	local-authority-eng:EXE	EXETER
 1115	local-authority-eng:NDE	NORTH DEVON
 1125	local-authority-eng:SHA	SOUTH HAMS
-1130	local-authority-eng:TBG	TEIGNBRIDGE
-1135	local-authority-eng:MID	MID DEVON
-1145	local-authority-eng:TOD	TORRIDGE
+1130	local-authority-eng:TEI	TEIGNBRIDGE
+1135	local-authority-eng:MDE	MID DEVON
+1145	local-authority-eng:TOR	TORRIDGE
 1150	local-authority-eng:WDE	WEST DEVON
 1155	local-authority-eng:DEV	*MISSING*
 1160	local-authority-eng:PLY	PLYMOUTH
 1165	local-authority-eng:TOB	TORBAY
-1210	local-authority-eng:CRC	CHRISTCHURCH
+1210	local-authority-eng:CHC	CHRISTCHURCH
 1215	local-authority-eng:NDO	NORTH DORSET
-1225	local-authority-eng:PUD	PURBECK
+1225	local-authority-eng:PUR	PURBECK
 1230	local-authority-eng:WDO	WEST DORSET
-1235	local-authority-eng:WPO	WEYMOUTH AND PORTLAND
+1235	local-authority-eng:WEY	WEYMOUTH AND PORTLAND
 1240	local-authority-eng:EDO	EAST DORSET
 1245	local-authority-eng:DOR	*MISSING*
 1250	local-authority-eng:BMH	BOURNEMOUTH
 1255	local-authority-eng:POL	POOLE
 1350	local-authority-eng:DAL	DARLINGTON
 1355	local-authority-eng:DUR	DURHAM
-1410	local-authority-eng:EBO	EASTBOURNE
-1415	local-authority-eng:HST	HASTINGS
-1425	local-authority-eng:LED	LEWES
-1430	local-authority-eng:RTR	ROTHER
-1435	local-authority-eng:WLD	WEALDEN
+1410	local-authority-eng:EAS	EASTBOURNE
+1415	local-authority-eng:HAS	HASTINGS
+1425	local-authority-eng:LEE	LEWES
+1430	local-authority-eng:ROH	ROTHER
+1435	local-authority-eng:WEA	WEALDEN
 1440	local-authority-eng:ESX	*MISSING*
 1445	local-authority-eng:BNH	BRIGHTON & HOVE
-1505	local-authority-eng:BAS	BASILDON
-1510	local-authority-eng:BRT	BRAINTREE
-1515	local-authority-eng:BTW	BRENTWOOD
-1520	local-authority-eng:CAP	CASTLE POINT
-1525	local-authority-eng:CHC	CHELMSFORD
-1530	local-authority-eng:CST	COLCHESTER
-1535	local-authority-eng:EPF	EPPING FOREST
-1540	local-authority-eng:HAC	HARLOW
-1545	local-authority-eng:MDN	MALDON
-1550	local-authority-eng:RCF	ROCHFORD
-1560	local-authority-eng:TDR	TENDRING
-1570	local-authority-eng:UTD	UTTLESFORD
+1505	local-authority-eng:BAI	BASILDON
+1510	local-authority-eng:BRA	BRAINTREE
+1515	local-authority-eng:BRW	BRENTWOOD
+1520	local-authority-eng:CAS	CASTLE POINT
+1525	local-authority-eng:CHL	CHELMSFORD
+1530	local-authority-eng:COL	COLCHESTER
+1535	local-authority-eng:EPP	EPPING FOREST
+1540	local-authority-eng:HAR	HARLOW
+1545	local-authority-eng:MAL	MALDON
+1550	local-authority-eng:ROC	ROCHFORD
+1560	local-authority-eng:TEN	TENDRING
+1570	local-authority-eng:UTT	UTTLESFORD
 1585	local-authority-eng:ESS	*MISSING*
-1590	local-authority-eng:SSE	SOUTHEND-ON-SEA
-1595	local-authority-eng:TUK	THURROCK
+1590	local-authority-eng:SOS	SOUTHEND-ON-SEA
+1595	local-authority-eng:THR	THURROCK
 1600	local-authority-eng:GLS	*MISSING*
-1605	local-authority-eng:CHE	CHELTENHAM
-1610	local-authority-eng:CWD	COTSWOLD
-1615	local-authority-eng:FOO	FOREST OF DEAN
-1620	local-authority-eng:GLC	GLOUCESTER
-1625	local-authority-eng:SRD	STROUD
-1630	local-authority-eng:TEB	TEWKESBURY
-1705	local-authority-eng:BAA	BASINGSTOKE AND DEANE
+1605	local-authority-eng:CHT	CHELTENHAM
+1610	local-authority-eng:COT	COTSWOLD
+1615	local-authority-eng:FOE	FOREST OF DEAN
+1620	local-authority-eng:GLO	GLOUCESTER
+1625	local-authority-eng:STO	STROUD
+1630	local-authority-eng:TEW	TEWKESBURY
+1705	local-authority-eng:BAN	BASINGSTOKE AND DEANE
 1710	local-authority-eng:EHA	EAST HAMPSHIRE
-1715	local-authority-eng:ELG	EASTLEIGH
-1720	local-authority-eng:FAB	FAREHAM
-1725	local-authority-eng:GOB	GOSPORT
-1730	local-authority-eng:HAR	HART
-1735	local-authority-eng:HVT	HAVANT
-1740	local-authority-eng:NEF	NEW FOREST
-1750	local-authority-eng:RSM	RUSHMOOR
-1760	local-authority-eng:TEV	TEST VALLEY
-1765	local-authority-eng:WIC	WINCHESTER
+1715	local-authority-eng:EAT	EASTLEIGH
+1720	local-authority-eng:FAR	FAREHAM
+1725	local-authority-eng:GOS	GOSPORT
+1730	local-authority-eng:HAT	HART
+1735	local-authority-eng:HAA	HAVANT
+1740	local-authority-eng:NEW	NEW FOREST
+1750	local-authority-eng:RUH	RUSHMOOR
+1760	local-authority-eng:TES	TEST VALLEY
+1765	local-authority-eng:WIN	WINCHESTER
 1770	local-authority-eng:HAM	*MISSING*
 1775	local-authority-eng:POR	PORTSMOUTH CITY COUNCIL
 1780	local-authority-eng:STH	SOUTHAMPTON
 1805	local-authority-eng:BRM	BROMSGROVE
-1820	local-authority-eng:MAH	MALVERN HILLS
-1825	local-authority-eng:REB	REDDITCH
+1820	local-authority-eng:MAV	MALVERN HILLS
+1825	local-authority-eng:RED	REDDITCH
 1835	local-authority-eng:WOC	WORCESTER
-1840	local-authority-eng:WYN	WYCHAVON
-1845	local-authority-eng:WYF	WYRE FOREST
+1840	local-authority-eng:WYC	WYCHAVON
+1845	local-authority-eng:WYE	WYRE FOREST
 1850	local-authority-eng:HEF	HEREFORDSHIRE
 1855	local-authority-eng:WOR	*MISSING*
 1900	local-authority-eng:HFS	*MISSING*
-1905	local-authority-eng:BXB	BROXBOURNE
-1910	local-authority-eng:DAB	DACORUM
+1905	local-authority-eng:BRX	BROXBOURNE
+1910	local-authority-eng:DAC	DACORUM
 1915	local-authority-eng:EHE	EAST HERTFORDSHIRE
-1920	local-authority-eng:HEB	HERTSMERE
-1925	local-authority-eng:NOH	NORTH HERTFORDSHIRE
-1930	local-authority-eng:SAC	ST ALBANS
+1920	local-authority-eng:HER	HERTSMERE
+1925	local-authority-eng:NHE	NORTH HERTFORDSHIRE
+1930	local-authority-eng:SAL	ST ALBANS
 1935	local-authority-eng:STV	STEVENAGE
-1940	local-authority-eng:TRR	THREE RIVERS
-1945	local-authority-eng:WTF	WATFORD
-1950	local-authority-eng:WEH	WELWYN HATFIELD
+1940	local-authority-eng:THE	THREE RIVERS
+1945	local-authority-eng:WAT	WATFORD
+1950	local-authority-eng:WEW	WELWYN HATFIELD
 2001	local-authority-eng:ERY	EAST RIDING OF YORKSHIRE
 2002	local-authority-eng:NEL	NORTH EAST LINCOLNSHIRE
 2003	local-authority-eng:NLN	NORTH LINCOLNSHIRE
 2004	local-authority-eng:KHL	KINGSTON UPON HULL
 2114	local-authority-eng:IOW	ISLE OF WIGHT
-2205	local-authority-eng:ASB	ASHFORD
-2210	local-authority-eng:CTB	CANTERBURY
-2215	local-authority-eng:DFD	DARTFORD
-2220	local-authority-eng:DVR	DOVER
-2230	local-authority-eng:GRB	GRAVESHAM
-2235	local-authority-eng:MAB	MAIDSTONE
-2245	local-authority-eng:SVK	SEVENOAKS
-2250	local-authority-eng:SHD	SHEPWAY
-2255	local-authority-eng:SWB	SWALE
-2260	local-authority-eng:THD	THANET DISTRICT
-2265	local-authority-eng:TOA	TONBRIDGE AND MALLING
-2270	local-authority-eng:TUW	TUNBRIDGE WELLS
+2205	local-authority-eng:ASF	ASHFORD
+2210	local-authority-eng:CAT	CANTERBURY
+2215	local-authority-eng:DAR	DARTFORD
+2220	local-authority-eng:DOV	DOVER
+2230	local-authority-eng:GRA	GRAVESHAM
+2235	local-authority-eng:MAI	MAIDSTONE
+2245	local-authority-eng:SEV	SEVENOAKS
+2250	local-authority-eng:SHE	SHEPWAY
+2255	local-authority-eng:SWA	SWALE
+2260	local-authority-eng:THA	THANET DISTRICT
+2265	local-authority-eng:TON	TONBRIDGE AND MALLING
+2270	local-authority-eng:TUN	TUNBRIDGE WELLS
 2275	local-authority-eng:KEN	*MISSING*
 2280	local-authority-eng:MDW	MEDWAY
-2315	local-authority-eng:BUB	BURNLEY
-2320	local-authority-eng:CLY	CHORLEY
-2325	local-authority-eng:FYB	FYLDE
-2330	local-authority-eng:HYB	HYNDBURN
+2315	local-authority-eng:BUN	BURNLEY
+2320	local-authority-eng:CHO	CHORLEY
+2325	local-authority-eng:FYL	FYLDE
+2330	local-authority-eng:HYN	HYNDBURN
 2335	local-authority-eng:LAC	LANCASTER CITY
-2340	local-authority-eng:PEB	PENDLE
-2345	local-authority-eng:PRC	PRESTON
-2350	local-authority-eng:RIV	RIBBLE VALLEY
-2355	local-authority-eng:ROB	ROSSENDALE
-2360	local-authority-eng:SOR	SOUTH RIBBLE
+2340	local-authority-eng:PEN	PENDLE
+2345	local-authority-eng:PRE	PRESTON
+2350	local-authority-eng:RIB	RIBBLE VALLEY
+2355	local-authority-eng:ROS	ROSSENDALE
+2360	local-authority-eng:SRI	SOUTH RIBBLE
 2365	local-authority-eng:WLA	WEST LANCASHIRE
-2370	local-authority-eng:WYC	WYRE
+2370	local-authority-eng:WYR	WYRE
 2371	local-authority-eng:LAN	*MISSING*
 2372	local-authority-eng:BBD	BLACKBURN WITH DARWEN
 2373	local-authority-eng:BPL	BLACKPOOL
-2405	local-authority-eng:BLD	BLABY
-2410	local-authority-eng:CAW	CHARNWOOD
-2415	local-authority-eng:HBG	HARBOROUGH
-2420	local-authority-eng:HIA	HINCKLEY AND BOSWORTH
-2430	local-authority-eng:MEB	MELTON
+2405	local-authority-eng:BLA	BLABY
+2410	local-authority-eng:CHA	CHARNWOOD
+2415	local-authority-eng:HAO	HARBOROUGH
+2420	local-authority-eng:HIN	HINCKLEY AND BOSWORTH
+2430	local-authority-eng:MEL	MELTON
 2435	local-authority-eng:NWL	NORTH WEST LEICESTERSHIRE
-2440	local-authority-eng:OAA	OADBY AND WIGSTON
+2440	local-authority-eng:OAD	OADBY AND WIGSTON
 2460	local-authority-eng:LEC	*MISSING*
 2465	local-authority-eng:LCE	LEICESTER CITY
 2470	local-authority-eng:RUT	RUTLAND
 2500	local-authority-eng:LIN	*MISSING*
-2505	local-authority-eng:BOB	BOSTON
+2505	local-authority-eng:BOT	BOSTON
 2510	local-authority-eng:ELI	EAST LINDSEY
-2515	local-authority-eng:CIO	LINCOLN
-2520	local-authority-eng:NOK	NORTH KESTEVEN
+2515	local-authority-eng:LIC	LINCOLN
+2520	local-authority-eng:NKE	NORTH KESTEVEN
 2525	local-authority-eng:SHO	SOUTH HOLLAND
-2530	local-authority-eng:SOK	SOUTH KESTEVEN
+2530	local-authority-eng:SKE	SOUTH KESTEVEN
 2535	local-authority-eng:WLI	WEST LINDSEY
 2600	local-authority-eng:NFK	*MISSING*
-2605	local-authority-eng:BRL	BRECKLAND
+2605	local-authority-eng:BRE	BRECKLAND
 2610	local-authority-eng:BRO	BROADLAND
 2615	local-authority-eng:GRY	GREAT YARMOUTH
-2620	local-authority-eng:NON	NORTH NORFOLK
-2625	local-authority-eng:NOC	NORWICH
-2630	local-authority-eng:SNK	SOUTH NORFOLK
-2635	local-authority-eng:BOC	KINGS LYNN AND WEST NORFOLK
-2705	local-authority-eng:CRD	CRAVEN
-2710	local-authority-eng:HBT	HAMBLETON
-2715	local-authority-eng:HGT	HARROGATE
+2620	local-authority-eng:NNO	NORTH NORFOLK
+2625	local-authority-eng:NOW	NORWICH
+2630	local-authority-eng:SNO	SOUTH NORFOLK
+2635	local-authority-eng:KIN	KINGS LYNN AND WEST NORFOLK
+2705	local-authority-eng:CRA	CRAVEN
+2710	local-authority-eng:HAE	HAMBLETON
+2715	local-authority-eng:HAG	HARROGATE
 2720	local-authority-eng:RID	RICHMONDSHIRE
-2725	local-authority-eng:RYD	RYEDALE
-2730	local-authority-eng:SCB	SCARBOROUGH
-2735	local-authority-eng:SBY	SELBY
+2725	local-authority-eng:RYE	RYEDALE
+2730	local-authority-eng:SCE	SCARBOROUGH
+2735	local-authority-eng:SEL	SELBY
 2745	local-authority-eng:NYK	*MISSING*
 2741	local-authority-eng:YOR	YORK
 2800	local-authority-eng:NTH	*MISSING*
-2805	local-authority-eng:CBY	CORBY
-2810	local-authority-eng:DAD	DAVENTRY
-2815	local-authority-eng:EAN	EAST NORTHAMPTONSHIRE
-2820	local-authority-eng:KEB	KETTERING
-2825	local-authority-eng:NOB	NORTHAMPTON
-2830	local-authority-eng:SNH	SOUTH NORTHAMPTONSHIRE
-2835	local-authority-eng:WEB	WELLINGBOROUGH
+2805	local-authority-eng:COR	CORBY
+2810	local-authority-eng:DAV	DAVENTRY
+2815	local-authority-eng:ENO	EAST NORTHAMPTONSHIRE
+2820	local-authority-eng:KET	KETTERING
+2825	local-authority-eng:NOR	NORTHAMPTON
+2830	local-authority-eng:SNR	SOUTH NORTHAMPTONSHIRE
+2835	local-authority-eng:WEL	WELLINGBOROUGH
 2935	local-authority-eng:NBL	NORTHUMBERLAND
-3005	local-authority-eng:ASD	ASHFIELD
-3010	local-authority-eng:BLW	BASSETLAW
-3015	local-authority-eng:BXT	BROXTOWE
-3020	local-authority-eng:GEB	GEDLING
-3025	local-authority-eng:MSF	MANSFIELD
-3030	local-authority-eng:NSW	NEWARK AND SHERWOOD
-3040	local-authority-eng:RUC	RUSHCLIFFE
+3005	local-authority-eng:ASH	ASHFIELD
+3010	local-authority-eng:BAE	BASSETLAW
+3015	local-authority-eng:BRT	BROXTOWE
+3020	local-authority-eng:GED	GEDLING
+3025	local-authority-eng:MAS	MANSFIELD
+3030	local-authority-eng:NEA	NEWARK AND SHERWOOD
+3040	local-authority-eng:RUS	RUSHCLIFFE
 3055	local-authority-eng:NTT	*MISSING*
 3060	local-authority-eng:NGM	NOTTINGHAM CITY
 3100	local-authority-eng:OXF	*MISSING*
-3105	local-authority-eng:CWL	CHERWELL
-3110	local-authority-eng:OXC	OXFORD
+3105	local-authority-eng:CHR	CHERWELL
+3110	local-authority-eng:OXO	OXFORD
 3115	local-authority-eng:SOX	SOUTH OXFORDSHIRE
-3120	local-authority-eng:VAO	VALE OF WHITE HORSE
-3125	local-authority-eng:WEO	WEST OXFORDSHIRE
+3120	local-authority-eng:VAL	VALE OF WHITE HORSE
+3125	local-authority-eng:WOX	WEST OXFORDSHIRE
 3240	local-authority-eng:TFW	TELFORD AND WREKIN
 3245	local-authority-eng:SHR	SHROPSHIRE
 3300	local-authority-eng:SOM	*MISSING*
-3305	local-authority-eng:MED	MENDIP
-3310	local-authority-eng:SGM	SEDGEMOOR
-3315	local-authority-eng:TDE	TAUNTON DEANE
-3320	local-authority-eng:WES	WEST SOMERSET
-3325	local-authority-eng:SSM	SOUTH SOMERSET
-3405	local-authority-eng:CCH	CANNOCK CHASE
-3410	local-authority-eng:EAS	EAST STAFFORDSHIRE
-3415	local-authority-eng:LID	LICHFIELD
-3420	local-authority-eng:NED	NEWCASTLE-UNDER-LYME
+3305	local-authority-eng:MEN	MENDIP
+3310	local-authority-eng:SEG	SEDGEMOOR
+3315	local-authority-eng:TAU	TAUNTON DEANE
+3320	local-authority-eng:WSO	WEST SOMERSET
+3325	local-authority-eng:SSO	SOUTH SOMERSET
+3405	local-authority-eng:CAN	CANNOCK CHASE
+3410	local-authority-eng:EST	EAST STAFFORDSHIRE
+3415	local-authority-eng:LIF	LICHFIELD
+3420	local-authority-eng:NEC	NEWCASTLE-UNDER-LYME
 3425	local-authority-eng:STA	STAFFORD
 3430	local-authority-eng:SST	SOUTH STAFFORDSHIRE
-3435	local-authority-eng:STM	STAFFORDSHIRE MOORLANDS
-3445	local-authority-eng:TAB	TAMWORTH
+3435	local-authority-eng:STF	STAFFORDSHIRE MOORLANDS
+3445	local-authority-eng:TAW	TAMWORTH
 3450	local-authority-eng:STS	*MISSING*
-3455	local-authority-eng:SOT	CITY OF STOKE-ON-TRENT
+3455	local-authority-eng:STE	CITY OF STOKE-ON-TRENT
 3500	local-authority-eng:SFK	*MISSING*
-3505	local-authority-eng:BBG	BABERGH
-3510	local-authority-eng:FOH	FOREST HEATH
-3515	local-authority-eng:IPB	IPSWICH
-3520	local-authority-eng:MSK	MID SUFFOLK
-3525	local-authority-eng:SDM	ST EDMUNDSBURY
-3530	local-authority-eng:SUC	SUFFOLK COASTAL
-3535	local-authority-eng:WNY	WAVENEY
+3505	local-authority-eng:BAB	BABERGH
+3510	local-authority-eng:FOR	FOREST HEATH
+3515	local-authority-eng:IPS	IPSWICH
+3520	local-authority-eng:MSU	MID SUFFOLK
+3525	local-authority-eng:SED	ST EDMUNDSBURY
+3530	local-authority-eng:SUF	SUFFOLK COASTAL
+3535	local-authority-eng:WAV	WAVENEY
 3600	local-authority-eng:SRY	*MISSING*
-3605	local-authority-eng:ELB	ELMBRIDGE
-3610	local-authority-eng:EPA	EPSOM AND EWELL
-3615	local-authority-eng:GUB	GUILDFORD
-3620	local-authority-eng:MOV	MOLE VALLEY
-3625	local-authority-eng:REA	REIGATE AND BANSTEAD
-3630	local-authority-eng:RYM	RUNNYMEDE
-3635	local-authority-eng:SPB	SPELTHORNE
-3640	local-authority-eng:SUH	SURREY HEATH
-3645	local-authority-eng:TDG	TANDRIDGE
-3650	local-authority-eng:WVY	WAVERLEY
-3655	local-authority-eng:WKG	WOKING
+3605	local-authority-eng:ELM	ELMBRIDGE
+3610	local-authority-eng:EPS	EPSOM AND EWELL
+3615	local-authority-eng:GRT	GUILDFORD
+3620	local-authority-eng:MOL	MOLE VALLEY
+3625	local-authority-eng:REI	REIGATE AND BANSTEAD
+3630	local-authority-eng:RUN	RUNNYMEDE
+3635	local-authority-eng:SPE	SPELTHORNE
+3640	local-authority-eng:SUR	SURREY HEATH
+3645	local-authority-eng:TAN	TANDRIDGE
+3650	local-authority-eng:WAE	WAVERLEY
+3655	local-authority-eng:WOI	WOKING
 3700	local-authority-eng:WKS	*MISSING*
-3705	local-authority-eng:NWK	NORTH WARWICKSHIRE
-3710	local-authority-eng:NUA	NUNEATON AND BEDWORTH
-3715	local-authority-eng:RGB	RUGBY
-3720	local-authority-eng:SOA	STRATFORD-ON-AVON
-3725	local-authority-eng:WWK	WARWICK
+3705	local-authority-eng:NWA	NORTH WARWICKSHIRE
+3710	local-authority-eng:NUN	NUNEATON AND BEDWORTH
+3715	local-authority-eng:RUG	RUGBY
+3720	local-authority-eng:STR	STRATFORD-ON-AVON
+3725	local-authority-eng:WAW	WARWICK
 3800	local-authority-eng:WSX	*MISSING*
-3805	local-authority-eng:ADD	ADUR
-3810	local-authority-eng:ARD	ARUN
-3815	local-authority-eng:CHS	CHICHESTER
+3805	local-authority-eng:ADU	ADUR
+3810	local-authority-eng:ARU	ARUN
+3815	local-authority-eng:CHI	CHICHESTER
 3820	local-authority-eng:CRW	CRAWLEY
-3825	local-authority-eng:HOD	HORSHAM
-3830	local-authority-eng:MSX	MID SUSSEX
-3835	local-authority-eng:WOB	WORTHING
+3825	local-authority-eng:HOR	HORSHAM
+3830	local-authority-eng:MSS	MID SUSSEX
+3835	local-authority-eng:WOT	WORTHING
 3935	local-authority-eng:SWD	SWINDON
 3940	local-authority-eng:WIL	WILTSHIRE
 4205	local-authority-eng:BOL	BOLTON
@@ -311,17 +311,18 @@ local-custodian	local-authority	name
 4610	local-authority-eng:COV	COVENTRY
 4615	local-authority-eng:DUD	DUDLEY
 4620	local-authority-eng:SAW	SANDWELL
-4625	local-authority-eng:SHL	SOLIHULL
+4625	local-authority-eng:SOL	SOLIHULL
 4630	local-authority-eng:WLL	WALSALL
 4635	local-authority-eng:WLV	WOLVERHAMPTON
 4705	local-authority-eng:BRD	BRADFORD MDC
+4710	local-authority-eng:CLD	CALDERDALE
 4710	local-authority-eng:CLD	CALDERDALE
 4715	local-authority-eng:KIR	KIRKLEES
 4720	local-authority-eng:LDS	LEEDS
 4725	local-authority-eng:WKF	WAKEFIELD
 5030	local-authority-eng:LND	CITY OF LONDON
 5060	local-authority-eng:BDG	BARKING AND DAGENHAM
-5090	local-authority-eng:BNT	BARNET
+5090	local-authority-eng:BNE	BARNET
 5120	local-authority-eng:BEX	BEXLEY
 5150	local-authority-eng:BEN	BRENT
 5180	local-authority-eng:BRY	LONDON BOROUGH OF BROMLEY

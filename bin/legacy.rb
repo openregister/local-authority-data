@@ -132,6 +132,7 @@ def fix_mispelling! name
     ['highlands', 'highland'],
     ['scottish borders', 'the scottish borders'],
     ['scottish borders council', 'the scottish borders'],
+    ['scottish borders the', 'the scottish borders'],
     ['county of herefordshire', 'herefordshire'],
     ['city and county of the city of london', 'city of london'],
     ['na h eileanan an iar', 'eilean siar'],
@@ -143,6 +144,7 @@ def fix_mispelling! name
     ['city and county of swansea council', 'swansea'],
     ['derry and strabane', 'derry city and strabane'],
     ['durham', 'county durham'],
+    ['durham county', 'county durham'],
     ['durham county council', 'county durham'],
     ['newcastle city council', 'newcastle upon tyne'],
     ['north down and ards', 'ards and north down'],
@@ -150,9 +152,11 @@ def fix_mispelling! name
     ['hull city', 'kingston upon hull'],
     ['north west somerset', 'north somerset'],
     ['pen y bont ar ogwr', 'bridgend'],
+    ['saint helens !st helens', 'st helens'],
     ['the highland council', 'highland'],
     ['vale of glamorgan council', 'the vale of glamorgan'],
     ['vale of glamorgan', 'the vale of glamorgan'],
+    ['vale of glamorgan the \\[bro morgannwg gb bmg\\]', 'the vale of glamorgan'],
     ['ynys mn', 'isle of anglesey']
   ].each do |pattern, replace|
     name.sub!(/^#{pattern}$/, replace)
@@ -231,7 +235,8 @@ def remove_suffix! name
     'district',
     'london boro',
     'city',
-    'county'
+    'county',
+    '\\[.*'
   ].each do |suffix|
     name.sub!(/\s#{suffix}$/, '')
   end

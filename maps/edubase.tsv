@@ -1,8 +1,8 @@
 edubase	local-authority	name
 301	local-authority-eng:BDG	Barking and Dagenham
-302	local-authority-eng:BNT	Barnet
+302	local-authority-eng:BNE	Barnet
 370	local-authority-eng:BNS	Barnsley
-800	local-authority-eng:BNE	Bath and North East Somerset
+800	local-authority-eng:BAS	Bath and North East Somerset
 822	local-authority-eng:BDF	Bedford
 303	local-authority-eng:BEX	Bexley
 702		BFPO Overseas Establishments
@@ -12,7 +12,7 @@ edubase	local-authority	name
 677	local-authority-wls:BGW	Blaenau Gwent
 350	local-authority-eng:BOL	Bolton
 837	local-authority-eng:BMH	Bournemouth
-867	local-authority-eng:BNF	Bracknell Forest
+867	local-authority-eng:BRC	Bracknell Forest
 380	local-authority-eng:BRD	Bradford
 304	local-authority-eng:BEN	Brent
 672	local-authority-wls:BGE	Bridgend
@@ -29,8 +29,8 @@ edubase	local-authority	name
 669	local-authority-wls:CMN	Carmarthenshire
 823	local-authority-eng:CBF	Central Bedfordshire
 667	local-authority-wls:CGN	Ceredigion
-895	local-authority-eng:CEA	Cheshire East
-896	local-authority-eng:CWE	Cheshire West and Chester
+895	local-authority-eng:CHE	Cheshire East
+896	local-authority-eng:CHW	Cheshire West and Chester
 201	local-authority-eng:LND	City of London
 662	local-authority-wls:CWY	Conwy
 908	local-authority-eng:CON	Cornwall
@@ -68,7 +68,7 @@ edubase	local-authority	name
 805	local-authority-eng:HPL	Hartlepool
 311	local-authority-eng:HAV	Havering
 884	local-authority-eng:HEF	Herefordshire
-919	local-authority-eng:HFS	Hertfordshire
+919	local-authority-eng:HRT	Hertfordshire
 312	local-authority-eng:HIL	Hillingdon
 313	local-authority-eng:HNS	Hounslow
 660	local-authority-wls:AGY	Isle of Anglesey
@@ -150,7 +150,7 @@ edubase	local-authority	name
 870	local-authority-eng:RDG	Reading
 317	local-authority-eng:RDB	Redbridge
 807	local-authority-eng:RCC	Redcar and Cleveland
-674	local-authority-wls:RCT	Rhondda	 Cynon	 Taff
+674	local-authority-wls:RCT	Rhondda Cynon Taff
 318	local-authority-eng:RIC	Richmond upon Thames
 354	local-authority-eng:RCH	Rochdale
 372	local-authority-eng:ROT	Rotherham
@@ -162,18 +162,18 @@ edubase	local-authority	name
 373	local-authority-eng:SHF	Sheffield
 893	local-authority-eng:SHR	Shropshire
 871	local-authority-eng:SLG	Slough
-334	local-authority-eng:SHL	Solihull
+334	local-authority-eng:SOL	Solihull
 933	local-authority-eng:SOM	Somerset
 803	local-authority-eng:SGC	South Gloucestershire
 393	local-authority-eng:STY	South Tyneside
 852	local-authority-eng:STH	Southampton
-882	local-authority-eng:SSE	Southend-on-Sea
+882	local-authority-eng:SOS	Southend-on-Sea
 210	local-authority-eng:SWK	Southwark
 342	local-authority-eng:SHN	St. Helens
 860	local-authority-eng:STS	Staffordshire
 356	local-authority-eng:SKP	Stockport
 808	local-authority-eng:STT	Stockton-on-Tees
-861	local-authority-eng:SOT	Stoke-on-Trent
+861	local-authority-eng:STE	Stoke-on-Trent
 935	local-authority-eng:SFK	Suffolk
 394	local-authority-eng:SND	Sunderland
 936	local-authority-eng:SRY	Surrey
@@ -183,7 +183,7 @@ edubase	local-authority	name
 357	local-authority-eng:TAM	Tameside
 894	local-authority-eng:TFW	Telford and Wrekin
 673	local-authority-wls:VGL	The Vale of Glamorgan
-883	local-authority-eng:TUK	Thurrock
+883	local-authority-eng:THR	Thurrock
 880	local-authority-eng:TOB	Torbay
 678	local-authority-wls:TOF	Torfaen
 211	local-authority-eng:TWH	Tower Hamlets
@@ -193,7 +193,7 @@ edubase	local-authority	name
 320	local-authority-eng:WFT	Waltham Forest
 212	local-authority-eng:WND	Wandsworth
 877	local-authority-eng:WRT	Warrington
-937	local-authority-eng:WKS	Warwickshire
+937	local-authority-eng:WAR	Warwickshire
 869	local-authority-eng:WBK	West Berkshire
 938	local-authority-eng:WSX	West Sussex
 213	local-authority-eng:WSM	Westminster
