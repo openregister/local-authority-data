@@ -2,11 +2,11 @@ require 'morph'
 require 'net/http'
 require 'yaml'
 
-def load_legacy_report
-  unless File.exist?("./legacy/report.tsv")
-    `bundle exec ruby bin/legacy.rb`
+def load_lists_report
+  unless File.exist?("./lists/report.tsv")
+    `bundle exec ruby bin/lists_report.rb`
   end
-  data = Morph.from_tsv IO.read("./legacy/report.tsv"), 'LocalAuthority'
+  data = Morph.from_tsv IO.read("./lists/report.tsv"), 'LocalAuthority'
   by_local_authority = data.group_by(&:local_authority)
   by_local_authority.delete("")
   by_local_authority
@@ -41,7 +41,7 @@ def known_report_exception? key, expected
   (key == :gss && expected.try(key).to_s[/^N.*/])
 end
 
-legacy_mapping = load_legacy_report
+lists_mapping = load_lists_report
 lists = %w[
   edubase
   food-authority
@@ -63,9 +63,9 @@ lists.each do |list|
 
   key = list.gsub('-','_').to_sym
 
-  legacy_mapping.keys.each do |local_authority|
+  lists_mapping.keys.each do |local_authority|
     expected = data_by_local_authority[local_authority].try(:first)
-    automated = legacy_mapping[local_authority]
+    automated = lists_mapping[local_authority]
     automated = automated.first if automated.is_a?(Array)
 
     begin

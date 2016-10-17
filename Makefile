@@ -1,18 +1,18 @@
 TARGETS=\
-	legacy/report.html \
-	legacy/report.tsv
+	lists/report.html \
+	lists/report.tsv
 
 all:	$(TARGETS)
 
-legacy/report.tsv:	legacy/report.html
+lists/report.tsv:	lists/report.html
 
-legacy/report.html:	bin/legacy.rb
-	bundle exec ruby bin/legacy.rb\
+lists/report.html:	bin/lists_report.rb
+	bundle exec ruby bin/lists_report.rb\
 	&& bundle exec ruby bin/check.rb
 
 clobber:
 	rm -f $(TARGETS)
-	rm -f legacy/names.tsv
+	rm -f lists/names.tsv
 
 flake8:
 	flake8 bin
