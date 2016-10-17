@@ -76,13 +76,13 @@ def load file
   [name, list]
 end
 
-def load_data_and_legacy
+def load_data_and_lists
   data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/*{tsv}').flat_map do |file|
     _, list = load file ; nil
     list
   end ; nil
 
-  legacy = Dir.glob('legacy/*/*{tsv}').each_with_object({}) do |file, hash|
+  lists = Dir.glob('lists/*/*{tsv}').each_with_object({}) do |file, hash|
     begin
       name, list = load(file)
       hash[name.to_sym] = list
@@ -92,13 +92,13 @@ def load_data_and_legacy
     end
   end ; nil
 
-  [data, legacy]
+  [data, lists]
 end
 
-def remove_unrelated! legacy
-  legacy[:local_directgov].delete_if { |item| item.snac.blank? }; nil
-  legacy[:opendatacommunities].delete_if { |item| item.ons_code.blank? }; nil
-  legacy[:ons_api_admin_areas].delete_if do |item|
+def remove_unrelated! lists
+  lists[:local_directgov].delete_if { |item| item.snac.blank? }; nil
+  lists[:opendatacommunities].delete_if { |item| item.ons_code.blank? }; nil
+  lists[:ons_api_admin_areas].delete_if do |item|
     ['England and Wales',
     'Region',
     'Inner and Outer London',
@@ -108,8 +108,8 @@ def remove_unrelated! legacy
   end; nil
 end
 
-def log_legacy legacy
-  legacy.map do |name, list|
+def log_lists lists
+  lists.map do |name, list|
     puts ""
     puts name
     puts list.first.morph_attributes.to_yaml
@@ -261,20 +261,20 @@ def normalize_name item
   name
 end
 
-def group_by_normalize_name authorities, legacy
-  legacy_values = legacy.except(:map).values
-  legacy[:os_boundary_line].each {|item| item._name = item._name.split(" - ").last }
-  legacy[:os_open_names].each {|item| item._name = item._name.split(" - ").last }
+def group_by_normalize_name authorities, lists
+  lists_values = lists.except(:map).values
+  lists[:os_boundary_line].each {|item| item._name = item._name.split(" - ").last }
+  lists[:os_open_names].each {|item| item._name = item._name.split(" - ").last }
 
-  by_name = [authorities, legacy_values].flatten.
+  by_name = [authorities, lists_values].flatten.
     select{|item| !normalize_name(item)[/\s(fire|police)\s/] }.
     sort_by{|item| normalize_name(item) }.
     group_by{|item| normalize_name(item) }
 end
 
-def class_keys authorities, legacy
-  dataset_keys = legacy.keys
-  [authorities.first.class] + dataset_keys.map{|k| legacy[k].first.class}
+def class_keys authorities, lists
+  dataset_keys = lists.keys
+  [authorities.first.class] + dataset_keys.map{|k| lists[k].first.class}
 end
 
 def css_class value
@@ -395,7 +395,7 @@ def write_to_html class_keys, by_name, dataset_to_type
   }
   html = html.to_s
   html.gsub!('type="text/javascript"/>','type="text/javascript"></script>')
-  file = 'legacy/report.html'
+  file = 'lists/report.html'
   File.open(file, 'w') do |f|
     f.write('<!DOCTYPE html>')
     f.write("\n")
@@ -406,8 +406,8 @@ def write_to_html class_keys, by_name, dataset_to_type
 end
 
 def write_to_report_tsv class_keys, by_name
-  puts 'Write file to: legacy/report.tsv'
-  File.open('legacy/report.tsv', 'w') do |f|
+  puts 'Write file to: lists/report.tsv'
+  File.open('lists/report.tsv', 'w') do |f|
     class_keys.each do |key|
       header = key.name.sub('Morph::','').underscore.gsub('_','-')
       header = 'food-authority' if header[/food-standards/]
@@ -454,8 +454,8 @@ def normalize_name_for_maps name
 end
 
 def write_to_name_tsv class_keys, by_name
-  puts 'Write file to: legacy/name.tsv'
-  File.open('legacy/name.tsv', 'w') do |f|
+  puts 'Write file to: lists/name.tsv'
+  File.open('lists/name.tsv', 'w') do |f|
     f.write('name')
     f.write("\t")
     f.write('local-authority')
@@ -484,12 +484,12 @@ def write_to_name_tsv class_keys, by_name
   end
 end
 
-authorities, legacy = load_data_and_legacy ; nil
-remove_unrelated! legacy ; nil
+authorities, lists = load_data_and_lists ; nil
+remove_unrelated! lists ; nil
 
-log_legacy legacy
+log_lists lists
 
-by_name = group_by_normalize_name(authorities, legacy) ; nil
+by_name = group_by_normalize_name(authorities, lists) ; nil
 
 type_to_aliases = by_name.to_a.map {|key, list| list.each_with_object({}) {|item, hash| if type = item.try(:_type) ; hash[item._dataset] = type ; end } }.uniq.select {|x| x.size > 1}.group_by{|x| x['localauthorityeng']}
 
@@ -513,7 +513,7 @@ dataset_to_type['opendatacommunities']['District Council'] = 'nmd'
 dataset_to_type['onsapiadminareas']['Unitary Authority'] = 'unitary-authority'
 dataset_to_type['opendatacommunities']['Unitary Authority'] = 'unitary-authority'
 
-class_keys = class_keys authorities, legacy
+class_keys = class_keys authorities, lists
 write_to_html class_keys, by_name, dataset_to_type
 write_to_report_tsv class_keys, by_name
 write_to_name_tsv class_keys, by_name

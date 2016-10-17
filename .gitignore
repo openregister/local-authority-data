@@ -4,9 +4,9 @@ tmp/
 __pycache__/
 *.py[cod]
 *.swp
-legacy/os-open-names/_build
-legacy/os-open-names/deps
+lists/os-open-names/_build
+lists/os-open-names/deps
 
-legacy/name.tsv
-legacy/report.tsv
-legacy/report.html
+lists/name.tsv
+lists/report.tsv
+lists/report.html
