@@ -6,8 +6,8 @@ all:	$(TARGETS)
 
 legacy/report.tsv:	legacy/report.html
 
-legacy/report.html:	bin/legacy.rb
-	bundle exec ruby bin/legacy.rb\
+legacy/report.html:	bin/lists_report.rb
+	bundle exec ruby bin/lists_report.rb\
 	&& bundle exec ruby bin/check.rb
 
 clobber:

@@ -3,7 +3,7 @@
 #     bundle
 #
 # To run:
-#     bundle exec ruby bin/legacy.rb
+#     bundle exec ruby bin/lists_report.rb
 #
 require 'builder'
 require 'map_by_method'

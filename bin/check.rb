@@ -4,7 +4,7 @@ require 'yaml'
 
 def load_legacy_report
   unless File.exist?("./legacy/report.tsv")
-    `bundle exec ruby bin/legacy.rb`
+    `bundle exec ruby bin/lists_report.rb`
   end
   data = Morph.from_tsv IO.read("./legacy/report.tsv"), 'LocalAuthority'
   by_local_authority = data.group_by(&:local_authority)
