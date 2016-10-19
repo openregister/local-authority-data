@@ -339,7 +339,7 @@ food-authority	local-authority	name	website	email
 429	local-authority-eng:SND	Sunderland	http://www.sunderland.gov.uk	public.health@sunderland.gov.uk
 312	local-authority-eng:SUR	Surrey Heath	http://www.surreyheath.gov.uk	environmental.health@surreyheath.gov.uk
 529	local-authority-eng:STN	Sutton	http://www.sutton.gov.uk	brs@sutton.gov.uk
-189	local-authority-eng:SWA	Swale	http://www.swale.gov.uk	commerical@midkent.gov.uk
+189	local-authority-eng:SWL	Swale	http://www.swale.gov.uk	commerical@midkent.gov.uk
 568	local-authority-wls:SWA	Swansea	http://www.swansea.gov.uk	FoodandSafety@swansea.gov.uk
 881	local-authority-eng:SWD	Swindon	http://www.swindon.gov.uk/	foodhealth&safety@swindon.gov.uk
 430	local-authority-eng:TAM	Tameside	http://www.tameside.gov.uk	environmentalhealth@tameside.gov.uk
