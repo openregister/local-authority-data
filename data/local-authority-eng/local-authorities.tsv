@@ -89,7 +89,7 @@ WLL	MD	Walsall	Walsall Metropolitan Borough Council	1974-04-01
 WLV	MD	Wolverhampton	City of Wolverhampton Council	1974-04-01	
 WNM	UA	Windsor and Maidenhead	Royal Borough of Windsor and Maidenhead	1905-06-20	
 WOK	UA	Wokingham	Wokingham Borough Council	1905-06-20	
-WRL	MD	Wirral	Wirral Council	1974-04-01	
+WRL	MD	Wirral	Wirral Borough Council	1974-04-01	
 WRT	UA	Warrington	Warrington Borough Council	1905-06-20	
 YOR	UA	York	City of York Council	1905-06-18	
 BKM	CTY	Buckinghamshire	Buckinghamshire County Council	1905-06-19	
@@ -105,12 +105,12 @@ HUN	NMD	Huntingdonshire	Huntingdonshire District Council
 SCA	NMD	South Cambridgeshire	South Cambridgeshire District Council		
 CMA	CTY	Cumbria	Cumbria County Council		
 ALL	NMD	Allerdale	Allerdale Borough Council		
-BAR	NMD	Barrow-in-Furness	Borough of Barrow-in-Furness		
+BAR	NMD	Barrow-in-Furness	Barrow-in-Furness Borough Council		
 CAR	NMD	Carlisle	Carlisle City Council		
 COP	NMD	Copeland	Copeland Borough Council		
 EDN	NMD	Eden	Eden District Council		
 SLA	NMD	South Lakeland	South Lakeland District Council		
-DER	UA	Derby	Derby City 		
+DER	UA	Derby	Derby City Council		
 DBY	CTY	Derbyshire	Derbyshire County Council		
 AMB	NMD	Amber Valley	Amber Valley Borough Council		
 BOS	NMD	Bolsover	Bolsover District Council		
@@ -124,7 +124,7 @@ DEV	CTY	Devon	Devon County Council
 EDE	NMD	East Devon	East Devon District Council		
 EXE	NMD	Exeter	Exeter City Council		
 MDE	NMD	Mid Devon	Mid Devon District Council		
-NDE	NMD	North Devon	North Devon Council		
+NDE	NMD	North Devon	North Devon District Council		
 SHA	NMD	South Hams	South Hams District Council		
 TEI	NMD	Teignbridge	Teignbridge District Council		
 TOR	NMD	Torridge	Torridge District Council		
@@ -144,7 +144,7 @@ CAS	NMD	Castle Point	Castle Point Borough Council
 CHL	NMD	Chelmsford	Chelmsford City Council		
 COL	NMD	Colchester	Colchester Borough Council		
 EPP	NMD	Epping Forest	Epping Forest District Council		
-HAR	NMD	Harlow	Harlow Council		
+HAR	NMD	Harlow	Harlow District Council		
 MAL	NMD	Maldon	Maldon District Council		
 ROC	NMD	Rochford	Rochford District Council		
 TEN	NMD	Tendring	Tendring District Council		
@@ -207,7 +207,7 @@ RUH	NMD	Rushmoor	Rushmoor Borough Council
 TES	NMD	Test Valley	Test Valley Borough Council		
 WIN	NMD	Winchester	Winchester City Council		
 HRT	CTY	Hertfordshire	Hertfordshire County Council		
-BRX	NMD	Broxbourne	Borough of Broxbourne		
+BRX	NMD	Broxbourne	Broxbourne Borough Council		
 DAC	NMD	Dacorum	Dacorum Borough Council		
 EHE	NMD	East Hertfordshire	East Hertfordshire District Council		
 HER	NMD	Hertsmere	Hertsmere Borough Council		
@@ -216,7 +216,7 @@ SAL	NMD	St Albans	St Albans City and District Council
 STV	NMD	Stevenage	Stevenage Borough Council		
 THE	NMD	Three Rivers	Three Rivers District Council		
 WAT	NMD	Watford	Watford Borough Council		
-WEW	NMD	Welwyn Hatfield	Welwyn Hatfield Council		
+WEW	NMD	Welwyn Hatfield	Welwyn Hatfield Borough Council		
 KEN	CTY	Kent	Kent County Council		
 ASF	NMD	Ashford	Ashford Borough Council		
 CAT	NMD	Canterbury	Canterbury City Council		
@@ -232,7 +232,7 @@ TON	NMD	Tonbridge and Malling	Tonbridge and Malling Borough Council
 TUN	NMD	Tunbridge Wells	Tunbridge Wells Borough Council		
 LAN	CTY	Lancashire	Lancashire County Council		
 BUN	NMD	Burnley	Burnley Borough Council		
-CHO	NMD	Chorley	Chorley Council		
+CHO	NMD	Chorley	Chorley Borough Council		
 FYL	NMD	Fylde	Fylde Borough Council		
 HYN	NMD	Hyndburn	Hyndburn Borough Council		
 LAC	NMD	Lancaster	Lancaster City Council		
@@ -242,7 +242,7 @@ RIB	NMD	Ribble Valley	Ribble Valley Borough Council
 ROS	NMD	Rossendale	Rossendale Borough Council		
 SRI	NMD	South Ribble	South Ribble Borough Council		
 WLA	NMD	West Lancashire	West Lancashire Borough Council		
-WYR	NMD	Wyre	Wyre Council		
+WYR	NMD	Wyre	Wyre Borough Council		
 LEC	CTY	Leicestershire	Leicestershire County Council		
 BLA	NMD	Blaby	Blaby District Council		
 CHA	NMD	Charnwood	Charnwood Borough Council		
@@ -250,7 +250,7 @@ HAO	NMD	Harborough	Harborough District Council
 HIN	NMD	Hinckley and Bosworth	Hinckley and Bosworth Borough Council		
 MEL	NMD	Melton	Melton Borough Council		
 NWL	NMD	North West Leicestershire	North West Leicestershire District Council		
-OAD	NMD	Oadby and Wigston	Oadby and Wigston District Council		
+OAD	NMD	Oadby and Wigston	Oadby and Wigston Borough Council		
 LIN	CTY	Lincolnshire	Lincolnshire County Council		
 BOT	NMD	Boston	Boston Borough Council		
 ELI	NMD	East Lindsey	East Lindsey District Council		
@@ -260,7 +260,7 @@ SHO	NMD	South Holland	South Holland District Council
 SKE	NMD	South Kesteven	South Kesteven District Council		
 WLI	NMD	West Lindsey	West Lindsey District Council		
 NFK	CTY	Norfolk	Norfolk County Council		
-BRE	NMD	Breckland	Breckland Council		
+BRE	NMD	Breckland	Breckland District Council		
 BRO	NMD	Broadland	Broadland District Council		
 GRY	NMD	Great Yarmouth	Great Yarmouth Borough Council		
 KIN	NMD	Kings Lynn and West Norfolk	Borough Council of Kings Lynn and West Norfolk		
@@ -310,7 +310,7 @@ MEN	NMD	Mendip	Mendip District Council
 SEG	NMD	Sedgemoor	Sedgemoor District Council		
 SSO	NMD	South Somerset	South Somerset District Council		
 TAU	NMD	Taunton Deane	Taunton Deane Borough Council		
-WSO	NMD	West Somerset	West Somerset Council		
+WSO	NMD	West Somerset	West Somerset District Council		
 SRY	CTY	Surrey	Surrey County Council		
 ELM	NMD	Elmbridge	Elmbridge Borough Council		
 EPS	NMD	Epsom and Ewell	Epsom and Ewell Borough Council		
@@ -327,7 +327,7 @@ STS	CTY	Staffordshire	Staffordshire County Council
 CAN	NMD	Cannock Chase	Cannock Chase District Council		
 EST	NMD	East Staffordshire	East Staffordshire Borough Council		
 LIF	NMD	Lichfield	Lichfield District Council		
-NEC	NMD	Newcastle-under-Lyme	Newcastle-under-Lyme District Council		
+NEC	NMD	Newcastle-under-Lyme	Newcastle-under-Lyme Borough Council		
 SST	NMD	South Staffordshire	South Staffordshire Council		
 STA	NMD	Stafford	Stafford Borough Council		
 STF	NMD	Staffordshire Moorlands	Staffordshire Moorlands District Council		
