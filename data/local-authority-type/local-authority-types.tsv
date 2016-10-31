@@ -1,5 +1,6 @@
 local-authority-type	name
 CA	Council area
+CC	City corporation
 CTY	County
 DIS	District
 LBO	London borough
