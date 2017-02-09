@@ -1,4 +1,7 @@
 ---
+local-authority-eng:
+  description: Local authority in England register data
+  key: local-authority-eng
 local-custodian:
   description: AddressBase™ / Geoplace LLP address custodian names and codes
   key: local-custodian
