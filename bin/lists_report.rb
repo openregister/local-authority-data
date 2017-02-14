@@ -125,6 +125,10 @@ def fix_mispelling! name
 
   [
     ['blackburn', 'blackburn with darwen'],
+    ['bradford and keighley', 'bradford'],
+    ['county of durham', 'durham'],
+    ['denbighshire north', 'denbighshire'],
+    ['denbighshire south', 'denbighshire'],
     ['east dunbarton', 'east dunbartonshire'],
     ['shetland', 'shetland islands'],
     ['orkney', 'orkney islands'],
@@ -150,6 +154,7 @@ def fix_mispelling! name
     ['north down and ards', 'ards and north down'],
     ['hull city council', 'kingston upon hull'],
     ['hull city', 'kingston upon hull'],
+    ['hull', 'kingston upon hull'],
     ['north west somerset', 'north somerset'],
     ['pen y bont ar ogwr', 'bridgend'],
     ['saint helens !st helens', 'st helens'],
@@ -157,6 +162,8 @@ def fix_mispelling! name
     ['vale of glamorgan council', 'the vale of glamorgan'],
     ['vale of glamorgan', 'the vale of glamorgan'],
     ['vale of glamorgan the \\[bro morgannwg gb bmg\\]', 'the vale of glamorgan'],
+    ['wigan and leigh', 'wigan'],
+    ['ynys mon', 'isle of anglesey'],
     ['ynys mn', 'isle of anglesey']
   ].each do |pattern, replace|
     name.sub!(/^#{pattern}$/, replace)
