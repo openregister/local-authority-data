@@ -127,6 +127,8 @@ def fix_mispelling! name
     ['blackburn', 'blackburn with darwen'],
     ['bradford and keighley', 'bradford'],
     ['county of durham', 'durham'],
+    ['bwrdeistref sirol caerffili','caerphilly'],
+    ['caerphilly cbc', 'caerphilly'],
     ['denbighshire north', 'denbighshire'],
     ['denbighshire south', 'denbighshire'],
     ['east dunbarton', 'east dunbartonshire'],
@@ -140,6 +142,8 @@ def fix_mispelling! name
     ['county of herefordshire', 'herefordshire'],
     ['city and county of the city of london', 'city of london'],
     ['na h eileanan an iar', 'eilean siar'],
+    ['isle of arran','north ayrshire'],
+    ['isle of cumbrae','north ayrshire'],
     ['eilean', 'eilean siar'],
     ['comhairle nan eilean siar', 'eilean siar'],
     ['western isles', 'eilean siar'],
@@ -152,6 +156,8 @@ def fix_mispelling! name
     ['durham county council', 'county durham'],
     ['newcastle city council', 'newcastle upon tyne'],
     ['north down and ards', 'ards and north down'],
+    ['nottinghamshire"', 'nottinghamshire'],
+    ['sir gar','carmarthenshire'],
     ['hull city council', 'kingston upon hull'],
     ['hull city', 'kingston upon hull'],
     ['hull', 'kingston upon hull'],
@@ -164,7 +170,8 @@ def fix_mispelling! name
     ['vale of glamorgan the \\[bro morgannwg gb bmg\\]', 'the vale of glamorgan'],
     ['wigan and leigh', 'wigan'],
     ['ynys mon', 'isle of anglesey'],
-    ['ynys mn', 'isle of anglesey']
+    ['ynys mn', 'isle of anglesey'],
+    ['yell', 'shetland islands']
   ].each do |pattern, replace|
     name.sub!(/^#{pattern}$/, replace)
   end
