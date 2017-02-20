@@ -1,0 +1,233 @@
+street-administrative-area	local-authority	local-authority-name
+ABERDEEN CITY	local-authority-sct:ABE	Aberdeen City
+ABERDEENSHIRE	local-authority-sct:ABD	Aberdeenshire
+ANGUS	local-authority-sct:ANS	Angus
+ARGYLL AND BUTE	local-authority-sct:AGB	Argyll and Bute
+AYRSHIRE		
+BARKING AND DAGENHAM	local-authority-eng:BDG	Barking and Dagenham
+BARNET	local-authority-eng:BNE	Barnet
+BARNSLEY	local-authority-eng:BNS	Barnsley
+BATH AND NORTH EAST SOMERSET	local-authority-eng:BAS	Bath and North East Somerset
+BEDFORD	local-authority-eng:BDF	Bedford
+BEXLEY	local-authority-eng:BEX	Bexley
+BIRMINGHAM	local-authority-eng:BIR	Birmingham
+BLACKBURN WITH DARWEN	local-authority-eng:BBD	Blackburn with Darwen
+BLACKPOOL	local-authority-eng:BPL	Blackpool
+BLAENAU GWENT	local-authority-wls:BGW	Blaenau Gwent
+BOLTON	local-authority-eng:BOL	Bolton
+BOURNEMOUTH	local-authority-eng:BMH	Bournemouth
+BRACKNELL FOREST	local-authority-eng:BRC	Bracknell Forest
+BRADFORD MDC	local-authority-eng:BRD	Bradford
+BRENT	local-authority-eng:BEN	Brent
+BRIGHTON & HOVE	local-authority-eng:BNH	Brighton and Hove
+BRISTOL	local-authority-eng:BST	City of Bristol
+BUCKINGHAMSHIRE	local-authority-eng:BKM	Buckinghamshire
+BURY	local-authority-eng:BUR	Bury
+CAERDYDD	local-authority-wls:CRF	Cardiff
+CARDIFF	local-authority-wls:CRF	Cardiff
+CAERPHILLY COUNTY BOROUGH	local-authority-wls:CAY	Caerphilly
+CAERPHILLY CBC	local-authority-wls:CAY	Caerphilly
+BWRDEISTREF SIROL CAERFFILI	local-authority-wls:CAY	Caerphilly
+CAERFFILI	local-authority-wls:CAY	Caerphilly
+CALDERDALE	local-authority-eng:CLD	Calderdale
+CAMBRIDGESHIRE	local-authority-eng:CAM	Cambridgeshire
+CAMDEN	local-authority-eng:CMD	Camden
+CENTRAL BEDFORDSHIRE	local-authority-eng:CBF	Central Bedfordshire
+CEREDIGION	local-authority-wls:CGN	Ceredigion
+CHESHIRE EAST	local-authority-eng:CHE	Cheshire East
+CHESHIRE WEST AND CHESTER	local-authority-eng:CHW	Cheshire West and Chester
+CITY OF EDINBURGH	local-authority-sct:EDH	City of Edinburgh
+CITY OF LONDON	local-authority-eng:LND	City of London
+CITY OF STOKE-ON-TRENT	local-authority-eng:STE	Stoke-on-Trent
+CITY OF WESTMINSTER	local-authority-eng:WSM	Westminster
+CLACKMANNANSHIRE	local-authority-sct:CLK	Clackmannanshire
+CONWY	local-authority-wls:CWY	Conwy
+CORNWALL	local-authority-eng:CON	Cornwall
+COVENTRY	local-authority-eng:COV	Coventry
+CROYDON	local-authority-eng:CRY	Croydon
+CUMBRIA	local-authority-eng:CMA	Cumbria
+DARLINGTON	local-authority-eng:DAL	Darlington
+DERBY	local-authority-eng:DER	Derby
+DERBYSHIRE	local-authority-eng:DBY	Derbyshire
+DEVON	local-authority-eng:DEV	Devon
+DONCASTER	local-authority-eng:DNC	Doncaster
+DORSET	local-authority-eng:DOR	Dorset
+DUDLEY	local-authority-eng:DUD	Dudley
+DUMFRIES AND GALLOWAY	local-authority-sct:DGY	Dumfries and Galloway
+DUNDEE CITY	local-authority-sct:DND	Dundee City
+DURHAM	local-authority-eng:DUR	County Durham
+EALING	local-authority-eng:EAL	Ealing
+EAST AYRSHIRE	local-authority-sct:EAY	East Ayrshire
+EAST DUNBARTONSHIRE	local-authority-sct:EDU	East Dunbartonshire
+EAST DUNNBARTONSHIRE	local-authority-sct:EDU	East Dunbartonshire
+EASE DUNBARTONSHIRE	local-authority-sct:EDU	East Dunbartonshire
+EAST LOTHIAN	local-authority-sct:ELN	East Lothian
+EAST RENFREWSHIRE	local-authority-sct:ERW	East Renfrewshire
+EAST RIDING OF YORKSHIRE	local-authority-eng:ERY	East Riding of Yorkshire
+EAST SUSSEX	local-authority-eng:ESX	East Sussex
+ENFIELD	local-authority-eng:ENF	Enfield
+ESSEX	local-authority-eng:ESS	Essex
+FALKIRK	local-authority-sct:FAL	Falkirk
+FIFE	local-authority-sct:FIF	Fife
+FLINTSHIRE	local-authority-wls:FLN	Flintshire
+SIR Y FFLINT	local-authority-wls:FLN	Flintshire
+GATESHEAD	local-authority-eng:GAT	Gateshead
+GLASGOW	local-authority-sct:GLG	Glasgow City
+GLASGOW CITY	local-authority-sct:GLG	Glasgow City
+GLASGOW CITY COUCIL	local-authority-sct:GLG	Glasgow City
+GLASGOW CITY COUNCIL	local-authority-sct:GLG	Glasgow City
+GLOUCESTERSHIRE	local-authority-eng:GLS	Gloucestershire
+GREENWICH	local-authority-eng:GRE	Greenwich
+GWYNEDD	local-authority-wls:GWN	Gwynedd
+HACKNEY	local-authority-eng:HCK	Hackney
+HALTON	local-authority-eng:HAL	Halton
+HAMMERSMITH AND FULHAM	local-authority-eng:HMF	Hammersmith and Fulham
+HAMPSHIRE	local-authority-eng:HAM	Hampshire
+HARROW	local-authority-eng:HRW	Harrow
+HARTLEPOOL	local-authority-eng:HPL	Hartlepool
+HAVERING	local-authority-eng:HAV	Havering
+LONDON BOROUGH OF HAVERING	local-authority-eng:HAV	Havering
+HEREFORDSHIRE	local-authority-eng:HEF	Herefordshire
+HERTFORDSHIRE	local-authority-eng:HRT	Hertfordshire
+HIGHLANDS	local-authority-sct:HLD	Highland
+HIGHLAND	local-authority-sct:HLD	Highland
+HILLINGDON	local-authority-eng:HIL	Hillingdon
+HOUNSLOW	local-authority-eng:HNS	Hounslow
+INVERCLYDE	local-authority-sct:IVC	Inverclyde
+ISLE OF WIGHT	local-authority-eng:IOW	Isle of Wight
+ISLES OF SCILLY	local-authority-eng:IOS	Isles of Scilly
+ISLINGTON	local-authority-eng:ISL	Islington
+KENSINGTON AND CHELSEA	local-authority-eng:KEC	Kensington and Chelsea
+KENT	local-authority-eng:KEN	Kent
+KINGSTON UPON HULL	local-authority-eng:KHL	Kingston upon Hull
+KINGSTON UPON THAMES	local-authority-eng:KTT	Kingston upon Thames
+KIRKLEES	local-authority-eng:KIR	Kirklees
+KNOWSLEY	local-authority-eng:KWL	Knowsley
+LAMBETH	local-authority-eng:LBH	Lambeth
+LANCASHIRE	local-authority-eng:LAN	Lancashire
+LEEDS	local-authority-eng:LDS	Leeds
+LEICESTER CITY	local-authority-eng:LCE	Leicester
+LEICESTERSHIRE	local-authority-eng:LEC	Leicestershire
+LEWISHAM	local-authority-eng:LEW	Lewisham
+LINCOLNSHIRE	local-authority-eng:LIN	Lincolnshire
+LIVERPOOL	local-authority-eng:LIV	Liverpool
+LONDON BOROUGH OF BROMLEY	local-authority-eng:BRY	Bromley
+LONDON BOROUGH OF HARINGEY	local-authority-eng:HRY	Haringey
+LUTON	local-authority-eng:LUT	Luton
+MANCHESTER	local-authority-eng:MAN	Manchester
+MEDWAY	local-authority-eng:MDW	Medway
+MERTHYR TYDFIL UA	local-authority-wls:MTY	Merthyr Tydfil
+MERTON	local-authority-eng:MRT	Merton
+MIDDLESBROUGH	local-authority-eng:MDB	Middlesbrough
+MIDLOTHIAN	local-authority-sct:MLN	Midlothian
+MILTON KEYNES	local-authority-eng:MIK	Milton Keynes
+MORAY	local-authority-sct:MRY	Moray
+NA H-EILEANAN AN IAR	local-authority-sct:ELS	Eilean Siar
+NEATH PORT TALBOT	local-authority-wls:NTL	Neath Port Talbot
+CASTELL NEDD PORT TALBOT	local-authority-wls:NTL	Neath Port Talbot
+NEWCASTLE UPON TYNE	local-authority-eng:NET	Newcastle upon Tyne
+NEWHAM	local-authority-eng:NWM	Newham
+NEWPORT	local-authority-wls:NWP	Newport
+NORFOLK	local-authority-eng:NFK	Norfolk
+NORTH AYRSHIRE	local-authority-sct:NAY	North Ayrshire
+ISLE OF ARRAN	local-authority-sct:NAY	North Ayrshire
+ISLE OF CUMBRAE	local-authority-sct:NAY	North Ayrshire
+NORTH EAST LINCOLNSHIRE	local-authority-eng:NEL	North East Lincolnshire
+NORTH LANARKSHIRE	local-authority-sct:NLK	North Lanarkshire
+NORTH LINCOLNSHIRE	local-authority-eng:NLN	North Lincolnshire
+NORTH SOMERSET	local-authority-eng:NSM	North Somerset
+NORTH TYNESIDE	local-authority-eng:NTY	North Tyneside
+NORTH YORKSHIRE	local-authority-eng:NYK	North Yorkshire
+NORTHAMPTONSHIRE	local-authority-eng:NTH	Northamptonshire
+NORTHUMBERLAND	local-authority-eng:NBL	Northumberland
+NOTTINGHAM CITY	local-authority-eng:NGM	Nottingham
+NOTTINGHAMSHIRE	local-authority-eng:NTT	Nottinghamshire
+"NOTTINGHAMSHIRE"""	local-authority-eng:NTT	Nottinghamshire
+OLDHAM	local-authority-eng:OLD	Oldham
+ORKNEY ISLANDS	local-authority-sct:ORK	Orkney Islands
+ORKNEY	local-authority-sct:ORK	Orkney Islands
+OXFORDSHIRE	local-authority-eng:OXF	Oxfordshire
+PEMBROKESHIRE	local-authority-wls:PEM	Pembrokeshire
+PEN-Y-BONT AR OGWR	local-authority-wls:BGE	Bridgend
+BRIDGEND COUNTY BOROUGH	local-authority-wls:BGE	Bridgend
+PERTH AND KINROSS	local-authority-sct:PKN	Perth and Kinross
+PETERBOROUGH	local-authority-eng:PTE	Peterborough
+PLYMOUTH	local-authority-eng:PLY	Plymouth
+POOLE	local-authority-eng:POL	Poole
+PORTSMOUTH CITY COUNCIL	local-authority-eng:POR	Portsmouth
+POWYS	local-authority-wls:POW	Powys
+READING	local-authority-eng:RDG	Reading
+REDBRIDGE	local-authority-eng:RDB	Redbridge
+REDCAR AND CLEVELAND	local-authority-eng:RCC	Redcar and Cleveland
+RENFREWSHIRE	local-authority-sct:RFW	Renfrewshire
+RHONDDA CYNON TAFF	local-authority-wls:RCT	Rhondda Cynon Taff
+RICHMOND UPON THAMES	local-authority-eng:RIC	Richmond upon Thames
+ROCHDALE	local-authority-eng:RCH	Rochdale
+ROTHERHAM	local-authority-eng:ROT	Rotherham
+RUTLAND	local-authority-eng:RUT	Rutland
+SALFORD	local-authority-eng:SLF	Salford
+SANDWELL	local-authority-eng:SAW	Sandwell
+SCOTTISH BORDERS	local-authority-sct:SCB	The Scottish Borders
+SEFTON COUNCIL	local-authority-eng:SFT	Sefton
+SHEFFIELD	local-authority-eng:SHF	Sheffield
+SHETLAND	local-authority-sct:ZET	Shetland Islands
+YELL	local-authority-sct:ZET	Shetland Islands
+SHROPSHIRE	local-authority-eng:SHR	Shropshire
+SIR DDINBYCH	local-authority-wls:DEN	Denbighshire
+DENBIGHSHIRE	local-authority-wls:DEN	Denbighshire
+SIR FYNWY	local-authority-wls:MON	Monmouthshire
+MONMOUTHSHIRE	local-authority-wls:MON	Monmouthshire
+SIR GAR	local-authority-wls:CMN	Carmarthenshire
+CARMARTHENSHIRE	local-authority-wls:CMN	Carmarthenshire
+SLOUGH	local-authority-eng:SLG	Slough
+SOLIHULL	local-authority-eng:SOL	Solihull
+SOMERSET	local-authority-eng:SOM	Somerset
+SOUTH AYRSHIRE	local-authority-sct:SAY	South Ayrshire
+SOUTH GLOUCESTERSHIRE	local-authority-eng:SGC	South Gloucestershire
+SOUTH LANARKSHIRE	local-authority-sct:SLK	South Lanarkshire
+SOUTH TYNESIDE	local-authority-eng:STY	South Tyneside
+SOUTHAMPTON	local-authority-eng:STH	Southampton
+SOUTHEND-ON-SEA	local-authority-eng:SOS	Southend-on-Sea
+SOUTHWARK	local-authority-eng:SWK	Southwark
+ST HELENS COUNCIL	local-authority-eng:SHN	St. Helens
+STAFFORDSHIRE	local-authority-eng:STS	Staffordshire
+STIRLING	local-authority-sct:STG	Stirling
+STOCKPORT	local-authority-eng:SKP	Stockport
+STOCKTON-ON-TEES	local-authority-eng:STT	Stockton-on-Tees
+SUFFOLK	local-authority-eng:SFK	Suffolk
+SUNDERLAND	local-authority-eng:SND	Sunderland
+SURREY	local-authority-eng:SRY	Surrey
+SUTTON	local-authority-eng:STN	Sutton
+SWANSEA	local-authority-wls:SWA	Swansea
+SWINDON	local-authority-eng:SWD	Swindon
+TAMESIDE	local-authority-eng:TAM	Tameside
+TELFORD AND WREKIN	local-authority-eng:TFW	Telford and Wrekin
+THURROCK	local-authority-eng:THR	Thurrock
+TORBAY	local-authority-eng:TOB	Torbay
+TORFAEN	local-authority-wls:TOF	Torfaen
+TOWER HAMLETS	local-authority-eng:TWH	Tower Hamlets
+TRAFFORD	local-authority-eng:TRF	Trafford
+VALE OF GLAMORGAN	local-authority-wls:VGL	The Vale of Glamorgan
+WAKEFIELD	local-authority-eng:WKF	Wakefield
+WALSALL	local-authority-eng:WLL	Walsall
+WALTHAM FOREST	local-authority-eng:WFT	Waltham Forest
+WANDSWORTH	local-authority-eng:WND	Wandsworth
+WARRINGTON	local-authority-eng:WRT	Warrington
+WARWICKSHIRE	local-authority-eng:WAR	Warwickshire
+WEST BERKSHIRE	local-authority-eng:WBK	West Berkshire
+WEST DUNBARTONSHIRE	local-authority-sct:WDU	West Dunbartonshire
+WEST LOTHIAN	local-authority-sct:WLN	West Lothian
+WEST SUSSEX	local-authority-eng:WSX	West Sussex
+WEST YORKSHIRE		
+WIGAN	local-authority-eng:WGN	Wigan
+WILTSHIRE	local-authority-eng:WIL	Wiltshire
+WINDSOR AND MAIDENHEAD	local-authority-eng:WNM	Windsor and Maidenhead
+WIRRAL	local-authority-eng:WRL	Wirral
+WOKINGHAM	local-authority-eng:WOK	Wokingham
+WOLVERHAMPTON	local-authority-eng:WLV	Wolverhampton
+WORCESTERSHIRE	local-authority-eng:WOR	Worcestershire
+WRECSAM	local-authority-wls:WRX	Wrexham
+WREXHAM	local-authority-wls:WRX	Wrexham
+YNYS MON	local-authority-wls:AGY	Isle of Anglesey
+ISLE OF ANGLESEY	local-authority-wls:AGY	Isle of Anglesey
+YORK	local-authority-eng:YOR	York

@@ -23,3 +23,6 @@ gss:
 gaz50k:
   description: 'Ordnance Survey 50K Gazetteer county codes'
   key: gaz50k
+street-administrative-area:
+  description: AddressBase™ / Geoplace LLP street administrative area names
+  key: street-administrative-area
