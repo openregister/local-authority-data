@@ -1,23 +1,23 @@
-local-authority-wls	name	name-cy	official-name	website	start-date	end-date
-AGY	Isle of Anglesey	Sir Ynys Môn	Isle of Anglesey County Council	http://www.anglesey.gov.uk	1996-04-01	
-BGE	Bridgend	Pen-y-bont ar Ogwr	Bridgend County Borough Council	http://www.bridgend.gov.uk	1996-04-01	
-BGW	Blaenau Gwent	Blaenau Gwent	Blaenau Gwent County Borough Council	http://www.blaenau-gwent.gov.uk	1996-04-01	
-CAY	Caerphilly	Caerffili	Caerphilly County Borough Council	http://www.caerphilly.gov.uk	1996-04-01	
-CGN	Ceredigion	Ceredigion	Ceredigion County Council	http://www.ceredigion.gov.uk	1996-04-01	
-CMN	Carmarthenshire	Sir Gaerfyrddin	Carmarthenshire County Council	http://www.carmarthenshire.gov.uk	1996-04-01	
-CRF	Cardiff	Caerdydd	City of Cardiff Council	http://www.cardiff.gov.uk	1996-04-01	
-CWY	Conwy	Conwy	Conwy County Borough Council	http://www.conwy.gov.uk	1996-04-01	
-DEN	Denbighshire	Sir Ddinbych	Denbighshire County Council	http://www.denbighshire.gov.uk	1996-04-01	
-FLN	Flintshire	Sir y Fflint	Flintshire County Council	http://www.flintshire.gov.uk	1996-04-01	
-GWN	Gwynedd	Gwynedd	Gwynedd Council	http://www.gwynedd.gov.uk	1996-04-01	
-MON	Monmouthshire	Sir Fynwy	Monmouthshire County Council	http://www.monmouthshire.gov.uk	1996-04-01	
-MTY	Merthyr Tydfil	Merthyr Tudful	Merthyr Tydfil County Borough Council	http://www.merthyr.gov.uk	1996-04-01	
-NTL	Neath Port Talbot	Castell-nedd Port Talbot	Neath Port Talbot County Borough Council	http://www.neath-porttalbot.gov.uk	1996-04-01	
-NWP	Newport	Casnewydd	Newport City Council	http://www.newport.gov.uk	1996-04-01	
-PEM	Pembrokeshire	Sir Benfro	Pembrokeshire County Council	http://www.pembrokeshire.gov.uk	1996-04-01	
-POW	Powys	Powys	Powys County Council	http://www.powys.gov.uk	1996-04-01	
-RCT	Rhondda Cynon Taff		Rhondda Cynon Taf County Borough Council	http://www.rctcbc.gov.uk	1996-04-01	
-SWA	Swansea	Abertawe	City and County of Swansea Council	http://www.swansea.gov.uk	1996-04-01	
-TOF	Torfaen	Tor-faen	Torfaen County Borough Council	http://www.torfaen.gov.uk	1996-04-01	
-VGL	The Vale of Glamorgan	Bro Morgannwg	Vale of Glamorgan Council	http://www.valeofglamorgan.gov.uk	1996-04-01	
-WRX	Wrexham	Wrecsam	Wrexham County Borough Council	http://www.wrexham.gov.uk	1996-04-01	
+local-authority-wls	name	name-cy	official-name	start-date	end-date
+AGY	Isle of Anglesey	Sir Ynys Môn	Isle of Anglesey County Council	1996-04-01	
+BGE	Bridgend	Pen-y-bont ar Ogwr	Bridgend County Borough Council	1996-04-01	
+BGW	Blaenau Gwent	Blaenau Gwent	Blaenau Gwent County Borough Council	1996-04-01	
+CAY	Caerphilly	Caerffili	Caerphilly County Borough Council	1996-04-01	
+CGN	Ceredigion	Ceredigion	Ceredigion County Council	1996-04-01	
+CMN	Carmarthenshire	Sir Gaerfyrddin	Carmarthenshire County Council	1996-04-01	
+CRF	Cardiff	Caerdydd	City of Cardiff Council	1996-04-01	
+CWY	Conwy	Conwy	Conwy County Borough Council	1996-04-01	
+DEN	Denbighshire	Sir Ddinbych	Denbighshire County Council	1996-04-01	
+FLN	Flintshire	Sir y Fflint	Flintshire County Council	1996-04-01	
+GWN	Gwynedd	Gwynedd	Gwynedd Council	1996-04-01	
+MON	Monmouthshire	Sir Fynwy	Monmouthshire County Council	1996-04-01	
+MTY	Merthyr Tydfil	Merthyr Tudful	Merthyr Tydfil County Borough Council	1996-04-01	
+NTL	Neath Port Talbot	Castell-nedd Port Talbot	Neath Port Talbot County Borough Council	1996-04-01	
+NWP	Newport	Casnewydd	Newport City Council	1996-04-01	
+PEM	Pembrokeshire	Sir Benfro	Pembrokeshire County Council	1996-04-01	
+POW	Powys	Powys	Powys County Council	1996-04-01	
+RCT	Rhondda Cynon Taff		Rhondda Cynon Taf County Borough Council	1996-04-01	
+SWA	Swansea	Abertawe	City and County of Swansea Council	1996-04-01	
+TOF	Torfaen	Tor-faen	Torfaen County Borough Council	1996-04-01	
+VGL	The Vale of Glamorgan	Bro Morgannwg	Vale of Glamorgan Council	1996-04-01	
+WRX	Wrexham	Wrecsam	Wrexham County Borough Council	1996-04-01	

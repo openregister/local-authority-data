@@ -1,33 +1,33 @@
-local-authority-sct	name	official-name	website	start-date	end-date
-ABD	Aberdeenshire	Aberdeenshire Council	http://www.aberdeenshire.gov.uk	1905-06-18	
-ABE	Aberdeen City	Aberdeen City Council	http://www.aberdeencity.gov.uk	1905-06-18	
-AGB	Argyll and Bute	Argyll and Bute Council	http://www.argyll-bute.gov.uk	1905-06-18	
-ANS	Angus	Angus Council	http://www.angus.gov.uk	1905-06-18	
-CLK	Clackmannanshire	Clackmannanshire Council	http://www.clacksweb.org.uk	1905-06-18	
-DGY	Dumfries and Galloway	Dumfries and Galloway Council	http://www.dumgal.gov.uk	1905-06-18	
-DND	Dundee City	Dundee City Council	http://www.dundeecity.gov.uk	1905-06-18	
-EAY	East Ayrshire	East Ayrshire Council	http://www.east-ayrshire.gov.uk	1905-06-18	
-EDH	City of Edinburgh	City of Edinburgh Council	http://www.edinburgh.gov.uk	1905-06-18	
-EDU	East Dunbartonshire	East Dunbartonshire Council	http://www.eastdunbarton.gov.uk	1905-06-18	
-ELN	East Lothian	East Lothian Council	http://www.eastlothian.gov.uk	1905-06-18	
-ELS	Eilean Siar	Comhairle nan Eilean Siar	http://www.cne-siar.gov.uk	1905-06-18	
-ERW	East Renfrewshire	East Renfrewshire Council	http://www.eastrenfrewshire.gov.uk	1905-06-18	
-FAL	Falkirk	Falkirk Council	http://www.falkirk.gov.uk	1905-06-18	
-FIF	Fife	Fife Council	http://www.fifedirect.org.uk	1905-06-18	
-GLG	Glasgow City	Glasgow City Council	http://www.glasgow.gov.uk	1905-06-18	
-HLD	Highland	The Highland Council	http://www.highland.gov.uk	1905-06-18	
-IVC	Inverclyde	Inverclyde Council	http://www.inverclyde.gov.uk	1905-06-18	
-MLN	Midlothian	Midlothian Council	http://www.midlothian.gov.uk	1905-06-18	
-MRY	Moray	The Moray Council	http://www.moray.gov.uk	1905-06-18	
-NAY	North Ayrshire	North Ayrshire Council	http://www.north-ayrshire.gov.uk	1905-06-18	
-NLK	North Lanarkshire	North Lanarkshire Council	http://www.northlanarkshire.gov.uk	1905-06-18	
-ORK	Orkney Islands	Orkney Islands Council	http://www.orkney.gov.uk	1905-06-18	
-PKN	Perth and Kinross	Perth and Kinross Council	http://www.pkc.gov.uk	1905-06-18	
-RFW	Renfrewshire	Renfrewshire Council	http://www.renfrewshire.gov.uk	1905-06-18	
-SAY	South Ayrshire	South Ayrshire Council	http://www.south-ayrshire.gov.uk	1905-06-18	
-SCB	The Scottish Borders	Scottish Borders Council	http://www.scotborders.gov.uk	1905-06-18	
-SLK	South Lanarkshire	South Lanarkshire Council	http://www.southlanarkshire.gov.uk	1905-06-18	
-STG	Stirling	Stirling Council	http://www.stirling.gov.uk	1905-06-18	
-WDU	West Dunbartonshire	West Dunbartonshire Council	http://www.west-dunbarton.gov.uk	1905-06-18	
-WLN	West Lothian	West Lothian Council	http://www.westlothian.gov.uk	1905-06-18	
-ZET	Shetland Islands	Shetland Islands Council	http://www.shetland.gov.uk	1905-06-18	
+local-authority-sct	name	official-name	start-date	end-date
+ABD	Aberdeenshire	Aberdeenshire Council	1905-06-18	
+ABE	Aberdeen City	Aberdeen City Council	1905-06-18	
+AGB	Argyll and Bute	Argyll and Bute Council	1905-06-18	
+ANS	Angus	Angus Council	1905-06-18	
+CLK	Clackmannanshire	Clackmannanshire Council	1905-06-18	
+DGY	Dumfries and Galloway	Dumfries and Galloway Council	1905-06-18	
+DND	Dundee City	Dundee City Council	1905-06-18	
+EAY	East Ayrshire	East Ayrshire Council	1905-06-18	
+EDH	City of Edinburgh	City of Edinburgh Council	1905-06-18	
+EDU	East Dunbartonshire	East Dunbartonshire Council	1905-06-18	
+ELN	East Lothian	East Lothian Council	1905-06-18	
+ELS	Eilean Siar	Comhairle nan Eilean Siar	1905-06-18	
+ERW	East Renfrewshire	East Renfrewshire Council	1905-06-18	
+FAL	Falkirk	Falkirk Council	1905-06-18	
+FIF	Fife	Fife Council	1905-06-18	
+GLG	Glasgow City	Glasgow City Council	1905-06-18	
+HLD	Highland	The Highland Council	1905-06-18	
+IVC	Inverclyde	Inverclyde Council	1905-06-18	
+MLN	Midlothian	Midlothian Council	1905-06-18	
+MRY	Moray	The Moray Council	1905-06-18	
+NAY	North Ayrshire	North Ayrshire Council	1905-06-18	
+NLK	North Lanarkshire	North Lanarkshire Council	1905-06-18	
+ORK	Orkney Islands	Orkney Islands Council	1905-06-18	
+PKN	Perth and Kinross	Perth and Kinross Council	1905-06-18	
+RFW	Renfrewshire	Renfrewshire Council	1905-06-18	
+SAY	South Ayrshire	South Ayrshire Council	1905-06-18	
+SCB	The Scottish Borders	Scottish Borders Council	1905-06-18	
+SLK	South Lanarkshire	South Lanarkshire Council	1905-06-18	
+STG	Stirling	Stirling Council	1905-06-18	
+WDU	West Dunbartonshire	West Dunbartonshire Council	1905-06-18	
+WLN	West Lothian	West Lothian Council	1905-06-18	
+ZET	Shetland Islands	Shetland Islands Council	1905-06-18	
