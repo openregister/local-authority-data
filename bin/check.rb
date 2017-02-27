@@ -89,7 +89,7 @@ lists.each do |list|
           list,
           "expected", "'#{expected_key}'", "got", "'#{automated_match_key}'"].join("\t")
         puts ""
-        if expected.local_authority == "local-authority-eng:GLA"
+        if (expected && expected.local_authority == "local-authority-eng:GLA")
           puts msg
         else
           raise msg
