@@ -77,7 +77,7 @@ def load file
 end
 
 def load_data_and_lists
-  data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/*{tsv}').flat_map do |file|
+  data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/local-authorities.{tsv}').flat_map do |file|
     _, list = load file ; nil
     list
   end ; nil
@@ -121,9 +121,9 @@ end
 
 def fix_mispelling! name
   name.sub!(' coucil', ' council')
-  name.sub!('comhairle nan eilean siar (western isles)', 'eilean siar')
 
   [
+    ['comhairle nan eilean siar \(western isles\)', 'na h eileanan siar'],
     ['blackburn', 'blackburn with darwen'],
     ['bradford and keighley', 'bradford'],
     ['county of durham', 'durham'],
@@ -136,17 +136,17 @@ def fix_mispelling! name
     ['orkney', 'orkney islands'],
     ['anglesey', 'isle of anglesey'],
     ['highlands', 'highland'],
-    ['scottish borders', 'the scottish borders'],
-    ['scottish borders council', 'the scottish borders'],
-    ['scottish borders the', 'the scottish borders'],
+    ['scottish borders', 'scottish borders'],
+    ['scottish borders council', 'scottish borders'],
+    ['scottish borders the', 'scottish borders'],
     ['county of herefordshire', 'herefordshire'],
     ['city and county of the city of london', 'city of london'],
-    ['na h eileanan an iar', 'eilean siar'],
+    ['na h eileanan an iar', 'na h eileanan siar'],
     ['isle of arran','north ayrshire'],
     ['isle of cumbrae','north ayrshire'],
-    ['eilean', 'eilean siar'],
-    ['comhairle nan eilean siar', 'eilean siar'],
-    ['western isles', 'eilean siar'],
+    ['eilean', 'na h eileanan siar'],
+    ['comhairle nan eilean siar', 'na h eileanan siar'],
+    ['western isles', 'na h eileanan siar'],
     ['clackmannan', 'clackmannanshire'],
     ['armagh banbridge and craigavon', 'armagh city banbridge and craigavon'],
     ['city and county of swansea council', 'swansea'],
@@ -171,7 +171,8 @@ def fix_mispelling! name
     ['wigan and leigh', 'wigan'],
     ['ynys mon', 'isle of anglesey'],
     ['ynys mn', 'isle of anglesey'],
-    ['yell', 'shetland islands']
+    ['yell', 'shetland islands'],
+    ['eilean siar', 'na h eileanan siar']
   ].each do |pattern, replace|
     name.sub!(/^#{pattern}$/, replace)
   end
@@ -195,7 +196,6 @@ def fix_mispelling! name
     ['council of the', ''],
     ['highands', 'highland'],
     ['london corporation', 'london'],
-    ['comhairle nan eilean siar (western isles)', 'comhairle nan eilean siar'],
     ['merthyr tudful', 'merthyr tydfil'],
     ['merthyr tydfil ua', 'merthyr tydfil'],
     ["king's lynn and west norfolk", 'kings lynn and west norfolk'],
@@ -230,6 +230,7 @@ def fix_mispelling! name
   ].each do |replace, with|
     name.sub!(replace, with)
   end
+  name
 end
 
 def remove_suffix! name
