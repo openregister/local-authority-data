@@ -77,7 +77,7 @@ def load file
 end
 
 def load_data_and_lists
-  data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/local-authorities.{tsv}').flat_map do |file|
+  data = Dir.glob('data/local-authority-{eng,wls,nir,sct}/local-authorit{ies,y-sct}.{tsv}').flat_map do |file|
     _, list = load file ; nil
     list
   end ; nil
