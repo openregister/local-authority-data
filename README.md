@@ -31,6 +31,22 @@ This repository also includes a number of [maps](maps) intended to help migrate 
 - [gaz50k.tsv](maps/gaz50k.tsv) — Ordnance Survey county codes found in the 50k gazetteer
 - [discovery.tsv](maps/discovery.tsv) — discovery register codes
 
+# Generating report and data check
+
+Install Ruby if not already installed. On a Mac:
+
+```
+brew install rbenv ruby-build
+rbenv install 2.4.0
+```
+
+To generate `lists/report.html` and `lists/report.tsv` and `lists/names.tsv`
+run make:
+
+```
+make init && make clobber && make
+```
+
 # Licence
 
 The software in this project is covered by LICENSE file.
