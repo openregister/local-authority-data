@@ -10,7 +10,7 @@ GEM
     builder (3.2.2)
     coderay (1.1.1)
     i18n (0.7.0)
-    json (1.8.3)
+    json (1.8.6)
     map_by_method (0.8.3)
     method_source (0.8.2)
     minitest (5.9.0)
@@ -36,8 +36,5 @@ DEPENDENCIES
   pry
   rb-readline
 
-RUBY VERSION
-   ruby 2.3.1p112
-
 BUNDLED WITH
-   1.12.5
+   1.14.6
