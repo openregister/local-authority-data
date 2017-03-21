@@ -14,8 +14,5 @@ clobber:
 	rm -f $(TARGETS)
 	rm -f lists/names.tsv
 
-flake8:
-	flake8 bin
-
 init:
 	bundle install
