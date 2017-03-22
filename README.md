@@ -40,6 +40,15 @@ brew install rbenv ruby-build
 rbenv install 2.4.0
 ```
 
+On ubuntu, for Ruby install, recommend you follow these steps for [Ruby install
+Ubuntu](https://gorails.com/setup/ubuntu/16.10).
+
+Check your Ruby version, it should be 2.4 or higher:
+
+```
+ruby -v
+```
+
 To generate `lists/report.html` and `lists/report.tsv` and `lists/names.tsv`
 run make:
 
