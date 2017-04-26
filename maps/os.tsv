@@ -290,24 +290,24 @@ os	local-authority	name
 7000000000023585	local-authority-eng:BLA	Blaby
 7000000000023615	local-authority-eng:NWL	North West Leicestershire
 7000000000025469	local-authority-eng:IOW	Isle of Wight
-7000000000025482	local-authority-wls:AGY	Isle of Anglesey
-7000000000025483	local-authority-wls:GWN	Gwynedd
-7000000000025484	local-authority-wls:CRF	Cardiff
-7000000000025485	local-authority-wls:CGN	Ceredigion
-7000000000025486	local-authority-wls:CMN	Carmarthenshire
-7000000000025487	local-authority-wls:DEN	Denbighshire
-7000000000025489	local-authority-wls:MON	Monmouthshire
-7000000000025490	local-authority-wls:PEM	Pembrokeshire
-7000000000025491	local-authority-wls:POW	Powys
-7000000000025492	local-authority-wls:SWA	Swansea
-7000000000025493	local-authority-wls:CWY	Conwy
-7000000000025494	local-authority-wls:BGW	Blaenau Gwent
-7000000000025495	local-authority-wls:BGE	Bridgend
-7000000000025496	local-authority-wls:CAY	Caerphilly
-7000000000025497	local-authority-wls:MTY	Merthyr Tydfil
-7000000000025498	local-authority-wls:NTL	Neath Port Talbot
-7000000000025500	local-authority-wls:RCT	Rhondda Cynon Taf
-7000000000025502	local-authority-wls:VGL	the Vale of Glamorgan
+7000000000025482	principal-local-authority:AGY	Isle of Anglesey
+7000000000025483	principal-local-authority:GWN	Gwynedd
+7000000000025484	principal-local-authority:CRF	Cardiff
+7000000000025485	principal-local-authority:CGN	Ceredigion
+7000000000025486	principal-local-authority:CMN	Carmarthenshire
+7000000000025487	principal-local-authority:DEN	Denbighshire
+7000000000025489	principal-local-authority:MON	Monmouthshire
+7000000000025490	principal-local-authority:PEM	Pembrokeshire
+7000000000025491	principal-local-authority:POW	Powys
+7000000000025492	principal-local-authority:SWA	Swansea
+7000000000025493	principal-local-authority:CWY	Conwy
+7000000000025494	principal-local-authority:BGW	Blaenau Gwent
+7000000000025495	principal-local-authority:BGE	Bridgend
+7000000000025496	principal-local-authority:CAY	Caerphilly
+7000000000025497	principal-local-authority:MTY	Merthyr Tydfil
+7000000000025498	principal-local-authority:NTL	Neath Port Talbot
+7000000000025500	principal-local-authority:RCT	Rhondda Cynon Taf
+7000000000025502	principal-local-authority:VGL	the Vale of Glamorgan
 7000000000025504	local-authority-eng:NSM	North Somerset
 7000000000025523	local-authority-eng:BST	City of Bristol
 7000000000025554	local-authority-eng:BAS	Bath and North East Somerset
@@ -321,8 +321,8 @@ os	local-authority	name
 7000000000025635	local-authority-eng:ERY	East Riding of Yorkshire
 7000000000025639	local-authority-eng:KHL	City of Kingston upon Hull
 7000000000025650	local-authority-eng:NEL	North East Lincolnshire
-7000000000025776	local-authority-wls:FLN	Flintshire
-7000000000025831	local-authority-wls:WRX	Wrexham
+7000000000025776	principal-local-authority:FLN	Flintshire
+7000000000025831	principal-local-authority:WRX	Wrexham
 7000000000029638	local-authority-sct:HLD	Highland
 7000000000029959	local-authority-sct:MRY	Moray
 7000000000029961	local-authority-sct:ORK	Orkney Islands
@@ -403,7 +403,7 @@ os	local-authority	name
 7000000000043871	local-authority-eng:BDF	Bedford
 7000000000043925	local-authority-eng:WIL	Wiltshire
 7000000000043972	local-authority-eng:IOS	Isles of Scilly
-7000000000044425	local-authority-wls:TOF	Torfaen
-7000000000044426	local-authority-wls:NWP	Newport
+7000000000044425	principal-local-authority:TOF	Torfaen
+7000000000044426	principal-local-authority:NWP	Newport
 7000000000044474	local-authority-eng:MOL	Mole Valley
 7000000000044503	local-authority-eng:KWL	Knowsley

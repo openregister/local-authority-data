@@ -8,36 +8,36 @@ registration-district	local-authority	name-cy	name
 61	local-authority-eng:BIR		Birmingham
 580	local-authority-eng:BBD		Blackburn With Darwen
 581	local-authority-eng:BPL		Blackpool
-833	local-authority-wls:BGW		Blaenau Gwent
+833	principal-local-authority:BGW		Blaenau Gwent
 2	local-authority-eng:BOL		Bolton
 427	local-authority-eng:BMH		Bournemouth
 318	local-authority-eng:BRC		Bracknell Forest
 83	local-authority-eng:BRD		Bradford and Keighley
 221	local-authority-eng:BEN		Brent
-861	local-authority-wls:BGE	Pen-y-bont ar Ogwr	Bridgend
+861	principal-local-authority:BGE	Pen-y-bont ar Ogwr	Bridgend
 452	local-authority-eng:BNH		Brighton and Hove
 301	local-authority-eng:BST		Bristol
 222	local-authority-eng:BRY		Bromley
 328	local-authority-eng:BKM		Buckinghamshire
 3	local-authority-eng:BUR		Bury
-863	local-authority-wls:CAY	Caerffili	Caerphilly
+863	principal-local-authority:CAY	Caerffili	Caerphilly
 86	local-authority-eng:CLD		Calderdale
 339	local-authority-eng:CAM		Cambridgeshire
 250	local-authority-eng:CMD		Camden
-890	local-authority-wls:CRF	Caerdydd	Cardiff
-822	local-authority-wls:CMN	Sir Gaerfyrddin	Carmarthenshire
+890	principal-local-authority:CRF	Caerdydd	Cardiff
+822	principal-local-authority:CMN	Sir Gaerfyrddin	Carmarthenshire
 317	local-authority-eng:CBF		Central Bedfordshire
-823	local-authority-wls:CGN		Ceredigion
+823	principal-local-authority:CGN		Ceredigion
 342	local-authority-eng:CHE		Cheshire East
 345	local-authority-eng:CHW		Cheshire West and Chester
-846	local-authority-wls:CWY		Conwy
+846	principal-local-authority:CWY		Conwy
 371	local-authority-eng:CON		Cornwall
 63	local-authority-eng:COV		Coventry
 225	local-authority-eng:CRY		Croydon
 387	local-authority-eng:CMA		Cumbria
 436	local-authority-eng:DAL		Darlington
-805	local-authority-wls:DEN	De Sir Ddinbych	Denbighshire South
-811	local-authority-wls:DEN	Gogledd Sir Ddinbych	Denbighshire North
+805	principal-local-authority:DEN	De Sir Ddinbych	Denbighshire South
+811	principal-local-authority:DEN	Gogledd Sir Ddinbych	Denbighshire North
 394	local-authority-eng:DER		Derby
 398	local-authority-eng:DBY		Derbyshire
 423	local-authority-eng:DEV		Devon
@@ -50,11 +50,11 @@ registration-district	local-authority	name-cy	name
 462	local-authority-eng:ESX		East Sussex
 227	local-authority-eng:ENF		Enfield
 463	local-authority-eng:ESS		Essex
-804	local-authority-wls:FLN	Sir y Fflint	Flintshire
+804	principal-local-authority:FLN	Sir y Fflint	Flintshire
 51	local-authority-eng:GAT		Gateshead
 488	local-authority-eng:GLS		Gloucestershire
 229	local-authority-eng:GRE		Greenwich
-855	local-authority-wls:GWN		Gwynedd
+855	principal-local-authority:GWN		Gwynedd
 230	local-authority-eng:HCK		Hackney
 343	local-authority-eng:HAL		Halton
 260	local-authority-eng:HMF		Hammersmith and Fulham
@@ -67,7 +67,7 @@ registration-district	local-authority	name-cy	name
 538	local-authority-eng:HRT		Hertfordshire
 236	local-authority-eng:HIL		Hillingdon
 237	local-authority-eng:HNS		Hounslow
-857	local-authority-wls:AGY	Ynys Môn	Isle of Anglesey
+857	principal-local-authority:AGY	Ynys Môn	Isle of Anglesey
 556	local-authority-eng:IOW		Isle of Wight
 360	local-authority-eng:IOS		Isles of Scilly
 238	local-authority-eng:ISL		Islington
@@ -89,15 +89,15 @@ registration-district	local-authority	name-cy	name
 315	local-authority-eng:LUT		Luton
 6	local-authority-eng:MAN		Manchester
 561	local-authority-eng:MDW		Medway
-860	local-authority-wls:MTY	Merthyr Tudful	Merthyr Tydfil
+860	principal-local-authority:MTY	Merthyr Tudful	Merthyr Tydfil
 244	local-authority-eng:MRT		Merton
 348	local-authority-eng:MDB		Middlesbrough
 326	local-authority-eng:MIK		Milton Keynes
-839	local-authority-wls:MON	Sir Fynwy	Monmouthshire
-896	local-authority-wls:NTL	Castell-nedd Port Talbot	Neath Port Talbot
+839	principal-local-authority:MON	Sir Fynwy	Monmouthshire
+896	principal-local-authority:NTL	Castell-nedd Port Talbot	Neath Port Talbot
 53	local-authority-eng:NET		Newcastle Upon Tyne
 257	local-authority-eng:NWM		Newham
-836	local-authority-wls:NWP	Casnewydd	Newport
+836	principal-local-authority:NWP	Casnewydd	Newport
 642	local-authority-eng:NFK		Norfolk
 548	local-authority-eng:NEL		North East Lincolnshire
 554	local-authority-eng:NLN		North Lincolnshire
@@ -110,16 +110,16 @@ registration-district	local-authority	name-cy	name
 692	local-authority-eng:NTT		Nottinghamshire
 7	local-authority-eng:OLD		Oldham
 695	local-authority-eng:OXF		Oxfordshire
-819	local-authority-wls:PEM	Sir Benfro	Pembrokeshire
+819	principal-local-authority:PEM	Sir Benfro	Pembrokeshire
 335	local-authority-eng:PTE		Peterborough
 416	local-authority-eng:PLY		Plymouth
 431	local-authority-eng:POL		Poole
 497	local-authority-eng:POR		Portsmouth
-882	local-authority-wls:POW		Powys
+882	principal-local-authority:POW		Powys
 320	local-authority-eng:RDG		Reading
 247	local-authority-eng:RDB		Redbridge
 349	local-authority-eng:RCC		Redcar and Cleveland
-864	local-authority-wls:RCT		Rhondda Cynon Taf
+864	principal-local-authority:RCT		Rhondda Cynon Taf
 248	local-authority-eng:RIC		Richmond Upon Thames
 9	local-authority-eng:RCH		Rochdale
 45	local-authority-eng:ROT		Rotherham
@@ -146,16 +146,16 @@ registration-district	local-authority	name-cy	name
 58	local-authority-eng:SND		Sunderland
 759	local-authority-eng:SRY		Surrey
 254	local-authority-eng:STN		Sutton
-897	local-authority-wls:SWA	Abertawe	Swansea
+897	principal-local-authority:SWA	Abertawe	Swansea
 796	local-authority-eng:SWD		Swindon
 14	local-authority-eng:TAM		Tameside
 716	local-authority-eng:TFW		Telford and Wrekin
 477	local-authority-eng:THR		Thurrock
 422	local-authority-eng:TOB		Torbay
-837	local-authority-wls:TOF	Tor-faen	Torfaen
+837	principal-local-authority:TOF	Tor-faen	Torfaen
 246	local-authority-eng:TWH		Tower Hamlets
 15	local-authority-eng:TRF		Trafford
-891	local-authority-wls:VGL	Bro Morgannwg	Vale of Glamorgan
+891	principal-local-authority:VGL	Bro Morgannwg	Vale of Glamorgan
 97	local-authority-eng:WKF		Wakefield
 75	local-authority-eng:WLL		Walsall
 255	local-authority-eng:WFT		Waltham Forest
@@ -172,5 +172,5 @@ registration-district	local-authority	name-cy	name
 323	local-authority-eng:WOK		Wokingham
 77	local-authority-eng:WLV		Wolverhampton
 527	local-authority-eng:WOR		Worcestershire
-813	local-authority-wls:WRX	Wrecsam	Wrexham
+813	principal-local-authority:WRX	Wrecsam	Wrexham
 661	local-authority-eng:YOR		York

@@ -353,28 +353,28 @@ local-custodian	local-authority	name
 5930	local-authority-eng:WFT	WALTHAM FOREST
 5960	local-authority-eng:WND	WANDSWORTH
 5990	local-authority-eng:WSM	CITY OF WESTMINSTER
-6805	local-authority-wls:AGY	ISLE OF ANGLESEY
-6810	local-authority-wls:GWN	GWYNEDD
-6815	local-authority-wls:CRF	CARDIFF
-6820	local-authority-wls:CGN	CEREDIGION
-6825	local-authority-wls:CMN	CARMARTHENSHIRE
-6830	local-authority-wls:DEN	DENBIGHSHIRE
-6835	local-authority-wls:FLN	FLINTSHIRE
-6840	local-authority-wls:MON	MONMOUTHSHIRE
-6845	local-authority-wls:PEM	PEMBROKESHIRE
-6850	local-authority-wls:POW	POWYS
-6855	local-authority-wls:SWA	SWANSEA
-6905	local-authority-wls:CWY	CONWY
-6910	local-authority-wls:BGW	BLAENAU GWENT
-6915	local-authority-wls:BGE	BRIDGEND COUNTY BOROUGH
-6920	local-authority-wls:CAY	CAERPHILLY COUNTY BOROUGH
-6925	local-authority-wls:MTY	MERTHYR TYDFIL UA
-6930	local-authority-wls:NTL	NEATH PORT TALBOT
-6935	local-authority-wls:NWP	NEWPORT
-6940	local-authority-wls:RCT	RHONDDA CYNON TAFF
-6945	local-authority-wls:TOF	TORFAEN
-6950	local-authority-wls:VGL	VALE OF GLAMORGAN
-6955	local-authority-wls:WRX	WREXHAM
+6805	principal-local-authority:AGY	ISLE OF ANGLESEY
+6810	principal-local-authority:GWN	GWYNEDD
+6815	principal-local-authority:CRF	CARDIFF
+6820	principal-local-authority:CGN	CEREDIGION
+6825	principal-local-authority:CMN	CARMARTHENSHIRE
+6830	principal-local-authority:DEN	DENBIGHSHIRE
+6835	principal-local-authority:FLN	FLINTSHIRE
+6840	principal-local-authority:MON	MONMOUTHSHIRE
+6845	principal-local-authority:PEM	PEMBROKESHIRE
+6850	principal-local-authority:POW	POWYS
+6855	principal-local-authority:SWA	SWANSEA
+6905	principal-local-authority:CWY	CONWY
+6910	principal-local-authority:BGW	BLAENAU GWENT
+6915	principal-local-authority:BGE	BRIDGEND COUNTY BOROUGH
+6920	principal-local-authority:CAY	CAERPHILLY COUNTY BOROUGH
+6925	principal-local-authority:MTY	MERTHYR TYDFIL UA
+6930	principal-local-authority:NTL	NEATH PORT TALBOT
+6935	principal-local-authority:NWP	NEWPORT
+6940	principal-local-authority:RCT	RHONDDA CYNON TAFF
+6945	principal-local-authority:TOF	TORFAEN
+6950	principal-local-authority:VGL	VALE OF GLAMORGAN
+6955	principal-local-authority:WRX	WREXHAM
 9000	local-authority-sct:ORK	ORKNEY ISLANDS
 9010	local-authority-sct:ZET	SHETLAND ISLANDS
 9020	local-authority-sct:ELS	WESTERN ISLES
