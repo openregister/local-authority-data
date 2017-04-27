@@ -5,7 +5,7 @@ aberdeen city council	local-authority-sct:ABE
 aberdeen cuty	local-authority-sct:ABE
 aberdeenshire	local-authority-sct:ABD
 aberdeenshire council	local-authority-sct:ABD
-abertawe	local-authority-wls:SWA
+abertawe	principal-local-authority:SWA
 adur	local-authority-eng:ADD
 adur district	local-authority-eng:ADD
 adur district council	local-authority-eng:ADD
@@ -15,7 +15,7 @@ allerdale district	local-authority-eng:ALB
 amber valley	local-authority-eng:AMV
 amber valley borough council	local-authority-eng:AMV
 amber valley district	local-authority-eng:AMV
-anglesey	local-authority-wls:AGY
+anglesey	principal-local-authority:AGY
 angus	local-authority-sct:ANS
 angus council	local-authority-sct:ANS
 antrim	local-authority-nir:NIR-T
@@ -89,8 +89,8 @@ blackburn with darwen	local-authority-eng:BBD
 blackburn with darwen borough council	local-authority-eng:BBD
 blackpool	local-authority-eng:BPL
 blackpool borough council	local-authority-eng:BPL
-blaenau gwent	local-authority-wls:BGW
-blaenau gwent county borough council	local-authority-wls:BGW
+blaenau gwent	principal-local-authority:BGW
+blaenau gwent county borough council	principal-local-authority:BGW
 bolsover	local-authority-eng:BOD
 bolsover district	local-authority-eng:BOD
 bolsover district council	local-authority-eng:BOD
@@ -123,16 +123,16 @@ brent london boro	local-authority-eng:BEN
 brentwood	local-authority-eng:BTW
 brentwood borough council	local-authority-eng:BTW
 brentwood district	local-authority-eng:BTW
-bridgend	local-authority-wls:BGE
-bridgend county borough	local-authority-wls:BGE
-bridgend county borough council	local-authority-wls:BGE
+bridgend	principal-local-authority:BGE
+bridgend county borough	principal-local-authority:BGE
+bridgend county borough council	principal-local-authority:BGE
 brighton and hove	local-authority-eng:BNH
 brighton and hove city council	local-authority-eng:BNH
 bristol	local-authority-eng:BST
 bristol city council	local-authority-eng:BST
 bristol city of	local-authority-eng:BST
 bristol, city of	local-authority-eng:BST
-bro morgannwg	local-authority-wls:VGL
+bro morgannwg	principal-local-authority:VGL
 broadland	local-authority-eng:BRO
 broadland district	local-authority-eng:BRO
 broadland district council	local-authority-eng:BRO
@@ -155,11 +155,11 @@ burnley district	local-authority-eng:BUB
 bury	local-authority-eng:BUR
 bury district	local-authority-eng:BUR
 bury metropolitan borough council	local-authority-eng:BUR
-caerdydd	local-authority-wls:CRF
-caerffili	local-authority-wls:CAY
-caerphilly	local-authority-wls:CAY
-caerphilly county borough	local-authority-wls:CAY
-caerphilly county borough council	local-authority-wls:CAY
+caerdydd	principal-local-authority:CRF
+caerffili	principal-local-authority:CAY
+caerphilly	principal-local-authority:CAY
+caerphilly county borough	principal-local-authority:CAY
+caerphilly county borough council	principal-local-authority:CAY
 calderdale	local-authority-eng:CLD
 calderdale district	local-authority-eng:CLD
 calderdale metropolitan borough council	local-authority-eng:CLD
@@ -179,17 +179,17 @@ canterbury	local-authority-eng:CTB
 canterbury city	local-authority-eng:CTB
 canterbury city council	local-authority-eng:CTB
 canterbury district	local-authority-eng:CTB
-cardiff	local-authority-wls:CRF
+cardiff	principal-local-authority:CRF
 carlisle	local-authority-eng:CRL
 carlisle city	local-authority-eng:CRL
 carlisle city council	local-authority-eng:CRL
 carlisle district	local-authority-eng:CRL
-carmarthenshire	local-authority-wls:CMN
-carmarthenshire county council	local-authority-wls:CMN
+carmarthenshire	principal-local-authority:CMN
+carmarthenshire county council	principal-local-authority:CMN
 carrickfergus	local-authority-nir:NIR-V
 carrickfergus borough council	local-authority-nir:NIR-V
-casnewydd	local-authority-wls:NWP
-castell-nedd port talbot	local-authority-wls:NTL
+casnewydd	principal-local-authority:NWP
+castell-nedd port talbot	principal-local-authority:NTL
 castle point	local-authority-eng:CAP
 castle point borough council	local-authority-eng:CAP
 castle point district	local-authority-eng:CAP
@@ -198,8 +198,8 @@ castlereagh borough council	local-authority-nir:NIR-Y
 causeway coast and glens	local-authority-nir:CCG
 central bedfordshire	local-authority-eng:CBF
 central bedfordshire council	local-authority-eng:CBF
-ceredigion	local-authority-wls:CGN
-ceredigion county council	local-authority-wls:CGN
+ceredigion	principal-local-authority:CGN
+ceredigion county council	principal-local-authority:CGN
 charnwood	local-authority-eng:CAW
 charnwood borough council	local-authority-eng:CAW
 charnwood district	local-authority-eng:CAW
@@ -231,12 +231,12 @@ chorley district	local-authority-eng:CLY
 christchurch	local-authority-eng:CRC
 christchurch borough council	local-authority-eng:CRC
 christchurch district	local-authority-eng:CRC
-city and county of swansea council	local-authority-wls:SWA
+city and county of swansea council	principal-local-authority:SWA
 city and county of the city of london	local-authority-eng:LND
 city of aberdeen	local-authority-sct:ABE
 city of brighton and hove	local-authority-eng:BNH
 city of bristol	local-authority-eng:BST
-city of cardiff council	local-authority-wls:CRF
+city of cardiff council	principal-local-authority:CRF
 city of derby	local-authority-eng:DER
 city of dundee	local-authority-sct:DND
 city of edinburgh	local-authority-sct:EDH
@@ -269,8 +269,8 @@ coleraine	local-authority-nir:NIR-C
 coleraine borough council	local-authority-nir:NIR-C
 comhairle nan eilean siar	local-authority-sct:ELS
 comhairle nan eilean siar (western isles)	local-authority-sct:ELS
-conwy	local-authority-wls:CWY
-conwy county borough council	local-authority-wls:CWY
+conwy	principal-local-authority:CWY
+conwy county borough council	principal-local-authority:CWY
 cookstown	local-authority-nir:NIR-I
 cookstown district council	local-authority-nir:NIR-I
 copeland	local-authority-eng:COB
@@ -313,8 +313,8 @@ dartford district	local-authority-eng:DFD
 daventry	local-authority-eng:DAD
 daventry district	local-authority-eng:DAD
 daventry district council	local-authority-eng:DAD
-denbighshire	local-authority-wls:DEN
-denbighshire county council	local-authority-wls:DEN
+denbighshire	principal-local-authority:DEN
+denbighshire county council	principal-local-authority:DEN
 derby	local-authority-eng:DER
 derby city	local-authority-eng:DER
 derby city council	local-authority-eng:DER
@@ -443,8 +443,8 @@ fermanagh and omagh	local-authority-nir:FMO
 fermanagh district council	local-authority-nir:NIR-L
 fife	local-authority-sct:FIF
 fife council	local-authority-sct:FIF
-flintshire	local-authority-wls:FLN
-flintshire county council	local-authority-wls:FLN
+flintshire	principal-local-authority:FLN
+flintshire county council	principal-local-authority:FLN
 forest heath	local-authority-eng:FOH
 forest heath district	local-authority-eng:FOH
 forest heath district council	local-authority-eng:FOH
@@ -486,8 +486,8 @@ greenwich london boro	local-authority-eng:GRE
 guildford	local-authority-eng:GUB
 guildford borough council	local-authority-eng:GUB
 guildford district	local-authority-eng:GUB
-gwynedd	local-authority-wls:GWN
-gwynedd council	local-authority-wls:GWN
+gwynedd	principal-local-authority:GWN
+gwynedd council	principal-local-authority:GWN
 hackney	local-authority-eng:HCK
 hackney london boro	local-authority-eng:HCK
 halton	local-authority-eng:HAL
@@ -564,8 +564,8 @@ inverclyde council	local-authority-sct:IVC
 ipswich	local-authority-eng:IPB
 ipswich borough council	local-authority-eng:IPB
 ipswich district	local-authority-eng:IPB
-isle of anglesey	local-authority-wls:AGY
-isle of anglesey county council	local-authority-wls:AGY
+isle of anglesey	principal-local-authority:AGY
+isle of anglesey county council	principal-local-authority:AGY
 isle of wight	local-authority-eng:IOW
 isle of wight council	local-authority-eng:IOW
 isles of scilly	local-authority-eng:IOS
@@ -692,10 +692,10 @@ melton district	local-authority-eng:MEB
 mendip	local-authority-eng:MED
 mendip district	local-authority-eng:MED
 mendip district council	local-authority-eng:MED
-merthyr tudful	local-authority-wls:MTY
-merthyr tydfil	local-authority-wls:MTY
-merthyr tydfil county borough council	local-authority-wls:MTY
-merthyr tydfil ua	local-authority-wls:MTY
+merthyr tudful	principal-local-authority:MTY
+merthyr tydfil	principal-local-authority:MTY
+merthyr tydfil county borough council	principal-local-authority:MTY
+merthyr tydfil ua	principal-local-authority:MTY
 merton	local-authority-eng:MRT
 merton london boro	local-authority-eng:MRT
 mid and east antrim	local-authority-nir:MEA
@@ -718,15 +718,15 @@ milton keynes council	local-authority-eng:MIK
 mole valley	local-authority-eng:MOV
 mole valley district	local-authority-eng:MOV
 mole valley district council	local-authority-eng:MOV
-monmouthshire	local-authority-wls:MON
-monmouthshire county council	local-authority-wls:MON
+monmouthshire	principal-local-authority:MON
+monmouthshire county council	principal-local-authority:MON
 moray	local-authority-sct:MRY
 moray council	local-authority-sct:MRY
 moyle	local-authority-nir:NIR-E
 moyle district council	local-authority-nir:NIR-E
 na h-eileanan an iar	local-authority-sct:ELS
-neath port talbot	local-authority-wls:NTL
-neath port talbot county borough council	local-authority-wls:NTL
+neath port talbot	principal-local-authority:NTL
+neath port talbot county borough council	principal-local-authority:NTL
 new forest	local-authority-eng:NEF
 new forest district	local-authority-eng:NEF
 new forest district council	local-authority-eng:NEF
@@ -741,8 +741,8 @@ newcastle-under-lyme district	local-authority-eng:NED
 newcastle-under-lyme district council	local-authority-eng:NED
 newham	local-authority-eng:NWM
 newham london boro	local-authority-eng:NWM
-newport	local-authority-wls:NWP
-newport city council	local-authority-wls:NWP
+newport	principal-local-authority:NWP
+newport city council	principal-local-authority:NWP
 newry and mourne	local-authority-nir:NIR-P
 newry and mourne district council	local-authority-nir:NIR-P
 newry, mourne and down	local-authority-nir:NMD
@@ -834,9 +834,9 @@ oxford district	local-authority-eng:OXC
 oxfordshire	local-authority-eng:OXF
 oxfordshire county	local-authority-eng:OXF
 oxfordshire county council	local-authority-eng:OXF
-pembrokeshire	local-authority-wls:PEM
-pembrokeshire county council	local-authority-wls:PEM
-pen-y-bont ar ogwr	local-authority-wls:BGE
+pembrokeshire	principal-local-authority:PEM
+pembrokeshire county council	principal-local-authority:PEM
+pen-y-bont ar ogwr	principal-local-authority:BGE
 pendle	local-authority-eng:PEB
 pendle borough council	local-authority-eng:PEB
 pendle district	local-authority-eng:PEB
@@ -851,8 +851,8 @@ plymouth city council	local-authority-eng:PLY
 poole	local-authority-eng:POL
 portsmouth	local-authority-eng:POR
 portsmouth city council	local-authority-eng:POR
-powys	local-authority-wls:POW
-powys county council	local-authority-wls:POW
+powys	principal-local-authority:POW
+powys county council	principal-local-authority:POW
 preston	local-authority-eng:PRC
 preston city council	local-authority-eng:PRC
 preston district	local-authority-eng:PRC
@@ -873,11 +873,11 @@ reigate and banstead borough council	local-authority-eng:REA
 reigate and banstead district	local-authority-eng:REA
 renfrewshire	local-authority-sct:RFW
 renfrewshire council	local-authority-sct:RFW
-rhondda cynon taf	local-authority-wls:RCT
-rhondda cynon taf county borough council	local-authority-wls:RCT
-rhondda cynon taff	local-authority-wls:RCT
-rhondda, cynon, taff	local-authority-wls:RCT
-rhondda,cynon,taff	local-authority-wls:RCT
+rhondda cynon taf	principal-local-authority:RCT
+rhondda cynon taf county borough council	principal-local-authority:RCT
+rhondda cynon taff	principal-local-authority:RCT
+rhondda, cynon, taff	principal-local-authority:RCT
+rhondda,cynon,taff	principal-local-authority:RCT
 ribble valley	local-authority-eng:RIV
 ribble valley borough council	local-authority-eng:RIV
 ribble valley district	local-authority-eng:RIV
@@ -957,11 +957,11 @@ shetland islands	local-authority-sct:ZET
 shetland islands council	local-authority-sct:ZET
 shropshire	local-authority-eng:SHR
 shropshire council	local-authority-eng:SHR
-sir benfro	local-authority-wls:PEM
-sir ddinbych	local-authority-wls:DEN
-sir fynwy	local-authority-wls:MON
-sir gaerfyrddin	local-authority-wls:CMN
-sir y fflint	local-authority-wls:FLN
+sir benfro	principal-local-authority:PEM
+sir ddinbych	principal-local-authority:DEN
+sir fynwy	principal-local-authority:MON
+sir gaerfyrddin	principal-local-authority:CMN
+sir y fflint	principal-local-authority:FLN
 slough	local-authority-eng:SLG
 slough borough council	local-authority-eng:SLG
 solihull	local-authority-eng:SHL
@@ -1092,7 +1092,7 @@ sutton london boro	local-authority-eng:STN
 swale	local-authority-eng:SWB
 swale borough council	local-authority-eng:SWB
 swale district	local-authority-eng:SWB
-swansea	local-authority-wls:SWA
+swansea	principal-local-authority:SWA
 swindon	local-authority-eng:SWD
 swindon borough council	local-authority-eng:SWD
 tameside	local-authority-eng:TAM
@@ -1127,7 +1127,7 @@ thanet district council	local-authority-eng:THD
 the city of brighton and hove	local-authority-eng:BNH
 the highland council	local-authority-sct:HLD
 the scottish borders	local-authority-sct:SCB
-the vale of glamorgan	local-authority-wls:VGL
+the vale of glamorgan	principal-local-authority:VGL
 three rivers	local-authority-eng:TRR
 three rivers district	local-authority-eng:TRR
 three rivers district council	local-authority-eng:TRR
@@ -1138,8 +1138,8 @@ tonbridge and malling borough council	local-authority-eng:TOA
 tonbridge and malling district	local-authority-eng:TOA
 torbay	local-authority-eng:TOB
 torbay council	local-authority-eng:TOB
-torfaen	local-authority-wls:TOF
-torfaen county borough council	local-authority-wls:TOF
+torfaen	principal-local-authority:TOF
+torfaen county borough council	principal-local-authority:TOF
 torridge	local-authority-eng:TOD
 torridge district	local-authority-eng:TOD
 torridge district council	local-authority-eng:TOD
@@ -1154,8 +1154,8 @@ tunbridge wells district	local-authority-eng:TUW
 uttlesford	local-authority-eng:UTD
 uttlesford district	local-authority-eng:UTD
 uttlesford district council	local-authority-eng:UTD
-vale of glamorgan	local-authority-wls:VGL
-vale of glamorgan council	local-authority-wls:VGL
+vale of glamorgan	principal-local-authority:VGL
+vale of glamorgan council	principal-local-authority:VGL
 vale of white horse	local-authority-eng:VAO
 vale of white horse district	local-authority-eng:VAO
 vale of white horse district council	local-authority-eng:VAO
@@ -1257,9 +1257,9 @@ worcestershire county council	local-authority-eng:WOR
 worthing	local-authority-eng:WOB
 worthing borough council	local-authority-eng:WOB
 worthing district	local-authority-eng:WOB
-wrecsam	local-authority-wls:WRX
-wrexham	local-authority-wls:WRX
-wrexham county borough council	local-authority-wls:WRX
+wrecsam	principal-local-authority:WRX
+wrexham	principal-local-authority:WRX
+wrexham county borough council	principal-local-authority:WRX
 wychavon	local-authority-eng:WYN
 wychavon district	local-authority-eng:WYN
 wychavon district council	local-authority-eng:WYN
@@ -1272,5 +1272,5 @@ wyre district	local-authority-eng:WYC
 wyre forest	local-authority-eng:WYF
 wyre forest district	local-authority-eng:WYF
 wyre forest district council	local-authority-eng:WYF
-ynys mn	local-authority-wls:AGY
+ynys mn	principal-local-authority:AGY
 york	local-authority-eng:YOR

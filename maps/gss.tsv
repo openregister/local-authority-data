@@ -35,7 +35,7 @@ E08000025	local-authority-eng:BIR	Birmingham
 E07000129	local-authority-eng:BLA	Blaby
 E06000008	local-authority-eng:BBD	Blackburn with Darwen
 E06000009	local-authority-eng:BPL	Blackpool
-W06000019	local-authority-wls:BGW	Blaenau Gwent
+W06000019	principal-local-authority:BGW	Blaenau Gwent
 E07000033	local-authority-eng:BOS	Bolsover
 E08000001	local-authority-eng:BOL	Bolton
 E07000136	local-authority-eng:BOT	Boston
@@ -46,7 +46,7 @@ E07000067	local-authority-eng:BRA	Braintree
 E07000143	local-authority-eng:BRE	Breckland
 E09000005	local-authority-eng:BEN	Brent
 E07000068	local-authority-eng:BRW	Brentwood
-W06000013	local-authority-wls:BGE	Bridgend
+W06000013	principal-local-authority:BGE	Bridgend
 E06000043	local-authority-eng:BNH	Brighton and Hove
 E07000144	local-authority-eng:BRO	Broadland
 E09000006	local-authority-eng:BRY	Bromley
@@ -56,22 +56,22 @@ E07000172	local-authority-eng:BRT	Broxtowe
 E10000002	local-authority-eng:BKM	Buckinghamshire
 E07000117	local-authority-eng:BUN	Burnley
 E08000002	local-authority-eng:BUR	Bury
-W06000018	local-authority-wls:CAY	Caerphilly
+W06000018	principal-local-authority:CAY	Caerphilly
 E08000033	local-authority-eng:CLD	Calderdale
 E07000008	local-authority-eng:CAB	Cambridge
 E10000003	local-authority-eng:CAM	Cambridgeshire
 E09000007	local-authority-eng:CMD	Camden
 E07000192	local-authority-eng:CAN	Cannock Chase
 E07000106	local-authority-eng:CAT	Canterbury
-W06000015	local-authority-wls:CRF	Cardiff
+W06000015	principal-local-authority:CRF	Cardiff
 E07000028	local-authority-eng:CAR	Carlisle
-W06000010	local-authority-wls:CMN	Carmarthenshire
+W06000010	principal-local-authority:CMN	Carmarthenshire
 	local-authority-nir:NIR-V	
 E07000069	local-authority-eng:CAS	Castle Point
 	local-authority-nir:NIR-Y	
 N09000004	local-authority-nir:CCG	Causeway Coast and Glens
 E06000056	local-authority-eng:CBF	Central Bedfordshire
-W06000008	local-authority-wls:CGN	Ceredigion
+W06000008	principal-local-authority:CGN	Ceredigion
 E07000130	local-authority-eng:CHA	Charnwood
 E07000070	local-authority-eng:CHL	Chelmsford
 E07000078	local-authority-eng:CHT	Cheltenham
@@ -90,7 +90,7 @@ E09000001	local-authority-eng:LND	City of London
 S12000005	local-authority-sct:CLK	Clackmannanshire
 E07000071	local-authority-eng:COL	Colchester
 	local-authority-nir:NIR-C	
-W06000003	local-authority-wls:CWY	Conwy
+W06000003	principal-local-authority:CWY	Conwy
 	local-authority-nir:NIR-I	
 E07000029	local-authority-eng:COP	Copeland
 E07000150	local-authority-eng:COR	Corby
@@ -107,7 +107,7 @@ E07000096	local-authority-eng:DAC	Dacorum
 E06000005	local-authority-eng:DAL	Darlington
 E07000107	local-authority-eng:DAR	Dartford
 E07000151	local-authority-eng:DAV	Daventry
-W06000004	local-authority-wls:DEN	Denbighshire
+W06000004	principal-local-authority:DEN	Denbighshire
 E06000015	local-authority-eng:DER	Derby
 E10000007	local-authority-eng:DBY	Derbyshire
 E07000035	local-authority-eng:DEB	Derbyshire Dales
@@ -154,7 +154,7 @@ E07000010	local-authority-eng:FEN	Fenland
 	local-authority-nir:NIR-L	
 N09000006	local-authority-nir:FMO	Fermanagh and Omagh
 S12000015	local-authority-sct:FIF	Fife
-W06000005	local-authority-wls:FLN	Flintshire
+W06000005	principal-local-authority:FLN	Flintshire
 E07000201	local-authority-eng:FOR	Forest Heath
 E07000080	local-authority-eng:FOE	Forest of Dean
 E07000119	local-authority-eng:FYL	Fylde
@@ -169,7 +169,7 @@ E07000145	local-authority-eng:GRY	Great Yarmouth
 E12000007	local-authority-eng:GLA	Greater London Authority
 E09000011	local-authority-eng:GRE	Greenwich
 E07000209	local-authority-eng:GRT	Guildford
-W06000002	local-authority-wls:GWN	Gwynedd
+W06000002	principal-local-authority:GWN	Gwynedd
 E09000012	local-authority-eng:HCK	Hackney
 E06000006	local-authority-eng:HAL	Halton
 E07000164	local-authority-eng:HAE	Hambleton
@@ -198,7 +198,7 @@ E07000011	local-authority-eng:HUN	Huntingdonshire
 E07000120	local-authority-eng:HYN	Hyndburn
 S12000018	local-authority-sct:IVC	Inverclyde
 E07000202	local-authority-eng:IPS	Ipswich
-W06000001	local-authority-wls:AGY	Isle of Anglesey
+W06000001	principal-local-authority:AGY	Isle of Anglesey
 E06000046	local-authority-eng:IOW	Isle of Wight
 E06000053	local-authority-eng:IOS	Isles of Scilly
 E09000019	local-authority-eng:ISL	Islington
@@ -235,7 +235,7 @@ E07000174	local-authority-eng:MAS	Mansfield
 E06000035	local-authority-eng:MDW	Medway
 E07000133	local-authority-eng:MEL	Melton
 E07000187	local-authority-eng:MEN	Mendip
-W06000024	local-authority-wls:MTY	Merthyr Tydfil
+W06000024	principal-local-authority:MTY	Merthyr Tydfil
 E09000024	local-authority-eng:MRT	Merton
 N09000008	local-authority-nir:MEA	Mid and East Antrim
 E07000042	local-authority-eng:MDE	Mid Devon
@@ -246,16 +246,16 @@ E06000002	local-authority-eng:MDB	Middlesbrough
 S12000019	local-authority-sct:MLN	Midlothian
 E06000042	local-authority-eng:MIK	Milton Keynes
 E07000210	local-authority-eng:MOL	Mole Valley
-W06000021	local-authority-wls:MON	Monmouthshire
+W06000021	principal-local-authority:MON	Monmouthshire
 S12000020	local-authority-sct:MRY	Moray
 	local-authority-nir:NIR-E	
-W06000012	local-authority-wls:NTL	Neath Port Talbot
+W06000012	principal-local-authority:NTL	Neath Port Talbot
 E07000091	local-authority-eng:NEW	New Forest
 E07000175	local-authority-eng:NEA	Newark and Sherwood
 E08000021	local-authority-eng:NET	Newcastle upon Tyne
 E07000195	local-authority-eng:NEC	Newcastle-under-Lyme
 E09000025	local-authority-eng:NWM	Newham
-W06000022	local-authority-wls:NWP	Newport
+W06000022	principal-local-authority:NWP	Newport
 	local-authority-nir:NIR-P	
 N09000010	local-authority-nir:NMD	Newry, Mourne and Down
 	local-authority-nir:NIR-U	
@@ -289,14 +289,14 @@ E08000004	local-authority-eng:OLD	Oldham
 S12000023	local-authority-sct:ORK	Orkney Islands
 E07000178	local-authority-eng:OXO	Oxford
 E10000025	local-authority-eng:OXF	Oxfordshire
-W06000009	local-authority-wls:PEM	Pembrokeshire
+W06000009	principal-local-authority:PEM	Pembrokeshire
 E07000122	local-authority-eng:PEN	Pendle
 S12000024	local-authority-sct:PKN	Perth and Kinross
 E06000031	local-authority-eng:PTE	Peterborough
 E06000026	local-authority-eng:PLY	Plymouth
 E06000029	local-authority-eng:POL	Poole
 E06000044	local-authority-eng:POR	Portsmouth
-W06000023	local-authority-wls:POW	Powys
+W06000023	principal-local-authority:POW	Powys
 E07000123	local-authority-eng:PRE	Preston
 E07000051	local-authority-eng:PUR	Purbeck
 E06000038	local-authority-eng:RDG	Reading
@@ -305,7 +305,7 @@ E06000003	local-authority-eng:RCC	Redcar and Cleveland
 E07000236	local-authority-eng:RED	Redditch
 E07000211	local-authority-eng:REI	Reigate and Banstead
 S12000038	local-authority-sct:RFW	Renfrewshire
-W06000016	local-authority-wls:RCT	Rhondda Cynon Taf
+W06000016	principal-local-authority:RCT	Rhondda Cynon Taf
 E07000124	local-authority-eng:RIB	Ribble Valley
 E09000027	local-authority-eng:RIC	Richmond upon Thames
 E07000166	local-authority-eng:RIH	Richmondshire
@@ -376,7 +376,7 @@ E10000030	local-authority-eng:SRY	Surrey
 E07000214	local-authority-eng:SUR	Surrey Heath
 E09000029	local-authority-eng:STN	Sutton
 E07000113	local-authority-eng:SWL	Swale
-W06000011	local-authority-wls:SWA	Swansea
+W06000011	principal-local-authority:SWA	Swansea
 E06000030	local-authority-eng:SWD	Swindon
 E08000008	local-authority-eng:TAM	Tameside
 E07000199	local-authority-eng:TAW	Tamworth
@@ -389,12 +389,12 @@ E07000093	local-authority-eng:TES	Test Valley
 E07000083	local-authority-eng:TEW	Tewkesbury
 E07000114	local-authority-eng:THA	Thanet
 S12000026	local-authority-sct:SCB	Scottish Borders
-W06000014	local-authority-wls:VGL	Vale of Glamorgan
+W06000014	principal-local-authority:VGL	Vale of Glamorgan
 E07000102	local-authority-eng:THE	Three Rivers
 E06000034	local-authority-eng:THR	Thurrock
 E07000115	local-authority-eng:TON	Tonbridge and Malling
 E06000027	local-authority-eng:TOB	Torbay
-W06000020	local-authority-wls:TOF	Torfaen
+W06000020	principal-local-authority:TOF	Torfaen
 E07000046	local-authority-eng:TOR	Torridge
 E09000030	local-authority-eng:TWH	Tower Hamlets
 E08000009	local-authority-eng:TRF	Trafford
@@ -437,7 +437,7 @@ E08000031	local-authority-eng:WLV	Wolverhampton
 E07000237	local-authority-eng:WOC	Worcester
 E10000034	local-authority-eng:WOR	Worcestershire
 E07000229	local-authority-eng:WOT	Worthing
-W06000006	local-authority-wls:WRX	Wrexham
+W06000006	principal-local-authority:WRX	Wrexham
 E07000238	local-authority-eng:WYC	Wychavon
 E07000007	local-authority-eng:WYO	Wycombe
 E07000128	local-authority-eng:WYR	Wyre

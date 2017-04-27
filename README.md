@@ -5,15 +5,22 @@ a list of local government organisations in England:
 
 - [local-authority-eng](data/local-authority-eng/local-authorities.tsv)
 
-This repository also includes data to populate four similar registers for Scotland, Wales and Northern Ireland, which are in discovery awaiting a custodian:
+for the alpha [local-authority-sct register](http://local-authority-sct.alpha.openregister.org),
+a list of local government organisations in Scotland, run by the Scottish Government:
 
 - [local-authority-sct](data/local-authority-sct/local-authorities.tsv)
-- [local-authority-wls](data/local-authority-sct/local-authorities.tsv)
+
+and the alpha principal local authorities in Wales, run by the Welsh Government:
+
+- [principal-local-authority](data/principal-local-authority/principal-local-authority.tsv)
+
+This repository also includes data to populate a list of local authorities in Northern Ireland, which is in discovery awaiting a custodian:
+
 - [local-authority-nir](data/local-authority-nir/local-authorities.tsv)
 
 # Identifier
 
-The local-authority identifier has been constructed from the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifier.
+The local-authority identifiers have been constructed from the [ISO-3166-2;GB](https://en.wikipedia.org/wiki/ISO_3166-2:GB) three character identifier.
 
 Separate local authority boundary registers will contain the boundary for each local-authority,
 indexed by the [ONS/GSS](https://en.wikipedia.org/wiki/ONS_coding_system) geographical code, which changes when the boundary changes.
@@ -30,31 +37,6 @@ This repository also includes a number of [maps](maps) intended to help migrate 
 - [os.tsv](maps/os.tsv) — Ordnance Survey county and other codes found in os-open-names data
 - [gaz50k.tsv](maps/gaz50k.tsv) — Ordnance Survey county codes found in the 50k gazetteer
 - [discovery.tsv](maps/discovery.tsv) — discovery register codes
-
-# Generating report and data check
-
-Install Ruby if not already installed. On a Mac:
-
-```
-brew install rbenv ruby-build
-rbenv install 2.4.0
-```
-
-On ubuntu, for Ruby install, recommend you follow these steps for [Ruby install
-Ubuntu](https://gorails.com/setup/ubuntu/16.10).
-
-Check your Ruby version, it should be 2.4 or higher:
-
-```
-ruby -v
-```
-
-To generate `lists/report.html` and `lists/report.tsv` and `lists/names.tsv`
-run make:
-
-```
-make init && make clobber && make
-```
 
 # Licence
 

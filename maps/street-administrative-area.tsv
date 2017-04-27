@@ -13,7 +13,7 @@ BEXLEY	local-authority-eng:BEX	Bexley
 BIRMINGHAM	local-authority-eng:BIR	Birmingham
 BLACKBURN WITH DARWEN	local-authority-eng:BBD	Blackburn with Darwen
 BLACKPOOL	local-authority-eng:BPL	Blackpool
-BLAENAU GWENT	local-authority-wls:BGW	Blaenau Gwent
+BLAENAU GWENT	principal-local-authority:BGW	Blaenau Gwent
 BOLTON	local-authority-eng:BOL	Bolton
 BOURNEMOUTH	local-authority-eng:BMH	Bournemouth
 BRACKNELL FOREST	local-authority-eng:BRC	Bracknell Forest
@@ -23,17 +23,17 @@ BRIGHTON & HOVE	local-authority-eng:BNH	Brighton and Hove
 BRISTOL	local-authority-eng:BST	City of Bristol
 BUCKINGHAMSHIRE	local-authority-eng:BKM	Buckinghamshire
 BURY	local-authority-eng:BUR	Bury
-CAERDYDD	local-authority-wls:CRF	Cardiff
-CARDIFF	local-authority-wls:CRF	Cardiff
-CAERPHILLY COUNTY BOROUGH	local-authority-wls:CAY	Caerphilly
-CAERPHILLY CBC	local-authority-wls:CAY	Caerphilly
-BWRDEISTREF SIROL CAERFFILI	local-authority-wls:CAY	Caerphilly
-CAERFFILI	local-authority-wls:CAY	Caerphilly
+CAERDYDD	principal-local-authority:CRF	Cardiff
+CARDIFF	principal-local-authority:CRF	Cardiff
+CAERPHILLY COUNTY BOROUGH	principal-local-authority:CAY	Caerphilly
+CAERPHILLY CBC	principal-local-authority:CAY	Caerphilly
+BWRDEISTREF SIROL CAERFFILI	principal-local-authority:CAY	Caerphilly
+CAERFFILI	principal-local-authority:CAY	Caerphilly
 CALDERDALE	local-authority-eng:CLD	Calderdale
 CAMBRIDGESHIRE	local-authority-eng:CAM	Cambridgeshire
 CAMDEN	local-authority-eng:CMD	Camden
 CENTRAL BEDFORDSHIRE	local-authority-eng:CBF	Central Bedfordshire
-CEREDIGION	local-authority-wls:CGN	Ceredigion
+CEREDIGION	principal-local-authority:CGN	Ceredigion
 CHESHIRE EAST	local-authority-eng:CHE	Cheshire East
 CHESHIRE WEST AND CHESTER	local-authority-eng:CHW	Cheshire West and Chester
 CITY OF EDINBURGH	local-authority-sct:EDH	City of Edinburgh
@@ -41,7 +41,7 @@ CITY OF LONDON	local-authority-eng:LND	City of London
 CITY OF STOKE-ON-TRENT	local-authority-eng:STE	Stoke-on-Trent
 CITY OF WESTMINSTER	local-authority-eng:WSM	Westminster
 CLACKMANNANSHIRE	local-authority-sct:CLK	Clackmannanshire
-CONWY	local-authority-wls:CWY	Conwy
+CONWY	principal-local-authority:CWY	Conwy
 CORNWALL	local-authority-eng:CON	Cornwall
 COVENTRY	local-authority-eng:COV	Coventry
 CROYDON	local-authority-eng:CRY	Croydon
@@ -69,8 +69,8 @@ ENFIELD	local-authority-eng:ENF	Enfield
 ESSEX	local-authority-eng:ESS	Essex
 FALKIRK	local-authority-sct:FAL	Falkirk
 FIFE	local-authority-sct:FIF	Fife
-FLINTSHIRE	local-authority-wls:FLN	Flintshire
-SIR Y FFLINT	local-authority-wls:FLN	Flintshire
+FLINTSHIRE	principal-local-authority:FLN	Flintshire
+SIR Y FFLINT	principal-local-authority:FLN	Flintshire
 GATESHEAD	local-authority-eng:GAT	Gateshead
 GLASGOW	local-authority-sct:GLG	Glasgow City
 GLASGOW CITY	local-authority-sct:GLG	Glasgow City
@@ -78,7 +78,7 @@ GLASGOW CITY COUCIL	local-authority-sct:GLG	Glasgow City
 GLASGOW CITY COUNCIL	local-authority-sct:GLG	Glasgow City
 GLOUCESTERSHIRE	local-authority-eng:GLS	Gloucestershire
 GREENWICH	local-authority-eng:GRE	Greenwich
-GWYNEDD	local-authority-wls:GWN	Gwynedd
+GWYNEDD	principal-local-authority:GWN	Gwynedd
 HACKNEY	local-authority-eng:HCK	Hackney
 HALTON	local-authority-eng:HAL	Halton
 HAMMERSMITH AND FULHAM	local-authority-eng:HMF	Hammersmith and Fulham
@@ -116,18 +116,18 @@ LONDON BOROUGH OF HARINGEY	local-authority-eng:HRY	Haringey
 LUTON	local-authority-eng:LUT	Luton
 MANCHESTER	local-authority-eng:MAN	Manchester
 MEDWAY	local-authority-eng:MDW	Medway
-MERTHYR TYDFIL UA	local-authority-wls:MTY	Merthyr Tydfil
+MERTHYR TYDFIL UA	principal-local-authority:MTY	Merthyr Tydfil
 MERTON	local-authority-eng:MRT	Merton
 MIDDLESBROUGH	local-authority-eng:MDB	Middlesbrough
 MIDLOTHIAN	local-authority-sct:MLN	Midlothian
 MILTON KEYNES	local-authority-eng:MIK	Milton Keynes
 MORAY	local-authority-sct:MRY	Moray
 NA H-EILEANAN AN IAR	local-authority-sct:ELS	Eilean Siar
-NEATH PORT TALBOT	local-authority-wls:NTL	Neath Port Talbot
-CASTELL NEDD PORT TALBOT	local-authority-wls:NTL	Neath Port Talbot
+NEATH PORT TALBOT	principal-local-authority:NTL	Neath Port Talbot
+CASTELL NEDD PORT TALBOT	principal-local-authority:NTL	Neath Port Talbot
 NEWCASTLE UPON TYNE	local-authority-eng:NET	Newcastle upon Tyne
 NEWHAM	local-authority-eng:NWM	Newham
-NEWPORT	local-authority-wls:NWP	Newport
+NEWPORT	principal-local-authority:NWP	Newport
 NORFOLK	local-authority-eng:NFK	Norfolk
 NORTH AYRSHIRE	local-authority-sct:NAY	North Ayrshire
 ISLE OF ARRAN	local-authority-sct:NAY	North Ayrshire
@@ -147,20 +147,20 @@ OLDHAM	local-authority-eng:OLD	Oldham
 ORKNEY ISLANDS	local-authority-sct:ORK	Orkney Islands
 ORKNEY	local-authority-sct:ORK	Orkney Islands
 OXFORDSHIRE	local-authority-eng:OXF	Oxfordshire
-PEMBROKESHIRE	local-authority-wls:PEM	Pembrokeshire
-PEN-Y-BONT AR OGWR	local-authority-wls:BGE	Bridgend
-BRIDGEND COUNTY BOROUGH	local-authority-wls:BGE	Bridgend
+PEMBROKESHIRE	principal-local-authority:PEM	Pembrokeshire
+PEN-Y-BONT AR OGWR	principal-local-authority:BGE	Bridgend
+BRIDGEND COUNTY BOROUGH	principal-local-authority:BGE	Bridgend
 PERTH AND KINROSS	local-authority-sct:PKN	Perth and Kinross
 PETERBOROUGH	local-authority-eng:PTE	Peterborough
 PLYMOUTH	local-authority-eng:PLY	Plymouth
 POOLE	local-authority-eng:POL	Poole
 PORTSMOUTH CITY COUNCIL	local-authority-eng:POR	Portsmouth
-POWYS	local-authority-wls:POW	Powys
+POWYS	principal-local-authority:POW	Powys
 READING	local-authority-eng:RDG	Reading
 REDBRIDGE	local-authority-eng:RDB	Redbridge
 REDCAR AND CLEVELAND	local-authority-eng:RCC	Redcar and Cleveland
 RENFREWSHIRE	local-authority-sct:RFW	Renfrewshire
-RHONDDA CYNON TAFF	local-authority-wls:RCT	Rhondda Cynon Taff
+RHONDDA CYNON TAFF	principal-local-authority:RCT	Rhondda Cynon Taff
 RICHMOND UPON THAMES	local-authority-eng:RIC	Richmond upon Thames
 ROCHDALE	local-authority-eng:RCH	Rochdale
 ROTHERHAM	local-authority-eng:ROT	Rotherham
@@ -173,12 +173,12 @@ SHEFFIELD	local-authority-eng:SHF	Sheffield
 SHETLAND	local-authority-sct:ZET	Shetland Islands
 YELL	local-authority-sct:ZET	Shetland Islands
 SHROPSHIRE	local-authority-eng:SHR	Shropshire
-SIR DDINBYCH	local-authority-wls:DEN	Denbighshire
-DENBIGHSHIRE	local-authority-wls:DEN	Denbighshire
-SIR FYNWY	local-authority-wls:MON	Monmouthshire
-MONMOUTHSHIRE	local-authority-wls:MON	Monmouthshire
-SIR GAR	local-authority-wls:CMN	Carmarthenshire
-CARMARTHENSHIRE	local-authority-wls:CMN	Carmarthenshire
+SIR DDINBYCH	principal-local-authority:DEN	Denbighshire
+DENBIGHSHIRE	principal-local-authority:DEN	Denbighshire
+SIR FYNWY	principal-local-authority:MON	Monmouthshire
+MONMOUTHSHIRE	principal-local-authority:MON	Monmouthshire
+SIR GAR	principal-local-authority:CMN	Carmarthenshire
+CARMARTHENSHIRE	principal-local-authority:CMN	Carmarthenshire
 SLOUGH	local-authority-eng:SLG	Slough
 SOLIHULL	local-authority-eng:SOL	Solihull
 SOMERSET	local-authority-eng:SOM	Somerset
@@ -198,16 +198,16 @@ SUFFOLK	local-authority-eng:SFK	Suffolk
 SUNDERLAND	local-authority-eng:SND	Sunderland
 SURREY	local-authority-eng:SRY	Surrey
 SUTTON	local-authority-eng:STN	Sutton
-SWANSEA	local-authority-wls:SWA	Swansea
+SWANSEA	principal-local-authority:SWA	Swansea
 SWINDON	local-authority-eng:SWD	Swindon
 TAMESIDE	local-authority-eng:TAM	Tameside
 TELFORD AND WREKIN	local-authority-eng:TFW	Telford and Wrekin
 THURROCK	local-authority-eng:THR	Thurrock
 TORBAY	local-authority-eng:TOB	Torbay
-TORFAEN	local-authority-wls:TOF	Torfaen
+TORFAEN	principal-local-authority:TOF	Torfaen
 TOWER HAMLETS	local-authority-eng:TWH	Tower Hamlets
 TRAFFORD	local-authority-eng:TRF	Trafford
-VALE OF GLAMORGAN	local-authority-wls:VGL	The Vale of Glamorgan
+VALE OF GLAMORGAN	principal-local-authority:VGL	The Vale of Glamorgan
 WAKEFIELD	local-authority-eng:WKF	Wakefield
 WALSALL	local-authority-eng:WLL	Walsall
 WALTHAM FOREST	local-authority-eng:WFT	Waltham Forest
@@ -226,8 +226,8 @@ WIRRAL	local-authority-eng:WRL	Wirral
 WOKINGHAM	local-authority-eng:WOK	Wokingham
 WOLVERHAMPTON	local-authority-eng:WLV	Wolverhampton
 WORCESTERSHIRE	local-authority-eng:WOR	Worcestershire
-WRECSAM	local-authority-wls:WRX	Wrexham
-WREXHAM	local-authority-wls:WRX	Wrexham
-YNYS MON	local-authority-wls:AGY	Isle of Anglesey
-ISLE OF ANGLESEY	local-authority-wls:AGY	Isle of Anglesey
+WRECSAM	principal-local-authority:WRX	Wrexham
+WREXHAM	principal-local-authority:WRX	Wrexham
+YNYS MON	principal-local-authority:AGY	Isle of Anglesey
+ISLE OF ANGLESEY	principal-local-authority:AGY	Isle of Anglesey
 YORK	local-authority-eng:YOR	York
