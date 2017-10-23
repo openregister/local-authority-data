@@ -1,37 +1,37 @@
-local-authority-nir	name	official-name	start-date	end-date
-ABC	Armagh City, Banbridge and Craigavon	Armagh City, Banbridge and Craigavon Borough Council	2015-04-01	
-AND	Ards and North Down	Ards and North Down Borough Council	2015-04-01	
-ANN	Antrim and Newtownabbey	Antrim and Newtownabbey Borough Council	2015-04-01	
-BFS	Belfast	Belfast City Council	2015-04-01	
-CCG	Causeway Coast and Glens	Causeway Coast and Glens Borough Council	2015-04-01	
-DRS	Derry City and Strabane	Derry City and Strabane District Council	2015-04-01	
-FMO	Fermanagh and Omagh	Fermanagh and Omagh District Council	2015-04-01	
-LBC	Lisburn and Castlereagh	Lisburn and Castlereagh City Council	2015-04-01	
-MEA	Mid and East Antrim	Mid and East Antrim Borough Council	2015-04-01	
-MUL	Mid Ulster	Mid Ulster District Council	2015-04-01	
-NMD	Newry, Mourne and Down 	Newry, Mourne and Down District Council	2015-04-01	
-NIR-A	Derry	Derry City Council		2015-03-31
-NIR-B	Limavady	Limavady Borough Council		2015-03-31
-NIR-C	Coleraine	Coleraine Borough Council		2015-03-31
-NIR-D	Ballymoney	Ballymoney Borough Council		2015-03-31
-NIR-E	Moyle	Moyle District Council		2015-03-31
-NIR-F	Larne	Larne Borough Council		2015-03-31
-NIR-G	Ballymena	Ballymena Borough Council		2015-03-31
-NIR-H	Magherafelt	Magherafelt District Council		2015-03-31
-NIR-I	Cookstown	Cookstown District Council		2015-03-31
-NIR-J	Strabane	Strabane District Council		2015-03-31
-NIR-K	Omagh	Omagh District Council		2015-03-31
-NIR-L	Fermanagh	Fermanagh District Council		2015-03-31
-NIR-M	Dungannon and South Tyrone	Dungannon and South Tyrone Borough Council		2015-03-31
-NIR-N	Craigavon	Craigavon Borough Council		2015-03-31
-NIR-O	Armagh City	Armagh City and District Council		2015-03-31
-NIR-P	Newry and Mourne	Newry and Mourne District Council		2015-03-31
-NIR-Q	Banbridge	Banbridge District Council		2015-03-31
-NIR-R	Down	Down District Council		2015-03-31
-NIR-S	Lisburn	Lisburn City Council		2015-03-31
-NIR-T	Antrim	Antrim Borough Council		2015-03-31
-NIR-U	Newtownabbey	Newtownabbey Borough Council		2015-03-31
-NIR-V	Carrickfergus	Carrickfergus Borough Council		2015-03-31
-NIR-W	North Down	North Down Borough Council		2015-03-31
-NIR-X	Ards	Ards Borough Council		2015-03-31
-NIR-Y	Castlereagh	Castlereagh Borough Council		2015-03-31
+local-authority-nir	local-authority-type	name	official-name	website	start-date	end-date
+NIR-Y		Castlereagh	Castlereagh Borough Council			2015-03-31
+NIR-X		Ards	Ards Borough Council			2015-03-31
+NIR-W		North Down	North Down Borough Council			2015-03-31
+NIR-V		Carrickfergus	Carrickfergus Borough Council			2015-03-31
+NIR-U		Newtownabbey	Newtownabbey Borough Council			2015-03-31
+NIR-T		Antrim	Antrim Borough Council			2015-03-31
+NIR-S		Lisburn	Lisburn City Council			2015-03-31
+NIR-R		Down	Down District Council			2015-03-31
+NIR-Q		Banbridge	Banbridge District Council			2015-03-31
+NIR-P		Newry and Mourne	Newry and Mourne District Council			2015-03-31
+NIR-O		Armagh City	Armagh City and District Council			2015-03-31
+NIR-N		Craigavon	Craigavon Borough Council			2015-03-31
+NIR-M		Dungannon and South Tyrone	Dungannon and South Tyrone Borough Council			2015-03-31
+NIR-L		Fermanagh	Fermanagh District Council			2015-03-31
+NIR-K		Omagh	Omagh District Council			2015-03-31
+NIR-J		Strabane	Strabane District Council			2015-03-31
+NIR-I		Cookstown	Cookstown District Council			2015-03-31
+NIR-H		Magherafelt	Magherafelt District Council			2015-03-31
+NIR-G		Ballymena	Ballymena Borough Council			2015-03-31
+NIR-F		Larne	Larne Borough Council			2015-03-31
+NIR-E		Moyle	Moyle District Council			2015-03-31
+NIR-D		Ballymoney	Ballymoney Borough Council			2015-03-31
+NIR-C		Coleraine	Coleraine Borough Council			2015-03-31
+NIR-B		Limavady	Limavady Borough Council			2015-03-31
+NIR-A		Derry	Derry City Council			2015-03-31
+NMD	DIS	Newry, Mourne and Down District Council	Newry, Mourne and Down District Council	www.newrymournedown.org/  	2015-04-01	
+MUL	DIS	Mid Ulster District Council	Mid Ulster District Council	www.midulstercouncil.org/	2015-04-01	
+MEA		Mid & East Antrim Borough Council	Mid & East Antrim Borough Council	www.midandeastantrim.gov.uk/	2015-04-01	
+LBC		Lisburn & Castlereagh City Council	Lisburn & Castlereagh City Council	www.lisburncastlereagh.gov.uk/	2015-04-01	
+FMO	DIS	Fermanagh and Omagh District Council	Fermanagh and Omagh District Council	www.fermanaghomagh.com/	2015-04-01	
+DRS	DIS	Derry City and Strabane District Council	Derry City and Strabane District Council	www.derrystrabane.com/	2015-04-01	
+CCG		Causeway Coast and Glens Borough Council	Causeway Coast and Glens Borough Council	www.causewaycoastandglens.gov.uk/	2015-04-01	
+BFS		Belfast City Council	Belfast City Council	www.belfastcity.gov.uk/	2015-04-01	
+ANN		Antrim & Newtownabbey Borough Council	Antrim & Newtownabbey Borough Council	www.antrimandnewtownabbey.gov.uk/	2015-04-01	
+AND		Ards and North Down Borough Council	Ards and North Down Borough Council	www.ardsandnorthdown.gov.uk/	2015-04-01	
+ABC		Armagh City, Banbridge and Craigavon Borough Council	Armagh City, Banbridge and Craigavon Borough Council	www.armaghbanbridgecraigavon.gov.uk/	2015-04-01	
